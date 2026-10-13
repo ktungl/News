@@ -7,6 +7,11 @@
    "台灣與亞太",
    "ESG／氣候與歐盟法規"
   ],
+  "markets": [
+   "美股",
+   "台股",
+   "產業與個股"
+  ],
   "ai": [
    "模型與產品",
    "晶片與算力",
@@ -61,6 +66,30 @@
      "category": "ESG／氣候與歐盟法規",
      "title": "歐盟定調 COP31 談判立場：主打「減排方案」，不承諾新增氣候資金",
      "anchor": "world-7"
+    },
+    {
+     "section": "markets",
+     "category": "美股",
+     "title": "美股漲跌互見：道瓊收漲，科技股拖累標普與那斯達克",
+     "anchor": "markets-1"
+    },
+    {
+     "section": "markets",
+     "category": "產業與個股",
+     "title": "長鑫存儲傳技術突破，全球記憶體股重挫、費半跌 2.7%",
+     "anchor": "markets-2"
+    },
+    {
+     "section": "markets",
+     "category": "台股",
+     "title": "台股重挫 960 點、收 48,341 點，台積電跌 50 元",
+     "anchor": "markets-3"
+    },
+    {
+     "section": "markets",
+     "category": "產業與個股",
+     "title": "台積電 10/15 法說會登場，第三季營收已超越財測上緣",
+     "anchor": "markets-4"
     },
     {
      "section": "ai",

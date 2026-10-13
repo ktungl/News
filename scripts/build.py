@@ -14,6 +14,7 @@ DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}\.json$")
 
 CATEGORIES = {
     "world": ["國際政治與地緣", "全球經濟與市場", "貿易、關稅與供應鏈", "台灣與亞太", "ESG／氣候與歐盟法規"],
+    "markets": ["美股", "台股", "產業與個股"],
     "ai": ["模型與產品", "晶片與算力", "產業與投資", "政策與監管", "研究與安全"],
 }
 
@@ -40,6 +41,8 @@ def validate(day: dict, name: str) -> list[str]:
             for src in item.get("sources", []):
                 if not str(src.get("url", "")).startswith("http"):
                     errors.append(f"{where}: bad source url {src!r}")
+        if section["id"] == "markets" and not section.get("outlook"):
+            errors.append(f"{name}: markets section missing 'outlook'")
     return errors
 
 
@@ -57,6 +60,9 @@ def to_markdown(day: dict) -> str:
                 f"**為什麼重要：** {item['why']}",
                 "",
             ]
+        if section.get("outlook"):
+            mood = f"（{section['mood']}）" if section.get("mood") else ""
+            out += [f"### 美股・台股綜合判斷{mood}", "", section["outlook"], ""]
     out += ["## 綜合觀察", "", day["observation"], "", "Sources:", ""]
     out += [f"- [{s['title']}]({s['url']})" for s in day["sources"]]
     return "\n".join(out) + "\n"
