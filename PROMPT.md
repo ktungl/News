@@ -4,7 +4,7 @@
 
 ## 任務
 
-製作今天的「國際新聞早報」、「股市觀察（美股・台股）」與「AI 科技發展」，全文使用繁體中文。
+製作今天的「每日早報」，內容包含「國際新聞」、「股市觀察（美股・台股）」與「AI 科技發展」，全文使用繁體中文。
 
 1. 先取得今天的日期（台北時間，`TZ=Asia/Taipei date +%F`），用網路搜尋整理過去 24 小時內最重要的國際新聞，以政治與經濟為主軸。優先參考可信來源（如 Reuters、AP、BBC、Financial Times、Bloomberg、The Economist、Nikkei Asia、中央社等），每則重點至少交叉比對一個來源。
 2. **國際新聞**挑選 5–8 則最重要的新聞，涵蓋：
@@ -33,7 +33,7 @@
 ```json
 {
   "date": "YYYY-MM-DD",
-  "title": "🌏 國際新聞早報｜YYYY/MM/DD",
+  "title": "🌏 每日早報｜YYYY/MM/DD",
   "generated_at": "YYYY-MM-DDTHH:MM:00+08:00",
   "sections": [
     {"id": "world", "name": "國際新聞", "items": [
