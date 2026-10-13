@@ -1,0 +1,86 @@
+{
+ "categories": {
+  "world": [
+   "國際政治與地緣",
+   "全球經濟與市場",
+   "貿易、關稅與供應鏈",
+   "台灣與亞太",
+   "ESG／氣候與歐盟法規"
+  ],
+  "ai": [
+   "模型與產品",
+   "晶片與算力",
+   "產業與投資",
+   "政策與監管",
+   "研究與安全"
+  ]
+ },
+ "days": [
+  {
+   "date": "2026-10-13",
+   "title": "🌏 國際新聞早報｜2026/10/13",
+   "items": [
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "川普宣布俄烏「能源停火」，數小時後哈爾科夫電廠即遭襲擊",
+     "anchor": "world-1"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "胡塞武裝連日襲擊利雅德機場，美國考慮加入沙烏地軍事行動",
+     "anchor": "world-2"
+    },
+    {
+     "section": "world",
+     "category": "全球經濟與市場",
+     "title": "油價在中東戰火與俄烏停火之間拉鋸，美股財報季今起跑",
+     "anchor": "world-3"
+    },
+    {
+     "section": "world",
+     "category": "全球經濟與市場",
+     "title": "美債殖利率處多年高點，市場押注聯準會升息次數多於官方預期",
+     "anchor": "world-4"
+    },
+    {
+     "section": "world",
+     "category": "貿易、關稅與供應鏈",
+     "title": "美中貿易休戰延至 2027 年 1 月，301 關稅照常續行；川普再拋 150–300% 關稅威脅",
+     "anchor": "world-5"
+    },
+    {
+     "section": "world",
+     "category": "台灣與亞太",
+     "title": "中國制裁巴拉圭、貝里斯部長，回應兩國與台灣的邦交",
+     "anchor": "world-6"
+    },
+    {
+     "section": "world",
+     "category": "ESG／氣候與歐盟法規",
+     "title": "歐盟定調 COP31 談判立場：主打「減排方案」，不承諾新增氣候資金",
+     "anchor": "world-7"
+    },
+    {
+     "section": "ai",
+     "category": "晶片與算力",
+     "title": "微軟發表第三代自研 AI 晶片 Maia 300，採台積電 2 奈米製程",
+     "anchor": "ai-1"
+    },
+    {
+     "section": "ai",
+     "category": "產業與投資",
+     "title": "金融時報：Nvidia 洽談收購或加碼開放權重模型新創 Reflection AI",
+     "anchor": "ai-2"
+    },
+    {
+     "section": "ai",
+     "category": "模型與產品",
+     "title": "Anthropic 推出 Claude Haiku 5.5，價格較前代低約 75%",
+     "anchor": "ai-3"
+    }
+   ]
+  }
+ ]
+}
