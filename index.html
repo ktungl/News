@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>kk 每日早報</title>
+<title>每日早報</title>
 <meta name="description" content="每日國際新聞早報與 AI 科技發展，依日期與分類保存。">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -77,7 +77,7 @@ details.allsrc ul { padding-left: 18px; }
 </head>
 <body>
 <header class="top"><div class="wrap">
-  <a class="brand" href="#/">kk <span>每日早報</span></a>
+  <a class="brand" href="#/">每日<span>早報</span></a>
   <div class="search"><input id="q" type="search" placeholder="搜尋所有日期的標題…" aria-label="搜尋"></div>
   <button class="theme" id="theme" aria-label="切換深淺色"><svg width="16" height="16" viewBox="0 0 16 16" aria-hidden="true"><circle cx="8" cy="8" r="6.5" fill="none" stroke="currentColor" stroke-width="1.5"/><path d="M8 1.5a6.5 6.5 0 0 1 0 13z" fill="currentColor"/></svg></button>
 </div></header>
@@ -151,7 +151,7 @@ async function renderDay(date, anchor) {
   const day = await getDay(date);
   const i = INDEX.days.findIndex((d) => d.date === date);
   const newer = INDEX.days[i - 1], older = INDEX.days[i + 1];
-  document.title = `${fmt(date)}｜kk 每日早報`;
+  document.title = `${fmt(date)}｜每日早報`;
   $("#main").innerHTML = `
     <h1>${esc(day.title)}</h1>
     <div class="meta">產生時間 ${esc((day.generated_at || "").replace("T", " ").slice(0, 16))}（台北）</div>
@@ -188,7 +188,7 @@ async function render() {
   for (const d of INDEX.days) for (const it of d.items) {
     if (r.view === "cat" ? it.category === r.arg : it.title.toLowerCase().includes(r.arg.toLowerCase())) rows.push({ d, it });
   }
-  document.title = `${r.arg}｜kk 每日早報`;
+  document.title = `${r.arg}｜每日早報`;
   renderList(r.view === "cat" ? r.arg : `搜尋：「${r.arg}」`, rows);
 }
 

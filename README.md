@@ -1,4 +1,4 @@
-# kk 每日早報
+# 每日早報
 
 每日國際新聞早報與 AI 科技發展，依日期與分類保存。網站：https://ktungl.github.io/News/
 
