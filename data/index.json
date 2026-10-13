@@ -22,6 +22,84 @@
  },
  "days": [
   {
+   "date": "2026-10-14",
+   "title": "🌏 每日早報｜2026/10/14",
+   "items": [
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "中東戰線再升溫：英相指伊朗革命衛隊涉 RAF 費爾福德基地攻擊陰謀，荷莫茲又傳油輪遇襲",
+     "anchor": "world-1"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "俄烏「能源停火」搖搖欲墜，歐盟擬祭出規模最大的對俄制裁名單",
+     "anchor": "world-2"
+    },
+    {
+     "section": "world",
+     "category": "全球經濟與市場",
+     "title": "IMF 上調今年全球成長預測至 3.1%，但警告韌性「接近極限」",
+     "anchor": "world-3"
+    },
+    {
+     "section": "world",
+     "category": "全球經濟與市場",
+     "title": "紐約聯準銀行總裁：今年再升息一次合適，明年暫無需再緊縮",
+     "anchor": "world-4"
+    },
+    {
+     "section": "world",
+     "category": "台灣與亞太",
+     "title": "亞洲晶片股重挫，南韓 KOSPI 單日跌逾 7%",
+     "anchor": "world-5"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "教宗良十四世確診肺癌，已切除部分右肺",
+     "anchor": "world-6"
+    },
+    {
+     "section": "markets",
+     "category": "美股",
+     "title": "美股三大指數持平偏弱，大型銀行財報好壞參半",
+     "anchor": "markets-1"
+    },
+    {
+     "section": "markets",
+     "category": "台股",
+     "title": "外資單日賣超台股 1,653 億元，創史上第三大",
+     "anchor": "markets-2"
+    },
+    {
+     "section": "markets",
+     "category": "產業與個股",
+     "title": "博通、英特爾執行長接連示警，AI 晶片股評價受考驗",
+     "anchor": "markets-3"
+    },
+    {
+     "section": "ai",
+     "category": "產業與投資",
+     "title": "AI 泡沫論升溫：博通執行長「賭場」說震撼市場",
+     "anchor": "ai-1"
+    },
+    {
+     "section": "ai",
+     "category": "政策與監管",
+     "title": "IMF：AI 投資撐住今年成長，但預測已假設 AI 需求將放緩",
+     "anchor": "ai-2"
+    },
+    {
+     "section": "ai",
+     "category": "模型與產品",
+     "title": "Meta 推出新一代 Muse 模型，股價逆勢上漲逾 3%（模型細節待確認）",
+     "anchor": "ai-3"
+    }
+   ]
+  },
+  {
    "date": "2026-10-13",
    "title": "🌏 每日早報｜2026/10/13",
    "items": [
