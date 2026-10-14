@@ -22,6 +22,72 @@
  },
  "days": [
   {
+   "date": "2026-10-15",
+   "title": "🌏 每日早報｜2026/10/15",
+   "items": [
+    {
+     "section": "world",
+     "category": "全球經濟與市場",
+     "title": "美國 9 月 CPI 升至 3.7%、高於預期，油價推升通膨，升息疑慮再起",
+     "anchor": "world-1"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "俄羅斯以 39 枚彈道飛彈大規模空襲烏克蘭能源設施，60 萬戶停電，「能源停火」形同破局",
+     "anchor": "world-2"
+    },
+    {
+     "section": "world",
+     "category": "貿易、關稅與供應鏈",
+     "title": "中國 9 月出口年增 36.3%，單月貿易順差 1,335 億美元創新高，晶片出口翻倍",
+     "anchor": "world-3"
+    },
+    {
+     "section": "world",
+     "category": "台灣與亞太",
+     "title": "北京稱制裁巴拉圭、貝里斯部長是要「警告其他人」",
+     "anchor": "world-4"
+    },
+    {
+     "section": "markets",
+     "category": "美股",
+     "title": "通膨數據加上 AI 股賣壓，美股標普跌 1.1%、那斯達克跌 1.9%",
+     "anchor": "markets-1"
+    },
+    {
+     "section": "markets",
+     "category": "台股",
+     "title": "台股反彈 285 點收 48,626 點，台積電尾盤遭近 200 億元賣單收平",
+     "anchor": "markets-2"
+    },
+    {
+     "section": "markets",
+     "category": "產業與個股",
+     "title": "台積電今天下午 2 點法說，市場聚焦毛利率與 2 奈米稀釋",
+     "anchor": "markets-3"
+    },
+    {
+     "section": "ai",
+     "category": "研究與安全",
+     "title": "OpenAI 工程師在高層會議室藏竊聽器遭起訴",
+     "anchor": "ai-1"
+    },
+    {
+     "section": "ai",
+     "category": "政策與監管",
+     "title": "美國 8 個州聯合起訴 OpenAI，指 ChatGPT 安全措施不足",
+     "anchor": "ai-2"
+    },
+    {
+     "section": "ai",
+     "category": "產業與投資",
+     "title": "Kroger 將因擴大使用 AI 裁撤約 3,000 個總部職位",
+     "anchor": "ai-3"
+    }
+   ]
+  },
+  {
    "date": "2026-10-14",
    "title": "🌏 每日早報｜2026/10/14",
    "items": [

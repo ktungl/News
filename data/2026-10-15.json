@@ -1,0 +1,318 @@
+{
+  "date": "2026-10-15",
+  "title": "🌏 每日早報｜2026/10/15",
+  "generated_at": "2026-10-15T07:30:00+08:00",
+  "sections": [
+    {
+      "id": "world",
+      "name": "國際新聞",
+      "items": [
+        {
+          "title": "美國 9 月 CPI 升至 3.7%、高於預期，油價推升通膨，升息疑慮再起",
+          "category": "全球經濟與市場",
+          "summary": "美國勞工統計局 10/14 公布，9 月消費者物價指數年增 3.7%，高於市場預期的 3.6%，單月上漲 0.6%；汽油單月大漲 9.1%，貢獻超過一半的月增幅。核心 CPI 也高於預期。這是 11/3 期中選舉前最後一份通膨數據。",
+          "why": "前一天紐約 Fed 總裁才暗示升息接近尾聲，這份數據讓市場重新押注聯準會下次會議可能再升息。中東戰事推高油價、再轉嫁到通膨的路徑已經很明確，物價也勢必成為期中選舉的焦點議題。",
+          "sources": [
+            {
+              "title": "CNN：Inflation rose to 3.7% last month in last snapshot before the midterms",
+              "url": "https://www.cnn.com/2026/10/14/economy/us-cpi-inflation-september"
+            },
+            {
+              "title": "CNBC：CPI inflation report September 2026",
+              "url": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html"
+            },
+            {
+              "title": "BLS：Consumer Price Index Summary",
+              "url": "https://www.bls.gov/news.release/cpi.nr0.htm"
+            }
+          ]
+        },
+        {
+          "title": "俄羅斯以 39 枚彈道飛彈大規模空襲烏克蘭能源設施，60 萬戶停電，「能源停火」形同破局",
+          "category": "國際政治與地緣",
+          "summary": "澤倫斯基表示，俄軍 10/13 深夜至 10/14 動用 39 枚彈道飛彈與 120 多架無人機，攻擊基輔、基輔州與哈爾科夫的能源與關鍵基礎設施，約 60 萬人停電；基輔一棟九層住宅大樓中彈起火，各來源的死亡人數從 5 人到至少 9 人不等。俄國防部稱攻擊目標是「通訊與能源設施」。",
+          "why": "這是川普宣布「能源停火」後規模最大的一波攻擊，停火協議實質上已經失效。隨著冬季將至，烏克蘭電網承受的壓力，以及美國接下來對俄羅斯的態度，都是觀察重點。",
+          "sources": [
+            {
+              "title": "ABC News：600,000 without power in Ukraine as Russia launches 'massive' attack",
+              "url": "https://abcnews.com/International/600000-power-ukraine-russia-launches-missile-drone-attack/story?id=137248732"
+            },
+            {
+              "title": "Al Jazeera：'Massive' Russian attack on Ukraine kills at least 9, damages power sites",
+              "url": "https://www.aljazeera.com/news/2026/10/14/massive-russian-attack-on-ukraine-kills-at-least-six-cuts-power-in-kyiv"
+            },
+            {
+              "title": "Kyiv Independent：Large-scale Russian missile attack on Kyiv strikes power plants",
+              "url": "https://kyivindependent.com/kyiv-residential-building-struck-by-russia-as-ukraine-says-intelligence-sharing-from-partners-interrupted/"
+            }
+          ]
+        },
+        {
+          "title": "中國 9 月出口年增 36.3%，單月貿易順差 1,335 億美元創新高，晶片出口翻倍",
+          "category": "貿易、關稅與供應鏈",
+          "summary": "中國海關 10/14 公布，9 月出口年增 36.3%，遠高於預期的約 25.5%，是 2 月以來最快增速；進口年增約 31%，單月貿易順差約 1,335 億美元，創歷史新高，前三季順差累計約 9,381 億美元。半導體出口大增約 108%，汽車出口成長逾 50%；原油進口量則年減 21.5%。",
+          "why": "全年順差可能突破 1 兆美元，勢必加深歐美對中國產能過剩的不滿，歐盟已在施壓要求貿易再平衡。晶片出口翻倍，也顯示中國成熟製程與記憶體產能正大量外溢，和這幾天記憶體股的賣壓相互呼應。",
+          "sources": [
+            {
+              "title": "CNBC：China's exports and imports surge past expectations in September",
+              "url": "https://www.cnbc.com/amp/2026/10/14/chinas-exports-likely-grew-by-double-digits-in-september.html"
+            },
+            {
+              "title": "NBC News：China's September exports soar, putting $1 trillion trade surplus in sight",
+              "url": "https://www.nbcnews.com/world/asia/china-september-exports-soar-putting-1-trillion-trade-surplus-sight-rcna603410"
+            },
+            {
+              "title": "FXStreet：China's export engine continued to hum in September",
+              "url": "https://www.fxstreet.com/analysis/chinas-export-engine-continued-to-hum-in-september-202610140756"
+            }
+          ]
+        },
+        {
+          "title": "北京稱制裁巴拉圭、貝里斯部長是要「警告其他人」",
+          "category": "台灣與亞太",
+          "summary": "中國外交部發言人毛寧表示，制裁巴拉圭與貝里斯兩名部長是為了「懲罰他們，並警告其他人」。外界普遍認為這次制裁的實質影響有限，因為台灣邦交國的部長通常不會前往中國；巴拉圭與貝里斯都是台灣目前 12 個邦交國之一。",
+          "why": "「警告其他人」的說法，顯示北京把制裁當成嚇阻其他邦交國深化對台關係的工具，未來可能有更多針對個別官員的類似措施。",
+          "sources": [
+            {
+              "title": "Ahram Online：China says sanctions on Latin American ministers over Taiwan ties 'a warning to others'",
+              "url": "https://english.ahram.org.eg/News/578767.aspx"
+            },
+            {
+              "title": "Al Jazeera：China sanctions Paraguay, Belize ministers over Taiwan ties",
+              "url": "https://aljazeera.com/news/2026/10/12/china-sanctions-paraguay-belize-ministers-over-taiwan-ties"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "name": "股市觀察（美股・台股）",
+      "items": [
+        {
+          "title": "通膨數據加上 AI 股賣壓，美股標普跌 1.1%、那斯達克跌 1.9%",
+          "category": "美股",
+          "summary": "美東 10/14 標普 500 下跌 1.11% 至 7,718.94，那斯達克下跌 1.88% 至 26,692.87，道瓊小跌 0.09%（48.62 點）至 51,621.48。CPI 高於預期，加上 AI 相關股票遭拋售，科技股領跌；據市場數據報導，美光跌約 4%、Nvidia 跌約 3%，CoreWeave 與戴爾跌幅超過 10%（個股數字僅單一來源）。",
+          "why": "這是連續幾天亞洲晶片股重挫之後，美國 AI 股首次明顯跟跌，加上通膨回升、升息預期升溫，高估值科技股同時承受利率與獲利預期的雙重壓力。",
+          "sources": [
+            {
+              "title": "CNBC：S&P 500 drops 1%, dragged down by hot inflation data and sell-off in AI-related stocks",
+              "url": "https://www.cnbc.com/2026/10/13/stock-market-today-live-updates-.html"
+            },
+            {
+              "title": "Yahoo Finance：Hot inflation report drops tech, drives S&P 500, Dow and Nasdaq down",
+              "url": "https://finance.yahoo.com/markets/live/stock-market-today-hot-inflation-report-drops-tech-drives-sp-500-nasdaq-down-152206632.html"
+            },
+            {
+              "title": "ChainCatcher：U.S. stock market close: Nasdaq fell nearly 2%",
+              "url": "https://www.chaincatcher.com/en/article/2296333"
+            }
+          ]
+        },
+        {
+          "title": "台股反彈 285 點收 48,626 點，台積電尾盤遭近 200 億元賣單收平",
+          "category": "台股",
+          "summary": "加權指數 10/14 上漲 284.52 點（+0.59%）至 48,625.83 點，成交值約 9,286 億元，盤中一度站上 49,000 點後又跌回。台積電在最後一盤爆出近 8,000 張賣單（約 200 億元），股價由 2,505 元跌回 2,490 元平盤作收。外資已連續第六天賣超，不過各來源統計的當日金額不一致。",
+          "why": "指數雖然反彈，但權值股尾盤遭到大額賣出，顯示外資仍在調節台積電部位。美股 10/14 夜盤重挫，台股今天開盤恐怕再度承壓。",
+          "sources": [
+            {
+              "title": "聯合新聞網：靜待美 CPI、台積電法說會 台股收盤漲284點",
+              "url": "https://udn.com/news/story/7251/9814139"
+            },
+            {
+              "title": "ETtoday：台股收漲285點 台積電尾盤遭砍、收2490平盤",
+              "url": "https://finance.ettoday.net/news/3254477"
+            },
+            {
+              "title": "Yahoo股市：外資專挑尾盤殺？台積電最後一單遭提款近200億元",
+              "url": "https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E5%B0%88%E6%8C%91%E5%B0%BE%E7%9B%A4%E6%AE%BA%EF%BC%9F%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%9C%80%E5%BE%8C%E4%B8%80%E5%96%AE%E9%81%AD%E6%8F%90%E6%AC%BE%E8%BF%91200%E5%84%84%E5%85%83-%E5%8F%B0%E8%82%A1120%E6%BC%B2%E9%BB%9E%E7%A7%92%E5%90%90%E5%9B%9E-055701514.html"
+            }
+          ]
+        },
+        {
+          "title": "台積電今天下午 2 點法說，市場聚焦毛利率與 2 奈米稀釋",
+          "category": "產業與個股",
+          "summary": "台積電第三季營收約新台幣 1.49 兆元（約 467 億美元），已高於財測上緣。公司 7 月給的第三季毛利率財測為 65%–67%，中位數比第二季的 67.7% 低約 1.7 個百分點，主要因為 2 奈米量產初期約稀釋 3–4 個百分點，海外廠也稀釋 2–3 個百分點。路透引述的市場預估是第三季淨利年增約 65%，至約 7,463 億元。",
+          "why": "營收已經確定優於預期，股價的反應會取決於毛利率、第四季財測，以及管理層對 AI 需求與 2027 年資本支出的說法。這場法說會可能決定這波外資賣壓能否止住。",
+          "sources": [
+            {
+              "title": "TIKR：TSMC's Q3 Earnings Preview: 65% Profit Growth",
+              "url": "https://www.tikr.com/blog/tsmcs-q3-earnings-preview-65-profit-growth-but-net-margin-seen-slipping-to-50"
+            },
+            {
+              "title": "Tiger Brokers：TSMC's Q2 2026 Earnings Call: Gross Margin of 67.7%",
+              "url": "https://www.itiger.com/news/1103082639"
+            },
+            {
+              "title": "TSMC Investor Relations：Quarterly Results",
+              "url": "https://investor.tsmc.com/quarterly-results"
+            }
+          ]
+        }
+      ],
+      "mood": "偏空、等待台積電法說",
+      "outlook": "偏空的理由：美國 CPI 回升到 3.7%，市場重新押注升息；AI 股賣壓從亞洲擴散到美國，那斯達克單日跌近 2%；外資連六天賣超台股，台積電尾盤持續被調節。偏多的理由：台積電季營收已超越財測，中國出口數據顯示全球需求並未失速；台股投信與內資仍在低檔承接，指數 48,000 點附近也有支撐。\n\n綜合來看，短線偏空，今天台股開盤可能反映美股重挫。關鍵在今天下午台積電法說會的毛利率與第四季財測，若優於預期，有機會成為止跌的契機；若毛利率下滑幅度超過預期，賣壓可能延續。以上僅整理市場資訊與各方觀點，不構成投資建議。"
+    },
+    {
+      "id": "ai",
+      "name": "AI 科技發展",
+      "items": [
+        {
+          "title": "OpenAI 工程師在高層會議室藏竊聽器遭起訴",
+          "category": "研究與安全",
+          "summary": "美國司法部 10/13 表示，35 歲的 OpenAI 工程師 Abdulrahman Alfozan 因使用裝置攔截口頭通訊而遭起訴。OpenAI 員工在 9 月底發現高層會議室的電視背面藏有錄音裝置，他已於 10/9 被捕；官方尚未說明他打算如何使用錄到的內容。",
+          "why": "頂尖 AI 實驗室的模型與策略資訊價值極高，這起事件凸顯內部人員與商業間諜的風險，AI 公司的資安與人員審查勢必更嚴格，也可能引發更多政府對 AI 安全的關注。",
+          "sources": [
+            {
+              "title": "Bloomberg：OpenAI Employee Arrested for Planting Recording Device in Company Office",
+              "url": "https://bloomberg.com/news/articles/2026-10-13/openai-says-staffer-arrested-for-hidden-recording-device-in-office"
+            },
+            {
+              "title": "Al Jazeera：OpenAI engineer charged after listening device found in meeting room",
+              "url": "https://www.aljazeera.com/news/2026/10/13/openai-engineer-charged-after-listening-device-found-in-meeting-room"
+            },
+            {
+              "title": "ABC News（澳洲）：OpenAI employee charged after alleged covert recording",
+              "url": "https://www.abc.net.au/news/2026-10-14/open-ai-employee-charged-after-alleged-covert-recording/107263252"
+            }
+          ]
+        },
+        {
+          "title": "美國 8 個州聯合起訴 OpenAI，指 ChatGPT 安全措施不足",
+          "category": "政策與監管",
+          "summary": "CNBC 報導，美國 8 個州 10/14 對 OpenAI 提起訴訟，理由是 ChatGPT 的安全疑慮。目前取得的報導細節有限，起訴的具體主張與求償內容尚待確認。",
+          "why": "在聯邦層級試圖限制各州 AI 監管的背景下，州政府改用訴訟施壓，可能成為 AI 公司面對的主要法律風險來源。",
+          "sources": [
+            {
+              "title": "CNBC：OpenAI sued by 8 states over ChatGPT safety concerns",
+              "url": "https://cnbc.com/2026/10/14/openai-sued-by-8-states-over-chatgpt-safety-concerns-.html"
+            }
+          ]
+        },
+        {
+          "title": "Kroger 將因擴大使用 AI 裁撤約 3,000 個總部職位",
+          "category": "產業與投資",
+          "summary": "根據路透取得的執行長內部備忘錄，美國連鎖超市 Kroger 計畫在三年內裁撤約 3,000 個總部職位，約占 8,200 名總部員工的 37%，原因之一是擴大使用 AI。公司表示，省下的成本將用於降低商品價格、加強門市人力與擴充 AI 工具。",
+          "why": "傳統零售業開始大規模以 AI 取代白領行政工作，AI 對就業的影響正從科技業擴散到一般產業，這也可能成為期中選舉的話題之一。",
+          "sources": [
+            {
+              "title": "GV Wire（Reuters）：Kroger plans to eliminate 3,000 corporate roles as it expands AI use",
+              "url": "https://gvwire.com/2026/10/12/kroger-plans-to-eliminate-3000-corporate-roles-memo-shows-as-it-expands-ai-use/"
+            },
+            {
+              "title": "Stocktwits：Kroger To Reportedly Eliminate 37% Of Corporate Workforce",
+              "url": "https://stocktwits.com/news-articles/markets/equity/kroger-to-reportedly-eliminate-37-of-corporate-workforce-in-operations-overhaul/cZxIpuIRB8p"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "observation": "今天的主線是「通膨回頭，緊縮與 AI 疑慮疊加」。俄羅斯以大規模飛彈攻擊烏克蘭能源設施，能源停火形同破局；中東戰事持續推高油價，直接反映在美國 9 月 CPI 回升到 3.7%，汽油就貢獻了一半以上的月增幅。前一天市場才因為紐約 Fed 總裁的談話鬆了一口氣，數據一出，升息預期又重新升溫。\n\n同時，中國 9 月出口大增 36%、晶片出口翻倍，全年順差可能突破 1 兆美元，歐美對中國產能的壓力將進一步升高；也有觀點認為，這反映全球需求仍然強勁，並非單純的傾銷。AI 方面，從估值疑慮、內部資安到各州訴訟，產業正面臨更多檢視。\n\n接下來值得關注：今天下午的台積電法說會、美國是否進一步回應俄羅斯的攻擊、聯準會官員對 CPI 的解讀，以及歐盟對中國順差的反應。",
+  "sources": [
+    {
+      "title": "CNN：Inflation rose to 3.7% last month in last snapshot before the midterms",
+      "url": "https://www.cnn.com/2026/10/14/economy/us-cpi-inflation-september"
+    },
+    {
+      "title": "CNBC：CPI inflation report September 2026",
+      "url": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html"
+    },
+    {
+      "title": "BLS：Consumer Price Index Summary",
+      "url": "https://www.bls.gov/news.release/cpi.nr0.htm"
+    },
+    {
+      "title": "ABC News：600,000 without power in Ukraine as Russia launches 'massive' attack",
+      "url": "https://abcnews.com/International/600000-power-ukraine-russia-launches-missile-drone-attack/story?id=137248732"
+    },
+    {
+      "title": "Al Jazeera：'Massive' Russian attack on Ukraine kills at least 9, damages power sites",
+      "url": "https://www.aljazeera.com/news/2026/10/14/massive-russian-attack-on-ukraine-kills-at-least-six-cuts-power-in-kyiv"
+    },
+    {
+      "title": "Kyiv Independent：Large-scale Russian missile attack on Kyiv strikes power plants",
+      "url": "https://kyivindependent.com/kyiv-residential-building-struck-by-russia-as-ukraine-says-intelligence-sharing-from-partners-interrupted/"
+    },
+    {
+      "title": "CNBC：China's exports and imports surge past expectations in September",
+      "url": "https://www.cnbc.com/amp/2026/10/14/chinas-exports-likely-grew-by-double-digits-in-september.html"
+    },
+    {
+      "title": "NBC News：China's September exports soar, putting $1 trillion trade surplus in sight",
+      "url": "https://www.nbcnews.com/world/asia/china-september-exports-soar-putting-1-trillion-trade-surplus-sight-rcna603410"
+    },
+    {
+      "title": "FXStreet：China's export engine continued to hum in September",
+      "url": "https://www.fxstreet.com/analysis/chinas-export-engine-continued-to-hum-in-september-202610140756"
+    },
+    {
+      "title": "Ahram Online：China says sanctions on Latin American ministers over Taiwan ties 'a warning to others'",
+      "url": "https://english.ahram.org.eg/News/578767.aspx"
+    },
+    {
+      "title": "Al Jazeera：China sanctions Paraguay, Belize ministers over Taiwan ties",
+      "url": "https://aljazeera.com/news/2026/10/12/china-sanctions-paraguay-belize-ministers-over-taiwan-ties"
+    },
+    {
+      "title": "CNBC：S&P 500 drops 1%, dragged down by hot inflation data and sell-off in AI-related stocks",
+      "url": "https://www.cnbc.com/2026/10/13/stock-market-today-live-updates-.html"
+    },
+    {
+      "title": "Yahoo Finance：Hot inflation report drops tech, drives S&P 500, Dow and Nasdaq down",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-hot-inflation-report-drops-tech-drives-sp-500-nasdaq-down-152206632.html"
+    },
+    {
+      "title": "ChainCatcher：U.S. stock market close: Nasdaq fell nearly 2%",
+      "url": "https://www.chaincatcher.com/en/article/2296333"
+    },
+    {
+      "title": "聯合新聞網：靜待美 CPI、台積電法說會 台股收盤漲284點",
+      "url": "https://udn.com/news/story/7251/9814139"
+    },
+    {
+      "title": "ETtoday：台股收漲285點 台積電尾盤遭砍、收2490平盤",
+      "url": "https://finance.ettoday.net/news/3254477"
+    },
+    {
+      "title": "Yahoo股市：外資專挑尾盤殺？台積電最後一單遭提款近200億元",
+      "url": "https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E5%B0%88%E6%8C%91%E5%B0%BE%E7%9B%A4%E6%AE%BA%EF%BC%9F%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%9C%80%E5%BE%8C%E4%B8%80%E5%96%AE%E9%81%AD%E6%8F%90%E6%AC%BE%E8%BF%91200%E5%84%84%E5%85%83-%E5%8F%B0%E8%82%A1120%E6%BC%B2%E9%BB%9E%E7%A7%92%E5%90%90%E5%9B%9E-055701514.html"
+    },
+    {
+      "title": "TIKR：TSMC's Q3 Earnings Preview: 65% Profit Growth",
+      "url": "https://www.tikr.com/blog/tsmcs-q3-earnings-preview-65-profit-growth-but-net-margin-seen-slipping-to-50"
+    },
+    {
+      "title": "Tiger Brokers：TSMC's Q2 2026 Earnings Call: Gross Margin of 67.7%",
+      "url": "https://www.itiger.com/news/1103082639"
+    },
+    {
+      "title": "TSMC Investor Relations：Quarterly Results",
+      "url": "https://investor.tsmc.com/quarterly-results"
+    },
+    {
+      "title": "Bloomberg：OpenAI Employee Arrested for Planting Recording Device in Company Office",
+      "url": "https://bloomberg.com/news/articles/2026-10-13/openai-says-staffer-arrested-for-hidden-recording-device-in-office"
+    },
+    {
+      "title": "Al Jazeera：OpenAI engineer charged after listening device found in meeting room",
+      "url": "https://www.aljazeera.com/news/2026/10/13/openai-engineer-charged-after-listening-device-found-in-meeting-room"
+    },
+    {
+      "title": "ABC News（澳洲）：OpenAI employee charged after alleged covert recording",
+      "url": "https://www.abc.net.au/news/2026-10-14/open-ai-employee-charged-after-alleged-covert-recording/107263252"
+    },
+    {
+      "title": "CNBC：OpenAI sued by 8 states over ChatGPT safety concerns",
+      "url": "https://cnbc.com/2026/10/14/openai-sued-by-8-states-over-chatgpt-safety-concerns-.html"
+    },
+    {
+      "title": "GV Wire（Reuters）：Kroger plans to eliminate 3,000 corporate roles as it expands AI use",
+      "url": "https://gvwire.com/2026/10/12/kroger-plans-to-eliminate-3000-corporate-roles-memo-shows-as-it-expands-ai-use/"
+    },
+    {
+      "title": "Stocktwits：Kroger To Reportedly Eliminate 37% Of Corporate Workforce",
+      "url": "https://stocktwits.com/news-articles/markets/equity/kroger-to-reportedly-eliminate-37-of-corporate-workforce-in-operations-overhaul/cZxIpuIRB8p"
+    }
+  ]
+}
