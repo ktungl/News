@@ -22,6 +22,78 @@
  },
  "days": [
   {
+   "date": "2026-10-16",
+   "title": "🌏 每日早報｜2026/10/16",
+   "items": [
+    {
+     "section": "world",
+     "category": "全球經濟與市場",
+     "title": "美國 9 月躉售物價（PPI）年增 6.3%，創 2022 年以來最大漲幅",
+     "anchor": "world-1"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "烏克蘭恢復攻擊俄國煉油廠，澤倫斯基指美方曾威脅中斷情報分享",
+     "anchor": "world-2"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "CNN：美軍擬定對伊朗能源與核設施的打擊方案，包含「炸彈之母」",
+     "anchor": "world-3"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "葉門戰事擴大，沙烏地持續攔截胡塞飛彈，塔伊茲逾 17 萬人流離失所",
+     "anchor": "world-4"
+    },
+    {
+     "section": "world",
+     "category": "台灣與亞太",
+     "title": "台股單日暴跌 1,656 點，外資賣超 3,025 億元創史上新高",
+     "anchor": "world-5"
+    },
+    {
+     "section": "markets",
+     "category": "美股",
+     "title": "美股資金轉向傳產，道瓊漲逾 1%，科技股相對落後",
+     "anchor": "markets-1"
+    },
+    {
+     "section": "markets",
+     "category": "台股",
+     "title": "台股跌破 47,000 點，三大法人合計賣超 3,700 億元",
+     "anchor": "markets-2"
+    },
+    {
+     "section": "markets",
+     "category": "產業與個股",
+     "title": "台積電第三季淨利年增 68.7%，第四季營收財測最高 543 億美元",
+     "anchor": "markets-3"
+    },
+    {
+     "section": "ai",
+     "category": "晶片與算力",
+     "title": "台積電魏哲家：AI 需求「看不到放緩」，2026–2028 年資本支出將顯著增加",
+     "anchor": "ai-1"
+    },
+    {
+     "section": "ai",
+     "category": "模型與產品",
+     "title": "Google 開放開發者使用 Gemini 4 Argon，主打長流程任務",
+     "anchor": "ai-2"
+    },
+    {
+     "section": "ai",
+     "category": "政策與監管",
+     "title": "AI 聊天機器人成為期中選舉的「投票指南」，引發準確性疑慮",
+     "anchor": "ai-3"
+    }
+   ]
+  },
+  {
    "date": "2026-10-15",
    "title": "🌏 每日早報｜2026/10/15",
    "items": [

@@ -1,0 +1,382 @@
+{
+  "date": "2026-10-16",
+  "title": "🌏 每日早報｜2026/10/16",
+  "generated_at": "2026-10-16T07:40:00+08:00",
+  "sections": [
+    {
+      "id": "world",
+      "name": "國際新聞",
+      "items": [
+        {
+          "title": "美國 9 月躉售物價（PPI）年增 6.3%，創 2022 年以來最大漲幅",
+          "category": "全球經濟與市場",
+          "summary": "美國勞工統計局 10/15 公布，9 月生產者物價指數（PPI）月增 1.3%、年增 6.3%，都是 2022 年以來最大，也高於預期（月增 0.6%、年增 5.5%）。能源價格單月上漲 10.8%，汽油大漲 20.3%，貢獻約一半漲幅；排除食品與能源的核心 PPI 年增 5%。",
+          "why": "繼前一天 CPI 高於預期後，上游成本也明顯升溫，代表油價衝擊正從消費端擴散到企業成本，聯準會更難停止升息。11/3 期中選舉前，物價與生活成本將是最主要的選戰議題。",
+          "sources": [
+            {
+              "title": "CNN：Wholesale inflation surged in September",
+              "url": "https://www.cnn.com/2026/10/15/economy/us-retail-sales-wholesale-inflation-ppi-september"
+            },
+            {
+              "title": "UPI：Wholesale prices took biggest jump since 2022 in September",
+              "url": "https://www.upi.com/Top_News/US/2026/10/15/producer-price-index-wholesale-september-2026-inflation/6601792076310"
+            },
+            {
+              "title": "CNBC：September producer price index, retail sales data",
+              "url": "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html"
+            }
+          ]
+        },
+        {
+          "title": "烏克蘭恢復攻擊俄國煉油廠，澤倫斯基指美方曾威脅中斷情報分享",
+          "category": "國際政治與地緣",
+          "summary": "在俄軍大規模攻擊烏克蘭電網後，澤倫斯基向《金融時報》表示，暫停三天的煉油廠攻擊「到此為止」；俄國防部隨即稱烏軍 10/15 凌晨對梁贊煉油廠發動大規模攻擊。澤倫斯基也說，美方人員曾告訴烏克蘭將領「若不停止攻擊能源設施，就會阻斷情報」，並批評情報分享減少「很危險」；川普 10/13 則否認美國已停止提供情報。",
+          "why": "美國希望烏克蘭停止攻擊俄國煉油廠，好讓俄國柴油出口壓低油價；烏克蘭則把能源設施視為反制工具。兩國的優先順序明顯分歧，烏美關係與國際油價都會受到牽動。",
+          "sources": [
+            {
+              "title": "CNN：Zelensky says Ukraine will resume strikes on Russian refineries as frustration with Trump mounts",
+              "url": "https://www.cnn.com/2026/10/14/europe/zelensky-trump-russia-fuel-deal-latam-intl"
+            },
+            {
+              "title": "Ukrainska Pravda：Zelenskyy confirms US threatened to cut intelligence sharing over refinery strikes",
+              "url": "https://www.pravda.com.ua/eng/news/2026/10/14/8057937/"
+            },
+            {
+              "title": "Al Jazeera：Russia says Ukraine resumes attacks on oil refineries",
+              "url": "https://www.aljazeera.com/news/2026/10/15/russia-says-ukraine-resumes-attacks-on-oil-refineries"
+            }
+          ]
+        },
+        {
+          "title": "CNN：美軍擬定對伊朗能源與核設施的打擊方案，包含「炸彈之母」",
+          "category": "國際政治與地緣",
+          "summary": "CNN 10/15 報導，美軍已擬定一旦川普下令恢復作戰時，對伊朗能源基礎設施與核設施的打擊選項，其中包括對疑似地下核設施「十字鎬山」使用 GBU-43/B「炸彈之母」；但消息人士也質疑這種炸彈能否穿透到足夠深度。報導指出川普公開排除在期中選舉前行動，但幕僚私下懷疑這個立場能否維持。（相關報導多源自 CNN 單一來源。）",
+          "why": "若美國擴大打擊伊朗能源設施，荷莫茲海峽與油價風險將再升高一個層級；選前是否動手，也會影響美國國內政治與通膨走勢。",
+          "sources": [
+            {
+              "title": "Benzinga：Trump Weighs Iran Strikes as US Prepares 'Mother of All Bombs' Options",
+              "url": "https://www.benzinga.com/news/politics/26/10/62385570/trump-weighs-iran-strikes-as-us-prepares-mother-of-all-bombs-options-for-tehrans-nuclear-sites-before-or-after-midterms-report"
+            },
+            {
+              "title": "Seoul Economic Daily：U.S. Military Weighs 'Mother of All Bombs' for New Iran Strikes",
+              "url": "https://en.sedaily.com/international/2026/10/15/us-military-weighs-mother-of-all-bombs-for-new-iran-strikes"
+            },
+            {
+              "title": "Middle East Online：US weighs 'mother of all bombs' for possible renewed strikes on Iran",
+              "url": "https://www.middle-east-online.com/en/us-weighs-%E2%80%98mother-all-bombs%E2%80%99-possible-renewed-strikes-iran"
+            }
+          ]
+        },
+        {
+          "title": "葉門戰事擴大，沙烏地持續攔截胡塞飛彈，塔伊茲逾 17 萬人流離失所",
+          "category": "國際政治與地緣",
+          "summary": "沙烏地主導的聯軍 10/13 表示，攔截並摧毀射向海米斯穆謝特、利雅德與南部地區的彈道飛彈，沙國也表態會「保持堅強」。國際移民組織估計，8 月衝突升級以來已有超過 21.6 萬人流離失所，其中至少 17.2 萬人來自塔伊茲；聯合國指出，平民移動、商業補給與人道援助通道都受到干擾。",
+          "why": "沙烏地與胡塞的戰事已成為伊朗戰爭的另一條戰線，人道危機正在擴大，也讓紅海航運與區域能源設施持續面臨威脅。",
+          "sources": [
+            {
+              "title": "The National：Saudi Arabia vows to remain strong after deadly Houthi attacks",
+              "url": "https://www.thenationalnews.com/news/gulf/2026/10/13/saudi-arabia-vows-to-remain-strong-after-deadly-houthi-attacks/"
+            },
+            {
+              "title": "Democracy Now：Headlines for October 15, 2026",
+              "url": "https://www.democracynow.org/2026/10/15/headlines"
+            }
+          ]
+        },
+        {
+          "title": "台股單日暴跌 1,656 點，外資賣超 3,025 億元創史上新高",
+          "category": "台灣與亞太",
+          "summary": "受美國通膨升溫與美股科技股重挫拖累，台股 10/15 下跌 1,655.96 點（−3.41%），收 46,969.87 點，是史上第六大跌點。外資單日賣超 3,025.55 億元，刷新歷史紀錄，已連續七個交易日賣超。",
+          "why": "外資大規模撤出台股，通常也會讓新台幣承壓。這反映國際資金對 AI 供應鏈與高利率環境的重新評估，台灣經濟與金融市場對 AI 景氣的依賴風險正在浮現。",
+          "sources": [
+            {
+              "title": "華視（中央社）：三大法人賣超台股3700.76億元 外資減碼3025億創高",
+              "url": "https://news.cts.com.tw/cna/money/202610/202610153090133.html"
+            },
+            {
+              "title": "經濟日報：台股外資大提款 賣超3,025億 史上最多",
+              "url": "https://money.udn.com/money/story/5607/9817894"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "name": "股市觀察（美股・台股）",
+      "items": [
+        {
+          "title": "美股資金轉向傳產，道瓊漲逾 1%，科技股相對落後",
+          "category": "美股",
+          "summary": "美東 10/15 道瓊上漲約 1.08%（約 556 點），標普 500 上漲 0.35% 至 7,746.41，那斯達克小漲約 0.2%（各來源報導的那指漲跌不一）。資金從科技股轉向傳統產業與銀行股；Nvidia、AMD 與台積電 ADR 盤中都下跌約 1.5%–2%（盤中數字）。PPI 大漲一度讓期貨走弱，隨後美債殖利率回落，帶動大盤翻紅。",
+          "why": "資金沒有撤出美股，而是從 AI 科技股輪動到傳產與金融股，代表市場是在「重新配置」，不是全面避險。不過科技股能否止跌，仍要看利率與 AI 獲利前景。",
+          "sources": [
+            {
+              "title": "Investing.com：U.S. stocks higher at close of trade; Dow Jones Industrial Average up 1.08%",
+              "url": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-108-4952637"
+            },
+            {
+              "title": "Proactive Investors：Wall Street closes higher as Dow jumps 556 points, tech stocks lag",
+              "url": "https://www.proactiveinvestors.com/companies/news/1100139/markets-live-wall-street-closes-higher-as-dow-jumps-556-points-tech-stocks-lag-1100139.html"
+            },
+            {
+              "title": "24/7 Wall St.：S&P 500 Closes at 7,746 as Dow Outpaces Nasdaq",
+              "url": "https://247wallst.com/cards/money-rotated-into-old-economy-names-today-the-dow-s-1-gai-gspc-market-bell-01m50jm0ageg2vge6kyy4qmg80"
+            },
+            {
+              "title": "Yahoo Finance：Dow jumps, S&P 500, Nasdaq gain as AI jitters fade",
+              "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-rise-nasdaq-trims-losses-as-treasury-yields-sink-153611834.html"
+            }
+          ]
+        },
+        {
+          "title": "台股跌破 47,000 點，三大法人合計賣超 3,700 億元",
+          "category": "台股",
+          "summary": "加權指數 10/15 收 46,969.87 點，下跌 1,655.96 點（−3.41%），成交值約 1.32 兆元。三大法人合計賣超 3,700.76 億元：外資賣超 3,025.55 億元（史上最大）、自營商賣超 958.24 億元，投信則逆勢買超 283.03 億元。外資賣超張數前幾名是力積電、緯創、聯電，台積電也遭賣超約 3.41 萬張。",
+          "why": "賣壓集中在 AI 與半導體供應鏈，投信持續承接，形成內外資對作的格局。台積電法說會是在台股收盤後舉行，今天開盤將是市場第一次反映法說內容。",
+          "sources": [
+            {
+              "title": "Yahoo股市（中央社）：三大法人賣超台股3700.76億元 外資減碼3025億創高",
+              "url": "https://tw.stock.yahoo.com/news/%E4%B8%89%E5%A4%A7%E6%B3%95%E4%BA%BA%E8%B3%A3%E8%B6%85%E5%8F%B0%E8%82%A13700-76%E5%84%84%E5%85%83-%E5%A4%96%E8%B3%87%E6%B8%9B%E7%A2%BC3025%E5%84%84%E5%89%B5%E9%AB%98-072415604.html"
+            },
+            {
+              "title": "聯合新聞網：今天股市為何大跌？兇手原來是這兩個",
+              "url": "https://udn.com/news/story/7251/9817078"
+            },
+            {
+              "title": "新頭殼：外資史上最大提款3,026億！台積電遭賣超3.4萬張",
+              "url": "https://newtalk.tw/news/view/2026-10-15/1065752"
+            }
+          ]
+        },
+        {
+          "title": "台積電第三季淨利年增 68.7%，第四季營收財測最高 543 億美元",
+          "category": "產業與個股",
+          "summary": "台積電第三季營收約 467 億美元，毛利率 66.4%（季減 1.3 個百分點，主因 2 奈米量產初期稀釋），營業利益率 58.7%，淨利約新台幣 7,630 億元、年增 68.7%。第四季營收財測為 523–543 億美元，毛利率 65%–67%；全年美元營收預估成長約 44%。2026 年資本支出維持 600–640 億美元，並表示 2026–2028 年的資本支出將顯著高於過去三年。",
+          "why": "財報與財測都優於市場預期，但美股盤中台積電 ADR 仍下跌約 2%，顯示市場擔心的是資本支出與 AI 估值，而不是台積電本身的接單。今天台股開盤，將是外資賣壓能否緩和的第一個觀察點。",
+          "sources": [
+            {
+              "title": "SEC：TSMC Form 6-K（3Q26 Management Report）",
+              "url": "https://www.sec.gov/Archives/edgar/data/0001046179/000104617926000726/a3q26e_withguidancexfinal.htm"
+            },
+            {
+              "title": "Stock Titan：TSMC Q3 2026 earnings jump 68.7% to NT$763B",
+              "url": "https://www.stocktitan.net/sec-filings/TSM/6-k-taiwan-semiconductor-manufacturing-co-ltd-current-report-foreign--e503d3f14bce.html"
+            },
+            {
+              "title": "Investing.com：Earnings call transcript: TSMC beats Q3 2026 estimates as stock slips",
+              "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-tsmc-beats-q3-2026-estimates-as-stock-slips-93CH-4950695"
+            },
+            {
+              "title": "中時新聞網：台積電法說7大重點一文解讀",
+              "url": "https://www.chinatimes.com/realtimenews/20261015003623-260410"
+            }
+          ]
+        }
+      ],
+      "mood": "恐慌賣壓後觀察反彈力道",
+      "outlook": "偏空的理由：CPI 與 PPI 接連高於預期，升息預期升溫；外資連七天大舉賣超、單日金額創新高，籌碼面仍然沉重；AI 估值與資本支出疑慮尚未消除。偏多的理由：台積電財報與第四季財測都優於預期，魏哲家強調「需求是真實的」；美股資金是在產業間輪動，道瓊與標普都收紅；台股跌幅已深，投信持續承接。\n\n綜合來看，台股經歷恐慌性賣壓之後，短線關鍵在外資賣超是否收斂，以及台積電的好財報能否扭轉市場對 AI 的悲觀情緒。在升息與油價風險還沒解除之前，波動預期仍會偏大。以上僅整理市場資訊與各方觀點，不構成投資建議。"
+    },
+    {
+      "id": "ai",
+      "name": "AI 科技發展",
+      "items": [
+        {
+          "title": "台積電魏哲家：AI 需求「看不到放緩」，2026–2028 年資本支出將顯著增加",
+          "category": "晶片與算力",
+          "summary": "台積電董事長魏哲家在 10/15 法說會表示，AI 需求依然非常強勁，除了 AI 加速器，市場對 AI CPU 與網通晶片的需求也在增加。面對泡沫疑慮，他說「我也很緊張，規劃不慎會是災難，但我看到的證據顯示需求是真實的」。台積電預計 2027 年 2 奈米家族產能將比現在增加一倍以上。",
+          "why": "在博通執行長「賭場說」引發市場恐慌後，全球最大晶圓代工廠給出相反的訊號；AI 供應鏈內部對需求的判斷出現分歧，未來幾季的雲端資本支出數字將是檢驗關鍵。",
+          "sources": [
+            {
+              "title": "自由財經：魏哲家：AI需求看不到放緩跡象 未來3年資本支出顯著高於過去",
+              "url": "https://ec.ltn.com.tw/article/breakingnews/5607329"
+            },
+            {
+              "title": "工商時報：台積雙軌驗證AI需求 魏哲家：對長期趨勢深具信心",
+              "url": "https://www.chinatimes.com/realtimenews/20261015003362-260410"
+            },
+            {
+              "title": "Motley Fool：TSMC Q3 2026 Earnings Call Transcript",
+              "url": "https://www.fool.com/earnings/call-transcripts/2026/10/15/tsmc-tsm-q3-2026-earnings-call-transcript/"
+            }
+          ]
+        },
+        {
+          "title": "Google 開放開發者使用 Gemini 4 Argon，主打長流程任務",
+          "category": "模型與產品",
+          "summary": "Google 10/13 開放開發者透過 Gemini API 付費層、Google AI Studio 與 Android Studio 使用 Gemini 4 Argon，Pro 與 Ultra 訂閱者也能在 Gemini App 與搜尋 AI 模式中使用。這款模型 9/30 首度發表，當時只開放給資安防禦人員等受信任測試者；定位是軟體工程、法律與金融等企業工作，以及資安防禦等長時間、多步驟的任務。推廣期價格為每百萬 token 輸入 2 美元、輸出 10 美元，11/30 後加倍。",
+          "why": "各大模型廠商的競爭重點，正從聊天轉向能長時間自主執行的代理式工作；Google 先開放給資安防禦人員，也反映業界對強大模型被濫用的顧慮。",
+          "sources": [
+            {
+              "title": "Google Blog：Build with Gemini 4 Argon",
+              "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/"
+            },
+            {
+              "title": "Android Headlines：Google rolls out Gemini 4 Argon AI model",
+              "url": "https://www.androidheadlines.com/2026/10/google-rolls-out-gemini-4-argon-ai-model.html"
+            },
+            {
+              "title": "OfficeChai：Google Makes Gemini 4 Argon Available To Pro And Ultra Subscribers",
+              "url": "https://officechai.com/ai/google-makes-gemini-4-argon-available-to-pro-and-ultra-subscribers-on-gemini-app-to-ultra-subscribers-on-antigravity/"
+            }
+          ]
+        },
+        {
+          "title": "AI 聊天機器人成為期中選舉的「投票指南」，引發準確性疑慮",
+          "category": "政策與監管",
+          "summary": "報導指出，今年美國期中選舉可能是選民首次大量使用 AI 聊天機器人決定投票的選舉。Anthropic 表示，Claude 會以公正、準確為原則回答選舉問題，遇到投票登記、投票地點等問題時會引導使用者前往無黨派的 TurboVote；但也有報導發現，換個問法後，聊天機器人仍可能給出具體的候選人建議。（本則為近期趨勢，非過去 24 小時的新聞。）",
+          "why": "AI 開始實際影響選民的資訊來源，模型的中立性、事實正確性與防護設計，將成為選舉治理與 AI 監管的新焦點。",
+          "sources": [
+            {
+              "title": "Anthropic：Election safeguards update",
+              "url": "https://anthropic.com/news/election-safeguards-update"
+            },
+            {
+              "title": "AI Weekly：Claude, ChatGPT and Gemini Become 2026 Voter Ballot Guides",
+              "url": "https://aiweekly.co/node/5467"
+            },
+            {
+              "title": "The Star：US voters turn to AI before casting their ballots",
+              "url": "https://www.thestar.com.my/news/focus/2026/10/03/us-voters-turn-to-al-before-casting-their-ballots"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "observation": "今天的主線是「通膨確認升溫，市場在 AI 樂觀與利率悲觀之間拉扯」。美國 PPI 年增 6.3%、CPI 3.7%，油價衝擊已從加油站擴散到企業成本；而油價背後的戰事沒有降溫跡象：烏克蘭恢復攻擊俄國煉油廠，美烏在能源停火上出現分歧，美軍也被報導已擬好打擊伊朗能源與核設施的方案。\n\n市場面上，外資單日從台股撤出逾 3,000 億元創紀錄，但台積電隨後交出優於預期的財報，強調 AI 需求真實；美股則出現從科技股轉向傳產與銀行股的輪動。樂觀者認為基本面仍強、這波修正是在消化估值；悲觀者則擔心高利率加上鉅額資本支出，會壓縮 AI 投資報酬。\n\n接下來值得關注：台股今天對台積電法說的反應、外資賣超是否收斂、聯準會官員對通膨數據的表態，以及美國對伊朗與俄烏的下一步。",
+  "sources": [
+    {
+      "title": "CNN：Wholesale inflation surged in September",
+      "url": "https://www.cnn.com/2026/10/15/economy/us-retail-sales-wholesale-inflation-ppi-september"
+    },
+    {
+      "title": "UPI：Wholesale prices took biggest jump since 2022 in September",
+      "url": "https://www.upi.com/Top_News/US/2026/10/15/producer-price-index-wholesale-september-2026-inflation/6601792076310"
+    },
+    {
+      "title": "CNBC：September producer price index, retail sales data",
+      "url": "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html"
+    },
+    {
+      "title": "CNN：Zelensky says Ukraine will resume strikes on Russian refineries as frustration with Trump mounts",
+      "url": "https://www.cnn.com/2026/10/14/europe/zelensky-trump-russia-fuel-deal-latam-intl"
+    },
+    {
+      "title": "Ukrainska Pravda：Zelenskyy confirms US threatened to cut intelligence sharing over refinery strikes",
+      "url": "https://www.pravda.com.ua/eng/news/2026/10/14/8057937/"
+    },
+    {
+      "title": "Al Jazeera：Russia says Ukraine resumes attacks on oil refineries",
+      "url": "https://www.aljazeera.com/news/2026/10/15/russia-says-ukraine-resumes-attacks-on-oil-refineries"
+    },
+    {
+      "title": "Benzinga：Trump Weighs Iran Strikes as US Prepares 'Mother of All Bombs' Options",
+      "url": "https://www.benzinga.com/news/politics/26/10/62385570/trump-weighs-iran-strikes-as-us-prepares-mother-of-all-bombs-options-for-tehrans-nuclear-sites-before-or-after-midterms-report"
+    },
+    {
+      "title": "Seoul Economic Daily：U.S. Military Weighs 'Mother of All Bombs' for New Iran Strikes",
+      "url": "https://en.sedaily.com/international/2026/10/15/us-military-weighs-mother-of-all-bombs-for-new-iran-strikes"
+    },
+    {
+      "title": "Middle East Online：US weighs 'mother of all bombs' for possible renewed strikes on Iran",
+      "url": "https://www.middle-east-online.com/en/us-weighs-%E2%80%98mother-all-bombs%E2%80%99-possible-renewed-strikes-iran"
+    },
+    {
+      "title": "The National：Saudi Arabia vows to remain strong after deadly Houthi attacks",
+      "url": "https://www.thenationalnews.com/news/gulf/2026/10/13/saudi-arabia-vows-to-remain-strong-after-deadly-houthi-attacks/"
+    },
+    {
+      "title": "Democracy Now：Headlines for October 15, 2026",
+      "url": "https://www.democracynow.org/2026/10/15/headlines"
+    },
+    {
+      "title": "華視（中央社）：三大法人賣超台股3700.76億元 外資減碼3025億創高",
+      "url": "https://news.cts.com.tw/cna/money/202610/202610153090133.html"
+    },
+    {
+      "title": "經濟日報：台股外資大提款 賣超3,025億 史上最多",
+      "url": "https://money.udn.com/money/story/5607/9817894"
+    },
+    {
+      "title": "Investing.com：U.S. stocks higher at close of trade; Dow Jones Industrial Average up 1.08%",
+      "url": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-108-4952637"
+    },
+    {
+      "title": "Proactive Investors：Wall Street closes higher as Dow jumps 556 points, tech stocks lag",
+      "url": "https://www.proactiveinvestors.com/companies/news/1100139/markets-live-wall-street-closes-higher-as-dow-jumps-556-points-tech-stocks-lag-1100139.html"
+    },
+    {
+      "title": "24/7 Wall St.：S&P 500 Closes at 7,746 as Dow Outpaces Nasdaq",
+      "url": "https://247wallst.com/cards/money-rotated-into-old-economy-names-today-the-dow-s-1-gai-gspc-market-bell-01m50jm0ageg2vge6kyy4qmg80"
+    },
+    {
+      "title": "Yahoo Finance：Dow jumps, S&P 500, Nasdaq gain as AI jitters fade",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-rise-nasdaq-trims-losses-as-treasury-yields-sink-153611834.html"
+    },
+    {
+      "title": "Yahoo股市（中央社）：三大法人賣超台股3700.76億元 外資減碼3025億創高",
+      "url": "https://tw.stock.yahoo.com/news/%E4%B8%89%E5%A4%A7%E6%B3%95%E4%BA%BA%E8%B3%A3%E8%B6%85%E5%8F%B0%E8%82%A13700-76%E5%84%84%E5%85%83-%E5%A4%96%E8%B3%87%E6%B8%9B%E7%A2%BC3025%E5%84%84%E5%89%B5%E9%AB%98-072415604.html"
+    },
+    {
+      "title": "聯合新聞網：今天股市為何大跌？兇手原來是這兩個",
+      "url": "https://udn.com/news/story/7251/9817078"
+    },
+    {
+      "title": "新頭殼：外資史上最大提款3,026億！台積電遭賣超3.4萬張",
+      "url": "https://newtalk.tw/news/view/2026-10-15/1065752"
+    },
+    {
+      "title": "SEC：TSMC Form 6-K（3Q26 Management Report）",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001046179/000104617926000726/a3q26e_withguidancexfinal.htm"
+    },
+    {
+      "title": "Stock Titan：TSMC Q3 2026 earnings jump 68.7% to NT$763B",
+      "url": "https://www.stocktitan.net/sec-filings/TSM/6-k-taiwan-semiconductor-manufacturing-co-ltd-current-report-foreign--e503d3f14bce.html"
+    },
+    {
+      "title": "Investing.com：Earnings call transcript: TSMC beats Q3 2026 estimates as stock slips",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-tsmc-beats-q3-2026-estimates-as-stock-slips-93CH-4950695"
+    },
+    {
+      "title": "中時新聞網：台積電法說7大重點一文解讀",
+      "url": "https://www.chinatimes.com/realtimenews/20261015003623-260410"
+    },
+    {
+      "title": "自由財經：魏哲家：AI需求看不到放緩跡象 未來3年資本支出顯著高於過去",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5607329"
+    },
+    {
+      "title": "工商時報：台積雙軌驗證AI需求 魏哲家：對長期趨勢深具信心",
+      "url": "https://www.chinatimes.com/realtimenews/20261015003362-260410"
+    },
+    {
+      "title": "Motley Fool：TSMC Q3 2026 Earnings Call Transcript",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/10/15/tsmc-tsm-q3-2026-earnings-call-transcript/"
+    },
+    {
+      "title": "Google Blog：Build with Gemini 4 Argon",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/"
+    },
+    {
+      "title": "Android Headlines：Google rolls out Gemini 4 Argon AI model",
+      "url": "https://www.androidheadlines.com/2026/10/google-rolls-out-gemini-4-argon-ai-model.html"
+    },
+    {
+      "title": "OfficeChai：Google Makes Gemini 4 Argon Available To Pro And Ultra Subscribers",
+      "url": "https://officechai.com/ai/google-makes-gemini-4-argon-available-to-pro-and-ultra-subscribers-on-gemini-app-to-ultra-subscribers-on-antigravity/"
+    },
+    {
+      "title": "Anthropic：Election safeguards update",
+      "url": "https://anthropic.com/news/election-safeguards-update"
+    },
+    {
+      "title": "AI Weekly：Claude, ChatGPT and Gemini Become 2026 Voter Ballot Guides",
+      "url": "https://aiweekly.co/node/5467"
+    },
+    {
+      "title": "The Star：US voters turn to AI before casting their ballots",
+      "url": "https://www.thestar.com.my/news/focus/2026/10/03/us-voters-turn-to-al-before-casting-their-ballots"
+    }
+  ]
+}
