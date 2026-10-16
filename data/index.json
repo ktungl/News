@@ -22,6 +22,78 @@
  },
  "days": [
   {
+   "date": "2026-10-17",
+   "title": "🌏 每日早報｜2026/10/17",
+   "items": [
+    {
+     "section": "world",
+     "category": "全球經濟與市場",
+     "title": "布蘭特油價一度突破 110 美元、創 5 月以來新高，科技股市值單日蒸發約 1 兆美元",
+     "anchor": "world-1"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "川普批烏克蘭攻擊俄國煉油廠「可恥」，美烏關係持續緊繃",
+     "anchor": "world-2"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "川普稱可能打擊伊朗「十字鎬山」核設施，伊朗外長：已準備好戰爭再起",
+     "anchor": "world-3"
+    },
+    {
+     "section": "world",
+     "category": "全球經濟與市場",
+     "title": "聯準會理事華勒：仍需再升息，但時點有彈性；10/27–28 會議料按兵不動",
+     "anchor": "world-4"
+    },
+    {
+     "section": "world",
+     "category": "台灣與亞太",
+     "title": "台灣擬將未經許可出口 AI 晶片至中國入罪，作為美台貿易協議一環",
+     "anchor": "world-5"
+    },
+    {
+     "section": "markets",
+     "category": "美股",
+     "title": "AI 泡沫疑慮再起，那斯達克重挫逾 2%，標普跌 1.1%",
+     "anchor": "markets-1"
+    },
+    {
+     "section": "markets",
+     "category": "台股",
+     "title": "台股小漲 141 點收 47,111 點，外資連 8 賣、台積電法說後反應平淡",
+     "anchor": "markets-2"
+    },
+    {
+     "section": "markets",
+     "category": "台股",
+     "title": "本週三大法人賣超台股逾 7,000 億元，投信逆勢加碼 888 億元",
+     "anchor": "markets-3"
+    },
+    {
+     "section": "ai",
+     "category": "政策與監管",
+     "title": "美國 FTC 擴大調查 OpenAI、Anthropic 等 AI 實驗室，據報將要求提交安全事件紀錄",
+     "anchor": "ai-1"
+    },
+    {
+     "section": "ai",
+     "category": "產業與投資",
+     "title": "油價與 AI 估值疑慮夾擊，AI 基礎建設股成賣壓重心",
+     "anchor": "ai-2"
+    },
+    {
+     "section": "ai",
+     "category": "晶片與算力",
+     "title": "台灣擬將 AI 晶片走私至中國入罪，晶片管制與美國接軌",
+     "anchor": "ai-3"
+    }
+   ]
+  },
+  {
    "date": "2026-10-16",
    "title": "🌏 每日早報｜2026/10/16",
    "items": [
