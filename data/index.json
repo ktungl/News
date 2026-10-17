@@ -22,6 +22,66 @@
  },
  "days": [
   {
+   "date": "2026-10-18",
+   "title": "🌏 每日早報｜2026/10/18",
+   "items": [
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "川普簽署行政命令，豁免《葛蘭姆法》對俄制裁與高額關稅，兩黨與澤倫斯基強烈反彈",
+     "anchor": "world-1"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "荷莫茲海峽本月攻擊激增：兩艘貨輪遭擊沉，印度油輪 10/16 再遇襲",
+     "anchor": "world-2"
+    },
+    {
+     "section": "world",
+     "category": "全球經濟與市場",
+     "title": "中國第三季 GDP 週一公布，路透調查預估成長 4.4%，仍低於全年目標下緣",
+     "anchor": "world-3"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "黎巴嫩與以色列軍方 10/20 將在美國中央司令部會談，議題聚焦停火",
+     "anchor": "world-4"
+    },
+    {
+     "section": "world",
+     "category": "台灣與亞太",
+     "title": "北韓近三年來首次進行水下發射飛彈試射",
+     "anchor": "world-5"
+    },
+    {
+     "section": "markets",
+     "category": "美股",
+     "title": "週末無交易；下週美股迎來 Netflix、Tesla、Meta 等科技財報",
+     "anchor": "markets-1"
+    },
+    {
+     "section": "markets",
+     "category": "台股",
+     "title": "台股下週看點：9 月外銷訂單可望再創新高，外資賣壓能否收斂",
+     "anchor": "markets-2"
+    },
+    {
+     "section": "ai",
+     "category": "產業與投資",
+     "title": "Anthropic 晶片租賃的融資規模擴大：博通牽頭約 600 億美元債務，黑石領投次順位",
+     "anchor": "ai-1"
+    },
+    {
+     "section": "ai",
+     "category": "政策與監管",
+     "title": "AI 生成的競選廣告在期中選舉大量出現，揭露規範仍是漏洞",
+     "anchor": "ai-2"
+    }
+   ]
+  },
+  {
    "date": "2026-10-17",
    "title": "🌏 每日早報｜2026/10/17",
    "items": [
