@@ -1,0 +1,278 @@
+{
+  "date": "2026-10-19",
+  "title": "🌏 每日早報｜2026/10/19",
+  "generated_at": "2026-10-19T07:30:00+08:00",
+  "sections": [
+    {
+      "id": "world",
+      "name": "國際新聞",
+      "items": [
+        {
+          "title": "伊朗外長：「七日方案」仍有效，美國解除封鎖後第六天重開荷莫茲；川普警告「很快完成任務」",
+          "category": "國際政治與地緣",
+          "summary": "伊朗外長阿拉格齊 10/18 表示，德黑蘭提出的七日方案仍然有效：只要美國解除封鎖，荷莫茲海峽將在第六天重新開放，第七天開始談判。美方則由川普與中央司令部維持海峽對伊朗以外的船隻開放，川普週日在 Truth Social 警告，若伊朗不改變方向，美國可能「很快完成任務」。雙方對結束這場已打了八個月的戰爭，仍在條件上僵持不下。",
+          "why": "伊朗把重開海峽當作談判籌碼，美國則持續施壓，戰爭重啟或談判突破都可能在短期內發生，是油價與全球通膨最大的不確定因素。",
+          "sources": [
+            {
+              "title": "CBS News：Iran says Strait of Hormuz reopening, seven-day ceasefire conditions still on the table",
+              "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-yemen-houthis-saudi-arabia/"
+            },
+            {
+              "title": "Fox News：Iran paying lip service to peace talks, but under claims of Strait of Hormuz control",
+              "url": "https://www.foxnews.com/live-news/us-iran-war-peace-talks-oil-strait-hormuz-trump-october-18"
+            }
+          ]
+        },
+        {
+          "title": "加拿大亞伯達省今天舉行獨立公投，民調顯示「留在加拿大」大幅領先",
+          "category": "國際政治與地緣",
+          "summary": "亞伯達省 10/19 舉行公投，選民要決定是繼續留在加拿大，還是啟動法律程序、為未來的分離公投鋪路。益普索 9 月民調顯示 70% 受訪者希望留下，Angus Reid 稍後的調查為 66%；提前投票人數已超過 120 萬人。省長史密斯表示，若「留下」勝出，她期待各方接受結果；但分離派領袖則表示「無論週一結果如何，我們都已經贏了」。",
+          "why": "即使留下派勝出，分離議題浮上檯面也凸顯加拿大聯邦與能源省份之間的長期矛盾，可能影響加拿大的能源政策、投資環境與對美關係。",
+          "sources": [
+            {
+              "title": "Bloomberg：Alberta Separation Referendum Draws Over 1 Million Early Votes",
+              "url": "https://www.bloomberg.com/news/articles/2026-10-16/alberta-separation-referendum-draws-over-1-million-early-votes-in-canada"
+            },
+            {
+              "title": "Fortune：Alberta separatist leader vows to continue independence movement regardless of outcome",
+              "url": "https://fortune.com/2026/10/18/alberta-separatist-leader-independence-movement-canada-remain-referendum-vote/"
+            },
+            {
+              "title": "Angus Reid Institute：'Remain' continues to lead by a wide margin",
+              "url": "https://angusreid.org/alberta-referendum-remain-continues-to-lead-by-a-wide-margin-but-few-believe-separation-issue-will-end-on-oct-19/"
+            }
+          ]
+        },
+        {
+          "title": "澤倫斯基稱美方是烏軍 Starlink 受限的幕後原因，白宮否認",
+          "category": "國際政治與地緣",
+          "summary": "烏克蘭軍方表示，Starlink 自 10/14 起在時速約 100 英里以上就無法運作，導致用於深入敵後打擊的無人機大多失靈。澤倫斯基表示覺得被川普「背叛」，被問到是否是蓄意時回答「確實是」；馬斯克則證實 Starshield 的運作限制由美國政府控制。白宮一名官員否認政府參與，美方稱是技術故障，服務之後已部分恢復。",
+          "why": "這件事發生在美國放寬對俄制裁、批評烏克蘭攻擊煉油廠之際，若屬實，代表美國正動用關鍵軍事支援作為施壓手段；美烏互信持續惡化，烏克蘭的防禦能力與談判籌碼都受到影響。",
+          "sources": [
+            {
+              "title": "Irish Examiner：Zelenskyy feels 'betrayed' by Donald Trump over Starlink access",
+              "url": "https://www.irishexaminer.com/world/arid-41924317.html"
+            },
+            {
+              "title": "Liga.net（Axios）：The White House denied that it had restricted Starlink access for the Ukrainian Armed Forces",
+              "url": "https://news.liga.net/en/amp/politics/news/axios-the-white-house-denied-that-it-had-restricted-starlink-access-for-the-ukrainian-armed-forces-zelenskyy-responded"
+            },
+            {
+              "title": "NPR：World News",
+              "url": "https://www.npr.org/sections/world/"
+            }
+          ]
+        },
+        {
+          "title": "以色列 10/27 大選倒數，民調顯示納坦雅胡陣營難過半",
+          "category": "國際政治與地緣",
+          "summary": "以色列將於 10/27 舉行國會大選，這是 2023 年 10 月 7 日哈瑪斯襲擊與加薩戰爭後的首次全國選舉。歷次民調顯示，納坦雅胡領導的民族主義與宗教政黨聯盟可能拿不到 61 席過半，但反對陣營（包括班奈特與拉皮德合組的聯合名單、艾森科特等）也還看不到明確的執政路徑。以色列駐聯合國大使已警告伊朗與真主黨不要干預選舉。（民調多為 7–9 月資料，最新情勢可能已有變化。）",
+          "why": "選舉結果將直接影響以色列對伊朗、黎巴嫩與加薩的政策走向，也會左右美以聯手對伊朗施壓的力道。",
+          "sources": [
+            {
+              "title": "Ahram Online：Israel elections to be held on 27 October",
+              "url": "https://english.ahram.org.eg/News/572724.aspx"
+            },
+            {
+              "title": "NPR：News",
+              "url": "https://www.npr.org/sections/news/"
+            }
+          ]
+        },
+        {
+          "title": "美國能源部最高貸款 44 億美元，重啟三座已關閉核電廠以供應 AI 資料中心",
+          "category": "ESG／氣候與歐盟法規",
+          "summary": "美聯社報導，美國能源部將提供最高 44 億美元貸款，重啟密西根的 Palisades、賓州三哩島的 Crane 清潔能源中心，以及愛荷華的 Duane Arnold 三座核電廠，合計可恢復 2.25GW 發電量；其中兩座已和大型科技公司簽約，以溢價供應資料中心無碳電力。三座電廠都因電價缺乏競爭力而提前關閉，過去沒有商業反應爐在開始除役後重新發電的先例。",
+          "why": "AI 用電需求正在改寫能源政策，核能成為兼顧減碳與穩定供電的選項；但重啟成本、安全審查與工期都有不確定性。對企業而言，「無碳電力」正成為 AI 與資料中心供應鏈的新門檻。",
+          "sources": [
+            {
+              "title": "BNN Bloomberg（AP）：US is reviving shuttered nuclear plants to power data centres",
+              "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/10/16/us-is-reviving-shuttered-nuclear-plants-to-meet-growing-electricity-demand-and-to-power-data-centres/"
+            },
+            {
+              "title": "Courthouse News（AP）：US is reviving shuttered nuclear plants",
+              "url": "https://www.courthousenews.com/us-is-reviving-shuttered-nuclear-plants-to-meet-growing-electricity-demand-and-to-power-data-centers/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "name": "股市觀察（美股・台股）",
+      "items": [
+        {
+          "title": "費半連跌 8 日、市值蒸發約 2 兆美元，追平金融海嘯以來最長跌勢",
+          "category": "產業與個股",
+          "summary": "據報導，費城半導體指數截至 10/16 已連續 8 個交易日下跌，前 7 個交易日累計跌幅超過 13%，市值蒸發約 2 兆美元，追平 2008 年金融海嘯以來最長的連跌紀錄；超過一半的成分股已較高點下跌至少 10%。CPI 高於預期後，市場對聯準會 10 月升息的機率押注一度由 22% 升至 37%，加上 AI 支出與記憶體競爭疑慮，都是賣壓來源。",
+          "why": "半導體是台股的核心，費半的連續修正直接反映在外資對台股的賣超上。本週 Tesla、Meta 等科技財報，以及週一中國 GDP，可能決定這波跌勢是否止穩。",
+          "sources": [
+            {
+              "title": "Stocktwits：Chip Stocks On Track For 8-Day Slide Erasing $2 Trillion, Matches Worst Streak Since Financial Crisis",
+              "url": "https://stocktwits.com/news-articles/Markets/Equity/semiconductor-stocks-sox-losing-streak-2-trillion-ai-selloff/cZxKaOoRBsy"
+            },
+            {
+              "title": "ROIC：Chip stocks plunge, Philadelphia Semiconductor Index set to erase over $2 trillion",
+              "url": "https://www.roic.ai/news/chip-stocks-plunge-philadelphia-semiconductor-index-set-to-erase-over-2-trillion-in-market-value-10-15-2026"
+            }
+          ]
+        },
+        {
+          "title": "本週亞股焦點：中國 GDP 與金融街論壇今日登場，南韓央行週四決議",
+          "category": "台股",
+          "summary": "中國今天上午 10 點公布第三季 GDP 與 9 月零售、工業生產數據，同日北京金融街論壇開幕，證監會主席吳清等官員出席。本週其他亞洲重點包括：日本週三公布 9 月貿易數據、週五公布 CPI，南韓央行週四利率決議；台灣經濟部預計本週公布 9 月外銷訂單。美股方面，Netflix、Tesla、Meta 財報陸續登場。",
+          "why": "台股上週外資連 8 日賣超，本週開盤將同時受到美股科技股週五重挫、中國經濟數據與亞洲政策訊號影響；若中國數據疲弱或金融街論壇推出刺激措施，都會牽動亞洲資金流向。",
+          "sources": [
+            {
+              "title": "BigGo Finance：Week Ahead: China's Q3 GDP and Financial Street Forum Kick Off Together",
+              "url": "https://finance.biggo.com/news/a65c674a-7d89-40ae-ad48-066505049f46"
+            },
+            {
+              "title": "HDFCSky：Stock Market Week Ahead: China GDP In Focus",
+              "url": "https://hdfcsky.com/news/stock-market-week-ahead-jio-platforms-ipo-bank-earnings-china-gdp-in-focus"
+            }
+          ]
+        }
+      ],
+      "mood": "偏空、等待止穩訊號",
+      "outlook": "偏空的理由：費半連跌 8 日、市值蒸發約 2 兆美元，AI 估值與融資疑慮未解；油價在 110 美元附近，美伊僵局隨時可能升級；外資上週大舉撤出台股。偏多的理由：台積電財測強勁，台灣出口與外銷訂單持續創新高；連續大跌後技術面已偏超賣，美伊若在「七日方案」上出現突破，油價與通膨壓力可望緩解。\n\n綜合來看，本週仍以觀察止穩訊號為主：週一中國 GDP 與台股開盤反應、9 月外銷訂單，以及週三 Tesla 與 Meta 財報。以上僅整理市場資訊與各方觀點，不構成投資建議。"
+    },
+    {
+      "id": "ai",
+      "name": "AI 科技發展",
+      "items": [
+        {
+          "title": "中國擬將 AI 大模型、智能體等 23 項技術納入出口管制",
+          "category": "政策與監管",
+          "summary": "中國商務部與科技部 10/16 提出草案，擬將 40 項技術納入出口管制清單，其中 23 項與 AI 有關，涵蓋大型語言模型、AI 智能體、晶片設計與運算叢集，並首次把模型權重與原始碼納入範圍；14 項列為禁止出口、26 項為限制出口。以敏感國家數據訓練的大模型核心技術，以及用於國防、關鍵資訊基礎設施的智能體將被禁止出口；已開源或公開發表的技術不受影響。公眾意見徵詢至 11/15。",
+          "why": "在美國與台灣收緊對中晶片出口之際，中國也開始管制自家 AI 技術外流，AI 正式成為中美雙向管制的戰略資產；這可能影響中國開源模型的海外授權與跨國合作。",
+          "sources": [
+            {
+              "title": "ITV（AP）：China moves to curb tech exports, including AI, citing national security risks",
+              "url": "https://www.itv.com/news/2026-10-16/china-moves-to-curb-tech-exports-including-for-ai-and-solar"
+            },
+            {
+              "title": "Crypto Briefing：China proposes export controls on advanced AI, from model weights to agents",
+              "url": "https://cryptobriefing.com/china-proposes-ai-export-controls/"
+            },
+            {
+              "title": "AI Weekly：China Proposes Export Curbs on 23 AI Items, Weights Included",
+              "url": "https://aiweekly.co/alerts/china-proposes-export-curbs-on-23-ai-items-weights-included"
+            }
+          ]
+        },
+        {
+          "title": "嘉信與摩根大通封鎖外部 AI 代理動用客戶資金",
+          "category": "產業與投資",
+          "summary": "嘉信理財執行長 Wurster 表示，公司不會讓 AI 代理代替客戶登入帳戶，並已封鎖包括 Meta Muse 在內、試圖移動客戶資金的未授權代理；嘉信將改以 MCP 伺服器提供外部 AI 工具唯讀存取，並推廣自家助理 Charley。摩根大通執行長戴蒙在財報會議上也表示，不會讓任何外部代理隨意進入，目前已封鎖代表零售客戶操作的外部 AI 代理。",
+          "why": "AI 代理開始實際接觸金融帳戶，責任歸屬與資安規範仍是空白；金融機構的防堵，也反映代理可能自動把閒置資金轉往高利率產品，直接衝擊券商的利息收入。",
+          "sources": [
+            {
+              "title": "The Next Web：Schwab and JPMorgan are blocking AI agents from moving customer money",
+              "url": "https://thenextweb.com/news/schwab-blocks-ai-agents-meta-muse"
+            },
+            {
+              "title": "American Banker：Schwab blocks unauthorized AI agents, points clients to Charley",
+              "url": "https://www.americanbanker.com/news/schwab-blocks-unauthorized-ai-agents-points-clients-to-charley"
+            },
+            {
+              "title": "Cybernews：JPMorgan blocks outside AI agents from customer accounts",
+              "url": "https://cybernews.com/security/jpmorgan-chase-blocks-outside-ai-agents/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "observation": "今天的主線是「戰爭與政治的不確定性，從中東延伸到北美」。伊朗以重開荷莫茲海峽為談判條件，川普則威脅「完成任務」，雙方僵局持續；烏克蘭與美國的互信因 Starlink 受限再度受損，以色列大選與加拿大亞伯達公投也讓盟友內部政治增添變數。\n\n科技戰線同樣升溫：美國與台灣收緊對中晶片出口後，中國也提出把 AI 大模型與智能體納入出口管制，AI 成為雙向管制的戰略資產；美國則以重啟核電廠的方式，為 AI 用電找出路。支持者認為這些措施有助保護國安與能源安全，批評者則擔心技術與能源的「陣營化」會推高成本、拖慢創新。\n\n接下來值得關注：今天的中國 GDP 與亞伯達公投結果、本週 Tesla 與 Meta 財報、台灣 9 月外銷訂單，以及 10/27 以色列大選前的情勢。",
+  "sources": [
+    {
+      "title": "CBS News：Iran says Strait of Hormuz reopening, seven-day ceasefire conditions still on the table",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-yemen-houthis-saudi-arabia/"
+    },
+    {
+      "title": "Fox News：Iran paying lip service to peace talks, but under claims of Strait of Hormuz control",
+      "url": "https://www.foxnews.com/live-news/us-iran-war-peace-talks-oil-strait-hormuz-trump-october-18"
+    },
+    {
+      "title": "Bloomberg：Alberta Separation Referendum Draws Over 1 Million Early Votes",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-16/alberta-separation-referendum-draws-over-1-million-early-votes-in-canada"
+    },
+    {
+      "title": "Fortune：Alberta separatist leader vows to continue independence movement regardless of outcome",
+      "url": "https://fortune.com/2026/10/18/alberta-separatist-leader-independence-movement-canada-remain-referendum-vote/"
+    },
+    {
+      "title": "Angus Reid Institute：'Remain' continues to lead by a wide margin",
+      "url": "https://angusreid.org/alberta-referendum-remain-continues-to-lead-by-a-wide-margin-but-few-believe-separation-issue-will-end-on-oct-19/"
+    },
+    {
+      "title": "Irish Examiner：Zelenskyy feels 'betrayed' by Donald Trump over Starlink access",
+      "url": "https://www.irishexaminer.com/world/arid-41924317.html"
+    },
+    {
+      "title": "Liga.net（Axios）：The White House denied that it had restricted Starlink access for the Ukrainian Armed Forces",
+      "url": "https://news.liga.net/en/amp/politics/news/axios-the-white-house-denied-that-it-had-restricted-starlink-access-for-the-ukrainian-armed-forces-zelenskyy-responded"
+    },
+    {
+      "title": "NPR：World News",
+      "url": "https://www.npr.org/sections/world/"
+    },
+    {
+      "title": "Ahram Online：Israel elections to be held on 27 October",
+      "url": "https://english.ahram.org.eg/News/572724.aspx"
+    },
+    {
+      "title": "NPR：News",
+      "url": "https://www.npr.org/sections/news/"
+    },
+    {
+      "title": "BNN Bloomberg（AP）：US is reviving shuttered nuclear plants to power data centres",
+      "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/10/16/us-is-reviving-shuttered-nuclear-plants-to-meet-growing-electricity-demand-and-to-power-data-centres/"
+    },
+    {
+      "title": "Courthouse News（AP）：US is reviving shuttered nuclear plants",
+      "url": "https://www.courthousenews.com/us-is-reviving-shuttered-nuclear-plants-to-meet-growing-electricity-demand-and-to-power-data-centers/"
+    },
+    {
+      "title": "Stocktwits：Chip Stocks On Track For 8-Day Slide Erasing $2 Trillion, Matches Worst Streak Since Financial Crisis",
+      "url": "https://stocktwits.com/news-articles/Markets/Equity/semiconductor-stocks-sox-losing-streak-2-trillion-ai-selloff/cZxKaOoRBsy"
+    },
+    {
+      "title": "ROIC：Chip stocks plunge, Philadelphia Semiconductor Index set to erase over $2 trillion",
+      "url": "https://www.roic.ai/news/chip-stocks-plunge-philadelphia-semiconductor-index-set-to-erase-over-2-trillion-in-market-value-10-15-2026"
+    },
+    {
+      "title": "BigGo Finance：Week Ahead: China's Q3 GDP and Financial Street Forum Kick Off Together",
+      "url": "https://finance.biggo.com/news/a65c674a-7d89-40ae-ad48-066505049f46"
+    },
+    {
+      "title": "HDFCSky：Stock Market Week Ahead: China GDP In Focus",
+      "url": "https://hdfcsky.com/news/stock-market-week-ahead-jio-platforms-ipo-bank-earnings-china-gdp-in-focus"
+    },
+    {
+      "title": "ITV（AP）：China moves to curb tech exports, including AI, citing national security risks",
+      "url": "https://www.itv.com/news/2026-10-16/china-moves-to-curb-tech-exports-including-for-ai-and-solar"
+    },
+    {
+      "title": "Crypto Briefing：China proposes export controls on advanced AI, from model weights to agents",
+      "url": "https://cryptobriefing.com/china-proposes-ai-export-controls/"
+    },
+    {
+      "title": "AI Weekly：China Proposes Export Curbs on 23 AI Items, Weights Included",
+      "url": "https://aiweekly.co/alerts/china-proposes-export-curbs-on-23-ai-items-weights-included"
+    },
+    {
+      "title": "The Next Web：Schwab and JPMorgan are blocking AI agents from moving customer money",
+      "url": "https://thenextweb.com/news/schwab-blocks-ai-agents-meta-muse"
+    },
+    {
+      "title": "American Banker：Schwab blocks unauthorized AI agents, points clients to Charley",
+      "url": "https://www.americanbanker.com/news/schwab-blocks-unauthorized-ai-agents-points-clients-to-charley"
+    },
+    {
+      "title": "Cybernews：JPMorgan blocks outside AI agents from customer accounts",
+      "url": "https://cybernews.com/security/jpmorgan-chase-blocks-outside-ai-agents/"
+    }
+  ]
+}

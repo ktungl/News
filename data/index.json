@@ -22,6 +22,66 @@
  },
  "days": [
   {
+   "date": "2026-10-19",
+   "title": "🌏 每日早報｜2026/10/19",
+   "items": [
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "伊朗外長：「七日方案」仍有效，美國解除封鎖後第六天重開荷莫茲；川普警告「很快完成任務」",
+     "anchor": "world-1"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "加拿大亞伯達省今天舉行獨立公投，民調顯示「留在加拿大」大幅領先",
+     "anchor": "world-2"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "澤倫斯基稱美方是烏軍 Starlink 受限的幕後原因，白宮否認",
+     "anchor": "world-3"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "以色列 10/27 大選倒數，民調顯示納坦雅胡陣營難過半",
+     "anchor": "world-4"
+    },
+    {
+     "section": "world",
+     "category": "ESG／氣候與歐盟法規",
+     "title": "美國能源部最高貸款 44 億美元，重啟三座已關閉核電廠以供應 AI 資料中心",
+     "anchor": "world-5"
+    },
+    {
+     "section": "markets",
+     "category": "產業與個股",
+     "title": "費半連跌 8 日、市值蒸發約 2 兆美元，追平金融海嘯以來最長跌勢",
+     "anchor": "markets-1"
+    },
+    {
+     "section": "markets",
+     "category": "台股",
+     "title": "本週亞股焦點：中國 GDP 與金融街論壇今日登場，南韓央行週四決議",
+     "anchor": "markets-2"
+    },
+    {
+     "section": "ai",
+     "category": "政策與監管",
+     "title": "中國擬將 AI 大模型、智能體等 23 項技術納入出口管制",
+     "anchor": "ai-1"
+    },
+    {
+     "section": "ai",
+     "category": "產業與投資",
+     "title": "嘉信與摩根大通封鎖外部 AI 代理動用客戶資金",
+     "anchor": "ai-2"
+    }
+   ]
+  },
+  {
    "date": "2026-10-18",
    "title": "🌏 每日早報｜2026/10/18",
    "items": [
