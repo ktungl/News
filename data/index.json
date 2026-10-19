@@ -22,6 +22,60 @@
  },
  "days": [
   {
+   "date": "2026-10-20",
+   "title": "🌏 每日早報｜2026/10/20",
+   "items": [
+    {
+     "section": "world",
+     "category": "台灣與亞太",
+     "title": "新台幣貶破 32.5 元創近 18 個月新低，央行罕見盤中發聲明穩匯市",
+     "anchor": "world-1"
+    },
+    {
+     "section": "world",
+     "category": "全球經濟與市場",
+     "title": "中國第三季 GDP 年增 4.5%，略優於預期，但內需仍疲弱",
+     "anchor": "world-2"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "荷莫茲攻擊持續：伊朗稱兩艘超級油輪觸雷起火，並揚言已擬定新的軍事反擊計畫",
+     "anchor": "world-3"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "後續：歐盟已正式通過史上最大對俄制裁名單，法國：不受川普與普丁協議影響",
+     "anchor": "world-4"
+    },
+    {
+     "section": "markets",
+     "category": "美股",
+     "title": "美股科技股反彈，那斯達克漲 1.1%，記憶體股領漲",
+     "anchor": "markets-1"
+    },
+    {
+     "section": "markets",
+     "category": "台股",
+     "title": "台股盤中重挫逾 940 點，央行喊話後收斂至跌 289 點，外資連 9 賣",
+     "anchor": "markets-2"
+    },
+    {
+     "section": "ai",
+     "category": "研究與安全",
+     "title": "CrowdStrike：南韓多家銀行遭駭，攻擊者運用中國開源 AI 代理與 Claude Code",
+     "anchor": "ai-1"
+    },
+    {
+     "section": "ai",
+     "category": "產業與投資",
+     "title": "逢低買盤回籠：市場押注 AI 投資潮延續，本週 Meta 財報成關鍵試金石",
+     "anchor": "ai-2"
+    }
+   ]
+  },
+  {
    "date": "2026-10-19",
    "title": "🌏 每日早報｜2026/10/19",
    "items": [

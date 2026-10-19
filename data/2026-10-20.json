@@ -1,0 +1,282 @@
+{
+  "date": "2026-10-20",
+  "title": "🌏 每日早報｜2026/10/20",
+  "generated_at": "2026-10-20T07:40:00+08:00",
+  "sections": [
+    {
+      "id": "world",
+      "name": "國際新聞",
+      "items": [
+        {
+          "title": "新台幣貶破 32.5 元創近 18 個月新低，央行罕見盤中發聲明穩匯市",
+          "category": "台灣與亞太",
+          "summary": "新台幣 10/19 盤中重貶逾 2 角、一度觸及 32.55 元，創近 18 個月新低。央行罕見在盤中發布聲明，指出 10/12 至 10/16 外資合計賣超台股 194.02 億美元、淨匯出 179.61 億美元，新台幣同期貶值 1.37%；並強調同期費半連 8 日下跌、累計跌幅 15.7%，台股跌幅僅 5.4%，相對抗跌。央行表示必要時將適時進場調節，維持匯率動態穩定。",
+          "why": "外資撤離已從股市延伸到匯市，央行罕見盤中喊話顯示壓力不小；市場也開始討論央行是否會以升息因應，這將影響房貸、企業融資成本與進口物價。",
+          "sources": [
+            {
+              "title": "聯合新聞網：外資大舉匯出近180億美元 央行罕見盤中喊話穩匯市",
+              "url": "https://udn.com/news/story/7239/9823569"
+            },
+            {
+              "title": "工商時報：新台幣貶貶貶！央行盤中喊話 點名主要壓力來源",
+              "url": "https://www.ctee.com.tw/news/20261019700800-430301"
+            },
+            {
+              "title": "中時新聞網：新台幣重貶逾2角摜破32.5元！央行罕見於盤中喊話",
+              "url": "https://www.chinatimes.com/realtimenews/20261019001766-260410"
+            }
+          ]
+        },
+        {
+          "title": "中國第三季 GDP 年增 4.5%，略優於預期，但內需仍疲弱",
+          "category": "全球經濟與市場",
+          "summary": "中國國家統計局 10/19 公布，第三季 GDP 年增 4.5%，高於路透調查預估的 4.4%，也比第二季的 4.3% 加快，季增 1.2%；前三季累計成長 4.6%。出口與工業生產是主要動力，9 月工業生產年增 5.5%，但零售銷售僅成長 1.1%，房地產與固定資產投資持續下滑。",
+          "why": "成長率剛好落在官方 4.5%–5% 目標的下緣，「外強內弱」的結構沒有改變。分析師預期北京會更依賴財政刺激；強勁出口則會持續加深與歐美的貿易摩擦。",
+          "sources": [
+            {
+              "title": "US News（Reuters）：China's Economic Growth Picks up in Third Quarter, Beating Expectations",
+              "url": "https://money.usnews.com/investing/news/articles/2026-10-18/chinas-economic-growth-picks-up-in-third-quarter-beating-expectations"
+            },
+            {
+              "title": "China-Global South Project：China's Economic Growth Accelerates to 4.5% in Third Quarter",
+              "url": "https://chinaglobalsouth.com/2026/10/19/china-gdp-growth-q3-2026/"
+            },
+            {
+              "title": "Seoul Economic Daily：China's Third-Quarter GDP Grows 4.5%, Beating Forecasts",
+              "url": "https://en.sedaily.com/international/2026/10/19/chinas-third-quarter-gdp-grows-45-percent-beating-forecasts"
+            }
+          ]
+        },
+        {
+          "title": "荷莫茲攻擊持續：伊朗稱兩艘超級油輪觸雷起火，並揚言已擬定新的軍事反擊計畫",
+          "category": "國際政治與地緣",
+          "summary": "伊朗革命衛隊宣稱，兩艘各載約 200 萬桶原油的油輪在荷莫茲海峽觸雷起火，理由是兩船關閉定位系統、走了未經伊朗授權的航道，但西方軍方與海事機構尚未證實。另有船隻 10/18 在沙烏地朱拜勒港東北約 120 公里處，遭小艇發射的火箭彈擊中。報導指過去 10 天至少 15 艘船遇襲；伊朗一名高階安全官員也表示，若美以再度攻擊，伊朗已擬定新的軍事反擊策略。布蘭特油價 10/19 早盤一度逼近 108 美元。",
+          "why": "伊朗正以實際攻擊鞏固對海峽的控制，搭配「七日方案」的談判條件施壓美國；航運風險與油價短期內難以回落。",
+          "sources": [
+            {
+              "title": "Yahoo News：Iran says two tankers catch fire after hitting mines in Strait of Hormuz",
+              "url": "https://www.yahoo.com/news/world/articles/iran-says-two-tankers-catch-015418371.html"
+            },
+            {
+              "title": "Modern Diplomacy：Iran Says Mines Hit Two Tankers in Strait of Hormuz",
+              "url": "https://moderndiplomacy.eu/2026/10/17/iran-says-mines-hit-two-tankers-in-strait-of-hormuz-escalating-maritime-security-fears/"
+            },
+            {
+              "title": "UA.News（The Guardian）：At Least 15 Ships Attacked in the Strait of Hormuz",
+              "url": "https://ua.news/en/world/v-ormuzkii-prototsi-atakuvali-shchonaimenshe-15-suden-the-guardian"
+            },
+            {
+              "title": "FDD：Overnight Brief, October 19, 2026",
+              "url": "https://fdd.org/overnight-brief/october-19-2026"
+            }
+          ]
+        },
+        {
+          "title": "後續：歐盟已正式通過史上最大對俄制裁名單，法國：不受川普與普丁協議影響",
+          "category": "國際政治與地緣",
+          "summary": "10/14 早報提到尚待確認的歐盟新制裁，已在 10/12 盧森堡外長會議正式通過：新增 826 家俄國企業與 743 名高階主管，共近 1,600 筆，過半鎖定彈道飛彈的生產鏈；另對 77 名在烏克蘭占領區籌辦俄國杜馬選舉的人士實施制裁。法國外長巴羅表示，即使川普與普丁達成協議，歐盟制裁仍將維持；拉脫維亞外長則呼籲全面禁止俄國穀物進口與過境。",
+          "why": "在美國豁免《葛蘭姆法》對俄制裁之際，歐盟選擇加碼，美歐對俄路線分歧更加明顯，也讓烏克蘭在外交上更依賴歐洲。",
+          "sources": [
+            {
+              "title": "The Moscow Times：EU Adopts Record Sanctions Expansion Targeting 1.6K Russian Defense Firms and Executives",
+              "url": "https://www.themoscowtimes.com/2026/10/12/eu-adopts-record-sanctions-expansion-targeting-16k-russian-defense-firms-and-executives-a93952"
+            },
+            {
+              "title": "Latvia MFA：EU Foreign Affairs Council adopts largest-ever package of sanctions listings against Russia",
+              "url": "https://www.mfa.gov.lv/en/article/eu-foreign-affairs-council-adopts-largest-ever-package-sanctions-listings-against-russia"
+            },
+            {
+              "title": "Mezha：EU sanctions against Russia will remain in force despite Trump's agreements with Putin",
+              "url": "https://mezha.net/eng/news/mezha-dd04d1c0b6d5d2e920768d84_eu_sanctions_against/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "name": "股市觀察（美股・台股）",
+      "items": [
+        {
+          "title": "美股科技股反彈，那斯達克漲 1.1%，記憶體股領漲",
+          "category": "美股",
+          "summary": "美東 10/19 那斯達克上漲 1.11%（290.85 點）至 26,430.89，標普 500 上漲 0.41% 至 7,690.73，道瓊小跌 0.07% 至 51,966.03。上週重挫的記憶體股領漲，美光漲近 3%；摩根士丹利把亞馬遜列為首選、目標價上看 350 美元，帶動亞馬遜大漲。WTI 油價則因胡塞武裝攻擊沙烏地設施的消息上漲逾 2%。",
+          "why": "費半連跌 8 日後終於出現逢低買盤，市場押注 AI 投資潮仍能支撐企業獲利；但這週 Meta、Tesla 等財報，才是檢驗反彈能否延續的關鍵。",
+          "sources": [
+            {
+              "title": "Anadolu Agency：US stocks close Monday mixed as tech shares rise",
+              "url": "https://aa.com.tr/en/economy/us-stocks-close-monday-mixed-as-tech-shares-raise/4093958"
+            },
+            {
+              "title": "TradingKey：Nasdaq Rises 1.1% as Tech Stocks Rebound, Micron Up Nearly 3%",
+              "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262224387-us-stock-market-close-nasdaq-rise-memory-micron-sandisk-tradingkey"
+            },
+            {
+              "title": "Motley Fool：Amazon Surges on Morgan Stanley Top Pick and $350 Price Target",
+              "url": "https://fool.com/coverage/stock-market-today/2026/10/19/stock-market-today-oct-19-amazon-surges-on-morgan-stanley-top-pick-and-usd350-price-target"
+            }
+          ]
+        },
+        {
+          "title": "台股盤中重挫逾 940 點，央行喊話後收斂至跌 289 點，外資連 9 賣",
+          "category": "台股",
+          "summary": "加權指數 10/19 收 46,822.08 點，下跌 289.18 點，盤中一度重挫逾 940 點，央行盤中發布聲明後跌幅收斂，守住季線；成交值約 8,251 億元。三大法人合計賣超 899.54 億元：外資賣超 767.42 億元（連 9 賣，9 日累計約 7,585 億元）、自營商賣超 362.63 億元，投信買超 230.51 億元（連 7 買）。台積電盤中一度跌至 2,390 元，尾盤拉回平盤 2,420 元；外資賣超最多的是力積電，中鋼則連 7 日獲外資買超。",
+          "why": "央行表態與台積電尾盤護盤暫時穩住指數，但外資連續賣超、資金匯出的趨勢還沒有改變。美股 10/19 科技股反彈，今天台股有機會跟進，外資動向仍是關鍵。",
+          "sources": [
+            {
+              "title": "中央社：外資賣超767億元連9賣 調節力積電4.64萬張居首",
+              "url": "https://www.cna.com.tw/news/afe/202610190222.aspx"
+            },
+            {
+              "title": "經濟日報：外資賣超不手軟！三大法人續砍899億元 台股跌289點",
+              "url": "https://money.udn.com/money/story/5607/9824127"
+            },
+            {
+              "title": "中天新聞：央行盤中聲明奏效！台股收盤跌289點 台積電回平盤",
+              "url": "https://ctinews.com/news/items/8knJqBXdxo"
+            }
+          ]
+        }
+      ],
+      "mood": "短線偏謹慎、留意反彈",
+      "outlook": "偏多的理由：費半連跌後美股科技股出現反彈，記憶體股領漲；中國 GDP 略優於預期；央行表態穩匯市，台積電與投信持續護盤，台股守住季線。偏空的理由：外資連 9 日賣超、大舉匯出資金，新台幣創近 18 個月新低；荷莫茲海峽攻擊持續，油價仍在 105 美元以上，通膨與升息壓力未解。\n\n綜合來看，短線偏謹慎，但有機會出現技術性反彈。本週關鍵是週二 Netflix、週三 Tesla 與 Meta 財報，以及台灣 9 月外銷訂單與新台幣匯率走勢。以上僅整理市場資訊與各方觀點，不構成投資建議。"
+    },
+    {
+      "id": "ai",
+      "name": "AI 科技發展",
+      "items": [
+        {
+          "title": "CrowdStrike：南韓多家銀行遭駭，攻擊者運用中國開源 AI 代理與 Claude Code",
+          "category": "研究與安全",
+          "summary": "資安公司 CrowdStrike 報告指出，9 月底至 10 月初針對南韓金融機構的攻擊中，嫌犯使用了中國開發的開源自動化滲透測試代理 ARTEX，以及包括 Claude 在內的大型語言模型；嫌犯可能是一名在廣東的 26 歲男子，但尚未歸屬於特定國家級駭客組織。至少 9 家南韓銀行傳出遭攻擊，新韓銀行約 2.5 萬名客戶個資外洩，南韓警方已介入調查。（本則為 10/8 起的報導，此前早報未收錄。）",
+          "why": "這是 AI 代理被實際用於大規模金融攻擊的具體案例，降低了發動複雜攻擊的門檻；金融業封鎖外部 AI 代理、監管機關要求 AI 公司揭露安全事件，背後都是同樣的擔憂。",
+          "sources": [
+            {
+              "title": "ITnews：CrowdStrike says China-based suspect used AI tools in South Korean bank hacks",
+              "url": "https://www.itnews.com.au/news/crowdstrike-says-china-based-suspect-used-ai-tools-in-south-korean-bank-hacks-629513"
+            },
+            {
+              "title": "ThePrint（Reuters）：South Korean banks were likely hacked by a Chinese-based actor with an AI agent",
+              "url": "https://theprint.in/world/south-korean-banks-were-likely-hacked-by-a-chinese-based-actor-with-an-ai-agent-crowdstrike-says/3065548/"
+            },
+            {
+              "title": "The Vibes：AI agents used in cyberattacks targeting South Korean banks",
+              "url": "https://www.thevibes.com/articles/world/128084/ai-agents-used-in-cyberattacks-targeting-south-korean-banks-crowdstrike-says"
+            }
+          ]
+        },
+        {
+          "title": "逢低買盤回籠：市場押注 AI 投資潮延續，本週 Meta 財報成關鍵試金石",
+          "category": "產業與投資",
+          "summary": "經過上週的 AI 股重挫，10/19 美股晶片股反彈，彭博形容逢低買盤押注 AI 投資熱潮將持續支撐企業獲利；記憶體股領漲，美光上漲近 3%。市場焦點轉向本週 Meta 財報，特別是其 AI 資本支出指引與 Muse 模型的商業化進展。",
+          "why": "Meta 是 AI 資本支出最大的公司之一，它的支出指引與獲利表現，將直接影響市場對「AI 投資能否轉成獲利」的判斷，也牽動台灣 AI 伺服器供應鏈的訂單預期。",
+          "sources": [
+            {
+              "title": "Bloomberg：Stock Market Today: Dow, S&P Live Updates for October 19",
+              "url": "https://www.bloomberg.com/news/articles/2026-10-18/stock-market-today-dow-s-p-live-updates"
+            },
+            {
+              "title": "TradingKey：Memory Stocks Lead Gains With Micron Up Nearly 3%",
+              "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262224387-us-stock-market-close-nasdaq-rise-memory-micron-sandisk-tradingkey"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "observation": "今天的主線是「外資撤離台灣，央行出面止血」。上週外資從台股提款逾 7,500 億元，資金大舉匯出，讓新台幣貶破 32.5 元；央行罕見盤中喊話，並強調台股跌幅遠小於費半，試圖穩住信心。背後的驅動力來自外部：荷莫茲海峽攻擊持續、油價高檔帶動美國通膨回升，以及市場對 AI 估值的重新檢視。\n\n另一方面，中國第三季 GDP 略優於預期，美股科技股也出現反彈，顯示市場在恐慌之後開始尋找支撐。樂觀者認為台灣的出口與接單仍強，外資賣超終會收斂；悲觀者則提醒，只要戰爭與升息風險還在，資金外流與匯率壓力可能持續，央行升息與否也將成為新的變數。\n\n接下來值得關注：Netflix、Tesla、Meta 財報、台灣 9 月外銷訂單、新台幣匯率與央行動作、亞伯達公投結果，以及荷莫茲海峽的航運情勢。",
+  "sources": [
+    {
+      "title": "聯合新聞網：外資大舉匯出近180億美元 央行罕見盤中喊話穩匯市",
+      "url": "https://udn.com/news/story/7239/9823569"
+    },
+    {
+      "title": "工商時報：新台幣貶貶貶！央行盤中喊話 點名主要壓力來源",
+      "url": "https://www.ctee.com.tw/news/20261019700800-430301"
+    },
+    {
+      "title": "中時新聞網：新台幣重貶逾2角摜破32.5元！央行罕見於盤中喊話",
+      "url": "https://www.chinatimes.com/realtimenews/20261019001766-260410"
+    },
+    {
+      "title": "US News（Reuters）：China's Economic Growth Picks up in Third Quarter, Beating Expectations",
+      "url": "https://money.usnews.com/investing/news/articles/2026-10-18/chinas-economic-growth-picks-up-in-third-quarter-beating-expectations"
+    },
+    {
+      "title": "China-Global South Project：China's Economic Growth Accelerates to 4.5% in Third Quarter",
+      "url": "https://chinaglobalsouth.com/2026/10/19/china-gdp-growth-q3-2026/"
+    },
+    {
+      "title": "Seoul Economic Daily：China's Third-Quarter GDP Grows 4.5%, Beating Forecasts",
+      "url": "https://en.sedaily.com/international/2026/10/19/chinas-third-quarter-gdp-grows-45-percent-beating-forecasts"
+    },
+    {
+      "title": "Yahoo News：Iran says two tankers catch fire after hitting mines in Strait of Hormuz",
+      "url": "https://www.yahoo.com/news/world/articles/iran-says-two-tankers-catch-015418371.html"
+    },
+    {
+      "title": "Modern Diplomacy：Iran Says Mines Hit Two Tankers in Strait of Hormuz",
+      "url": "https://moderndiplomacy.eu/2026/10/17/iran-says-mines-hit-two-tankers-in-strait-of-hormuz-escalating-maritime-security-fears/"
+    },
+    {
+      "title": "UA.News（The Guardian）：At Least 15 Ships Attacked in the Strait of Hormuz",
+      "url": "https://ua.news/en/world/v-ormuzkii-prototsi-atakuvali-shchonaimenshe-15-suden-the-guardian"
+    },
+    {
+      "title": "FDD：Overnight Brief, October 19, 2026",
+      "url": "https://fdd.org/overnight-brief/october-19-2026"
+    },
+    {
+      "title": "The Moscow Times：EU Adopts Record Sanctions Expansion Targeting 1.6K Russian Defense Firms and Executives",
+      "url": "https://www.themoscowtimes.com/2026/10/12/eu-adopts-record-sanctions-expansion-targeting-16k-russian-defense-firms-and-executives-a93952"
+    },
+    {
+      "title": "Latvia MFA：EU Foreign Affairs Council adopts largest-ever package of sanctions listings against Russia",
+      "url": "https://www.mfa.gov.lv/en/article/eu-foreign-affairs-council-adopts-largest-ever-package-sanctions-listings-against-russia"
+    },
+    {
+      "title": "Mezha：EU sanctions against Russia will remain in force despite Trump's agreements with Putin",
+      "url": "https://mezha.net/eng/news/mezha-dd04d1c0b6d5d2e920768d84_eu_sanctions_against/"
+    },
+    {
+      "title": "Anadolu Agency：US stocks close Monday mixed as tech shares rise",
+      "url": "https://aa.com.tr/en/economy/us-stocks-close-monday-mixed-as-tech-shares-raise/4093958"
+    },
+    {
+      "title": "TradingKey：Nasdaq Rises 1.1% as Tech Stocks Rebound, Micron Up Nearly 3%",
+      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262224387-us-stock-market-close-nasdaq-rise-memory-micron-sandisk-tradingkey"
+    },
+    {
+      "title": "Motley Fool：Amazon Surges on Morgan Stanley Top Pick and $350 Price Target",
+      "url": "https://fool.com/coverage/stock-market-today/2026/10/19/stock-market-today-oct-19-amazon-surges-on-morgan-stanley-top-pick-and-usd350-price-target"
+    },
+    {
+      "title": "中央社：外資賣超767億元連9賣 調節力積電4.64萬張居首",
+      "url": "https://www.cna.com.tw/news/afe/202610190222.aspx"
+    },
+    {
+      "title": "經濟日報：外資賣超不手軟！三大法人續砍899億元 台股跌289點",
+      "url": "https://money.udn.com/money/story/5607/9824127"
+    },
+    {
+      "title": "中天新聞：央行盤中聲明奏效！台股收盤跌289點 台積電回平盤",
+      "url": "https://ctinews.com/news/items/8knJqBXdxo"
+    },
+    {
+      "title": "ITnews：CrowdStrike says China-based suspect used AI tools in South Korean bank hacks",
+      "url": "https://www.itnews.com.au/news/crowdstrike-says-china-based-suspect-used-ai-tools-in-south-korean-bank-hacks-629513"
+    },
+    {
+      "title": "ThePrint（Reuters）：South Korean banks were likely hacked by a Chinese-based actor with an AI agent",
+      "url": "https://theprint.in/world/south-korean-banks-were-likely-hacked-by-a-chinese-based-actor-with-an-ai-agent-crowdstrike-says/3065548/"
+    },
+    {
+      "title": "The Vibes：AI agents used in cyberattacks targeting South Korean banks",
+      "url": "https://www.thevibes.com/articles/world/128084/ai-agents-used-in-cyberattacks-targeting-south-korean-banks-crowdstrike-says"
+    },
+    {
+      "title": "Bloomberg：Stock Market Today: Dow, S&P Live Updates for October 19",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-18/stock-market-today-dow-s-p-live-updates"
+    }
+  ]
+}
