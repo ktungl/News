@@ -1,0 +1,354 @@
+{
+ "date": "2026-10-21",
+ "title": "🌏 每日早報｜2026/10/21",
+ "generated_at": "2026-10-21T07:20:00+08:00",
+ "sections": [
+  {
+   "id": "world",
+   "name": "國際新聞",
+   "items": [
+    {
+     "title": "台灣 9 月外銷訂單 1,142.1 億美元創單月新高，年增 62.4%、連 20 紅",
+     "category": "台灣與亞太",
+     "summary": "經濟部公布 9 月外銷訂單 1,142.1 億美元，年增 62.4%，連續 20 個月成長；第三季 3,151 億美元、前三季 8,192 億美元，已超越 2025 年全年的 7,437.3 億美元。資訊通信產品接單 438.8 億美元、年增 87.3%，光學器材則年減 5.6%。",
+     "why": "AI 伺服器與相關零組件需求仍是台灣出口主引擎，全年接單可望首度突破 1.1 兆美元；但成長高度集中在 AI 供應鏈，傳統產業與部分電子零組件動能相對有限。",
+     "glossary": [
+      {
+       "term": "外銷訂單",
+       "def": "國外客戶向台灣廠商下的訂單金額，通常領先實際出口 1–3 個月，被視為景氣的前瞻指標。"
+      },
+      {
+       "term": "資訊通信產品",
+       "def": "經濟部的分類，主要包含伺服器、電腦、網通設備等，近年 AI 伺服器是最大成長來源。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "中央社：9月外銷訂單1142.1億美元 創單月新高",
+       "url": "https://www.cna.com.tw/news/afe/202610200208.aspx"
+      },
+      {
+       "title": "中央社：外銷訂單連20紅 全年估破1.1兆美元",
+       "url": "https://www.cna.com.tw/news/afe/202610200279.aspx"
+      },
+      {
+       "title": "聯合報：9月外銷訂單創新高",
+       "url": "https://udn.com/news/story/7238/9826558"
+      }
+     ]
+    },
+    {
+     "title": "加拿大亞伯達省獨立公投初步結果：約 76% 選擇留在加拿大",
+     "category": "國際政治與地緣",
+     "summary": "亞伯達省 10/19 舉行是否啟動脫離加拿大程序的公投，以約 180 萬票開出的初步結果，約 76% 反對、24% 支持。總理卡尼稱這是「明確的選擇」，但分離派人士表示將持續推動。",
+     "why": "結果大幅降低加拿大短期內面臨分裂的風險，有助穩定能源大省與聯邦的關係；但約四分之一選民支持啟動分離，顯示西部對聯邦能源與財政政策的不滿仍深。",
+     "glossary": [
+      {
+       "term": "亞伯達省",
+       "def": "加拿大西部省份，石油與天然氣產量占全國大宗，長期不滿聯邦的環保與財政分配政策。"
+      },
+      {
+       "term": "公投",
+       "def": "由選民直接對特定議題投票表決，結果的法律效力依各地法律規定而不同。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "Al Jazeera: Alberta voters reject separation from Canada, early results show",
+       "url": "https://www.aljazeera.com/news/2026/10/20/alberta-voters-reject-separation-from-canada-early-results-show"
+      },
+      {
+       "title": "CBC News: Alberta referendum results live updates",
+       "url": "https://www.cbc.ca/news/canada/edmonton/livestory/alberta-referendum-results-live-updates-separatism-october-19-2026-9.7387777"
+      },
+      {
+       "title": "CNN: Alberta rejects independence referendum",
+       "url": "https://www.cnn.com/2026/10/20/americas/alberta-rejects-independence-referendum-canada-intl-latam-hnk"
+      }
+     ]
+    },
+    {
+     "title": "伊朗總統：美國不停止施壓就不重返談判；俄外長訪德黑蘭",
+     "category": "國際政治與地緣",
+     "summary": "伊朗總統裴澤斯基表示，在美國停止施壓之前不會回到談判桌；俄羅斯外長同日訪問德黑蘭。另據報導，以色列總理納坦雅胡在與川普通話時提出再度聯合空襲的構想，雙方未公開證實細節。（註：納坦雅胡提議聯合空襲一事為媒體引述消息人士，未經官方證實。）",
+     "why": "外交管道進一步收窄，加上荷莫茲海峽航運攻擊持續，油價與航運風險短期難以消退；俄羅斯介入則讓美伊角力增添大國因素。",
+     "glossary": [
+      {
+       "term": "荷莫茲海峽",
+       "def": "波斯灣通往外海的狹窄水道，全球約五分之一的石油運輸經過這裡。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "CBS News: Iran live updates, Oct. 20",
+       "url": "https://www.cbsnews.com/live-updates/iran-war-news-2026-10-20/"
+      },
+      {
+       "title": "NBC News: Iran war",
+       "url": "https://www.nbcnews.com/world/iran-war"
+      },
+      {
+       "title": "Times of Israel liveblog Oct. 20",
+       "url": "https://www.timesofisrael.com/liveblog-october-20-2026/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "markets",
+   "name": "股市觀察（美股・台股）",
+   "items": [
+    {
+     "title": "美股：道瓊漲逾 500 點，3M 財報亮眼、醫療股創高；科技股仍受 AI 債務疑慮拖累",
+     "category": "美股",
+     "summary": "10/20 道瓊上漲 529.85 點（+1.02%）至約 52,496 點，標普 500 漲 0.3% 至約 7,712.57 點，那斯達克小跌 0.02% 至約 26,424.82 點，羅素 2000 漲 1.65%。3M 財報優於預期大漲約 5%，禮來等醫療股創新高；通用汽車重挫近 8%，科技股則因 AI 投資與舉債的可持續性疑慮表現落後。",
+     "why": "資金從 AI 科技股輪動到傳產、醫療與小型股，顯示市場對 AI 題材轉趨挑剔；本週 Tesla、Meta 等財報將檢驗 AI 支出能否轉化為獲利。",
+     "glossary": [
+      {
+       "term": "羅素 2000",
+       "def": "由美國約 2,000 家中小型上市公司組成的指數，常用來觀察美國內需與中小企業景氣。"
+      },
+      {
+       "term": "類股輪動",
+       "def": "資金從一個產業族群轉向另一個族群，例如從科技股移到醫療、傳產股。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "CNBC: Stock market news for Oct. 20, 2026",
+       "url": "https://www.cnbc.com/2026/10/19/stock-market-today-live-updates.html"
+      }
+     ]
+    },
+    {
+     "title": "台股：外資連 10 賣、10 日賣超約 8,380 億元，加權指數跌 529 點收 46,292 點",
+     "category": "台股",
+     "summary": "10/20 加權指數下跌 529.15 點，收 46,292.93 點，成交值 7,586.84 億元。三大法人合計賣超 968.04 億元，其中外資賣超 795.4 億元、連續第 10 天賣超，10 日累計約 8,380 億元；投信買超 183.15 億元，自營商賣超 355.79 億元。台積電收 2,405 元、跌 15 元。",
+     "why": "外資 10 月以來賣超已逾 7,400 億元，是新台幣走貶與台股承壓的主因；投信持續逢低承接，但能否止跌仍取決於外資動向與美國科技股表現。",
+     "glossary": [
+      {
+       "term": "三大法人",
+       "def": "外資、投信（國內基金公司）與自營商（券商自有資金），是影響台股的主要機構投資人。"
+      },
+      {
+       "term": "賣超",
+       "def": "某段期間賣出金額大於買進金額，代表資金淨流出；相反則為買超。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "中央社：台股收跌529點 外資連10賣",
+       "url": "https://www.cna.com.tw/news/afe/202610200179.aspx"
+      },
+      {
+       "title": "中央社：三大法人賣超968億元",
+       "url": "https://www.cna.com.tw/news/afe/202610200226.aspx"
+      },
+      {
+       "title": "中央社：外資連10賣 台積電遭賣超",
+       "url": "https://www.cna.com.tw/news/afe/202610200242.aspx"
+      }
+     ]
+    },
+    {
+     "title": "Netflix 第三季獲利優於預期，但下修廣告營收目標，盤後跌約 6%",
+     "category": "產業與個股",
+     "summary": "Netflix 第三季每股盈餘 0.87 美元，高於預期的 0.82 美元；營收 128.7 億美元、年增 11.8%，符合預期，營業利益率 34.6%。公司將 2026 年廣告營收預估從約 30 億美元下修至約 27 億美元，第四季營收展望也略降，並傳出裁員約 1,000 人，股價盤後下跌約 6%。",
+     "why": "串流龍頭的廣告業務成長不如預期，市場關注數位廣告景氣是否降溫；這也是本週科技財報季的第一個訊號。",
+     "glossary": [
+      {
+       "term": "每股盈餘（EPS）",
+       "def": "公司稅後淨利除以流通股數，代表每一股賺多少錢，是財報最受關注的數字之一。"
+      },
+      {
+       "term": "營業利益率",
+       "def": "本業獲利占營收的比例，數字越高代表本業賺錢效率越好。"
+      },
+      {
+       "term": "盤後",
+       "def": "正式交易時間結束後的延長交易時段，公司常在此時公布財報，股價會先在盤後反應。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "CNBC: Netflix Q3 2026 earnings",
+       "url": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html"
+      },
+      {
+       "title": "Variety: Netflix Q3 2026 earnings",
+       "url": "https://variety.com/2026/tv/news/netflix-q3-2026-earnings-wall-street-layoffs-exec-firings-1236917438/"
+      },
+      {
+       "title": "The Hollywood Reporter: Netflix Q3 earnings",
+       "url": "https://www.hollywoodreporter.com/business/business-news/netflix-q3-2026-earnings-ad-sales-stock-decline-continues-1236735383/"
+      },
+      {
+       "title": "Deadline: Netflix Q3 results",
+       "url": "https://deadline.com/2026/10/netflix-q3-2026-earnings-layoffs-streaming-1237168825/"
+      }
+     ]
+    }
+   ],
+   "mood": "短線偏謹慎",
+   "outlook": "偏多因素：美國第三季財報整體優於預期，3M、醫療股帶動道瓊上漲，資金從科技股輪動至其他類股，顯示市場並未全面轉空；台灣 9 月外銷訂單創新高，AI 供應鏈接單動能仍強。偏空因素：AI 投資與相關舉債的可持續性受質疑，那斯達克與 AI 概念股表現落後；外資連續 10 天賣超台股、新台幣弱勢，台積電持續遭調節；Netflix 下修廣告營收也為科技財報季開出保守訊號；中東局勢未降溫，油價風險仍在。本週關鍵：Tesla、Meta 等科技財報，以及外資賣壓是否收斂。整體而言，美股呈現類股輪動、台股仍受資金外流壓抑。以上僅整理市場資訊與各方觀點，不構成投資建議。"
+  },
+  {
+   "id": "ai",
+   "name": "AI 科技發展",
+   "items": [
+    {
+     "title": "SpaceX 第三季營收年增 161%，AI 部門營收約 75.6 億美元、首度轉盈",
+     "category": "產業與投資",
+     "summary": "SpaceX 公布第三季營收約 146 億美元，年增 161%，優於預期；其中 AI 部門營收約 75.6 億美元（去年同期約 8.1 億美元），營業利益 4.31 億美元，去年同期為虧損。當季資本支出約 196 億美元，其中約 164 億美元投入 AI，淨利約 44 億美元。",
+     "why": "AI 算力出租（包含與 Anthropic、Google 的合約）已成為 SpaceX 最大營收來源，顯示 AI 基礎設施需求仍強；但巨額資本支出也呼應市場對 AI 投資能否回本的疑慮。",
+     "glossary": [
+      {
+       "term": "資本支出",
+       "def": "企業花在廠房、設備、資料中心等長期資產上的錢，AI 公司主要用來購買晶片與蓋機房。"
+      },
+      {
+       "term": "算力",
+       "def": "電腦執行運算的能力，訓練與運行 AI 模型需要大量 GPU 等晶片提供的算力。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "CNBC: SpaceX (SPCX) Q3 2026 earnings report live updates",
+       "url": "https://www.cnbc.com/2026/10/20/spacex-spcx-earnings-live-updates-q3-2026html.html"
+      },
+      {
+       "title": "U.S. News/Reuters: SpaceX Quarterly Revenue Jumps, Beats Estimates as AI Business Surges",
+       "url": "https://money.usnews.com/investing/news/articles/2026-10-20/spacex-quarterly-revenue-jumps-beats-estimates-as-ai-business-surges"
+      },
+      {
+       "title": "中央社：SpaceX上季營收倍增優於預期 AI業務勁增助攻",
+       "url": "https://www.cna.com.tw/news/aopl/202610210012.aspx"
+      }
+     ]
+    },
+    {
+     "title": "AI 泡沫疑慮延燒：CoreWeave 債券價格重挫，AI 概念股連日落後",
+     "category": "產業與投資",
+     "summary": "AI 算力租賃商 CoreWeave 本月股債雙殺，2032 年到期債券殖利率一度升破 15%，違約保險成本創紀錄；美國公共廣播 WBUR 10/20 以此為例討論 AI 投資是否形成泡沫。CNBC 指出，市場近來受 AI 交易的債務與需求可持續性疑慮拖累，10/20 道瓊上漲但 AI 相關股落後。",
+     "why": "AI 資料中心建設高度仰賴舉債，若融資成本持續上升，可能壓縮 AI 投資規模並波及晶片與伺服器供應鏈，台灣相關廠商也會受影響。",
+     "glossary": [
+      {
+       "term": "殖利率",
+       "def": "債券投資人實際可得的年化報酬率；債券價格下跌時殖利率上升，代表市場要求更高風險補償。"
+      },
+      {
+       "term": "CoreWeave",
+       "def": "美國 AI 雲端公司，向輝達購買 GPU 後出租算力給 AI 業者，大量以舉債方式擴張。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "WBUR Here & Now: Is the AI boom a bubble waiting to burst?",
+       "url": "https://www.wbur.org/hereandnow/2026/10/20/ai-bubble-debt"
+      },
+      {
+       "title": "The Star/Reuters: CoreWeave stock, bond set for weekly plunge",
+       "url": "https://www.thestar.com.my/tech/tech-news/2026/10/16/coreweave-stock-bond-set-for-weekly-plunge-as-rate-hike-fears-hit-ai-bet"
+      },
+      {
+       "title": "CNBC: Stock market news for Oct. 20, 2026",
+       "url": "https://www.cnbc.com/2026/10/19/stock-market-today-live-updates.html"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "observation": "今天的消息呈現出 AI 經濟的兩面。台灣 9 月外銷訂單創新高、SpaceX 的 AI 部門營收大增，說明 AI 基礎設施需求仍真實存在；但 CoreWeave 債券重挫、美股 AI 概念股落後，則反映市場開始追問這波投資的資金來源與回報速度。這種「需求強、資金緊」的落差，正是外資連續 10 天賣超台股的背景之一。\n\n政治面上，亞伯達公投以明顯差距選擇留在加拿大，暫時解除北美能源大省分裂的不確定性；伊朗則拒絕在美國施壓下重返談判，中東風險仍可能透過油價與航運傳導到全球市場。接下來幾天，可留意 Tesla、Meta 等科技財報能否舒緩 AI 投資疑慮、外資對台股賣壓是否收斂，以及美伊之間是否出現新的外交或軍事動作。",
+ "sources": [
+  {
+   "title": "中央社：9月外銷訂單1142.1億美元 創單月新高",
+   "url": "https://www.cna.com.tw/news/afe/202610200208.aspx"
+  },
+  {
+   "title": "中央社：外銷訂單連20紅 全年估破1.1兆美元",
+   "url": "https://www.cna.com.tw/news/afe/202610200279.aspx"
+  },
+  {
+   "title": "聯合報：9月外銷訂單創新高",
+   "url": "https://udn.com/news/story/7238/9826558"
+  },
+  {
+   "title": "Al Jazeera: Alberta voters reject separation from Canada, early results show",
+   "url": "https://www.aljazeera.com/news/2026/10/20/alberta-voters-reject-separation-from-canada-early-results-show"
+  },
+  {
+   "title": "CBC News: Alberta referendum results live updates",
+   "url": "https://www.cbc.ca/news/canada/edmonton/livestory/alberta-referendum-results-live-updates-separatism-october-19-2026-9.7387777"
+  },
+  {
+   "title": "CNN: Alberta rejects independence referendum",
+   "url": "https://www.cnn.com/2026/10/20/americas/alberta-rejects-independence-referendum-canada-intl-latam-hnk"
+  },
+  {
+   "title": "CBS News: Iran live updates, Oct. 20",
+   "url": "https://www.cbsnews.com/live-updates/iran-war-news-2026-10-20/"
+  },
+  {
+   "title": "NBC News: Iran war",
+   "url": "https://www.nbcnews.com/world/iran-war"
+  },
+  {
+   "title": "Times of Israel liveblog Oct. 20",
+   "url": "https://www.timesofisrael.com/liveblog-october-20-2026/"
+  },
+  {
+   "title": "CNBC: Stock market news for Oct. 20, 2026",
+   "url": "https://www.cnbc.com/2026/10/19/stock-market-today-live-updates.html"
+  },
+  {
+   "title": "中央社：台股收跌529點 外資連10賣",
+   "url": "https://www.cna.com.tw/news/afe/202610200179.aspx"
+  },
+  {
+   "title": "中央社：三大法人賣超968億元",
+   "url": "https://www.cna.com.tw/news/afe/202610200226.aspx"
+  },
+  {
+   "title": "中央社：外資連10賣 台積電遭賣超",
+   "url": "https://www.cna.com.tw/news/afe/202610200242.aspx"
+  },
+  {
+   "title": "CNBC: Netflix Q3 2026 earnings",
+   "url": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html"
+  },
+  {
+   "title": "Variety: Netflix Q3 2026 earnings",
+   "url": "https://variety.com/2026/tv/news/netflix-q3-2026-earnings-wall-street-layoffs-exec-firings-1236917438/"
+  },
+  {
+   "title": "The Hollywood Reporter: Netflix Q3 earnings",
+   "url": "https://www.hollywoodreporter.com/business/business-news/netflix-q3-2026-earnings-ad-sales-stock-decline-continues-1236735383/"
+  },
+  {
+   "title": "Deadline: Netflix Q3 results",
+   "url": "https://deadline.com/2026/10/netflix-q3-2026-earnings-layoffs-streaming-1237168825/"
+  },
+  {
+   "title": "CNBC: SpaceX (SPCX) Q3 2026 earnings report live updates",
+   "url": "https://www.cnbc.com/2026/10/20/spacex-spcx-earnings-live-updates-q3-2026html.html"
+  },
+  {
+   "title": "U.S. News/Reuters: SpaceX Quarterly Revenue Jumps, Beats Estimates as AI Business Surges",
+   "url": "https://money.usnews.com/investing/news/articles/2026-10-20/spacex-quarterly-revenue-jumps-beats-estimates-as-ai-business-surges"
+  },
+  {
+   "title": "中央社：SpaceX上季營收倍增優於預期 AI業務勁增助攻",
+   "url": "https://www.cna.com.tw/news/aopl/202610210012.aspx"
+  },
+  {
+   "title": "WBUR Here & Now: Is the AI boom a bubble waiting to burst?",
+   "url": "https://www.wbur.org/hereandnow/2026/10/20/ai-bubble-debt"
+  },
+  {
+   "title": "The Star/Reuters: CoreWeave stock, bond set for weekly plunge",
+   "url": "https://www.thestar.com.my/tech/tech-news/2026/10/16/coreweave-stock-bond-set-for-weekly-plunge-as-rate-hike-fears-hit-ai-bet"
+  }
+ ]
+}

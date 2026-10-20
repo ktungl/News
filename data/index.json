@@ -22,6 +22,60 @@
  },
  "days": [
   {
+   "date": "2026-10-21",
+   "title": "🌏 每日早報｜2026/10/21",
+   "items": [
+    {
+     "section": "world",
+     "category": "台灣與亞太",
+     "title": "台灣 9 月外銷訂單 1,142.1 億美元創單月新高，年增 62.4%、連 20 紅",
+     "anchor": "world-1"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "加拿大亞伯達省獨立公投初步結果：約 76% 選擇留在加拿大",
+     "anchor": "world-2"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "伊朗總統：美國不停止施壓就不重返談判；俄外長訪德黑蘭",
+     "anchor": "world-3"
+    },
+    {
+     "section": "markets",
+     "category": "美股",
+     "title": "美股：道瓊漲逾 500 點，3M 財報亮眼、醫療股創高；科技股仍受 AI 債務疑慮拖累",
+     "anchor": "markets-1"
+    },
+    {
+     "section": "markets",
+     "category": "台股",
+     "title": "台股：外資連 10 賣、10 日賣超約 8,380 億元，加權指數跌 529 點收 46,292 點",
+     "anchor": "markets-2"
+    },
+    {
+     "section": "markets",
+     "category": "產業與個股",
+     "title": "Netflix 第三季獲利優於預期，但下修廣告營收目標，盤後跌約 6%",
+     "anchor": "markets-3"
+    },
+    {
+     "section": "ai",
+     "category": "產業與投資",
+     "title": "SpaceX 第三季營收年增 161%，AI 部門營收約 75.6 億美元、首度轉盈",
+     "anchor": "ai-1"
+    },
+    {
+     "section": "ai",
+     "category": "產業與投資",
+     "title": "AI 泡沫疑慮延燒：CoreWeave 債券價格重挫，AI 概念股連日落後",
+     "anchor": "ai-2"
+    }
+   ]
+  },
+  {
    "date": "2026-10-20",
    "title": "🌏 每日早報｜2026/10/20",
    "items": [
