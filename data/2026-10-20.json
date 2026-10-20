@@ -25,6 +25,20 @@
               "title": "中時新聞網：新台幣重貶逾2角摜破32.5元！央行罕見於盤中喊話",
               "url": "https://www.chinatimes.com/realtimenews/20261019001766-260410"
             }
+          ],
+          "glossary": [
+            {
+              "term": "外資賣超",
+              "def": "外國投資機構賣出的台股金額大於買進的金額；外資賣股後常把台幣換成美元匯出，新台幣因此承壓。"
+            },
+            {
+              "term": "淨匯出",
+              "def": "資金匯出台灣的金額減去匯入的金額，數字越大代表越多錢流出台灣。"
+            },
+            {
+              "term": "費半",
+              "def": "費城半導體指數，追蹤美國主要半導體公司股價的指數，是全球晶片股的風向球。"
+            }
           ]
         },
         {
@@ -44,6 +58,20 @@
             {
               "title": "Seoul Economic Daily：China's Third-Quarter GDP Grows 4.5%, Beating Forecasts",
               "url": "https://en.sedaily.com/international/2026/10/19/chinas-third-quarter-gdp-grows-45-percent-beating-forecasts"
+            }
+          ],
+          "glossary": [
+            {
+              "term": "GDP",
+              "def": "國內生產毛額，一個國家在一段期間內生產的所有商品與服務總值，用來衡量經濟規模與成長。"
+            },
+            {
+              "term": "年增／季增",
+              "def": "年增是跟去年同期比較，季增是跟上一季比較。"
+            },
+            {
+              "term": "固定資產投資",
+              "def": "企業與政府在廠房、設備、基礎建設、房地產等長期資產上的投資。"
             }
           ]
         },
@@ -69,6 +97,20 @@
               "title": "FDD：Overnight Brief, October 19, 2026",
               "url": "https://fdd.org/overnight-brief/october-19-2026"
             }
+          ],
+          "glossary": [
+            {
+              "term": "荷莫茲海峽",
+              "def": "波斯灣通往外海的唯一水道，全球約五分之一的石油運輸經過這裡，一旦受阻油價就會大漲。"
+            },
+            {
+              "term": "革命衛隊",
+              "def": "伊朗的精銳軍事組織，獨立於正規軍，掌控飛彈、海上武力與海外行動。"
+            },
+            {
+              "term": "布蘭特油價",
+              "def": "以北海布蘭特原油為準的國際油價指標，最常被拿來代表全球油價。"
+            }
           ]
         },
         {
@@ -88,6 +130,16 @@
             {
               "title": "Mezha：EU sanctions against Russia will remain in force despite Trump's agreements with Putin",
               "url": "https://mezha.net/eng/news/mezha-dd04d1c0b6d5d2e920768d84_eu_sanctions_against/"
+            }
+          ],
+          "glossary": [
+            {
+              "term": "制裁名單",
+              "def": "被禁止與歐盟企業往來、資產可能遭凍結的個人與公司名單。"
+            },
+            {
+              "term": "《葛蘭姆法》",
+              "def": "美國今年通過、由參議員葛蘭姆推動的法案，原本要對俄國與其石油買家課重稅，已被川普豁免。"
             }
           ]
         }
@@ -115,6 +167,20 @@
               "title": "Motley Fool：Amazon Surges on Morgan Stanley Top Pick and $350 Price Target",
               "url": "https://fool.com/coverage/stock-market-today/2026/10/19/stock-market-today-oct-19-amazon-surges-on-morgan-stanley-top-pick-and-usd350-price-target"
             }
+          ],
+          "glossary": [
+            {
+              "term": "那斯達克／標普 500／道瓊",
+              "def": "美股三大指數：那斯達克以科技股為主，標普 500 涵蓋 500 家大型公司，道瓊由 30 家藍籌股組成。"
+            },
+            {
+              "term": "記憶體股",
+              "def": "生產 DRAM、快閃記憶體等晶片的公司，例如美光、SK 海力士、三星，景氣循環明顯。"
+            },
+            {
+              "term": "目標價",
+              "def": "分析師預估某支股票未來一段時間（通常 12 個月）合理的價格。"
+            }
           ]
         },
         {
@@ -134,6 +200,20 @@
             {
               "title": "中天新聞：央行盤中聲明奏效！台股收盤跌289點 台積電回平盤",
               "url": "https://ctinews.com/news/items/8knJqBXdxo"
+            }
+          ],
+          "glossary": [
+            {
+              "term": "三大法人",
+              "def": "外資、投信（投資信託公司，例如發行基金的公司）與自營商（證券商用自有資金投資）三類機構投資人。"
+            },
+            {
+              "term": "季線",
+              "def": "過去約 60 個交易日的平均股價，常被視為中期趨勢的支撐或壓力。"
+            },
+            {
+              "term": "加權指數",
+              "def": "台灣證交所編製、依各公司市值加權計算的大盤指數，常簡稱「台股」。"
             }
           ]
         }
@@ -163,6 +243,20 @@
               "title": "The Vibes：AI agents used in cyberattacks targeting South Korean banks",
               "url": "https://www.thevibes.com/articles/world/128084/ai-agents-used-in-cyberattacks-targeting-south-korean-banks-crowdstrike-says"
             }
+          ],
+          "glossary": [
+            {
+              "term": "AI 代理（Agent）",
+              "def": "能自己規劃步驟、操作電腦或軟體來完成任務的 AI，不只是回答問題。"
+            },
+            {
+              "term": "滲透測試",
+              "def": "模擬駭客攻擊、找出系統漏洞的資安檢測，原本是防禦用途，也可能被惡意利用。"
+            },
+            {
+              "term": "Claude Code",
+              "def": "Anthropic 推出的 AI 程式開發工具，能讀寫程式碼、執行指令。"
+            }
           ]
         },
         {
@@ -178,6 +272,16 @@
             {
               "title": "TradingKey：Memory Stocks Lead Gains With Micron Up Nearly 3%",
               "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262224387-us-stock-market-close-nasdaq-rise-memory-micron-sandisk-tradingkey"
+            }
+          ],
+          "glossary": [
+            {
+              "term": "資本支出",
+              "def": "企業花在廠房、設備、資料中心等長期資產的錢；AI 公司的資本支出多半用來買晶片、蓋資料中心。"
+            },
+            {
+              "term": "逢低買盤",
+              "def": "股價大跌後，認為價格便宜而進場買進的資金。"
             }
           ]
         }

@@ -62,6 +62,13 @@ main h1 { font: 700 30px/1.3 var(--serif); margin: 0 0 4px; }
 .why.ai { border-color: var(--ai); }
 .why b { font-weight: 700; }
 .srcs { font-size: 13px; color: var(--muted); margin-top: 8px; }
+.gloss { margin: 4px 0 10px; padding: 10px 14px; background: var(--bg); border-radius: 8px; font-size: 14px; line-height: 1.65; }
+.gloss-h { font-size: 12px; color: var(--muted); margin-bottom: 4px; }
+.gloss dl { margin: 0; }
+.gloss dt { display: inline; font-weight: 700; }
+.gloss dt::after { content: "："; }
+.gloss dd { display: inline; margin: 0; color: var(--muted); }
+.gloss dd::after { content: ""; display: block; margin-bottom: 3px; }
 .srcs a { color: var(--muted); }
 .obs { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 20px 22px; white-space: pre-line; }
 details.allsrc { margin-top: 28px; font-size: 14px; }
@@ -148,6 +155,7 @@ function card(item, sid, anchor) {
     <h4>${esc(item.title)}</h4>
     <p>${esc(item.summary)}</p>
     <p class="why${ai}"><b>為什麼重要：</b>${esc(item.why)}</p>
+    ${item.glossary?.length ? `<div class="gloss"><div class="gloss-h">📖 名詞小辭典</div><dl>${item.glossary.map((g) => `<dt>${esc(g.term)}</dt><dd>${esc(g.def)}</dd>`).join("")}</dl></div>` : ""}
     <div class="srcs">來源：${item.sources.map((s) => `<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.title)}</a>`).join("・")}</div>
   </article>`;
 }

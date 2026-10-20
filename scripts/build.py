@@ -38,6 +38,9 @@ def validate(day: dict, name: str) -> list[str]:
                     errors.append(f"{where}: missing '{key}'")
             if item.get("category") and item["category"] not in allowed:
                 errors.append(f"{where}: category '{item['category']}' not in {allowed}")
+            for g in item.get("glossary", []):
+                if not g.get("term") or not g.get("def"):
+                    errors.append(f"{where}: glossary entry needs 'term' and 'def': {g!r}")
             for src in item.get("sources", []):
                 if not str(src.get("url", "")).startswith("http"):
                     errors.append(f"{where}: bad source url {src!r}")
@@ -60,6 +63,8 @@ def to_markdown(day: dict) -> str:
                 f"**為什麼重要：** {item['why']}",
                 "",
             ]
+            if item.get("glossary"):
+                out += ["> 📖 名詞小辭典"] + [f"> - **{g['term']}**：{g['def']}" for g in item["glossary"]] + [""]
         if section.get("outlook"):
             mood = f"（{section['mood']}）" if section.get("mood") else ""
             out += [f"### 美股・台股綜合判斷{mood}", "", section["outlook"], ""]
