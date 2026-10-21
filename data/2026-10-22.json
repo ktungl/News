@@ -1,0 +1,286 @@
+{
+ "date": "2026-10-22",
+ "title": "🌏 每日早報｜2026/10/22",
+ "generated_at": "2026-10-22T07:30:00+08:00",
+ "sections": [
+  {
+   "id": "world",
+   "name": "國際新聞",
+   "items": [
+    {
+     "title": "美特使魏科夫赴聖彼得堡會普丁：俄方原則同意 11/10 後恢復美俄烏三方會談，並釋放一名美國人",
+     "category": "國際政治與地緣",
+     "summary": "美國特使魏科夫 10/21 在聖彼得堡與普丁會談約三小時，庫許納以視訊參與。克里姆林宮助理烏沙科夫表示，普丁原則同意在 11 月 10 日後恢復三方會談，重點放在戰後俄烏安全架構；會談開始時俄方宣布釋放被關押逾四年的美國人哈伯德。魏科夫前一天才在奧斯陸與澤倫斯基會面。",
+     "why": "這是近期美俄烏和談少見的具體進展，但俄方強調進展取決於烏克蘭做出「必要決定」，雙方對領土等核心議題仍有落差，實際能否推進仍待觀察。",
+     "glossary": [
+      {
+       "term": "三方會談",
+       "def": "美國、俄羅斯、烏克蘭三國代表同桌協商，相較於美俄單獨會談，烏克蘭能直接參與。"
+      },
+      {
+       "term": "克里姆林宮",
+       "def": "俄羅斯總統府所在地，新聞中常用來代稱俄國政府或普丁的決策核心。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "CNN: US envoy Witkoff meets with Putin in effort to advance proposals to end war in Ukraine",
+       "url": "https://edition.cnn.com/2026/10/21/europe/us-envoy-witkoff-putin-talks-russia-ukraine-intl"
+      },
+      {
+       "title": "Al Jazeera: Putin and Zelenskyy back three-way US peace talks on Ukraine",
+       "url": "https://www.aljazeera.com/news/2026/10/21/witkoff-in-russia-for-putin-meeting-after-positive-talks-with-zelenskyy"
+      },
+      {
+       "title": "Axios: Putin tells Witkoff he is ready to resume direct peace talks, Russia releases U.S. detainee",
+       "url": "https://www.axios.com/2026/10/21/russia-ukraine-putin-witkoff-peace"
+      },
+      {
+       "title": "CBS News: Russia says Ukraine must make \"necessary decisions\" to end war as Witkoff meets Putin",
+       "url": "https://www.cbsnews.com/news/russia-ukraine-war-witkoff-putin-trump-zelenskyy/"
+      },
+      {
+       "title": "CNBC: Witkoff calls Putin a 'humanitarian' at Russia peace talks without Ukraine",
+       "url": "https://www.cnbc.com/2026/10/21/witkoff-russia-putin-ukraine-zelenskyy.html"
+      }
+     ]
+    },
+    {
+     "title": "伊朗堅持美方接受條件前不重開荷莫茲海峽，美以再度空襲的風險升高",
+     "category": "國際政治與地緣",
+     "summary": "阿聯《The National》10/21 報導，伊朗表示在美國接受其條件前荷莫茲海峽將維持關閉；美方則稱持續封鎖伊朗航運，並指控伊朗攻擊商船。伊朗革命衛隊一名指揮官另警告，若美國恢復攻擊，可能鎖定穿越海峽的海底電纜。",
+     "why": "美伊僵局延續，加上外界對美以再度聯合空襲的揣測，讓油價與航運保險成本居高不下，也是全球通膨與市場的風險來源。",
+     "glossary": [
+      {
+       "term": "革命衛隊",
+       "def": "伊朗獨立於正規軍之外的精銳武裝，直接效忠最高領袖，負責荷莫茲海峽周邊的海上行動。"
+      },
+      {
+       "term": "海底電纜",
+       "def": "鋪設在海底的光纖線路，承載國際網路與金融資料傳輸，一旦被破壞可能影響區域通訊。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "The National: Iran clings to demands even as threat of renewed US-Israel attacks grows",
+       "url": "https://thenationalnews.com/news/gulf/2026/10/21/araghchi-says-strait-of-hormuz-will-stay-closed-until-us-agrees-to-irans-terms"
+      },
+      {
+       "title": "ABC News: Iran live updates",
+       "url": "https://abcnews.com/International/live-updates/iran-live-updates/?id=137370653"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "markets",
+   "name": "股市觀察（美股・台股）",
+   "items": [
+    {
+     "title": "美股：標普 500 三連漲、那斯達克漲 1.05%，SpaceX 與 Tesla 走強",
+     "category": "美股",
+     "summary": "10/21 道瓊上漲 360.21 點（+0.69%）收 52,856.09 點，標普 500 漲 0.58% 收 7,757.17 點，那斯達克漲 1.05% 收 26,702.86 點，標普 500 連續第三天上漲。SpaceX 公布亮眼財報後股價走高，Tesla 在財報公布前也上漲。",
+     "why": "科技股在前幾天因 AI 債務疑慮落後後重新回溫，顯示市場對 AI 題材的信心尚未瓦解；本週 Meta 等大型科技財報仍是能否延續漲勢的關鍵。",
+     "glossary": [
+      {
+       "term": "那斯達克",
+       "def": "以科技股為主的美國股價指數，蘋果、輝達、微軟等大型科技公司都在其中，常被視為科技股風向球。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "CNBC: S&P 500 notches 3-day win streak, Nasdaq jumps 1% as SpaceX and Tesla rally",
+       "url": "https://www.cnbc.com/2026/10/20/stock-market-today-live-updates.html"
+      }
+     ]
+    },
+    {
+     "title": "台股：外資終結連 10 賣，加權指數大漲 594 點收 46,887 點，新台幣升破 32.5 元",
+     "category": "台股",
+     "summary": "10/21 加權指數上漲 594.84 點，收 46,887.77 點，盤中一度大漲逾 900 點，成交值 8,331.91 億元。三大法人合計買超 5.68 億元：外資小幅買超 9.6 億元，終止連續 10 個交易日賣超，加碼友達約 4.4 萬張居首；投信連 9 買、買超 129.19 億元；自營商賣超 133.11 億元。新台幣同步回升，升破 32.5 元。",
+     "why": "外資賣壓暫歇、新台幣止貶，緩解了前幾天股匯雙殺的壓力；但外資只是小幅買超，是否真正回流仍需更多交易日確認。",
+     "glossary": [
+      {
+       "term": "投信",
+       "def": "證券投資信託公司，也就是國內的基金公司，用投資人申購基金的錢買賣股票。"
+      },
+      {
+       "term": "新台幣升破 32.5 元",
+       "def": "1 美元能換到的新台幣少於 32.5 元，代表新台幣變強；外資匯入時通常會推升新台幣。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "中央社：三大法人買超台股5.68億元",
+       "url": "https://www.cna.com.tw/news/afe/202610210165.aspx"
+      },
+      {
+       "title": "華視／中央社：外資買超台股9.6億元終止連10賣 加碼友達4.4萬張居首",
+       "url": "https://news.cts.com.tw/cna/money/202610/202610213092328.html"
+      },
+      {
+       "title": "新頭殼：台股一度衝破47K、終場漲594點！ 外資止步連10賣",
+       "url": "https://newtalk.tw/news/view/2026-10-21/1066826"
+      },
+      {
+       "title": "Yahoo 新聞：外資終結連10賣台股收漲 新台幣升破32.5元",
+       "url": "https://tw.news.yahoo.com/%E5%A4%96%E8%B3%87%E7%B5%82%E7%B5%90%E9%80%A310%E8%B3%A3%E5%8F%B0%E8%82%A1%E6%94%B6%E6%BC%B2-%E6%96%B0%E5%8F%B0%E5%B9%A3%E5%8D%87%E7%A0%B432-5%E5%85%83-091322222.html"
+      }
+     ]
+    },
+    {
+     "title": "Tesla 第三季營收與獲利略優於預期，但營業利益年減 56%，利潤率僅 2.6%",
+     "category": "產業與個股",
+     "summary": "Tesla 10/21 盤後公布第三季調整後每股盈餘 0.48 美元，高於預期的 0.45 美元；營收 280.5 億美元，與去年同期大致持平。營業利益年減 56% 至 7.18 億美元，營業利益率 2.6%（去年同期 5.8%）；自由現金流約 15.3 億美元。各家媒體對盤後股價反應說法不一（小跌至小漲），暫不採用。",
+     "why": "Tesla 本業汽車與儲能營收下滑、利潤偏薄，股價主要仰賴自駕與機器人等 AI 願景支撐；財報顯示短期基本面仍弱。",
+     "glossary": [
+      {
+       "term": "自由現金流",
+       "def": "公司營運賺進的現金扣掉投資支出後剩下的錢，可以用來還債、發股利或再投資。"
+      },
+      {
+       "term": "調整後每股盈餘",
+       "def": "排除一次性或非現金項目（如股票酬勞）後計算的每股盈餘，公司常用它呈現本業獲利。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "CNBC: Tesla (TSLA) Q3 2026 earnings report",
+       "url": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html"
+      },
+      {
+       "title": "Electrek: Tesla (TSLA) releases Q3 2026 financial results: margins rebound, profit still falls",
+       "url": "https://electrek.co/2026/10/21/tesla-tsla-q3-2026-financial-results/"
+      },
+      {
+       "title": "Shacknews: Tesla (TSLA) Q3 2026 earnings results beat revenue and EPS expectations",
+       "url": "https://www.shacknews.com/article/151103/tesla-tsla-q3-2026-earnings-results"
+      }
+     ]
+    }
+   ],
+   "mood": "反彈中、仍偏謹慎",
+   "outlook": "偏多因素：標普 500 三連漲、那斯達克回升逾 1%，AI 與科技股前幾天的賣壓暫緩；台股外資終結連 10 賣、投信連 9 買，新台幣止貶回升，股匯雙殺的壓力減輕；美俄烏和談出現恢復三方會談的訊號。偏空因素：外資回補金額僅 9.6 億元，力道有限；Tesla 獲利大幅衰退，凸顯部分科技大廠本業疲弱；AI 舉債與資本支出疑慮尚未消除；荷莫茲海峽仍未重開，油價風險仍在。本週關鍵：Meta 等大型科技財報，以及外資能否連續回補台股。整體而言，短線從急跌轉為反彈，但趨勢是否扭轉仍待確認。以上僅整理市場資訊與各方觀點，不構成投資建議。"
+  },
+  {
+   "id": "ai",
+   "name": "AI 科技發展",
+   "items": [
+    {
+     "title": "德國政府與輝達簽署「實體 AI」合作意向書，黃仁勳：下一波 AI 是實體的",
+     "category": "政策與監管",
+     "summary": "德國總理梅爾茨與經濟部、研究部 10/19 在柏林「Invest in Germany」峰會與輝達簽署聯合意向書，合作開發用於機器人、自駕車與自動化工廠的 AI 模型，預計有 Siemens、Audi 與新創 Black Forest Labs 等約 10 家企業參與。德國政府預計投入數億歐元、但未公布確切金額，主要用於購買德國電信工業 AI 雲端的算力。",
+     "why": "歐洲最大製造業國家把 AI 重心放在工廠與汽車等「實體」應用，可能帶動工業 AI 晶片與伺服器需求；這也與台灣半導體及伺服器供應鏈相關。",
+     "glossary": [
+      {
+       "term": "實體 AI",
+       "def": "能感知並操作真實世界的 AI，例如機器人、自駕車與自動化產線，相對於只在螢幕上回答問題的聊天機器人。"
+      },
+      {
+       "term": "意向書",
+       "def": "雙方表達合作方向的文件，通常不具完整法律約束力，具體金額與細節之後再談。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "NVIDIA Blog: Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help",
+       "url": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/"
+      },
+      {
+       "title": "Euronews: Nvidia CEO Jensen Huang warns Germany is falling behind in AI race",
+       "url": "https://www.euronews.com/2026/10/19/nvidia-ceo-jensen-huang-warns-germany-is-falling-behind-in-ai-race"
+      },
+      {
+       "title": "AJC/AP: Nvidia CEO urges German manufacturers to adopt AI",
+       "url": "https://www.ajc.com/news/2026/10/nvidia-ceo-urges-german-manufacturers-to-adopt-ai-saying-digital-tech-wont-replace-heavy-industry/"
+      },
+      {
+       "title": "Berliner Zeitung: Bundesregierung KI-Kooperation mit Nvidia",
+       "url": "https://www.berliner-zeitung.de/article/bundesregierung-ki-kooperation-nvidia-10511192"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "observation": "今天的主軸是「從緊繃中稍微鬆一口氣」。外交面，魏科夫與普丁的會談換來恢復美俄烏三方會談的原則性承諾與一名美國人獲釋，是近期少見的正面訊號；但俄方把進展條件放在烏克蘭身上，代表最難的領土與安全保證問題仍未解決。中東方面，伊朗仍堅持條件未獲接受前不重開荷莫茲海峽，能源風險持續。\n\n市場面，美股科技股回溫、台股外資終結連 10 賣、新台幣止貶，顯示前幾天對 AI 債務與資金外流的恐慌暫時降溫；Tesla 財報則提醒市場，AI 願景與本業獲利之間仍有落差。德國與輝達合作押注實體 AI，說明各國仍在加碼 AI 產業政策。接下來幾天，可留意 Meta 財報、外資能否連續回補台股，以及美俄烏會談與荷莫茲海峽是否出現新進展。",
+ "sources": [
+  {
+   "title": "CNN: US envoy Witkoff meets with Putin in effort to advance proposals to end war in Ukraine",
+   "url": "https://edition.cnn.com/2026/10/21/europe/us-envoy-witkoff-putin-talks-russia-ukraine-intl"
+  },
+  {
+   "title": "Al Jazeera: Putin and Zelenskyy back three-way US peace talks on Ukraine",
+   "url": "https://www.aljazeera.com/news/2026/10/21/witkoff-in-russia-for-putin-meeting-after-positive-talks-with-zelenskyy"
+  },
+  {
+   "title": "Axios: Putin tells Witkoff he is ready to resume direct peace talks, Russia releases U.S. detainee",
+   "url": "https://www.axios.com/2026/10/21/russia-ukraine-putin-witkoff-peace"
+  },
+  {
+   "title": "CBS News: Russia says Ukraine must make \"necessary decisions\" to end war as Witkoff meets Putin",
+   "url": "https://www.cbsnews.com/news/russia-ukraine-war-witkoff-putin-trump-zelenskyy/"
+  },
+  {
+   "title": "CNBC: Witkoff calls Putin a 'humanitarian' at Russia peace talks without Ukraine",
+   "url": "https://www.cnbc.com/2026/10/21/witkoff-russia-putin-ukraine-zelenskyy.html"
+  },
+  {
+   "title": "The National: Iran clings to demands even as threat of renewed US-Israel attacks grows",
+   "url": "https://thenationalnews.com/news/gulf/2026/10/21/araghchi-says-strait-of-hormuz-will-stay-closed-until-us-agrees-to-irans-terms"
+  },
+  {
+   "title": "ABC News: Iran live updates",
+   "url": "https://abcnews.com/International/live-updates/iran-live-updates/?id=137370653"
+  },
+  {
+   "title": "CNBC: S&P 500 notches 3-day win streak, Nasdaq jumps 1% as SpaceX and Tesla rally",
+   "url": "https://www.cnbc.com/2026/10/20/stock-market-today-live-updates.html"
+  },
+  {
+   "title": "中央社：三大法人買超台股5.68億元",
+   "url": "https://www.cna.com.tw/news/afe/202610210165.aspx"
+  },
+  {
+   "title": "華視／中央社：外資買超台股9.6億元終止連10賣 加碼友達4.4萬張居首",
+   "url": "https://news.cts.com.tw/cna/money/202610/202610213092328.html"
+  },
+  {
+   "title": "新頭殼：台股一度衝破47K、終場漲594點！ 外資止步連10賣",
+   "url": "https://newtalk.tw/news/view/2026-10-21/1066826"
+  },
+  {
+   "title": "Yahoo 新聞：外資終結連10賣台股收漲 新台幣升破32.5元",
+   "url": "https://tw.news.yahoo.com/%E5%A4%96%E8%B3%87%E7%B5%82%E7%B5%90%E9%80%A310%E8%B3%A3%E5%8F%B0%E8%82%A1%E6%94%B6%E6%BC%B2-%E6%96%B0%E5%8F%B0%E5%B9%A3%E5%8D%87%E7%A0%B432-5%E5%85%83-091322222.html"
+  },
+  {
+   "title": "CNBC: Tesla (TSLA) Q3 2026 earnings report",
+   "url": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html"
+  },
+  {
+   "title": "Electrek: Tesla (TSLA) releases Q3 2026 financial results: margins rebound, profit still falls",
+   "url": "https://electrek.co/2026/10/21/tesla-tsla-q3-2026-financial-results/"
+  },
+  {
+   "title": "Shacknews: Tesla (TSLA) Q3 2026 earnings results beat revenue and EPS expectations",
+   "url": "https://www.shacknews.com/article/151103/tesla-tsla-q3-2026-earnings-results"
+  },
+  {
+   "title": "NVIDIA Blog: Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help",
+   "url": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/"
+  },
+  {
+   "title": "Euronews: Nvidia CEO Jensen Huang warns Germany is falling behind in AI race",
+   "url": "https://www.euronews.com/2026/10/19/nvidia-ceo-jensen-huang-warns-germany-is-falling-behind-in-ai-race"
+  },
+  {
+   "title": "AJC/AP: Nvidia CEO urges German manufacturers to adopt AI",
+   "url": "https://www.ajc.com/news/2026/10/nvidia-ceo-urges-german-manufacturers-to-adopt-ai-saying-digital-tech-wont-replace-heavy-industry/"
+  },
+  {
+   "title": "Berliner Zeitung: Bundesregierung KI-Kooperation mit Nvidia",
+   "url": "https://www.berliner-zeitung.de/article/bundesregierung-ki-kooperation-nvidia-10511192"
+  }
+ ]
+}

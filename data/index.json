@@ -22,6 +22,48 @@
  },
  "days": [
   {
+   "date": "2026-10-22",
+   "title": "🌏 每日早報｜2026/10/22",
+   "items": [
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "美特使魏科夫赴聖彼得堡會普丁：俄方原則同意 11/10 後恢復美俄烏三方會談，並釋放一名美國人",
+     "anchor": "world-1"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "伊朗堅持美方接受條件前不重開荷莫茲海峽，美以再度空襲的風險升高",
+     "anchor": "world-2"
+    },
+    {
+     "section": "markets",
+     "category": "美股",
+     "title": "美股：標普 500 三連漲、那斯達克漲 1.05%，SpaceX 與 Tesla 走強",
+     "anchor": "markets-1"
+    },
+    {
+     "section": "markets",
+     "category": "台股",
+     "title": "台股：外資終結連 10 賣，加權指數大漲 594 點收 46,887 點，新台幣升破 32.5 元",
+     "anchor": "markets-2"
+    },
+    {
+     "section": "markets",
+     "category": "產業與個股",
+     "title": "Tesla 第三季營收與獲利略優於預期，但營業利益年減 56%，利潤率僅 2.6%",
+     "anchor": "markets-3"
+    },
+    {
+     "section": "ai",
+     "category": "政策與監管",
+     "title": "德國政府與輝達簽署「實體 AI」合作意向書，黃仁勳：下一波 AI 是實體的",
+     "anchor": "ai-1"
+    }
+   ]
+  },
+  {
    "date": "2026-10-21",
    "title": "🌏 每日早報｜2026/10/21",
    "items": [
