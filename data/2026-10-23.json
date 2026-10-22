@@ -1,0 +1,284 @@
+{
+ "date": "2026-10-23",
+ "title": "🌏 每日早報｜2026/10/23",
+ "generated_at": "2026-10-23T07:30:00+08:00",
+ "sections": [
+  {
+   "id": "world",
+   "name": "國際新聞",
+   "items": [
+    {
+     "title": "澳洲獨立議員海恩斯遭蓄意開車撞擊重傷，反恐單位介入，總理：「這不是意外」",
+     "category": "國際政治與地緣",
+     "summary": "澳洲聯邦獨立議員海倫・海恩斯 10/19 在維多利亞省旺加拉塔的選區辦公室外遭一輛休旅車撞擊，傷勢危急；43 歲男性駕駛被民眾制伏後遭逮捕，警方在車內找到一把刀，反恐單位已啟動調查，動機尚未公布。總理艾班尼斯表示「這不是意外，是蓄意行為」。（註：事件發生在 10/19，本報此前未報導，故補入。）",
+     "why": "澳洲聯邦警察近年記錄到針對政治人物的威脅持續上升，已有女性部長收到死亡恐嚇；這起攻擊可能促使各國重新檢視民選代表的人身安全與政治暴力問題。",
+     "glossary": [
+      {
+       "term": "獨立議員",
+       "def": "不屬於任何政黨的國會議員，通常以地方議題當選，在國會中可能成為關鍵少數。"
+      },
+      {
+       "term": "選區辦公室",
+       "def": "議員在自己選區設立的服務處，讓選民可以直接陳情，因此也較難做到嚴密保安。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "Newsweek: Helen Haines attack: Australia MP hit by car in critical condition",
+       "url": "https://www.newsweek.com/helen-haines-attack-australia-mp-hit-by-car-in-critical-condition-12587051"
+      },
+      {
+       "title": "Kuwait Times/AFP: Australian MP Helen Haines critically hurt in violent car attack",
+       "url": "https://kuwaittimes.com/article/51914/world/australian-mp-helen-haines-critically-hurt-in-violent-car-attack/"
+      },
+      {
+       "title": "Radio X: Counter-terror police investigation after Australian MP hit by car",
+       "url": "https://www.radiox.co.uk/news/uk-world/australian-mp-attacked-outside-her-office-say/"
+      }
+     ]
+    },
+    {
+     "title": "本週看點：以色列 10/27 國會大選倒數，總統赫佐格呼籲理性選戰",
+     "category": "國際政治與地緣",
+     "summary": "以色列國會大選將於 10/27 舉行。總統赫佐格 10/22 在拉賓紀念活動上呼籲各陣營在選前保持文明；同日也有人向中央選舉委員會提出申訴，指控利庫德陣營動員宗教學院學生參與競選活動。",
+     "why": "選舉結果將決定納坦雅胡能否續任，並直接影響以色列對伊朗、加薩與黎巴嫩的政策，以及美以聯合行動的走向；這也是中東局勢未來幾週的關鍵變數。",
+     "glossary": [
+      {
+       "term": "利庫德",
+       "def": "以色列主要右派政黨，由納坦雅胡領導，長期執政。"
+      },
+      {
+       "term": "拉賓",
+       "def": "前以色列總理，1993 年簽署奧斯陸和平協議，1995 年遭右派激進分子刺殺，每年的紀念活動常成為呼籲政治和解的場合。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "Times of Israel liveblog Oct. 22, 2026",
+       "url": "https://www.timesofisrael.com/liveblog-october-22-2026"
+      }
+     ]
+    },
+    {
+     "title": "颱風「薔琵」接近台灣，北部與宜蘭週五、週六恐有豪雨",
+     "category": "台灣與亞太",
+     "summary": "中央氣象署預報，颱風薔琵將比原先預期更早北轉，不會直接登陸台灣，但週五（10/23）、週六（10/24）北部與宜蘭仍可能出現豪雨或大豪雨，週日後減弱並遠離。已有航班因颱風取消。",
+     "why": "豪雨可能影響北部交通與民生，停班停課與航班異動請以各縣市政府與航空公司最新公告為準；媒體也指颱風與假期因素是台股 10/22 賣壓擴大的原因之一。",
+     "glossary": [
+      {
+       "term": "大豪雨",
+       "def": "氣象署的雨量分級，24 小時累積雨量達 350 毫米以上，比豪雨（200 毫米）更嚴重。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "Taipei Times: Typhoon Champi forecast (Oct. 20)",
+       "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/20/2003866289"
+      },
+      {
+       "title": "Focus Taiwan: Typhoon Champi update (Oct. 19)",
+       "url": "https://focustaiwan.tw/society/202610190005"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "markets",
+   "name": "股市觀察（美股・台股）",
+   "items": [
+    {
+     "title": "美股：那斯達克重挫 2.6%、創 6 月以來最慘，AI 支出疑慮與油價走高拖累科技股",
+     "category": "美股",
+     "summary": "10/22 那斯達克下跌約 2.6% 收 26,008.86 點，為 6 月以來最大單日跌幅；標普 500 跌約 1.2% 收 7,663.43 點，為 7 月以來最差；道瓊微漲 0.02% 收 52,867.98 點。Meta 財報後股價收跌 6.98%，半導體與 AI 概念股全面走弱，油價上漲也加重賣壓。",
+     "why": "投資人對 AI 資料中心龐大投資能否回本的疑慮再度升溫，資金撤離科技股、轉向防禦型股票與公債；這股賣壓今天可能延續到亞股與台股。",
+     "glossary": [
+      {
+       "term": "防禦型股票",
+       "def": "景氣不好時獲利相對穩定的類股，例如公用事業、民生必需品，常在市場恐慌時吸引資金。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "CNBC: Nasdaq falls more than 2% for worst day since June as AI spending woes, oil prices spark sell-off",
+       "url": "https://www.cnbc.com/2026/10/21/stock-market-today-live-updates.html"
+      },
+      {
+       "title": "Yahoo Finance: Stock market today, Oct. 22: S&P 500, Nasdaq tank as tech stocks sink amid AI trade worries",
+       "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-22-dow-sp-500-nasdaq-tesla-meta-112217857.html"
+      },
+      {
+       "title": "The Motley Fool: Stock Market Midday, Oct. 22: Tech Weakness Drags Nasdaq Lower as AI Spending Concerns Mount",
+       "url": "https://www.fool.com/coverage/stock-market-today/2026/10/22/stock-market-midday-oct-22-tech-weakness-drags-nasdaq-lower-as-ai-spending-concerns-mount/"
+      }
+     ]
+    },
+    {
+     "title": "台股：外資轉賣 816 億元，加權指數重挫 846 點、跌破季線，台積電收 2,385 元",
+     "category": "台股",
+     "summary": "10/22 加權指數早盤一度衝上 47,332.18 點，隨後翻黑，終場下跌 846.34 點收 46,041.43 點，成交值 8,792.3 億元，跌破季線。三大法人合計賣超 1,001.59 億元：外資賣超 816.56 億元，前五大賣超有四檔是 ETF；投信買超 88.75 億元；自營商賣超 273.78 億元。台積電跌 35 元收 2,385 元。",
+     "why": "外資前一天才終止連 10 賣，隔天又大幅提款，顯示資金回流並不穩定；媒體指出假期與颱風前的避險、美股期貨走弱與科技財報利空都是原因。",
+     "glossary": [
+      {
+       "term": "季線",
+       "def": "過去約 60 個交易日的平均股價，常被視為中期趨勢的支撐，跌破代表中期走勢轉弱。"
+      },
+      {
+       "term": "ETF",
+       "def": "指數股票型基金，一次買進一籃子股票、在交易所像股票一樣買賣；外資賣 ETF 代表整體性減碼。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "中央社：三大法人賣超台股1001.59億元",
+       "url": "https://www.cna.com.tw/news/afe/202610220201.aspx"
+      },
+      {
+       "title": "中央社：外資轉賣超816億元 提款ETF居多",
+       "url": "https://www.cna.com.tw/news/afe/202610220329.aspx"
+      },
+      {
+       "title": "聯合報：外資又揮大刀！三大法人賣超1,001億元 台股重挫846點失守季線",
+       "url": "https://udn.com/news/story/7251/9831314"
+      },
+      {
+       "title": "鉅亨網：連假前先跑！外資翻空提款816億 三大法人賣超1001.59億元",
+       "url": "https://news.cnyes.com/news/id/6635785"
+      }
+     ]
+    },
+    {
+     "title": "Meta 第三季營收 646 億美元優於預期，但上調資本支出、自由現金流轉負，股價跌 7%",
+     "category": "產業與個股",
+     "summary": "Meta 第三季營收 646 億美元、年增 26%，高於預期的 633 億美元；GAAP 每股盈餘 3.83 美元，因青少年心理健康訴訟和解費用拖累，排除後為 7.40 美元。公司將 2026 年資本支出區間下緣上調至 1,350–1,450 億美元，並揭露約 8,250 億美元的資料中心、能源與算力未來承諾，當季自由現金流為負 21.2 億美元。另宣布 1 股拆 2 股並發行無投票權的 C 股。",
+     "why": "本業廣告仍強，但 AI 支出規模持續擴大、現金流轉負，讓市場更擔心投資回收期過長；Meta 的反應也帶動整個 AI 供應鏈股價下跌。",
+     "glossary": [
+      {
+       "term": "GAAP",
+       "def": "美國一般公認會計原則，依規定必須計入一次性費用；公司另行提供的「排除後」數字則不含這些項目。"
+      },
+      {
+       "term": "股票分割",
+       "def": "把 1 股拆成多股、股價等比例降低，公司總市值不變，主要是讓股價看起來較便宜、方便交易。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "Yahoo Finance: Meta stock falls 7% as AI spending fears return",
+       "url": "https://finance.yahoo.com/technology/article/meta-stock-drops-more-than-7-despite-strong-q3-results-as-ai-spending-fears-return-193128008.html"
+      },
+      {
+       "title": "investingLive: Meta shares fall 7% on huge spending plans",
+       "url": "https://investinglive.com/stocks/meta-shares-fall-7-on-huge-spending-plans/"
+      },
+      {
+       "title": "GuruFocus: Meta Stocks Fall 6.63% as AI Budget Keeps Swelling",
+       "url": "https://www.gurufocus.com/news/9136945/meta-stocks-fall-663-as-ai-budget-keeps-swelling"
+      }
+     ]
+    }
+   ],
+   "mood": "短線偏謹慎",
+   "outlook": "偏多因素：Meta 本業廣告營收仍強且優於預期，顯示 AI 有助提升廣告效率；台股投信持續買超，部分抵銷外資賣壓。偏空因素：AI 資料中心支出持續擴大、Meta 自由現金流轉負，市場對 AI 投資回本的疑慮再度升溫，那斯達克創 6 月以來最大跌幅；外資前一天才終止連 10 賣，隔天又賣超逾 800 億元，台股跌破季線；油價走高、中東局勢未解與颱風假期因素增添變數。下週關鍵：Microsoft、Alphabet、Amazon 等大型科技財報對 AI 支出的說法，以及外資動向。整體而言，短線情緒再度轉弱。以上僅整理市場資訊與各方觀點，不構成投資建議。"
+  },
+  {
+   "id": "ai",
+   "name": "AI 科技發展",
+   "items": [
+    {
+     "title": "AI 支出回本疑慮再起：Meta 揭露約 8,250 億美元 AI 相關未來承諾，半導體股同步下挫",
+     "category": "產業與投資",
+     "summary": "Meta 在財報中揭露約 8,250 億美元的 AI 資料中心、能源與算力未來承諾，並上調 2026 年資本支出下緣，當季自由現金流轉為負值；市場同時注意到其信用違約交換利差擴大。消息公布後，投資人全面減碼半導體與其他 AI 股，Nasdaq 單日重挫 2.6%。",
+     "why": "大型科技公司是 AI 晶片與伺服器的最大買家，若市場開始懲罰高額 AI 支出，未來可能壓抑資本支出成長，直接影響台積電、伺服器代工等台灣供應鏈的訂單預期。",
+     "glossary": [
+      {
+       "term": "信用違約交換（CDS）",
+       "def": "一種為債務違約投保的金融商品，利差擴大代表市場認為該公司的違約風險上升。"
+      },
+      {
+       "term": "未來承諾",
+       "def": "公司已簽約、未來幾年必須支付的款項，例如長期租用資料中心或購買電力與算力的合約。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "Yahoo Finance: Meta stock falls 7% as AI spending fears return",
+       "url": "https://finance.yahoo.com/technology/article/meta-stock-drops-more-than-7-despite-strong-q3-results-as-ai-spending-fears-return-193128008.html"
+      },
+      {
+       "title": "CNBC: Nasdaq falls more than 2% for worst day since June as AI spending woes, oil prices spark sell-off",
+       "url": "https://www.cnbc.com/2026/10/21/stock-market-today-live-updates.html"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "observation": "今天的主線是 AI 投資熱潮的「信心測試」。Meta 營收表現亮眼，卻因 AI 支出與未來承諾規模驚人、現金流轉負而遭市場賣出，拖累那斯達克創 6 月以來最大跌幅；台股外資在終止連 10 賣後隔天再度大舉提款，顯示國際資金仍在觀望 AI 供應鏈的前景。\n\n國際政治方面，澳洲議員遭蓄意開車撞擊，再次凸顯民主國家政治暴力升溫的問題；以色列 10/27 大選倒數，結果將影響中東局勢與美以對伊朗的策略。國內則要留意颱風薔琵帶來的北部豪雨。接下來幾天，可關注下週 Microsoft、Alphabet、Amazon 財報對 AI 支出的說法、以色列與巴西（10/25 決選）的選舉結果，以及颱風對交通與市場的影響。",
+ "sources": [
+  {
+   "title": "Newsweek: Helen Haines attack: Australia MP hit by car in critical condition",
+   "url": "https://www.newsweek.com/helen-haines-attack-australia-mp-hit-by-car-in-critical-condition-12587051"
+  },
+  {
+   "title": "Kuwait Times/AFP: Australian MP Helen Haines critically hurt in violent car attack",
+   "url": "https://kuwaittimes.com/article/51914/world/australian-mp-helen-haines-critically-hurt-in-violent-car-attack/"
+  },
+  {
+   "title": "Radio X: Counter-terror police investigation after Australian MP hit by car",
+   "url": "https://www.radiox.co.uk/news/uk-world/australian-mp-attacked-outside-her-office-say/"
+  },
+  {
+   "title": "Times of Israel liveblog Oct. 22, 2026",
+   "url": "https://www.timesofisrael.com/liveblog-october-22-2026"
+  },
+  {
+   "title": "Taipei Times: Typhoon Champi forecast (Oct. 20)",
+   "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/20/2003866289"
+  },
+  {
+   "title": "Focus Taiwan: Typhoon Champi update (Oct. 19)",
+   "url": "https://focustaiwan.tw/society/202610190005"
+  },
+  {
+   "title": "CNBC: Nasdaq falls more than 2% for worst day since June as AI spending woes, oil prices spark sell-off",
+   "url": "https://www.cnbc.com/2026/10/21/stock-market-today-live-updates.html"
+  },
+  {
+   "title": "Yahoo Finance: Stock market today, Oct. 22: S&P 500, Nasdaq tank as tech stocks sink amid AI trade worries",
+   "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-22-dow-sp-500-nasdaq-tesla-meta-112217857.html"
+  },
+  {
+   "title": "The Motley Fool: Stock Market Midday, Oct. 22: Tech Weakness Drags Nasdaq Lower as AI Spending Concerns Mount",
+   "url": "https://www.fool.com/coverage/stock-market-today/2026/10/22/stock-market-midday-oct-22-tech-weakness-drags-nasdaq-lower-as-ai-spending-concerns-mount/"
+  },
+  {
+   "title": "中央社：三大法人賣超台股1001.59億元",
+   "url": "https://www.cna.com.tw/news/afe/202610220201.aspx"
+  },
+  {
+   "title": "中央社：外資轉賣超816億元 提款ETF居多",
+   "url": "https://www.cna.com.tw/news/afe/202610220329.aspx"
+  },
+  {
+   "title": "聯合報：外資又揮大刀！三大法人賣超1,001億元 台股重挫846點失守季線",
+   "url": "https://udn.com/news/story/7251/9831314"
+  },
+  {
+   "title": "鉅亨網：連假前先跑！外資翻空提款816億 三大法人賣超1001.59億元",
+   "url": "https://news.cnyes.com/news/id/6635785"
+  },
+  {
+   "title": "Yahoo Finance: Meta stock falls 7% as AI spending fears return",
+   "url": "https://finance.yahoo.com/technology/article/meta-stock-drops-more-than-7-despite-strong-q3-results-as-ai-spending-fears-return-193128008.html"
+  },
+  {
+   "title": "investingLive: Meta shares fall 7% on huge spending plans",
+   "url": "https://investinglive.com/stocks/meta-shares-fall-7-on-huge-spending-plans/"
+  },
+  {
+   "title": "GuruFocus: Meta Stocks Fall 6.63% as AI Budget Keeps Swelling",
+   "url": "https://www.gurufocus.com/news/9136945/meta-stocks-fall-663-as-ai-budget-keeps-swelling"
+  }
+ ]
+}

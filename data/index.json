@@ -22,6 +22,54 @@
  },
  "days": [
   {
+   "date": "2026-10-23",
+   "title": "🌏 每日早報｜2026/10/23",
+   "items": [
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "澳洲獨立議員海恩斯遭蓄意開車撞擊重傷，反恐單位介入，總理：「這不是意外」",
+     "anchor": "world-1"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "本週看點：以色列 10/27 國會大選倒數，總統赫佐格呼籲理性選戰",
+     "anchor": "world-2"
+    },
+    {
+     "section": "world",
+     "category": "台灣與亞太",
+     "title": "颱風「薔琵」接近台灣，北部與宜蘭週五、週六恐有豪雨",
+     "anchor": "world-3"
+    },
+    {
+     "section": "markets",
+     "category": "美股",
+     "title": "美股：那斯達克重挫 2.6%、創 6 月以來最慘，AI 支出疑慮與油價走高拖累科技股",
+     "anchor": "markets-1"
+    },
+    {
+     "section": "markets",
+     "category": "台股",
+     "title": "台股：外資轉賣 816 億元，加權指數重挫 846 點、跌破季線，台積電收 2,385 元",
+     "anchor": "markets-2"
+    },
+    {
+     "section": "markets",
+     "category": "產業與個股",
+     "title": "Meta 第三季營收 646 億美元優於預期，但上調資本支出、自由現金流轉負，股價跌 7%",
+     "anchor": "markets-3"
+    },
+    {
+     "section": "ai",
+     "category": "產業與投資",
+     "title": "AI 支出回本疑慮再起：Meta 揭露約 8,250 億美元 AI 相關未來承諾，半導體股同步下挫",
+     "anchor": "ai-1"
+    }
+   ]
+  },
+  {
    "date": "2026-10-22",
    "title": "🌏 每日早報｜2026/10/22",
    "items": [
