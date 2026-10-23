@@ -1,0 +1,324 @@
+{
+ "date": "2026-10-24",
+ "title": "🌏 每日早報｜2026/10/24",
+ "generated_at": "2026-10-24T07:30:00+08:00",
+ "sections": [
+  {
+   "id": "world",
+   "name": "國際新聞",
+   "items": [
+    {
+     "title": "美伊再度升溫：美國第三支航艦打擊群赴中東，布蘭特油價一度突破每桶 117 美元",
+     "category": "國際政治與地緣",
+     "summary": "美國第三支航空母艦打擊群與一支海軍陸戰隊遠征部隊正前往中東。伊朗革命衛隊聲稱在荷莫茲海峽附近癱瘓七艘油輪後，布蘭特原油 10/23 盤中一度突破每桶 117 美元，創開戰以來新高，美國 WTI 原油也升破 100 美元。美國特使表示戰事可能再持續一年；川普則指控伊朗假造油輪遇襲來在期中選舉前推高油價。",
+     "why": "荷莫茲海峽的油運仍比戰前少約 26%，軍事集結加上油價破百，會推升全球通膨與企業成本，也是本週股市下跌的主因之一；外界關注 11/3 美國期中選舉後是否出現新的軍事行動。",
+     "glossary": [
+      {
+       "term": "航艦打擊群",
+       "def": "以一艘航空母艦為核心，搭配驅逐艦、潛艦等組成的海上作戰部隊，是美國展示軍力的主要工具。"
+      },
+      {
+       "term": "布蘭特原油",
+       "def": "以北海油田為基準的國際原油價格，全球約三分之二的原油交易以它計價；WTI 則是美國原油的基準價。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "CBS News: Iran War Updates: Trump envoy says war could last another year as oil prices continue rising",
+       "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-oil-gas-prices-strait-of-hormuz-midterms/"
+      },
+      {
+       "title": "MarketScreener: The Week in Oil: Fears of U.S.-Iran Escalation Push Brent to $117",
+       "url": "https://www.marketscreener.com/news/the-week-in-oil-fears-of-u-s-iran-escalation-push-brent-to-117-ce785cdfdd8cf72c"
+      },
+      {
+       "title": "Trading Economics: Oil Heads for Strong Weekly Gain",
+       "url": "https://tradingeconomics.com/commodity/crude-oil/news/527509"
+      }
+     ]
+    },
+    {
+     "title": "奈及利亞出現首例伊波拉病例，屬無疫苗的本迪布焦型，非洲疾管中心召開危機峰會",
+     "category": "國際政治與地緣",
+     "summary": "奈及利亞確認首都阿布加出現首例伊波拉病例，患者是一名從烏干達入境的外交人員，已出現多重器官衰竭；病毒株與剛果民主共和國疫情相同，為目前沒有疫苗與特效藥的本迪布焦型。當局正追蹤 44 名接觸者，多數為醫護人員。非洲疾管中心將於 10/28 召開伊波拉危機峰會，肯亞也通報與烏干達旅客有關的病例。",
+     "why": "奈及利亞是非洲人口最多的國家，阿布加又是區域交通樞紐，疫情若擴散將衝擊西非公共衛生與經濟；病例入境路線的說法也在烏干達與奈及利亞之間引發外交爭議。",
+     "glossary": [
+      {
+       "term": "伊波拉",
+       "def": "一種致死率很高的病毒性出血熱，透過接觸患者體液傳染，主要出現在非洲中部與西部。"
+      },
+      {
+       "term": "本迪布焦型",
+       "def": "伊波拉病毒的一種亞型，因 2007 年在烏干達本迪布焦地區發現而得名，目前沒有核准的疫苗。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "Gulf News: Nigeria says first Ebola case is same strain as DR Congo outbreak",
+       "url": "https://gulfnews.com/world/africa/nigeria-says-first-ebola-case-is-same-strain-as-dr-congo-outbreak-2-1.500718642"
+      },
+      {
+       "title": "ClickOnDetroit/AP: Africa CDC calls an Ebola crisis summit as Nigeria records its first case",
+       "url": "https://www.clickondetroit.com/health/2026/10/21/africa-cdc-calls-an-ebola-crisis-summit-as-nigeria-records-its-first-case/"
+      },
+      {
+       "title": "Deccan Chronicle: Nigeria Confirms First Ebola Case, Identifies Deadly Bundibugyo Strain",
+       "url": "https://www.deccanchronicle.com/world/nigeria-confirms-first-ebola-case-identifies-deadly-bundibugyo-strain-1997593"
+      }
+     ]
+    },
+    {
+     "title": "巴西總統決選明天登場：最新民調小波索納洛與魯拉幾乎平手",
+     "category": "國際政治與地緣",
+     "summary": "巴西總統大選第二輪決選 10/25（週日）舉行。Quaest 為 Globo 所做、10/21 公布的民調顯示，右派參議員佛拉維歐・波索納洛 45%、現任總統魯拉 44%，換算有效票為 50.6% 比 49.4%，在誤差範圍內。另有報導指 10/22 公布的 Datafolha 民調有效票為 50% 比 50%，但目前只找到單一來源。",
+     "why": "結果將決定拉丁美洲最大經濟體未來四年的路線，包括亞馬遜與氣候政策、對美中關係與財政政策；若右派勝出，將延續近年拉美的右轉趨勢。",
+     "glossary": [
+      {
+       "term": "有效票",
+       "def": "扣除廢票與空白票後的選票；巴西決選以有效票過半決定勝負，所以民調常換算成有效票比例。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "The Rio Times: Brazil Runoff Poll Puts Flávio 1 Point Up",
+       "url": "https://www.riotimesonline.com/quaest-poll-flavio-45-lula-44-runoff-2026/"
+      },
+      {
+       "title": "The Rio Times: Brazil's Final Polls Show Lula 45%, Flávio 42%",
+       "url": "https://www.riotimesonline.com/brazil-final-polls-before-the-vote-lula-flavio-datafolha-quaest-2026/"
+      },
+      {
+       "title": "Wikipedia: Opinion polling for the 2026 Brazilian presidential election",
+       "url": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Brazilian_presidential_election"
+      }
+     ]
+    },
+    {
+     "title": "颱風薔琵影響，台北 10/23 停班停課、金融市場休市；台股 10/27 才恢復交易",
+     "category": "台灣與亞太",
+     "summary": "受颱風薔琵影響，台北市政府宣布 10/23 停止上班上課，台股與金融市場全部休市，新股掛牌也順延。10/26（週一）為光復節補假，台股將到 10/27（週二）才恢復交易。",
+     "why": "台股連續休市期間，美股與國際油價若持續波動，可能在 10/27 開盤時一次反映；投資人與企業需留意交割與資金安排。",
+     "glossary": [
+      {
+       "term": "補假",
+       "def": "國定假日遇到週末時，改在相鄰的上班日放假。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "鉅亨網：台股10/23因颱風休市！程曦、藍新掛牌順延",
+       "url": "https://news.cnyes.com/news/id/6636149"
+      },
+      {
+       "title": "經濟日報：10月23日 五件財經大事搶先看",
+       "url": "https://money.udn.com/money/story/5607/9832642"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "markets",
+   "name": "股市觀察（美股・台股）",
+   "items": [
+    {
+     "title": "美股：道瓊重挫 652 點，油價破百、公債殖利率上升，標普與那斯達克連兩週下跌",
+     "category": "美股",
+     "summary": "10/23 道瓊下跌 652.82 點（-1.23%）收 52,215.16 點，標普 500 跌 0.52% 收 7,623.68 點，那斯達克跌 0.21% 收 25,955.34 點，賣壓擴及多數類股。美國油價突破每桶 100 美元、公債殖利率上升，加上前一天的科技與 AI 股拋售，標普 500 與那斯達克連續第二週收黑。",
+     "why": "市場同時面對兩個壓力：AI 投資回本疑慮與中東戰事推升的油價。油價上漲會推高通膨預期，讓降息空間變小，對股市估值形成壓力。",
+     "glossary": [
+      {
+       "term": "公債殖利率",
+       "def": "買美國政府公債可得的年化報酬，殖利率上升代表借錢成本變高，通常對股市不利。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "CNBC: Dow tumbles more than 600 points as oil prices rise and market sell-off hits most sectors",
+       "url": "https://www.cnbc.com/2026/10/22/stock-market-today-live-update.html"
+      },
+      {
+       "title": "Kiplinger: Dow Drops 652 Points as Oil Prices Pop and Treasury Yields Rise",
+       "url": "https://www.kiplinger.com/investing/stocks/dow-drops-652-points-as-oil-treasury-yields-rise-stock-market-today"
+      },
+      {
+       "title": "Yahoo Finance: Dow sinks 600 points, S&P 500, Nasdaq drop to cap a volatile week, oil prices rise",
+       "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-drop-nasdaq-rises-after-sharp-tech-sell-off-160940864.html"
+      }
+     ]
+    },
+    {
+     "title": "台股本週回顧：外資兩度大賣，加權指數收 46,041 點；新台幣收 32.508 元",
+     "category": "台股",
+     "summary": "台股因颱風於 10/23 休市，最後交易日 10/22 收 46,041.43 點、跌破季線，當天外資賣超逾 800 億元。新台幣 10/22 貶 2 分收 32.508 元。本週外資在 10/21 小買、終止連 10 賣後又轉為大賣，投信則持續買超承接。",
+     "why": "台股休市期間美股續跌、油價破百，10/27 開盤恐面臨補跌壓力；外資動向與新台幣能否守穩 32.5 元仍是關鍵。",
+     "sources": [
+      {
+       "title": "中央社：外資再砍台股逾800億 新台幣貶2分收32.508元",
+       "url": "https://www.cna.com.tw/news/afe/202610220289.aspx"
+      },
+      {
+       "title": "鉅亨網：台股10/23因颱風休市",
+       "url": "https://news.cnyes.com/news/id/6636149"
+      }
+     ]
+    }
+   ],
+   "mood": "短線偏謹慎",
+   "outlook": "偏多因素：道瓊本週仍小幅收紅，顯示資金並非全面撤離；Meta 等科技公司本業營收仍強，AI 需求本身沒有明顯轉弱。偏空因素：油價突破每桶 100 美元、美國增兵中東，通膨與利率壓力再起；AI 資本支出回本疑慮讓科技股連兩週下跌；台股休市期間累積的國際利空，可能在 10/27 開盤時集中反映，外資賣壓也尚未停止。下週關鍵：巴西 10/25、以色列 10/27 選舉結果，中東軍事動向與油價，以及大型科技公司財報。整體而言，短線風險偏高。以上僅整理市場資訊與各方觀點，不構成投資建議。"
+  },
+  {
+   "id": "ai",
+   "name": "AI 科技發展",
+   "items": [
+    {
+     "title": "AI 協助找出潛伏多年的 PHP 重大漏洞：各國緊急修補，部分政府網站與維基百科暫時下線",
+     "category": "研究與安全",
+     "summary": "支撐全球約七成網站的程式語言 PHP，10/21 發布緊急修補，修正多年來潛藏在程式碼中、由研究人員借助 AI 找到的嚴重漏洞；OpenAI 表示其模型協助了這次發現。美國 CISA 呼籲盡快更新，FBI 與英國 NCSC 建議無法立即更新的系統先下線；歐洲多國政府網站、荷蘭資安機構與維基百科營運方都曾暫時關閉系統。Censys 資料顯示，約 260 萬台 PHP 主機中有約 150 萬台使用尚無修補的版本。",
+     "why": "這是 AI 大幅提升漏洞挖掘能力的具體案例，防守方能更快找出問題，但修補公開後，攻擊者也可能用 AI 快速反推出攻擊方法，網站管理者的修補時間窗口被大幅壓縮。",
+     "glossary": [
+      {
+       "term": "PHP",
+       "def": "一種用來製作網站的程式語言，WordPress、Drupal 等常見網站系統都以它為基礎。"
+      },
+      {
+       "term": "CISA",
+       "def": "美國網路安全暨基礎設施安全局，負責協調美國政府與重要基礎設施的資安防護。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "ABC7/AP: Urgent security fix issued for code vital to estimated 70% of all websites",
+       "url": "https://abc7news.com/story/urgent-security-fix-issued-code-vital-estimated-70-websites/19965216/"
+      },
+      {
+       "title": "CTV News: European government websites go dark as software flaw sparks security scramble",
+       "url": "https://ctvnews.ca/sci-tech/article/european-government-websites-go-dark-as-software-flaw-sparks-security-scramble"
+      },
+      {
+       "title": "The Daily Record: Government websites go dark after AI-discovered flaw sparks security scramble",
+       "url": "https://thedailyrecord.com/2026/10/21/government-websites-go-dark-after-ai-discovered-flaw-sparks-security-scramble/"
+      }
+     ]
+    },
+    {
+     "title": "Anthropic 傳最快 10/23 公開提交上市文件，目標 11 月中旬 IPO",
+     "category": "產業與投資",
+     "summary": "據三名知情人士說法，AI 公司 Anthropic 最快在 10/23（週五）公開遞交 S-1 上市申請文件，市場推估最快 11/9 那週開始向投資人推介，11 月中旬掛牌。Anthropic 已於 6 月以保密方式向美國證交會提交草案；路透先前引述外流草案稱其 2025 年營收近 46 億美元。截至本報截稿，尚未確認文件是否已公開，公司也未回應時間表。",
+     "why": "這可能是史上規模最大的科技 IPO 之一，公開財報將讓市場首次完整檢視頂尖 AI 實驗室的營收、虧損與算力支出，也會影響外界對整個 AI 產業估值的判斷。",
+     "glossary": [
+      {
+       "term": "S-1",
+       "def": "公司準備在美國上市時，向證交會提交的註冊文件，內容包含財務報表、風險與經營狀況。"
+      },
+      {
+       "term": "路演（推介）",
+       "def": "公司上市前向機構投資人介紹業務、爭取認購的巡迴說明會。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "Yahoo Finance/Reuters: Anthropic to publicly file for IPO as early as Friday, sources say",
+       "url": "https://finance.yahoo.com/markets/article/anthropic-to-publicly-file-for-ipo-as-early-as-friday-sources-say-135343841.html"
+      },
+      {
+       "title": "Seeking Alpha: Anthropic prepares to file IPO prospectus as early as Friday - report",
+       "url": "https://seekingalpha.com/news/4655713-anthropic-prepares-to-file-ipo-prospectus-as-early-as-friday---report"
+      },
+      {
+       "title": "Benzinga: Anthropic Could Take Major IPO Step as Soon as Friday",
+       "url": "https://www.benzinga.com/markets/ipos/26/10/62517881/anthropic-could-take-major-ipo-step-as-soon-as-friday-what-investors-need-to-know"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "observation": "本週收尾，全球市場面對「油價與 AI」雙重壓力。中東方面，美國持續增兵、伊朗宣稱癱瘓多艘油輪，布蘭特油價一度衝上 117 美元，加上 Meta 等公司的 AI 支出引發回本疑慮，美股標普與那斯達克連兩週下跌；台股則因颱風與補假連休，10/27 開盤可能一次反映這些變化。\n\n其他地區方面，奈及利亞出現首例無疫苗的本迪布焦型伊波拉病例，非洲疾管中心 10/28 將召開峰會；巴西明天決選勢均力敵，以色列週二也將投票，兩場選舉都會影響區域政策走向。AI 領域則出現 AI 協助找到 PHP 重大漏洞的案例，凸顯 AI 在資安攻防兩端的雙面效果。接下來幾天，可關注巴西與以色列的選舉結果、中東軍事動向與油價、伊波拉疫情是否擴散，以及 Anthropic 上市文件是否公開。",
+ "sources": [
+  {
+   "title": "CBS News: Iran War Updates: Trump envoy says war could last another year as oil prices continue rising",
+   "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-oil-gas-prices-strait-of-hormuz-midterms/"
+  },
+  {
+   "title": "MarketScreener: The Week in Oil: Fears of U.S.-Iran Escalation Push Brent to $117",
+   "url": "https://www.marketscreener.com/news/the-week-in-oil-fears-of-u-s-iran-escalation-push-brent-to-117-ce785cdfdd8cf72c"
+  },
+  {
+   "title": "Trading Economics: Oil Heads for Strong Weekly Gain",
+   "url": "https://tradingeconomics.com/commodity/crude-oil/news/527509"
+  },
+  {
+   "title": "Gulf News: Nigeria says first Ebola case is same strain as DR Congo outbreak",
+   "url": "https://gulfnews.com/world/africa/nigeria-says-first-ebola-case-is-same-strain-as-dr-congo-outbreak-2-1.500718642"
+  },
+  {
+   "title": "ClickOnDetroit/AP: Africa CDC calls an Ebola crisis summit as Nigeria records its first case",
+   "url": "https://www.clickondetroit.com/health/2026/10/21/africa-cdc-calls-an-ebola-crisis-summit-as-nigeria-records-its-first-case/"
+  },
+  {
+   "title": "Deccan Chronicle: Nigeria Confirms First Ebola Case, Identifies Deadly Bundibugyo Strain",
+   "url": "https://www.deccanchronicle.com/world/nigeria-confirms-first-ebola-case-identifies-deadly-bundibugyo-strain-1997593"
+  },
+  {
+   "title": "The Rio Times: Brazil Runoff Poll Puts Flávio 1 Point Up",
+   "url": "https://www.riotimesonline.com/quaest-poll-flavio-45-lula-44-runoff-2026/"
+  },
+  {
+   "title": "The Rio Times: Brazil's Final Polls Show Lula 45%, Flávio 42%",
+   "url": "https://www.riotimesonline.com/brazil-final-polls-before-the-vote-lula-flavio-datafolha-quaest-2026/"
+  },
+  {
+   "title": "Wikipedia: Opinion polling for the 2026 Brazilian presidential election",
+   "url": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Brazilian_presidential_election"
+  },
+  {
+   "title": "鉅亨網：台股10/23因颱風休市！程曦、藍新掛牌順延",
+   "url": "https://news.cnyes.com/news/id/6636149"
+  },
+  {
+   "title": "經濟日報：10月23日 五件財經大事搶先看",
+   "url": "https://money.udn.com/money/story/5607/9832642"
+  },
+  {
+   "title": "CNBC: Dow tumbles more than 600 points as oil prices rise and market sell-off hits most sectors",
+   "url": "https://www.cnbc.com/2026/10/22/stock-market-today-live-update.html"
+  },
+  {
+   "title": "Kiplinger: Dow Drops 652 Points as Oil Prices Pop and Treasury Yields Rise",
+   "url": "https://www.kiplinger.com/investing/stocks/dow-drops-652-points-as-oil-treasury-yields-rise-stock-market-today"
+  },
+  {
+   "title": "Yahoo Finance: Dow sinks 600 points, S&P 500, Nasdaq drop to cap a volatile week, oil prices rise",
+   "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-drop-nasdaq-rises-after-sharp-tech-sell-off-160940864.html"
+  },
+  {
+   "title": "中央社：外資再砍台股逾800億 新台幣貶2分收32.508元",
+   "url": "https://www.cna.com.tw/news/afe/202610220289.aspx"
+  },
+  {
+   "title": "ABC7/AP: Urgent security fix issued for code vital to estimated 70% of all websites",
+   "url": "https://abc7news.com/story/urgent-security-fix-issued-code-vital-estimated-70-websites/19965216/"
+  },
+  {
+   "title": "CTV News: European government websites go dark as software flaw sparks security scramble",
+   "url": "https://ctvnews.ca/sci-tech/article/european-government-websites-go-dark-as-software-flaw-sparks-security-scramble"
+  },
+  {
+   "title": "The Daily Record: Government websites go dark after AI-discovered flaw sparks security scramble",
+   "url": "https://thedailyrecord.com/2026/10/21/government-websites-go-dark-after-ai-discovered-flaw-sparks-security-scramble/"
+  },
+  {
+   "title": "Yahoo Finance/Reuters: Anthropic to publicly file for IPO as early as Friday, sources say",
+   "url": "https://finance.yahoo.com/markets/article/anthropic-to-publicly-file-for-ipo-as-early-as-friday-sources-say-135343841.html"
+  },
+  {
+   "title": "Seeking Alpha: Anthropic prepares to file IPO prospectus as early as Friday - report",
+   "url": "https://seekingalpha.com/news/4655713-anthropic-prepares-to-file-ipo-prospectus-as-early-as-friday---report"
+  },
+  {
+   "title": "Benzinga: Anthropic Could Take Major IPO Step as Soon as Friday",
+   "url": "https://www.benzinga.com/markets/ipos/26/10/62517881/anthropic-could-take-major-ipo-step-as-soon-as-friday-what-investors-need-to-know"
+  }
+ ]
+}

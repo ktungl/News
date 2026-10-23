@@ -22,6 +22,60 @@
  },
  "days": [
   {
+   "date": "2026-10-24",
+   "title": "🌏 每日早報｜2026/10/24",
+   "items": [
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "美伊再度升溫：美國第三支航艦打擊群赴中東，布蘭特油價一度突破每桶 117 美元",
+     "anchor": "world-1"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "奈及利亞出現首例伊波拉病例，屬無疫苗的本迪布焦型，非洲疾管中心召開危機峰會",
+     "anchor": "world-2"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "巴西總統決選明天登場：最新民調小波索納洛與魯拉幾乎平手",
+     "anchor": "world-3"
+    },
+    {
+     "section": "world",
+     "category": "台灣與亞太",
+     "title": "颱風薔琵影響，台北 10/23 停班停課、金融市場休市；台股 10/27 才恢復交易",
+     "anchor": "world-4"
+    },
+    {
+     "section": "markets",
+     "category": "美股",
+     "title": "美股：道瓊重挫 652 點，油價破百、公債殖利率上升，標普與那斯達克連兩週下跌",
+     "anchor": "markets-1"
+    },
+    {
+     "section": "markets",
+     "category": "台股",
+     "title": "台股本週回顧：外資兩度大賣，加權指數收 46,041 點；新台幣收 32.508 元",
+     "anchor": "markets-2"
+    },
+    {
+     "section": "ai",
+     "category": "研究與安全",
+     "title": "AI 協助找出潛伏多年的 PHP 重大漏洞：各國緊急修補，部分政府網站與維基百科暫時下線",
+     "anchor": "ai-1"
+    },
+    {
+     "section": "ai",
+     "category": "產業與投資",
+     "title": "Anthropic 傳最快 10/23 公開提交上市文件，目標 11 月中旬 IPO",
+     "anchor": "ai-2"
+    }
+   ]
+  },
+  {
    "date": "2026-10-23",
    "title": "🌏 每日早報｜2026/10/23",
    "items": [
