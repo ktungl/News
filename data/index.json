@@ -22,6 +22,42 @@
  },
  "days": [
   {
+   "date": "2026-10-26",
+   "title": "🌏 每日早報｜2026/10/26",
+   "items": [
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "巴西總統決選開票極度膠著，截稿時結果未定，雙方一度相差不到 0.2 個百分點",
+     "anchor": "world-1"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "美媒：五角大廈已擬妥期中選舉後恢復空襲伊朗的計畫；美情報警告伊朗暗殺美官員陰謀已到「後期階段」",
+     "anchor": "world-2"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "生活成本抗議潮蔓延歐洲：法國之外，義大利、阿爾巴尼亞、西班牙、葡萄牙也爆發示威",
+     "anchor": "world-3"
+    },
+    {
+     "section": "markets",
+     "category": "美股",
+     "title": "今日台股補假休市，10/27 恢復交易；美國公債殖利率跌破 5%，非 AI 類股 10 月表現較佳",
+     "anchor": "markets-1"
+    },
+    {
+     "section": "ai",
+     "category": "研究與安全",
+     "title": "資安專家：AI 找到的漏洞恐持續引發新一波系統中斷",
+     "anchor": "ai-1"
+    }
+   ]
+  },
+  {
    "date": "2026-10-25",
    "title": "🌏 每日早報｜2026/10/25",
    "items": [
