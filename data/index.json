@@ -22,6 +22,48 @@
  },
  "days": [
   {
+   "date": "2026-10-27",
+   "title": "🌏 每日早報｜2026/10/27",
+   "items": [
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "巴西決選：魯拉逆轉勝出、拿下第四任總統，佛拉維歐・波索納洛拒絕認輸並要求宣告選舉無效",
+     "anchor": "world-1"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "以色列今天國會大選：納坦雅胡對決前參謀總長艾森柯特，選前爆出與軍方對伊朗升級的爭議",
+     "anchor": "world-2"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "沙烏地國防部長赴德黑蘭會談，油價自高點回落，但布蘭特仍在每桶 110 美元以上",
+     "anchor": "world-3"
+    },
+    {
+     "section": "markets",
+     "category": "美股",
+     "title": "美股：Anthropic 公開上市文件點燃 AI 行情，那斯達克漲 0.82%、輝達漲近 3%",
+     "anchor": "markets-1"
+    },
+    {
+     "section": "markets",
+     "category": "台股",
+     "title": "台股今天恢復交易：連休四天後須消化美股先跌後漲、油價高檔與巴西選舉結果",
+     "anchor": "markets-2"
+    },
+    {
+     "section": "ai",
+     "category": "產業與投資",
+     "title": "Anthropic 正式公開上市文件：將以「ANT」在那斯達克掛牌，上半年營收 163 億美元、淨損 807 億美元",
+     "anchor": "ai-1"
+    }
+   ]
+  },
+  {
    "date": "2026-10-26",
    "title": "🌏 每日早報｜2026/10/26",
    "items": [
