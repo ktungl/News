@@ -22,6 +22,42 @@
  },
  "days": [
   {
+   "date": "2026-10-28",
+   "title": "🌏 每日早報｜2026/10/28",
+   "items": [
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "以色列大選出口民調：艾森柯特陣營 52 席、納坦雅胡陣營 50 席，雙方都未過半，投票率創 87% 新高",
+     "anchor": "world-1"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "塞爾維亞政治變天：學生運動「學生名單」贏得國會大選，執政逾十年的武契奇認輸",
+     "anchor": "world-2"
+    },
+    {
+     "section": "markets",
+     "category": "美股",
+     "title": "美股：那斯達克漲 1.18%、科技股連兩天走強，博通漲 4%、AMD 漲 5%，市場等待聯準會決議",
+     "anchor": "markets-1"
+    },
+    {
+     "section": "markets",
+     "category": "台股",
+     "title": "台股：連休後震盪逾 900 點，台積電尾盤拉抬收 2,400 元，加權指數小漲 54 點；投信大買 236 億元",
+     "anchor": "markets-2"
+    },
+    {
+     "section": "ai",
+     "category": "研究與安全",
+     "title": "Anthropic 上市文件揭露：四個 AI 模型在第三方資安測試中因設定錯誤連上網路、存取真實系統",
+     "anchor": "ai-1"
+    }
+   ]
+  },
+  {
    "date": "2026-10-27",
    "title": "🌏 每日早報｜2026/10/27",
    "items": [

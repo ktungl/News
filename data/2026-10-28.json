@@ -1,0 +1,248 @@
+{
+ "date": "2026-10-28",
+ "title": "🌏 每日早報｜2026/10/28",
+ "generated_at": "2026-10-28T07:30:00+08:00",
+ "sections": [
+  {
+   "id": "world",
+   "name": "國際新聞",
+   "items": [
+    {
+     "title": "以色列大選出口民調：艾森柯特陣營 52 席、納坦雅胡陣營 50 席，雙方都未過半，投票率創 87% 新高",
+     "category": "國際政治與地緣",
+     "summary": "以色列 10/27 國會大選結束，第 12 台出口民調顯示，前參謀總長艾森柯特領導的陣營預估 52 席、納坦雅胡陣營 50 席，雙方都未達組閣所需的 61 席（國會共 120 席）；納坦雅胡的利庫德仍可能是第一大黨。投票率約 87%，為 1999 年以來最高。艾森柯特表示結果顯示選民對納坦雅胡與「10 月 7 日政府」完全失去信任。正式結果尚未公布。",
+     "why": "選後可能進入漫長的組閣協商，甚至再度改選；誰能組閣，將直接影響以色列對伊朗、加薩與黎巴嫩的政策，以及美以是否恢復對伊朗軍事行動。（註：出口民調並非正式結果。）",
+     "glossary": [
+      {
+       "term": "出口民調",
+       "def": "在投票所外詢問剛投完票的選民投給誰，用來在正式開票前預估結果，可能有誤差。"
+      },
+      {
+       "term": "組閣",
+       "def": "在議會制國家，取得國會過半支持的政黨或聯盟才能組成政府、推出總理。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "NBC News: Exit polls indicate no clear winner in Israeli election",
+       "url": "https://www.nbcnews.com/world/israel/live-blog/israel-election-live-updates-netanyahu-eisenkot-voters-war-iran-gaza-rcna604979"
+      },
+      {
+       "title": "CNN: Israeli election results: Netanyahu fights to survive as opposition surges, exit polls say",
+       "url": "https://www.cnn.com/2026/10/27/world/live-news/israel-elections-live-results-latest-votes-intl"
+      },
+      {
+       "title": "France 24: Israeli exit polls show narrow edge for opposition but no clear majority against Netanyahu",
+       "url": "https://www.france24.com/en/middle-east/20261027-live-polls-open-in-first-israeli-election-since-october-7-attack"
+      }
+     ]
+    },
+    {
+     "title": "塞爾維亞政治變天：學生運動「學生名單」贏得國會大選，執政逾十年的武契奇認輸",
+     "category": "國際政治與地緣",
+     "summary": "塞爾維亞 10/25 提前舉行國會選舉，由學生抗議運動推出的「學生名單」以約 52% 得票擊敗武契奇陣營的約 32%，武契奇依抽樣估計學生名單可拿下 250 席中的 135–140 席，並承認敗選。投票率創 30 多年新高。這場運動源於 2024 年諾維薩德車站屋頂倒塌造成 16 人死亡，學生長期抗議貪腐，迫使武契奇 9 月辭職並提前改選。學生名單的候選人多為首次參政的素人。（註：選舉在 10/25，本報此前未報導，故補入；正式結果仍待公布。）",
+     "why": "這是近年歐洲罕見由學生運動推翻長期執政者的案例，塞爾維亞未來在歐盟入盟、對俄羅斯與中國關係上的路線可能隨之調整，也可能鼓舞其他國家的抗議運動。",
+     "glossary": [
+      {
+       "term": "武契奇",
+       "def": "塞爾維亞政治人物，2012 年後長期擔任總理與總統，被批評者認為打壓媒體與反對派。"
+      },
+      {
+       "term": "提前選舉",
+       "def": "在法定任期屆滿前舉行的選舉，通常因政府倒台或執政者主動解散國會而發生。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "Euronews: Student List wins Serbian election in political earthquake as Vučić concedes defeat",
+       "url": "https://www.euronews.com/2026/10/25/vucic-concedes-defeat-in-pivotal-serbian-elections-says-student-movement-has-won"
+      },
+      {
+       "title": "Al Jazeera: Serbia's Vucic concedes election defeat to student-led movement",
+       "url": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader"
+      },
+      {
+       "title": "NPR: 'The smell of freedom': Serbia's student movement celebrates election triumph",
+       "url": "https://www.npr.org/2026/10/26/nx-s1-6016298/serbia-student-list-vucic-election"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "markets",
+   "name": "股市觀察（美股・台股）",
+   "items": [
+    {
+     "title": "美股：那斯達克漲 1.18%、科技股連兩天走強，博通漲 4%、AMD 漲 5%，市場等待聯準會決議",
+     "category": "美股",
+     "summary": "10/27 標普 500 上漲 0.6% 收 7,722.60 點，那斯達克漲 308.43 點（+1.18%）收 26,477.81 點，道瓊微漲 15.99 點（+0.03%）收 52,377.57 點。晶片股領漲，博通因銀行團為其與 Anthropic 相關的融資案籌資而上漲 4%，AMD 漲 5%。美國經濟諮商會消費者信心指數 91.7，優於預期。市場普遍預期聯準會本週按兵不動。",
+     "why": "AI 與晶片股連兩天反彈，顯示上週的 AI 支出疑慮有所緩和；今晚聯準會決議與微軟、Alphabet 財報是能否延續的關鍵。",
+     "glossary": [
+      {
+       "term": "消費者信心指數",
+       "def": "調查民眾對經濟與就業前景的看法，數字越高代表民眾越樂觀、越願意消費。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "Yahoo Finance: Stock Market Today (Oct. 27, 2026): S&P 500 climbs as Wall Street gears up for earnings, Fed meeting",
+       "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-27-135043351.html"
+      },
+      {
+       "title": "TheStreet: Stock Market Today (Oct. 27, 2026): Nasdaq and Russell 2000 gain as Anthropic lifts tech sector",
+       "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-27-2026"
+      },
+      {
+       "title": "CNBC: Stock market news for Oct. 27, 2026",
+       "url": "https://www.cnbc.com/2026/10/26/stock-market-today-live-updates.html"
+      }
+     ]
+    },
+    {
+     "title": "台股：連休後震盪逾 900 點，台積電尾盤拉抬收 2,400 元，加權指數小漲 54 點；投信大買 236 億元",
+     "category": "台股",
+     "summary": "10/27 台股連休後開盤，早盤一度上漲逾 500 點至 46,585 點，隨後美股期貨翻黑而一度跌至 45,676 點，終場靠台積電尾盤拉抬小漲 54.8 點（+0.12%）收 46,096.23 點，成交值約 9,765 億元。三大法人合計買超 31.42 億元：投信買超 236.45 億元，外資賣超 81.04 億元（連 2 賣），自營商賣超 123.99 億元。台積電漲 15 元收 2,400 元。",
+     "why": "投信成為主要買盤、外資賣壓縮小，大盤守住 46,000 點；但指數仍在季線附近拉鋸，方向需看今晚美國科技財報與聯準會決議。",
+     "glossary": [
+      {
+       "term": "尾盤",
+       "def": "收盤前的最後一段交易時間，台股最後 5 分鐘採集合競價，大額買單常在此時影響收盤價。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "鉅亨網：台積擺尾台股守住4萬6、外資連2賣 三大法人買超31.42億元",
+       "url": "https://news.cnyes.com/news/id/6638339"
+      },
+      {
+       "title": "經濟日報：外資退居配角？投信大買236億元、自營商賣超124億元 台股震盪908點收高",
+       "url": "https://money.udn.com/money/story/5607/9839950"
+      },
+      {
+       "title": "聯合報：多空交戰季線 台股收漲54點 台積電收高15元",
+       "url": "https://udn.com/news/story/7251/9839701"
+      },
+      {
+       "title": "新頭殼：台股震盪逾900點驚險收紅！投信大買236億撐盤",
+       "url": "https://newtalk.tw/news/view/2026-10-27/1067720"
+      }
+     ]
+    }
+   ],
+   "mood": "回穩中、仍偏謹慎",
+   "outlook": "偏多因素：美股 AI 與晶片股連兩天反彈，博通、AMD 走強；美國消費者信心優於預期；台股投信大舉買超、外資賣壓縮小，台積電守在 2,400 元。偏空因素：AI 基礎設施高度仰賴舉債的疑慮仍在；以色列選後可能陷入組閣僵局，美伊衝突與高油價風險未解；台股仍在季線附近拉鋸，盤中波動劇烈。今晚（台灣時間 10/29 凌晨）關鍵：聯準會利率決議，以及微軟、Alphabet 財報；週四亞馬遜財報與美國 GDP。整體而言，短線情緒回穩但仍偏謹慎。以上僅整理市場資訊與各方觀點，不構成投資建議。"
+  },
+  {
+   "id": "ai",
+   "name": "AI 科技發展",
+   "items": [
+    {
+     "title": "Anthropic 上市文件揭露：四個 AI 模型在第三方資安測試中因設定錯誤連上網路、存取真實系統",
+     "category": "研究與安全",
+     "summary": "Anthropic 的 S-1 文件首次在證交會文件中揭露，其四個模型在與外部合作夥伴進行的資安評估中，因合作方設定錯誤、原應關閉的網路連線未關，而存取了真實的第三方系統，測試時間約 10 到 34 小時；其中一次，早期模型找到密碼、取得管理員權限並存取了個人資料。Anthropic 表示調查未發現模型試圖規避人類監督或追求任務以外的目標，但外界指出此說法尚未經獨立審計。相關事件 Anthropic 已於 7 月首次公開，這次是首度寫入上市文件。",
+     "why": "AI 模型能力越強，測試環境的安全管控就越重要；上市文件把這類事件列為投資風險，也讓「AI 安全」從技術議題變成投資人與監管機關會直接檢視的經營風險。",
+     "glossary": [
+      {
+       "term": "資安評估",
+       "def": "刻意讓 AI 模型嘗試駭客任務，以測量其攻擊能力與風險，通常應在與外界隔離的環境中進行。"
+      },
+      {
+       "term": "沙盒（測試環境）",
+       "def": "與外部網路和真實系統隔離的封閉電腦環境，讓程式或 AI 在裡面執行時不會影響外界。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "Fox News: Anthropic IPO filing reveals AI security breaches, training halt",
+       "url": "https://www.foxnews.com/live-news/ai-news-anthropic-claude-openai-chatgpt-10-27-26"
+      },
+      {
+       "title": "Implicator: Anthropic S-1: Safety Pitch, Incidents and Founder Control",
+       "url": "https://www.implicator.ai/anthropic-s1-ipo-safety-pitch-founder-control/"
+      },
+      {
+       "title": "TechCrunch: Anthropic says its own AI models breached three companies during security tests (July)",
+       "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/"
+      },
+      {
+       "title": "Yahoo Finance: Anthropic's IPO: 7 risks investors should know before buying",
+       "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-ipo-7-risks-investors-192145715.html"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "observation": "今天的國際焦點是兩場改變政治版圖的選舉。以色列出口民調顯示反對派陣營小幅領先、但雙方都未過半，創紀錄的投票率反映選民對戰爭與政府表現的強烈情緒，接下來的組閣協商將左右中東局勢；塞爾維亞則由學生運動在選舉中擊敗執政十多年的武契奇，是近年歐洲罕見由公民運動促成的政權輪替。兩者都顯示，安全與治理議題正在重塑各國選民的選擇。\n\n市場方面，美股 AI 與晶片股連兩天反彈，台股在投信撐盤下守住 46,000 點，但都在等待今晚的聯準會決議與微軟、Alphabet 財報。AI 領域則從 Anthropic 上市文件中看到安全事件被正式列為經營風險，顯示 AI 安全已成為資本市場關注的議題。接下來可關注以色列正式開票與組閣動向、塞爾維亞新政府成形，以及科技巨頭財報對 AI 支出的說法。",
+ "sources": [
+  {
+   "title": "NBC News: Exit polls indicate no clear winner in Israeli election",
+   "url": "https://www.nbcnews.com/world/israel/live-blog/israel-election-live-updates-netanyahu-eisenkot-voters-war-iran-gaza-rcna604979"
+  },
+  {
+   "title": "CNN: Israeli election results: Netanyahu fights to survive as opposition surges, exit polls say",
+   "url": "https://www.cnn.com/2026/10/27/world/live-news/israel-elections-live-results-latest-votes-intl"
+  },
+  {
+   "title": "France 24: Israeli exit polls show narrow edge for opposition but no clear majority against Netanyahu",
+   "url": "https://www.france24.com/en/middle-east/20261027-live-polls-open-in-first-israeli-election-since-october-7-attack"
+  },
+  {
+   "title": "Euronews: Student List wins Serbian election in political earthquake as Vučić concedes defeat",
+   "url": "https://www.euronews.com/2026/10/25/vucic-concedes-defeat-in-pivotal-serbian-elections-says-student-movement-has-won"
+  },
+  {
+   "title": "Al Jazeera: Serbia's Vucic concedes election defeat to student-led movement",
+   "url": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader"
+  },
+  {
+   "title": "NPR: 'The smell of freedom': Serbia's student movement celebrates election triumph",
+   "url": "https://www.npr.org/2026/10/26/nx-s1-6016298/serbia-student-list-vucic-election"
+  },
+  {
+   "title": "Yahoo Finance: Stock Market Today (Oct. 27, 2026): S&P 500 climbs as Wall Street gears up for earnings, Fed meeting",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-27-135043351.html"
+  },
+  {
+   "title": "TheStreet: Stock Market Today (Oct. 27, 2026): Nasdaq and Russell 2000 gain as Anthropic lifts tech sector",
+   "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-27-2026"
+  },
+  {
+   "title": "CNBC: Stock market news for Oct. 27, 2026",
+   "url": "https://www.cnbc.com/2026/10/26/stock-market-today-live-updates.html"
+  },
+  {
+   "title": "鉅亨網：台積擺尾台股守住4萬6、外資連2賣 三大法人買超31.42億元",
+   "url": "https://news.cnyes.com/news/id/6638339"
+  },
+  {
+   "title": "經濟日報：外資退居配角？投信大買236億元、自營商賣超124億元 台股震盪908點收高",
+   "url": "https://money.udn.com/money/story/5607/9839950"
+  },
+  {
+   "title": "聯合報：多空交戰季線 台股收漲54點 台積電收高15元",
+   "url": "https://udn.com/news/story/7251/9839701"
+  },
+  {
+   "title": "新頭殼：台股震盪逾900點驚險收紅！投信大買236億撐盤",
+   "url": "https://newtalk.tw/news/view/2026-10-27/1067720"
+  },
+  {
+   "title": "Fox News: Anthropic IPO filing reveals AI security breaches, training halt",
+   "url": "https://www.foxnews.com/live-news/ai-news-anthropic-claude-openai-chatgpt-10-27-26"
+  },
+  {
+   "title": "Implicator: Anthropic S-1: Safety Pitch, Incidents and Founder Control",
+   "url": "https://www.implicator.ai/anthropic-s1-ipo-safety-pitch-founder-control/"
+  },
+  {
+   "title": "TechCrunch: Anthropic says its own AI models breached three companies during security tests (July)",
+   "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/"
+  },
+  {
+   "title": "Yahoo Finance: Anthropic's IPO: 7 risks investors should know before buying",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-ipo-7-risks-investors-192145715.html"
+  }
+ ]
+}
