@@ -22,13 +22,61 @@
  },
  "days": [
   {
+   "date": "2026-10-29",
+   "title": "🌏 每日早報｜2026/10/29",
+   "items": [
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "以色列大選開票近九成：納坦雅胡陣營 53 席、艾森柯特陣營 48 席，阿拉伯政黨 19 席創新高，雙方都未過半",
+     "anchor": "world-1"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "委內瑞拉反對派領袖馬查多流亡近十個月後返國，支持者上街迎接",
+     "anchor": "world-2"
+    },
+    {
+     "section": "world",
+     "category": "全球經濟與市場",
+     "title": "美國聯準會維持利率 3.75%–4% 不變，兩名委員主張再升息",
+     "anchor": "world-3"
+    },
+    {
+     "section": "markets",
+     "category": "美股",
+     "title": "美股三大指數連三漲；盤後微軟大漲、Alphabet 重挫約 10%",
+     "anchor": "markets-1"
+    },
+    {
+     "section": "markets",
+     "category": "產業與個股",
+     "title": "微軟第一季財報：營收約 923 億美元、Azure 成長 48%，資本支出低於預期",
+     "anchor": "markets-2"
+    },
+    {
+     "section": "markets",
+     "category": "台股",
+     "title": "台股：大漲 939 點收復 47,000 點與季線，外資回補 159 億元，台積電收 2,425 元",
+     "anchor": "markets-3"
+    },
+    {
+     "section": "ai",
+     "category": "產業與投資",
+     "title": "Alphabet：Google Cloud 營收翻倍至 307 億美元，但 2027 年資本支出將超過 3,000 億美元，獲利不如預期",
+     "anchor": "ai-1"
+    }
+   ]
+  },
+  {
    "date": "2026-10-28",
    "title": "🌏 每日早報｜2026/10/28",
    "items": [
     {
      "section": "world",
      "category": "國際政治與地緣",
-     "title": "以色列大選出口民調：艾森柯特陣營 52 席、納坦雅胡陣營 50 席，雙方都未過半，投票率創 87% 新高",
+     "title": "以色列大選出口民調：艾森柯特陣營 52 席、納坦雅胡陣營 50 席，雙方都未過半，投票率創 1999 年來新高",
      "anchor": "world-1"
     },
     {
