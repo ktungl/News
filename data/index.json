@@ -22,6 +22,48 @@
  },
  "days": [
   {
+   "date": "2026-10-30",
+   "title": "🌏 每日早報｜2026/10/30",
+   "items": [
+    {
+     "section": "world",
+     "category": "全球經濟與市場",
+     "title": "美國第三季 GDP 年化成長 3.4%，核心 PCE 物價月增 0.3%、較 8 月加快",
+     "anchor": "world-1"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "荷莫茲海峽再傳油輪觸雷起火，卡達帶頭斡旋盼重啟美伊談判",
+     "anchor": "world-2"
+    },
+    {
+     "section": "markets",
+     "category": "美股",
+     "title": "美股：Alphabet 重挫 12.6% 創史上最大單日跌幅，那斯達克跌 1.38%；資金轉向醫療、民生類股",
+     "anchor": "markets-1"
+    },
+    {
+     "section": "markets",
+     "category": "產業與個股",
+     "title": "亞馬遜第三季：AWS 成長 39% 優於預期，但每股盈餘不如預期，2027 年支出將再擴大",
+     "anchor": "markets-2"
+    },
+    {
+     "section": "markets",
+     "category": "台股",
+     "title": "台股：外資賣超 688 億元，加權指數跌 667 點、再度跌破季線；聯發科、台達電跌逾 4%",
+     "anchor": "markets-3"
+    },
+    {
+     "section": "ai",
+     "category": "晶片與算力",
+     "title": "報導：OpenAI 計畫採購 Google TPU 晶片，降低對輝達的依賴",
+     "anchor": "ai-1"
+    }
+   ]
+  },
+  {
    "date": "2026-10-29",
    "title": "🌏 每日早報｜2026/10/29",
    "items": [
