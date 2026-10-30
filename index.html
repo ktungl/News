@@ -44,6 +44,13 @@ aside li a { display: block; padding: 4px 10px; border-radius: 6px; text-decorat
 aside li a:hover { color: var(--ink); }
 aside li a.on { background: var(--accent-soft); color: var(--accent); font-weight: 500; }
 aside li a .n { float: right; opacity: .7; }
+aside details.month { margin: 0 0 6px; }
+aside details.month summary { cursor: pointer; list-style: none; padding: 4px 10px; border-radius: 6px; font-size: 14px; color: var(--ink); font-weight: 500; }
+aside details.month summary::-webkit-details-marker { display: none; }
+aside details.month summary::before { content: "▸"; display: inline-block; width: 14px; color: var(--muted); transition: transform .15s; }
+aside details.month[open] summary::before { transform: rotate(90deg); }
+aside details.month summary .n { float: right; opacity: .7; font-weight: 400; color: var(--muted); }
+aside details.month ul { margin: 2px 0 10px 14px; }
 main h1 { font: 700 30px/1.3 var(--serif); margin: 0 0 4px; }
 .meta { color: var(--muted); font-size: 13px; margin-bottom: 28px; }
 .sec-h { display: flex; align-items: baseline; gap: 10px; margin: 36px 0 12px; padding-bottom: 6px; border-bottom: 2px solid var(--ink); }
@@ -138,14 +145,30 @@ function catCounts() {
   return c;
 }
 
+const openMonths = new Set();
+
 function renderSide(r) {
   const counts = catCounts();
   const sec = (title, cats, sid) => `<h3>${title}</h3><ul>${cats.map((c) =>
     `<li><a href="#/cat/${encodeURIComponent(c)}" class="${r.view === "cat" && r.arg === c ? "on" : ""}">${esc(c)}<span class="n">${counts[c] || 0}</span></a></li>`).join("")}</ul>`;
-  const days = INDEX.days.slice(0, 30).map((d) =>
-    `<li><a href="#/${d.date}" class="${r.view === "day" && r.arg === d.date ? "on" : ""}">${fmt(d.date)}</a></li>`).join("");
+  const months = new Map();
+  for (const d of INDEX.days) {
+    const m = d.date.slice(0, 7);
+    if (!months.has(m)) months.set(m, []);
+    months.get(m).push(d);
+  }
+  const activeMonth = (r.view === "day" ? r.arg : INDEX.days[0]?.date || "").slice(0, 7);
+  const history = [...months].map(([m, ds]) => {
+    const [y, mo] = m.split("-");
+    const open = openMonths.has(m) || m === activeMonth;
+    const items = ds.map((d) =>
+      `<li><a href="#/${d.date}" class="${r.view === "day" && r.arg === d.date ? "on" : ""}">${fmt(d.date)}</a></li>`).join("");
+    return `<details class="month" data-month="${m}"${open ? " open" : ""}><summary>${y} 年 ${Number(mo)} 月<span class="n">${ds.length}</span></summary><ul>${items}</ul></details>`;
+  }).join("");
   $("#side").innerHTML = sec("國際新聞分類", INDEX.categories.world) + sec("股市分類", INDEX.categories.markets || []) + sec("AI 科技分類", INDEX.categories.ai) +
-    `<h3>歷史早報</h3><ul>${days}</ul>`;
+    `<h3>歷史早報</h3>${history}`;
+  $("#side").querySelectorAll("details.month").forEach((el) =>
+    el.addEventListener("toggle", () => el.open ? openMonths.add(el.dataset.month) : openMonths.delete(el.dataset.month)));
 }
 
 function card(item, sid, anchor) {
