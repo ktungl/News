@@ -22,6 +22,42 @@
  },
  "days": [
   {
+   "date": "2026-10-31",
+   "title": "🌏 每日早報｜2026/10/31",
+   "items": [
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "川普無證據稱巴西選舉「看起來被操縱」，波索納洛所屬政黨則承認魯拉勝選",
+     "anchor": "world-1"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "阿爾巴尼亞反貪抗議延燒兩週，總理拉馬拒絕辭職，逾 270 人受傷",
+     "anchor": "world-2"
+    },
+    {
+     "section": "markets",
+     "category": "美股",
+     "title": "美股十月以重挫收尾：那斯達克大跌 2.86%、單月跌 5.3%，英特爾暴跌近 29%",
+     "anchor": "markets-1"
+    },
+    {
+     "section": "markets",
+     "category": "台股",
+     "title": "台股重挫 1,156 點、跌破半年線，外資單日賣超 1,124 億元；10 月法人提款近 1.2 兆元",
+     "anchor": "markets-2"
+    },
+    {
+     "section": "ai",
+     "category": "晶片與算力",
+     "title": "英特爾財測令市場失望，股價單日重挫近 29%，PC 處理器需求疲弱、資料中心晶片供應受阻",
+     "anchor": "ai-1"
+    }
+   ]
+  },
+  {
    "date": "2026-10-30",
    "title": "🌏 每日早報｜2026/10/30",
    "items": [
