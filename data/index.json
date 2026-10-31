@@ -22,6 +22,54 @@
  },
  "days": [
   {
+   "date": "2026-11-01",
+   "title": "🌏 每日早報｜2026/11/01",
+   "items": [
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "本週看點：美國期中選舉 11/3 登場，民調顯示民主黨可望奪回眾議院，參議院較為膠著",
+     "anchor": "world-1"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "卡達密集斡旋美伊，伊朗稱荷莫茲可在兩天內重開但附條件；美方要求波灣國家為期中選舉後的攻擊做準備",
+     "anchor": "world-2"
+    },
+    {
+     "section": "world",
+     "category": "台灣與亞太",
+     "title": "中共四中全會閉幕：強調整頓紀律與反貪，批准開除 30 多名高階官員",
+     "anchor": "world-3"
+    },
+    {
+     "section": "world",
+     "category": "台灣與亞太",
+     "title": "東協國防部長會議在菲律賓舉行，中國防長缺席並指控菲國濫用輪值主席身分",
+     "anchor": "world-4"
+    },
+    {
+     "section": "markets",
+     "category": "美股",
+     "title": "本週看點（美股）：期中選舉、蘋果與 AMD 財報、週五非農就業；輝達 11/17 公布財報",
+     "anchor": "markets-1"
+    },
+    {
+     "section": "markets",
+     "category": "台股",
+     "title": "本週看點（台股）：外資 10 月提款近 1.2 兆元後，留意期中選舉與 AI 股能否止跌",
+     "anchor": "markets-2"
+    },
+    {
+     "section": "ai",
+     "category": "政策與監管",
+     "title": "日經：日本政府要求 Anthropic、OpenAI 開放更多先進模型存取權",
+     "anchor": "ai-1"
+    }
+   ]
+  },
+  {
    "date": "2026-10-31",
    "title": "🌏 每日早報｜2026/10/31",
    "items": [
