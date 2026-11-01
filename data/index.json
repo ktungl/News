@@ -22,6 +22,36 @@
  },
  "days": [
   {
+   "date": "2026-11-02",
+   "title": "🌏 每日早報｜2026/11/02",
+   "items": [
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "美伊間接談判：伊朗與卡達在杜哈連談三天，荷莫茲「兩天重開」方案仍待美方回應；川普稱「不急」",
+     "anchor": "world-1"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "印度反對派持續要求選舉委員會主委下台，抗議延燒一個月、拉胡爾・甘地曾被短暫拘留",
+     "anchor": "world-2"
+    },
+    {
+     "section": "markets",
+     "category": "台股",
+     "title": "今日看點：台股 10 月重挫後迎接 11 月首個交易日；美股今晚蘋果財報、明晚期中選舉與 AMD",
+     "anchor": "markets-1"
+    },
+    {
+     "section": "ai",
+     "category": "模型與產品",
+     "title": "Mistral 釋出一兆參數模型 Large 4 開放權重，主打資安防禦用途",
+     "anchor": "ai-1"
+    }
+   ]
+  },
+  {
    "date": "2026-11-01",
    "title": "🌏 每日早報｜2026/11/01",
    "items": [
