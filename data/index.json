@@ -22,6 +22,54 @@
  },
  "days": [
   {
+   "date": "2026-11-03",
+   "title": "🌏 每日早報｜2026/11/03",
+   "items": [
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "今天美國期中選舉投票，台灣時間週三上午起陸續開票",
+     "anchor": "world-1"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "美伊談判現曙光：伊朗稱研議兩天重開荷莫茲方案，范斯「對協議前景感覺不錯」；油價重挫逾 7%",
+     "anchor": "world-2"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "以色列組閣角力：納坦雅胡與極右派盟友展開協商，反對派研議聯合阿拉伯政黨撤換國會議長",
+     "anchor": "world-3"
+    },
+    {
+     "section": "markets",
+     "category": "美股",
+     "title": "美股：資金撤出科技股，那斯達克跌 1.07%、標普跌 0.51%，道瓊逆勢上漲；油價重挫逾 7%",
+     "anchor": "markets-1"
+    },
+    {
+     "section": "markets",
+     "category": "產業與個股",
+     "title": "蘋果第四財季營收 1,145 億美元創同季新高、年增 12%，iPhone 成長 17.5%",
+     "anchor": "markets-2"
+    },
+    {
+     "section": "markets",
+     "category": "台股",
+     "title": "台股：失守 45,000 點，外資連 3 賣 735 億元、台積電外資持股比創 20 年新低；投信大買 361 億元",
+     "anchor": "markets-3"
+    },
+    {
+     "section": "ai",
+     "category": "模型與產品",
+     "title": "報導：蘋果 Apple Intelligence 將於 11/4 開放中國開發者測試、12 月正式上線，整合阿里巴巴通義千問",
+     "anchor": "ai-1"
+    }
+   ]
+  },
+  {
    "date": "2026-11-02",
    "title": "🌏 每日早報｜2026/11/02",
    "items": [
