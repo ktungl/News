@@ -22,6 +22,84 @@
  },
  "days": [
   {
+   "date": "2026-11-04",
+   "title": "🌏 每日早報｜2026/11/04",
+   "items": [
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "美國期中選舉投票進行中，台灣時間今天上午起陸續開票；截稿時尚無結果",
+     "anchor": "world-1"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "美軍選前打擊伊朗格什姆島飛彈發射器，伊朗稱擊落美軍無人機；談判主渠道傳停滯",
+     "anchor": "world-2"
+    },
+    {
+     "section": "world",
+     "category": "全球經濟與市場",
+     "title": "澳洲央行今年第五度升息，利率升至 4.85% 創 18 年新高，理事會 6 比 3 分歧",
+     "anchor": "world-3"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "委內瑞拉新外長首訪華府，盧比歐重申「三階段」民主轉型路線、要求釋放政治犯",
+     "anchor": "world-4"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "巴西敗選人佛拉維歐・波索納洛違反法院命令出境赴美，巴西召見阿根廷外交官",
+     "anchor": "world-5"
+    },
+    {
+     "section": "world",
+     "category": "台灣與亞太",
+     "title": "日本高市內閣支持率升至近 65%，食品消費稅減稅法案在眾院攻防",
+     "anchor": "world-6"
+    },
+    {
+     "section": "markets",
+     "category": "美股",
+     "title": "美股：資金重返晶片股，費半漲約 2.6%、那斯達克漲 0.83%；蘋果跌近 2% 拖累道瓊",
+     "anchor": "markets-1"
+    },
+    {
+     "section": "markets",
+     "category": "台股",
+     "title": "台股：重挫 1,612 點收 43,307 點、史上第 7 大跌點；外資賣超 1,073 億元",
+     "anchor": "markets-2"
+    },
+    {
+     "section": "markets",
+     "category": "產業與個股",
+     "title": "AMD 第三季營收 133.8 億美元、年增 45%，資料中心近倍增；盤後股價漲約 8%",
+     "anchor": "markets-3"
+    },
+    {
+     "section": "ai",
+     "category": "產業與投資",
+     "title": "Meta 發債籌資 AI 建設：美元債募得 150 億美元、訂單約 580 億美元；標普調降展望至負向",
+     "anchor": "ai-1"
+    },
+    {
+     "section": "ai",
+     "category": "產業與投資",
+     "title": "Anthropic 更新上市文件：第三季營收約 170 億美元，但由盈轉虧，估值仍未揭露",
+     "anchor": "ai-2"
+    },
+    {
+     "section": "ai",
+     "category": "研究與安全",
+     "title": "AI 業者的期中選舉防線：OpenAI 設選舉作戰中心，Anthropic 加強偵測濫用",
+     "anchor": "ai-3"
+    }
+   ]
+  },
+  {
    "date": "2026-11-03",
    "title": "🌏 每日早報｜2026/11/03",
    "items": [

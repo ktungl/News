@@ -1,0 +1,518 @@
+{
+ "date": "2026-11-04",
+ "title": "🌏 每日早報｜2026/11/04",
+ "generated_at": "2026-11-04T07:20:00+08:00",
+ "sections": [
+  {
+   "id": "world",
+   "name": "國際新聞",
+   "items": [
+    {
+     "title": "美國期中選舉投票進行中，台灣時間今天上午起陸續開票；截稿時尚無結果",
+     "category": "國際政治與地緣",
+     "summary": "美國期中選舉 11/3 投票，截至本報截稿（台灣時間 11/4 清晨）各州投票所仍陸續關閉中，主要媒體的即時開票頁面尚未判定任何席次。選前眾議院由共和黨以 218 比 212 掌握多數；參議院共和黨同樣居多數，民主黨需淨增 3 席才能取得控制權（現有席次各媒體寫法略有差異）。州長選舉方面，亞利桑那、喬治亞、密西根、賓州、威斯康辛等州也是焦點。",
+     "why": "國會兩院歸屬將決定川普政府後續的關稅、對伊朗政策與科技監管能否順利推動，也是今天美股、台股最大的變數。",
+     "glossary": [
+      {
+       "term": "州長選舉",
+       "def": "美國各州行政首長的選舉，常與期中選舉同日舉行；州長掌管州內預算、選務與許多產業政策。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "WHYY: 2026 midterm election results: U.S. Senate, U.S. House, governor's races",
+       "url": "https://whyy.org/articles/election-2026-results-midterms-house-senate-congress/"
+      },
+      {
+       "title": "NBC News: U.S. House Midterm Election Live Results 2026",
+       "url": "https://www.nbcnews.com/politics/2026-elections/house-results"
+      },
+      {
+       "title": "NBC News: U.S. Senate Midterm Election Live Results 2026",
+       "url": "https://www.nbcnews.com/politics/2026-elections/senate-results"
+      }
+     ]
+    },
+    {
+     "title": "美軍選前打擊伊朗格什姆島飛彈發射器，伊朗稱擊落美軍無人機；談判主渠道傳停滯",
+     "category": "國際政治與地緣",
+     "summary": "據《華爾街日報》、美聯社、Axios 與 CNN 引述匿名軍方消息，美國中央司令部在美軍飛機遭攻擊後，摧毀荷莫茲海峽格什姆島上一座伊斯蘭革命衛隊飛彈發射器；伊朗官媒則報導島上接連傳出五聲爆炸，革命衛隊並宣稱擊落美軍無人機。伊朗國會議長卡利巴夫警告，美方若犯下戰略錯誤將開啟「新戰場」。外交方面，伊朗外長形容與美方的間接交流「密集」，但《華爾街日報》報導主要談判渠道已陷入停滯，伊朗重開海峽的條件包括解除制裁與歸還凍結資產。（註：爆炸原因、損害與無人機說法均尚無獨立證實。）",
+     "why": "前一天市場才因協議期待讓油價重挫逾 7%，選前的軍事交火顯示局勢仍可能反覆，油價與通膨風險尚未解除。",
+     "glossary": [
+      {
+       "term": "格什姆島",
+       "def": "伊朗位於荷莫茲海峽內的最大島嶼，緊鄰全球最重要的石油運輸航道，是伊朗部署軍事設施的重點地區。"
+      },
+      {
+       "term": "伊斯蘭革命衛隊",
+       "def": "伊朗獨立於正規軍之外的精銳武裝力量，直接聽命於最高領袖，掌管飛彈與海上行動。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "The Hill (AP): US strikes Iranian targets in the Strait of Hormuz, official says",
+       "url": "https://thehill.com/homenews/ap/ap-international/ap-us-strikes-iranian-targets-in-the-strait-of-hormuz-official-says-leaving-unclear-what-comes-next/"
+      },
+      {
+       "title": "Euronews: Iran warns of 'new battlefield' after reported US strike on Qeshm",
+       "url": "https://www.euronews.com/2026/11/03/iran-warns-of-new-battlefield-after-reported-us-strike-on-qeshm"
+      },
+      {
+       "title": "Gulf News: Iran claims US drone downed, Qeshm blasts reported",
+       "url": "https://gulfnews.com/world/mena/iran-claims-us-drone-downed-qeshm-blasts-reported-trump-cites-oil-drop-1.500733429"
+      },
+      {
+       "title": "The Hill: Iran offers to open Strait of Hormuz on several conditions",
+       "url": "https://thehill.com/policy/international/6189852-iran-offers-strait-hormuz-opening/"
+      }
+     ]
+    },
+    {
+     "title": "澳洲央行今年第五度升息，利率升至 4.85% 創 18 年新高，理事會 6 比 3 分歧",
+     "category": "全球經濟與市場",
+     "summary": "澳洲央行 11/3 宣布將現金利率調升 1 碼至 4.85%，為 2008 年 11 月以來最高，也是今年第五次升息。這次決議以 6 比 3 通過，有三名理事主張維持在 4.60% 不變。報導指出升息主因是通膨居高不下，但高利率與房價下跌已開始拖累經濟成長。",
+     "why": "在油價高漲的背景下，主要央行仍以升息對抗通膨；理事會意見分歧也透露升息循環可能接近尾聲，是觀察全球利率走向的指標之一。",
+     "glossary": [
+      {
+       "term": "現金利率",
+       "def": "澳洲央行的政策利率，是銀行間隔夜借款的目標利率，會直接影響房貸與存款利率。"
+      },
+      {
+       "term": "1 碼",
+       "def": "利率調整單位，等於 0.25 個百分點。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "ABC News: RBA hikes cash rate to 18-year high of 4.85 per cent",
+       "url": "https://www.abc.net.au/news/2026-11-03/rba-interest-rates-markets-live-coverage/107338216"
+      },
+      {
+       "title": "SBS: RBA's Cup Day call takes rates to 18-year high; board divided over decision",
+       "url": "https://www.sbs.com.au/news/live-blog/rba-november-2026-interest-rates-decision-live/f6csn2n1w"
+      },
+      {
+       "title": "Reserve Bank of Australia",
+       "url": "https://www.rba.gov.au/"
+      }
+     ]
+    },
+    {
+     "title": "委內瑞拉新外長首訪華府，盧比歐重申「三階段」民主轉型路線、要求釋放政治犯",
+     "category": "國際政治與地緣",
+     "summary": "美國國務卿盧比歐 11/2 在國務院會見委內瑞拉新任外長布蘭科，會談約 45 分鐘，是兩國最高外交官自 2016 年 6 月以來首次正式面對面會晤。美國國務院表示，盧比歐重申川普的三階段計畫（穩定、經濟復甦與政治和解、民主轉型），並敦促繼續釋放剩餘政治犯。布蘭科上週才由臨時總統羅德里格斯任命，另也會見了財政部長貝森特。剛返國的反對派領袖馬查多則對美委石油協議的透明度表示質疑。",
+     "why": "美委關係正走向正常化，但轉型時程、2027 年總統選舉安排與石油協議都還有爭議，牽動拉美政局與國際油源。",
+     "glossary": [
+      {
+       "term": "政治犯",
+       "def": "因政治立場、言論或參與反對運動而遭拘禁的人。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "U.S. Department of State: Secretary Rubio's Meeting with Venezuelan Foreign Minister Blanco",
+       "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-rubios-meeting-with-venezuelan-foreign-minister-blanco"
+      },
+      {
+       "title": "Al Jazeera: US urges Venezuela to follow phased plan for democratic transition",
+       "url": "https://www.aljazeera.com/news/2026/11/3/us-urges-venezuela-to-follow-phased-plan-for-democratic-transition"
+      },
+      {
+       "title": "Al Arabiya: Rubio meets new Venezuelan FM, urges release of political prisoners",
+       "url": "https://english.alarabiya.net/News/world/2026/11/03/rubio-meets-new-venezuelan-fm-urges-release-of-political-prisoners"
+      }
+     ]
+    },
+    {
+     "title": "巴西敗選人佛拉維歐・波索納洛違反法院命令出境赴美，巴西召見阿根廷外交官",
+     "category": "國際政治與地緣",
+     "summary": "事件發生在 10/27–10/31，本報此前未報導，故補入。巴西總統決選落敗的參議員佛拉維歐・波索納洛與家人經陸路進入阿根廷北部，再搭包機經厄瓜多飛往邁阿密；他因洗錢案調查被最高法院要求交出護照、不得出境，此舉違反法院命令，他本人否認犯罪並稱遭司法迫害。據路透引述巴西政府消息，巴西外交部 10/29 召見阿根廷代辦說明，但阿根廷外長表示「並沒有要求解釋」。美國國務卿盧比歐則稱美方未直接參與。",
+     "why": "巴西選後對立延續，並牽動巴西與米雷執政的阿根廷、以及與美國之間本已緊張的關係。",
+     "glossary": [
+      {
+       "term": "代辦",
+       "def": "大使不在或未派任時，代理使館館務的外交官；被駐在國「召見」通常代表對方要表達不滿或要求說明。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "Al Jazeera: Brazil summons Argentinian diplomat over Bolsonaro's flight to US",
+       "url": "https://www.aljazeera.com/news/2026/10/31/brazil-summons-argentinian-diplomat-over-bolsonaros-flight-to-us"
+      },
+      {
+       "title": "US News (Reuters): Brazil Summons Argentine Diplomat Over Role in Bolsonaro's Flight to US",
+       "url": "https://www.usnews.com/news/world/articles/2026-10-30/brazil-summons-argentine-diplomat-over-role-in-bolsonaros-flight-to-us-sources-say"
+      },
+      {
+       "title": "Buenos Aires Times: Rubio says US not directly involved in Flávio Bolsonaro's flight from Brazil",
+       "url": "https://batimes.com.ar/news/amp/latin-america/rubio-says-us-not-directly-involved-in-flavio-bolsonaros-flight-from-brazil.phtml"
+      }
+     ]
+    },
+    {
+     "title": "日本高市內閣支持率升至近 65%，食品消費稅減稅法案在眾院攻防",
+     "category": "台灣與亞太",
+     "summary": "TBS 週日公布的民調顯示，高市內閣支持率 64.9%、上升 1.9 個百分點，但自民黨政黨支持度為 32.9%。國會方面，執政黨希望在 12/12 會期結束前通過把食品消費稅從 8% 降至 1%、為期兩年的法案，在野黨則要求高市親自出席眾院委員會審議。另外，10/30 約有近萬人在國會外抗議政府檢討核武政策與擴軍，媒體報導政府可能在年底修訂安保文件時調整「無核三原則」的措辭。",
+     "why": "高市政府民意基礎穩固，減稅與安保政策走向將影響日本內需、財政與東亞安全情勢，與台灣關係密切。",
+     "glossary": [
+      {
+       "term": "無核三原則",
+       "def": "日本「不擁有、不製造、不引進」核武的國策，是戰後安全政策的重要象徵。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "The Japan Times: Opposition demands Takaichi's attendance as debate continues over tax bill",
+       "url": "https://www.japantimes.co.jp/news/2026/11/01/japan/politics/takaichi-tax-cut-bill-deliberation/"
+      },
+      {
+       "title": "Arab News Japan: Takaichi Cabinet approval rises amidst high levels of unaffiliated voters",
+       "url": "https://www.arabnews.jp/en/japan/takaichi-cabinet-approval-rises-amidst-high-levels-of-unaffiliated-voters-3001222"
+      },
+      {
+       "title": "Xinhua: Japanese protesters rally against Takaichi government's push to revise nuclear policy",
+       "url": "https://english.news.cn/20261101/94885481f90444908e715fff24e7b634/c.html"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "markets",
+   "name": "股市觀察（美股・台股）",
+   "items": [
+    {
+     "title": "美股：資金重返晶片股，費半漲約 2.6%、那斯達克漲 0.83%；蘋果跌近 2% 拖累道瓊",
+     "category": "美股",
+     "summary": "11/3 選舉日，標普 500 指數收 7,568.92 點、漲 0.36%，結束三連跌；那斯達克收 25,372.01 點、漲 0.83%；道瓊收 51,786.72 點、跌 197.26 點（-0.38%）。費城半導體指數終結連五跌，漲幅各家報導約 2.5%–3%（鉅亨報導 2.63%），美光、輝達、AMD 領漲。蘋果因財測引發記憶體成本推升、獲利受壓的疑慮，股價下跌近 2%。",
+     "why": "前幾天大跌的 AI 與半導體股出現逢低買盤，但選舉結果尚未揭曉，反彈能否延續仍待觀察。",
+     "glossary": [
+      {
+       "term": "費半",
+       "def": "費城半導體指數，由美國主要晶片公司組成，是觀察全球半導體與台灣電子股走勢的重要指標。"
+      },
+      {
+       "term": "財測",
+       "def": "公司對未來一季或一年營收、獲利的預估，市場常比實際財報更在意。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "Kiplinger: Nasdaq Bounces as Chips Lead AI Revival: Stock Market Today",
+       "url": "https://www.kiplinger.com/investing/stocks/nasdaq-bounces-as-chips-lead-ai-revival-stock-market-today"
+      },
+      {
+       "title": "Investing.com: S&P 500, Nasdaq end higher as AI trade rebounds on U.S. midterm elections day",
+       "url": "https://investing.com/news/stock-market-news/us-stock-futures-steady-apple-dips-after-mixed-earnings-4993314"
+      },
+      {
+       "title": "鉅亨網：〈美股盤後〉期中選舉登場！資金重返AI股 費半勁揚逾2.6% AMD盤後噴高",
+       "url": "https://news.cnyes.com/news/id/6645477"
+      }
+     ]
+    },
+    {
+     "title": "台股：重挫 1,612 點收 43,307 點、史上第 7 大跌點；外資賣超 1,073 億元",
+     "category": "台股",
+     "summary": "受前一晚費半重挫逾 3% 拖累，加權指數 11/3 收 43,307.54 點，下跌 1,612.60 點（-3.59%），為史上第 7 大跌點，成交值約 9,280 億元，櫃買指數更跌 6.42%。台積電跌 35 元收 2,295 元（-1.5%），聯發科跌 7.43%、台達電跌 6.27%，記憶體股多檔跌停。外資賣超 1,073.07 億元、創史上第 8 大，已連 4 賣，台積電遭外資連賣 18 天；投信逆勢買超 199.04 億元、連 16 買，三大法人合計賣超約 1,464 億元。",
+     "why": "外資持續大舉撤出 AI 與記憶體族群，今天美股晶片股反彈與 AMD 財報能否帶動止跌是觀察重點。",
+     "glossary": [
+      {
+       "term": "外資賣超",
+       "def": "外國機構投資人當天賣出股票的金額大於買進金額，常被視為國際資金撤出的訊號。"
+      },
+      {
+       "term": "投信",
+       "def": "證券投資信託公司，也就是發行共同基金、ETF 的本土機構法人。"
+      },
+      {
+       "term": "櫃買指數",
+       "def": "在櫃檯買賣中心（上櫃市場）交易股票的指數，成分多為中小型股。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "ETtoday：史上第7慘！台股單日崩1613點 台積電跌35元收2295",
+       "url": "https://finance.ettoday.net/news/3265547"
+      },
+      {
+       "title": "ETtoday：外資狠砍1073億！記憶體3檔、台積電慘遭提款",
+       "url": "https://finance.ettoday.net/news/3265711"
+      },
+      {
+       "title": "鏈新聞：台股重挫 1,612 點創史上第 7 大跌點，聯發科跌 7.4%",
+       "url": "https://abmedia.io/taiwan-stocks-plunge-1612-points"
+      },
+      {
+       "title": "風傳媒：三大法人合計提款1464億元！外資連4賣",
+       "url": "https://www.storm.mg/article/11178110"
+      }
+     ]
+    },
+    {
+     "title": "AMD 第三季營收 133.8 億美元、年增 45%，資料中心近倍增；盤後股價漲約 8%",
+     "category": "產業與個股",
+     "summary": "AMD 11/3 盤後公布第三季營收 133.77 億美元，年增 45%，優於市場預期的 130.9 億美元；調整後每股盈餘 2.09 美元，高於預期的 1.95 美元。資料中心部門營收 85 億美元、年增 97%，個人電腦處理器部門 29 億美元、年增 7%，遊戲部門則衰退 40%。公司預期第四季隨 Helios 機櫃與「Venice」伺服器處理器量產，成長將進一步加速，股價盤後上漲約 8%。",
+     "why": "AMD 是台積電先進製程與台灣伺服器供應鏈的大客戶，財報強勁有助緩解市場對 AI 需求降溫的疑慮。",
+     "glossary": [
+      {
+       "term": "調整後每股盈餘",
+       "def": "排除一次性或非現金項目後計算的每股獲利，華爾街分析師通常用它比較預期。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "AMD: AMD Reports Third Quarter 2026 Financial Results",
+       "url": "https://ir.amd.com/news-events/press-releases/detail/1303/amd-reports-third-quarter-2026-financial-results"
+      },
+      {
+       "title": "CNBC: AMD (AMD) Q3 earnings report 2026",
+       "url": "https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html"
+      },
+      {
+       "title": "Benzinga: AMD Posts Q3 Double Beat as Data Center Segment Shines",
+       "url": "https://www.benzinga.com/markets/earnings/26/11/62845344/amd-posts-q3-double-beat-as-data-center-segment-shines-growth-expected-to-accelerate-in-q4"
+      }
+     ]
+    }
+   ],
+   "mood": "震盪偏謹慎",
+   "outlook": "偏多因素：費半終結連五跌、晶片股出現逢低買盤；AMD 財報與財測雙雙優於預期、盤後大漲，對台積電與伺服器供應鏈是正面訊號；投信連 16 日買超台股，提供部分支撐。偏空因素：台股單日重挫逾 1,600 點、外資一天賣超逾千億元，籌碼面仍弱；蘋果對記憶體成本的擔憂顯示零組件漲價壓力尚未消退；美伊在荷莫茲海峽再度交火，油價與通膨風險可能捲土重來；澳洲央行續升息，全球利率仍偏高。本週關鍵：今天上午起陸續揭曉的期中選舉結果、11/6 美國非農就業報告。整體而言，台股今天可能出現技術性反彈，但震盪仍大，短線偏謹慎。以上僅整理市場資訊與各方觀點，不構成投資建議。"
+  },
+  {
+   "id": "ai",
+   "name": "AI 科技發展",
+   "items": [
+    {
+     "title": "Meta 發債籌資 AI 建設：美元債募得 150 億美元、訂單約 580 億美元；標普調降展望至負向",
+     "category": "產業與投資",
+     "summary": "Meta 11/3 展開多批次公司債發行，目標總額 200 億至 250 億美元，約三分之二為美元、三分之一為歐元，是 Meta 首次發行歐元債。據彭博報導，美元部分募得 150 億美元，投資人訂單約 580 億美元。信評機構標普則把 Meta 的 AA- 評等展望由「穩定」調為「負向」，理由是龐大資本支出與自由現金流轉負帶來的不確定性。（註：整體發行規模截稿時尚未確定。）",
+     "why": "科技巨頭愈來愈依賴舉債支應 AI 資料中心，信評展望下調顯示市場開始關注 AI 投資的財務風險。",
+     "glossary": [
+      {
+       "term": "評等展望",
+       "def": "信評機構對未來一兩年信用評等可能調升或調降的方向判斷；「負向」代表有被降評的可能。"
+      },
+      {
+       "term": "自由現金流",
+       "def": "公司營運賺進的現金扣掉資本支出後剩下的錢；轉為負值代表投資花費超過本業現金收入。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "Bloomberg: Meta Raises $15 Billion as Elevated Bond Yields Stoke Demand",
+       "url": "https://www.bloomberg.com/news/articles/2026-11-03/meta-kicks-off-debt-offering-in-push-to-fund-ai-investments"
+      },
+      {
+       "title": "CNBC: Meta bond sale targets up to $25 billion for AI spending",
+       "url": "https://www.cnbc.com/2026/11/03/meta-bond-sale-ai-funding.html"
+      },
+      {
+       "title": "Quartz: Meta is marketing at least $20 billion in bonds to fund AI build-out",
+       "url": "https://qz.com/meta-bond-offering-20-billion-ai-funding-110326"
+      }
+     ]
+    },
+    {
+     "title": "Anthropic 更新上市文件：第三季營收約 170 億美元，但由盈轉虧，估值仍未揭露",
+     "category": "產業與投資",
+     "summary": "Anthropic 11/2 向美國證管會提交 S-1 第一次修正版，補上第三季財務數字：季營收約 170 億美元，但營業利益由第二季的獲利轉為虧損。修正文件仍未載明發行規模、股數與估值；媒體報導上市估值可能約 1.5 兆美元、低於先前傳出的 2 兆美元，但公司未證實。（註：估值數字僅為媒體報導。）",
+     "why": "這將是史上規模最大的科技股上市案之一，營收高速成長但獲利轉虧，市場將據此重新評估 AI 公司的估值。",
+     "glossary": [
+      {
+       "term": "S-1",
+       "def": "公司在美國申請首次公開發行股票時，向證管會提交的登記文件，需揭露財務、風險與經營資訊。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "Yahoo Finance: Anthropic's Amended IPO Filing in 5 Numbers Before Its Nasdaq Debut",
+       "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-amended-ipo-filing-5-080000335.html"
+      },
+      {
+       "title": "The Motley Fool: Anthropic Just Released Updated Numbers Ahead of Its Nov. IPO",
+       "url": "https://www.fool.com/investing/2026/11/02/anthropic-just-released-updated-numbers-ahead-of-its-nov-ipo-its-operating-profit-vanished/"
+      },
+      {
+       "title": "FinanceFeeds: Anthropic IPO Filing: $17B Quarter, $895B Commitments",
+       "url": "https://financefeeds.com/anthropics-s-1-shows-17-billion-in-revenue/"
+      }
+     ]
+    },
+    {
+     "title": "AI 業者的期中選舉防線：OpenAI 設選舉作戰中心，Anthropic 加強偵測濫用",
+     "category": "研究與安全",
+     "summary": "OpenAI 在期中選舉前設立「選舉作戰中心」，據報動員數百名員工，即時監控 ChatGPT 遭濫用的情況並處理模型異常行為。Anthropic 則在 Claude 上增加多項偵測機制，針對假冒政治社群帳號與新聞網站、外國國家行為者，以及攻擊選舉基礎設施等濫用行為。兩家公司都與非營利組織 Democracy Works 合作，在使用者詢問選舉問題時提供投票資訊。",
+     "why": "這是生成式 AI 普及後的首次美國期中選舉，AI 業者的防護措施是否有效，可能影響後續的監管討論。",
+     "glossary": [
+      {
+       "term": "國家行為者",
+       "def": "由政府主導或支持的網路攻擊、宣傳或情報行動者。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "Tech Policy Press: How OpenAI, Google, and Anthropic Plan to Handle the 2026 US Midterms",
+       "url": "https://techpolicy.press/how-openai-google-and-anthropic-plan-to-handle-the-2026-us-midterms"
+      },
+      {
+       "title": "Decrypt: Anthropic election safeguards for Claude AI ahead of US midterms",
+       "url": "https://decrypt.co/365486/anthropic-election-safeguards-claude-ai-us-midterms"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "observation": "今天台灣時間上午起，美國期中選舉將陸續開票，國會控制權的結果會直接影響川普政府的外交與經濟路線。就在投票前夕，美軍在荷莫茲海峽格什姆島打擊伊朗飛彈發射器，伊朗則宣稱擊落美軍無人機，前一天才因協議期待重挫的油價可能再度波動。美伊雙方一邊交火、一邊透過卡達間接談判，顯示雙方都想在選後取得較有利的談判位置；選舉結果是否改變川普對伊朗的盤算，是接下來的觀察重點。\n\n經濟面，澳洲央行在理事會分歧下仍升息至 18 年新高，反映油價推升的通膨壓力尚未消退。金融市場則呈現美強台弱：美股晶片股反彈、AMD 財報亮眼，但台股前一天才因外資大舉賣超重挫逾 1,600 點；Meta 大舉發債、Anthropic 上市文件顯示由盈轉虧，也讓市場重新檢視 AI 投資的成本與回報。\n\n美洲方面，美國與委內瑞拉加速關係正常化，巴西敗選人出境赴美則讓巴西、阿根廷與美國的關係更加微妙。接下來幾天可關注：期中選舉開票與可能的重新計票、美伊是否恢復談判、11/6 美國非農就業報告，以及台股外資賣壓能否趨緩。",
+ "sources": [
+  {
+   "title": "WHYY: 2026 midterm election results",
+   "url": "https://whyy.org/articles/election-2026-results-midterms-house-senate-congress/"
+  },
+  {
+   "title": "NBC News: U.S. House Midterm Election Live Results 2026",
+   "url": "https://www.nbcnews.com/politics/2026-elections/house-results"
+  },
+  {
+   "title": "NBC News: U.S. Senate Midterm Election Live Results 2026",
+   "url": "https://www.nbcnews.com/politics/2026-elections/senate-results"
+  },
+  {
+   "title": "The Hill (AP): US strikes Iranian targets in the Strait of Hormuz, official says",
+   "url": "https://thehill.com/homenews/ap/ap-international/ap-us-strikes-iranian-targets-in-the-strait-of-hormuz-official-says-leaving-unclear-what-comes-next/"
+  },
+  {
+   "title": "Euronews: Iran warns of 'new battlefield' after reported US strike on Qeshm",
+   "url": "https://www.euronews.com/2026/11/03/iran-warns-of-new-battlefield-after-reported-us-strike-on-qeshm"
+  },
+  {
+   "title": "Gulf News: Iran claims US drone downed, Qeshm blasts reported",
+   "url": "https://gulfnews.com/world/mena/iran-claims-us-drone-downed-qeshm-blasts-reported-trump-cites-oil-drop-1.500733429"
+  },
+  {
+   "title": "The Hill: Iran offers to open Strait of Hormuz on several conditions",
+   "url": "https://thehill.com/policy/international/6189852-iran-offers-strait-hormuz-opening/"
+  },
+  {
+   "title": "ABC News: RBA hikes cash rate to 18-year high of 4.85 per cent",
+   "url": "https://www.abc.net.au/news/2026-11-03/rba-interest-rates-markets-live-coverage/107338216"
+  },
+  {
+   "title": "SBS: RBA's Cup Day call takes rates to 18-year high",
+   "url": "https://www.sbs.com.au/news/live-blog/rba-november-2026-interest-rates-decision-live/f6csn2n1w"
+  },
+  {
+   "title": "Reserve Bank of Australia",
+   "url": "https://www.rba.gov.au/"
+  },
+  {
+   "title": "U.S. Department of State: Secretary Rubio's Meeting with Venezuelan Foreign Minister Blanco",
+   "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-rubios-meeting-with-venezuelan-foreign-minister-blanco"
+  },
+  {
+   "title": "Al Jazeera: US urges Venezuela to follow phased plan for democratic transition",
+   "url": "https://www.aljazeera.com/news/2026/11/3/us-urges-venezuela-to-follow-phased-plan-for-democratic-transition"
+  },
+  {
+   "title": "Al Arabiya: Rubio meets new Venezuelan FM, urges release of political prisoners",
+   "url": "https://english.alarabiya.net/News/world/2026/11/03/rubio-meets-new-venezuelan-fm-urges-release-of-political-prisoners"
+  },
+  {
+   "title": "Al Jazeera: Brazil summons Argentinian diplomat over Bolsonaro's flight to US",
+   "url": "https://www.aljazeera.com/news/2026/10/31/brazil-summons-argentinian-diplomat-over-bolsonaros-flight-to-us"
+  },
+  {
+   "title": "US News (Reuters): Brazil Summons Argentine Diplomat Over Role in Bolsonaro's Flight to US",
+   "url": "https://www.usnews.com/news/world/articles/2026-10-30/brazil-summons-argentine-diplomat-over-role-in-bolsonaros-flight-to-us-sources-say"
+  },
+  {
+   "title": "Buenos Aires Times: Rubio says US not directly involved in Flávio Bolsonaro's flight",
+   "url": "https://batimes.com.ar/news/amp/latin-america/rubio-says-us-not-directly-involved-in-flavio-bolsonaros-flight-from-brazil.phtml"
+  },
+  {
+   "title": "The Japan Times: Opposition demands Takaichi's attendance as debate continues over tax bill",
+   "url": "https://www.japantimes.co.jp/news/2026/11/01/japan/politics/takaichi-tax-cut-bill-deliberation/"
+  },
+  {
+   "title": "Arab News Japan: Takaichi Cabinet approval rises",
+   "url": "https://www.arabnews.jp/en/japan/takaichi-cabinet-approval-rises-amidst-high-levels-of-unaffiliated-voters-3001222"
+  },
+  {
+   "title": "Xinhua: Japanese protesters rally against Takaichi government's push to revise nuclear policy",
+   "url": "https://english.news.cn/20261101/94885481f90444908e715fff24e7b634/c.html"
+  },
+  {
+   "title": "Kiplinger: Nasdaq Bounces as Chips Lead AI Revival",
+   "url": "https://www.kiplinger.com/investing/stocks/nasdaq-bounces-as-chips-lead-ai-revival-stock-market-today"
+  },
+  {
+   "title": "Investing.com: S&P 500, Nasdaq end higher as AI trade rebounds on U.S. midterm elections day",
+   "url": "https://investing.com/news/stock-market-news/us-stock-futures-steady-apple-dips-after-mixed-earnings-4993314"
+  },
+  {
+   "title": "鉅亨網：〈美股盤後〉期中選舉登場！資金重返AI股 費半勁揚逾2.6%",
+   "url": "https://news.cnyes.com/news/id/6645477"
+  },
+  {
+   "title": "ETtoday：史上第7慘！台股單日崩1613點",
+   "url": "https://finance.ettoday.net/news/3265547"
+  },
+  {
+   "title": "ETtoday：外資狠砍1073億！",
+   "url": "https://finance.ettoday.net/news/3265711"
+  },
+  {
+   "title": "鏈新聞：台股重挫 1,612 點創史上第 7 大跌點",
+   "url": "https://abmedia.io/taiwan-stocks-plunge-1612-points"
+  },
+  {
+   "title": "風傳媒：三大法人合計提款1464億元",
+   "url": "https://www.storm.mg/article/11178110"
+  },
+  {
+   "title": "AMD: AMD Reports Third Quarter 2026 Financial Results",
+   "url": "https://ir.amd.com/news-events/press-releases/detail/1303/amd-reports-third-quarter-2026-financial-results"
+  },
+  {
+   "title": "CNBC: AMD Q3 earnings report 2026",
+   "url": "https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html"
+  },
+  {
+   "title": "Benzinga: AMD Posts Q3 Double Beat",
+   "url": "https://www.benzinga.com/markets/earnings/26/11/62845344/amd-posts-q3-double-beat-as-data-center-segment-shines-growth-expected-to-accelerate-in-q4"
+  },
+  {
+   "title": "Bloomberg: Meta Raises $15 Billion as Elevated Bond Yields Stoke Demand",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-03/meta-kicks-off-debt-offering-in-push-to-fund-ai-investments"
+  },
+  {
+   "title": "CNBC: Meta bond sale targets up to $25 billion for AI spending",
+   "url": "https://www.cnbc.com/2026/11/03/meta-bond-sale-ai-funding.html"
+  },
+  {
+   "title": "Quartz: Meta is marketing at least $20 billion in bonds",
+   "url": "https://qz.com/meta-bond-offering-20-billion-ai-funding-110326"
+  },
+  {
+   "title": "Yahoo Finance: Anthropic's Amended IPO Filing in 5 Numbers",
+   "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-amended-ipo-filing-5-080000335.html"
+  },
+  {
+   "title": "The Motley Fool: Anthropic Just Released Updated Numbers Ahead of Its Nov. IPO",
+   "url": "https://www.fool.com/investing/2026/11/02/anthropic-just-released-updated-numbers-ahead-of-its-nov-ipo-its-operating-profit-vanished/"
+  },
+  {
+   "title": "FinanceFeeds: Anthropic IPO Filing: $17B Quarter",
+   "url": "https://financefeeds.com/anthropics-s-1-shows-17-billion-in-revenue/"
+  },
+  {
+   "title": "Tech Policy Press: How OpenAI, Google, and Anthropic Plan to Handle the 2026 US Midterms",
+   "url": "https://techpolicy.press/how-openai-google-and-anthropic-plan-to-handle-the-2026-us-midterms"
+  },
+  {
+   "title": "Decrypt: Anthropic election safeguards for Claude AI ahead of US midterms",
+   "url": "https://decrypt.co/365486/anthropic-election-safeguards-claude-ai-us-midterms"
+  }
+ ]
+}
