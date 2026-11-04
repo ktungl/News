@@ -22,6 +22,78 @@
  },
  "days": [
   {
+   "date": "2026-11-05",
+   "title": "🌏 每日早報｜2026/11/05",
+   "items": [
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "美國期中選舉民主黨大勝：美聯社宣布民主黨奪回參眾兩院，德州、密西根參議員席次翻盤",
+     "anchor": "world-1"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "川普證實打擊伊朗格什姆島，伊朗稱美方對荷莫茲方案的回覆「沒有說服力」；布蘭特原油一度跌破 100 美元",
+     "anchor": "world-2"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "以色列選委會確認大選結果、駁斥舞弊說法，總統赫佐格啟動組閣諮商",
+     "anchor": "world-3"
+    },
+    {
+     "section": "world",
+     "category": "ESG／氣候與歐盟法規",
+     "title": "歐洲議會支持放寬 2035 年新車減碳目標，由 100% 降為 87.5%",
+     "anchor": "world-4"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "西班牙高鐵相撞釀近 70 死，交通部長拒絕下台引發抗議",
+     "anchor": "world-5"
+    },
+    {
+     "section": "markets",
+     "category": "美股",
+     "title": "美股：選舉不確定性消散，道瓊狂飆 1,569 點、創 2025 年 4 月來最佳單日表現；費半逆勢跌逾 3%",
+     "anchor": "markets-1"
+    },
+    {
+     "section": "markets",
+     "category": "台股",
+     "title": "台股：盤中重挫 1,451 點後收斂，終場跌 358 點收 42,948 點；外資賣超近 1,500 億元",
+     "anchor": "markets-2"
+    },
+    {
+     "section": "markets",
+     "category": "產業與個股",
+     "title": "記憶體股重挫：美光跌約 6%，市場擔憂民主黨勝選拖慢資料中心建設",
+     "anchor": "markets-3"
+    },
+    {
+     "section": "ai",
+     "category": "政策與監管",
+     "title": "選後 AI 政策風向：民主黨掌控國會，資料中心用電、用水與地方反彈成焦點",
+     "anchor": "ai-1"
+    },
+    {
+     "section": "ai",
+     "category": "產業與投資",
+     "title": "OpenAI 宣布收購程式碼工具新創 Pierre，強化 Codex 程式開發代理",
+     "anchor": "ai-2"
+    },
+    {
+     "section": "ai",
+     "category": "產業與投資",
+     "title": "Anthropic 上市時程：報導稱法說路演最快 11/9 當週啟動、感恩節前掛牌",
+     "anchor": "ai-3"
+    }
+   ]
+  },
+  {
    "date": "2026-11-04",
    "title": "🌏 每日早報｜2026/11/04",
    "items": [

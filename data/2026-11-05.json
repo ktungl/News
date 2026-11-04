@@ -1,0 +1,377 @@
+{
+ "date": "2026-11-05",
+ "title": "🌏 每日早報｜2026/11/05",
+ "generated_at": "2026-11-05T07:30:00+08:00",
+ "sections": [
+  {
+   "id": "world",
+   "name": "國際新聞",
+   "items": [
+    {
+     "title": "美國期中選舉民主黨大勝：美聯社宣布民主黨奪回參眾兩院，德州、密西根參議員席次翻盤",
+     "category": "國際政治與地緣",
+     "summary": "美聯社 11/3 深夜宣布民主黨取得參議院控制權，11/4 清晨再宣布民主黨拿下眾議院，完成國會兩院「藍色浪潮」。參議院方面，民主黨已確定約 53–54 席（各媒體計算方式不同，阿拉斯加、密西西比等州截稿時仍未判定）；眾議院民主黨領袖傑佛瑞斯預期最終至少 255 席。焦點選區中，德州民主黨人塔拉里科擊敗共和黨州檢察長帕克斯頓，密西根的艾爾賽伊德擊敗羅傑斯，將成為美國首位穆斯林參議員。據報導，川普表示會接受結果，但誓言否決他所謂「瘋狂」的法案；副總統范斯則把共和黨失利歸咎於伊朗戰爭。（註：川普與范斯的說法目前各僅見單一媒體報導。）",
+     "why": "川普第二任期後半段將面對民主黨主導的國會，伊朗戰爭、關稅與預算都將受到更多國會監督。分析指出，半導體 232 條款關稅由行政部門主導，短期不會直接改變，但政策不確定性升高。",
+     "glossary": [
+      {
+       "term": "藍色浪潮",
+       "def": "民主黨的代表色是藍色，「藍色浪潮」指民主黨在選舉中大幅勝出。"
+      },
+      {
+       "term": "232 條款",
+       "def": "美國《貿易擴張法》第 232 條，允許總統以國家安全為由對進口品課徵關稅，川普政府用它對半導體等產品加稅。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "Al Jazeera: Democratic Party wins US Senate in 2026 midterm elections",
+       "url": "https://www.aljazeera.com/news/2026/11/4/democratic-party-flips-us-senate-in-2026-midterm-elections"
+      },
+      {
+       "title": "Forbes: Midterm Election Results: Democrats Sweep House And Senate, Some Races Still Too Close To Call",
+       "url": "https://www.forbes.com/sites/saradorn/2026/11/04/midterm-election-results-live-updates-democrats-sweep-house-and-senate-some-races-still-too-close-to-call/"
+      },
+      {
+       "title": "CNBC: Midterm Election Day recap: Democrats flip Senate and House in stunning victory",
+       "url": "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html"
+      },
+      {
+       "title": "Al Jazeera: Abdul El-Sayed defeats Mike Rogers to win US Senate seat in Michigan",
+       "url": "https://www.aljazeera.com/news/2026/11/4/el-sayed-defeats-rogers-to-win-senate-seat-in-michigan"
+      },
+      {
+       "title": "Al Jazeera: Hakeem Jeffries promises 'affordability' focus after Democratic midterm win",
+       "url": "https://www.aljazeera.com/news/2026/11/4/hakeem-jeffries-promises-affordability-focus-after-democratic-midterm-win"
+      },
+      {
+       "title": "Al Jazeera: Trump admits Iran war hurt Republican vote, vows to veto 'insane' bills",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-admits-iran-war-hurt-republican-vote-vows-to-veto-insane-bills"
+      },
+      {
+       "title": "Yahoo News: Midterms 2026 live updates: Democrats take control of Congress; Vance blames Republican losses on Iran war",
+       "url": "https://www.yahoo.com/news/politics/live/midterms-2026-live-updates-election-day-voters-head-to-the-polls-as-democrats-look-to-flip-gop-control-of-the-house-and-senate-110000715.html"
+      },
+      {
+       "title": "數位時代：2026美國期中選舉懶人包",
+       "url": "https://www.bnext.com.tw/article/92878/us-midterm-elections-2026-result-taiwan-tariff"
+      }
+     ]
+    },
+    {
+     "title": "川普證實打擊伊朗格什姆島，伊朗稱美方對荷莫茲方案的回覆「沒有說服力」；布蘭特原油一度跌破 100 美元",
+     "category": "國際政治與地緣",
+     "summary": "川普證實美軍對荷莫茲海峽附近的伊朗島嶼發動打擊，伊朗則表示美方對其重開海峽方案的回覆「沒有說服力」，並重申不接受以脅迫為基礎的外交；卡達表示仍持續居中調停。路透分析指出，波斯灣國家官員對民主黨勝選幅度感到震驚，認為美國全面攻擊伊朗的可能性降低，川普面臨「談判退場或升級」的抉擇。市場押注協議前景，布蘭特原油 11/4 一度跌至每桶約 100 美元。",
+     "why": "選舉結果削弱了川普對伊朗的施壓籌碼，但雙方仍各有堅持；油價能否持續回落，取決於海峽是否真正重開。",
+     "glossary": [
+      {
+       "term": "布蘭特原油",
+       "def": "北海出產的原油，其期貨價格是全球油價最主要的參考指標之一。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "Al Jazeera: Iran says US reply to Hormuz plan 'unconvincing'; Trump confirms strikes",
+       "url": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes"
+      },
+      {
+       "title": "US News (Reuters): Analysis-Beaten at Home, Trump Faces Stark Choice on Iran: Deal or Escalation",
+       "url": "https://www.usnews.com/news/world/articles/2026-11-04/analysis-beaten-at-home-trump-faces-stark-choice-on-iran-deal-or-escalation"
+      },
+      {
+       "title": "OilPrice.com: Brent Falls to $100 as Traders Bet on a U.S.-Iran Deal",
+       "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Falls-to-100-as-Traders-Bet-on-a-US-Iran-Deal.html"
+      },
+      {
+       "title": "Yahoo Finance: Oil Prices Fall as US Midterm Election Results and Iran Negotiations Create Market Uncertainty",
+       "url": "https://finance.yahoo.com/energy/articles/oil-prices-fall-us-midterm-105522600.html"
+      }
+     ]
+    },
+    {
+     "title": "以色列選委會確認大選結果、駁斥舞弊說法，總統赫佐格啟動組閣諮商",
+     "category": "國際政治與地緣",
+     "summary": "以色列中央選舉委員會檢查 9,069 個投票所後，未發現影響選舉公正或改變結果的違規情事，並於 11/4 確認大選結果，等於否定了納坦雅胡陣營的舞弊指控。由於納坦雅胡陣營與反對陣營都未過半，總統赫佐格將與各黨逐一會談，決定由誰組閣。國安局對外國勢力干預選舉的調查仍在進行。",
+     "why": "組閣結果將決定以色列對伊朗、加薩的政策走向，也牽動美伊談判的區域環境。",
+     "glossary": [
+      {
+       "term": "組閣",
+       "def": "內閣制國家選後由獲得國會多數支持的人組成政府；以色列由總統諮商各黨後，指定最有機會的人選負責組閣。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "Al Jazeera: Israel vote results confirmed as election commission rejects fraud claims",
+       "url": "https://www.aljazeera.com/news/2026/11/4/israel-vote-results-confirmed-as-election-commission-rejects-fraud-claims"
+      },
+      {
+       "title": "Euronews: Israel's election commission says no fraud found in last week's vote",
+       "url": "https://www.euronews.com/2026/11/04/israels-election-commission-says-no-fraud-found-in-last-weeks-vote"
+      }
+     ]
+    },
+    {
+     "title": "歐洲議會支持放寬 2035 年新車減碳目標，由 100% 降為 87.5%",
+     "category": "ESG／氣候與歐盟法規",
+     "summary": "據歐洲新聞台報導，歐洲議會議員 11/4 支持把 2035 年新車二氧化碳減排目標從 100% 放寬為 87.5%，另有 7.5% 可透過購買「綠色鋼材」抵銷；這是由中間偏右到中間偏左、合計約占議會 55% 席次的黨團達成的協議。這與 2023 年確定 2035 年起停售新燃油車的決定明顯轉向。歐盟執委會去年 12 月提出的版本為 90%，最終規定仍須與執委會、理事會協商。（註：這次是委員會階段或全會表決，各來源描述不一。）",
+     "why": "歐盟綠色政策持續鬆綁，影響歐洲車廠的電動化時程，也牽動台灣電動車與汽車零組件供應鏈的訂單規劃。",
+     "glossary": [
+      {
+       "term": "綠色鋼材",
+       "def": "以氫能、電爐或再生能源生產、碳排放遠低於傳統高爐製程的鋼材。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "Euronews: MEPs deal another blow to Green Deal with softer car emissions targets",
+       "url": "https://www.euronews.com/2026/11/04/meps-deal-another-blow-to-green-deal-with-softer-car-emissions-targets"
+      },
+      {
+       "title": "CarExpert: Europe inches closer to watering down its 2035 ban on new petrol and diesel cars",
+       "url": "https://www.carexpert.com.au/car-news/europe-inches-closer-to-watering-down-its-2035-ban-on-new-petrol-and-diesel-cars"
+      },
+      {
+       "title": "ORF: Parlament einig bei Abschwächung von CO2-Ziel für Autos",
+       "url": "https://orf.at/stories/3445667/"
+      }
+     ]
+    },
+    {
+     "title": "西班牙高鐵相撞釀近 70 死，交通部長拒絕下台引發抗議",
+     "category": "國際政治與地緣",
+     "summary": "事件發生在 10/28，本報此前未報導，故補入。西班牙國鐵 Renfe 一列高鐵在馬德里南方約 140 公里的托雷多省烏爾達附近，撞上停靠的 Iryo 列車，死亡人數各家報導為 68 至 69 人，是西班牙十多年來最嚴重的鐵路事故，也是今年第二起重大列車事故。交通部長普恩特 10/30 表示已向首相桑切斯請辭但遭拒，之後堅持不下台；工會與反對黨要求他負責，馬德里交通部外的抗議者一度遭警方以催淚瓦斯驅離。",
+     "why": "桑切斯少數政府本已承受多重壓力，重大公安事故可能進一步動搖其執政基礎。",
+     "glossary": [
+      {
+       "term": "少數政府",
+       "def": "執政黨在國會未過半，需要靠其他政黨支持才能通過法案的政府，通常較不穩定。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "Euro Weekly News: Minister on the ropes: Where do Spain's trains go from here?",
+       "url": "https://euroweeklynews.com/2026/10/31/minister-on-the-ropes-where-do-spains-trains-go-from-here/"
+      },
+      {
+       "title": "Channel 4 News: Spain train crash: calls for transport minister Oscar Puente to quit after 69 killed",
+       "url": "https://www.channel4.com/news/spain-train-crash-calls-for-countrys-transport-minister-oscar-puente-to-quit-after-69-killed"
+      },
+      {
+       "title": "Devdiscourse: Spanish minister refuses to resign over second major train crash on his watch",
+       "url": "https://www.devdiscourse.com/article/international/3999607-spanish-minister-refuses-to-resign-over-second-major-train-crash-on-his-watch"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "markets",
+   "name": "股市觀察（美股・台股）",
+   "items": [
+    {
+     "title": "美股：選舉不確定性消散，道瓊狂飆 1,569 點、創 2025 年 4 月來最佳單日表現；費半逆勢跌逾 3%",
+     "category": "美股",
+     "summary": "11/4 道瓊收 53,356.12 點，大漲 1,569.40 點（+3.03%），首度站上 53,000 點；標普 500 收 7,688.62 點、漲 1.58%；那斯達克收 25,736.51 點、漲 1.44%。川普表態接受選舉結果、油價大跌，緩解市場對政治不確定性的疑慮。但費城半導體指數下跌 3.13%，美光跌約 6%–7%，台積電 ADR 跌逾 2%，市場擔心民主黨主導下 AI 資料中心建設可能受阻。",
+     "why": "資金從 AI 與半導體轉向傳統產業與消費股，對以電子股為主的台股不利。",
+     "glossary": [
+      {
+       "term": "ADR",
+       "def": "美國存託憑證，讓外國公司股票在美國交易的工具；台積電 ADR 走勢常被視為台股開盤的參考。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "StockTitan: Dow Soars in the Stock Market Today Live, November 4, 2026",
+       "url": "https://stocktitan.net/articles/stock-market-today-live-november-4-2026"
+      },
+      {
+       "title": "CNBC: Dow soars 1,500 points for best day since April 2025 on clear-cut Democratic win, falling oil",
+       "url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html"
+      },
+      {
+       "title": "鉅亨網：〈美股盤後〉藍潮席捲國會 道瓊飆近1570點 費半挫逾3% 記憶體類股慘崩",
+       "url": "https://news.cnyes.com/news/id/6646812"
+      },
+      {
+       "title": "自由財經：美股收盤》道瓊狂漲1569點！費半下挫3％ 台積電ADR跌逾2％",
+       "url": "https://ec.ltn.com.tw/article/breakingnews/5629867"
+      }
+     ]
+    },
+    {
+     "title": "台股：盤中重挫 1,451 點後收斂，終場跌 358 點收 42,948 點；外資賣超近 1,500 億元",
+     "category": "台股",
+     "summary": "加權指數 11/4 盤中一度重挫 1,451.72 點至 41,855.82 點，午後買盤進場大幅收斂，終場收 42,948.91 點、下跌 358.63 點（-0.83%），成交值放大至約 1.11 兆元。台積電跌 35 元收 2,260 元（-1.53%），連 19 日遭外資賣超。外資單日賣超 1,498.99 億元、連 5 賣；投信買超約 276 億元、連 17 買；三大法人合計賣超約 1,598 億元。",
+     "why": "爆量長下影線顯示低檔有承接買盤，但外資賣壓仍重，加上美股費半再跌，今日開盤仍面臨壓力。",
+     "glossary": [
+      {
+       "term": "下影線",
+       "def": "K 線圖上，當天最低價到收盤價之間的線段；長下影線代表盤中大跌後買盤把價格拉回。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "ETtoday：台股殺千點大收斂！單日跌359點保42K 台積電跌35元至2260",
+       "url": "https://finance.ettoday.net/news/3266263"
+      },
+      {
+       "title": "聯合新聞網：台股收跌358點 兆元成交量拉出千點下影線",
+       "url": "https://udn.com/news/story/7251/9856843"
+      },
+      {
+       "title": "聯合新聞網：外資狂砍1,499億元！三大法人賣超1,597億元",
+       "url": "https://udn.com/news/story/7251/9857091"
+      },
+      {
+       "title": "工商時報：台股驚魂記！盤中崩1,451點、尾盤狂拉千點",
+       "url": "https://www.ctee.com.tw/news/20261104701332-430201"
+      }
+     ]
+    },
+    {
+     "title": "記憶體股重挫：美光跌約 6%，市場擔憂民主黨勝選拖慢資料中心建設",
+     "category": "產業與個股",
+     "summary": "美光 11/4 股價下跌約 6%–7%，SK 海力士 ADR、SanDisk 同步走弱。報導指出，民主黨除拿下國會兩院，也在資料中心重鎮的州級選舉有所斬獲，投資人擔心新上任官員與地方公投可能限制資料中心興建；有分析師估計地方暫停令可能影響約 45% 的美國規劃中資料中心容量。但也有分析認為已投入資金的專案應不受影響，美光 2027 年產能多已被預訂。（註：45% 為單一分析師估計。）",
+     "why": "記憶體是這波 AI 伺服器需求的核心受惠族群，也是台股近期外資賣超的重點，政策疑慮可能延長台灣記憶體股的修正。",
+     "glossary": [
+      {
+       "term": "暫停令",
+       "def": "地方或州政府暫時禁止核發某類開發許可的命令，例如在一段期間內不准新建資料中心。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "The Motley Fool: Why Micron Stock Is Falling Today",
+       "url": "https://www.fool.com/investing/2026/11/04/why-micron-stock-is-falling-today/"
+      },
+      {
+       "title": "TIKR: Micron Sinks 6% as Democratic Sweep Stokes Fears of an AI \"Slowdown in Build\"",
+       "url": "https://www.tikr.com/blog/micron-sinks-6-as-democratic-sweep-stokes-fears-of-an-ai-slowdown-in-build"
+      },
+      {
+       "title": "Invezz: Micron, SK Hynix, SanDisk stocks fall: why Dems' Texas win is spooking investors",
+       "url": "https://invezz.com/news/2026/11/04/micron-sk-hynix-sandisk-stocks-fall-why-dems-texas-win-is-spooking-investors/"
+      }
+     ]
+    }
+   ],
+   "mood": "震盪偏謹慎",
+   "outlook": "偏多因素：選舉結果明確、政治不確定性消散，道瓊創逾一年半來最佳單日表現；油價大跌、布蘭特一度跌至 100 美元附近，有助緩解通膨壓力；台股 11/4 爆出 1.11 兆元成交量並拉出千點下影線，投信連 17 買，顯示低檔有承接。偏空因素：資金明顯撤出 AI 與半導體，費半跌逾 3%、台積電 ADR 跌逾 2%，市場擔心民主黨主導下資料中心建設放緩；外資連 5 日賣超台股、單日近 1,500 億元；美伊談判仍有變數。本週關鍵：11/5 英國央行利率決議、11/6 美國非農就業報告，以及外資賣壓是否趨緩。整體而言，美股與台股走勢分歧，台股短線震盪偏謹慎。以上僅整理市場資訊與各方觀點，不構成投資建議。"
+  },
+  {
+   "id": "ai",
+   "name": "AI 科技發展",
+   "items": [
+    {
+     "title": "選後 AI 政策風向：民主黨掌控國會，資料中心用電、用水與地方反彈成焦點",
+     "category": "政策與監管",
+     "summary": "這次期中選舉前，資料中心的電價、用水與土地問題已成為多州選戰議題，今年有八個州約 38–39 項與資料中心相關的地方公投（各來源數字不一）。俄亥俄州民主黨州長候選人艾克頓曾主張有條件暫停資料中心，德州民主黨州長候選人伊諾霍薩也支持暫停令。民主黨拿下國會兩院後，市場預期國會將加強對 AI 基礎建設的能源成本與監管審查。（註：上述兩州州長選舉結果截稿時本報尚未查證。）",
+     "why": "美國資料中心是全球 AI 晶片需求的主要來源，興建速度若放緩，將直接影響輝達、台積電與台灣伺服器供應鏈的訂單能見度。",
+     "glossary": [
+      {
+       "term": "資料中心",
+       "def": "集中放置大量伺服器的設施，AI 模型的訓練與運算都在這裡進行，非常耗電、耗水。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "S&P Global: Data center backlash shapes midterm ballots, campaigns across US",
+       "url": "https://www.spglobal.com/market-intelligence/en/news-insights/articles/2026/10/data-center-backlash-shapes-midterm-ballots-campaigns-across-us-106324121"
+      },
+      {
+       "title": "Let's Data Science: Voters Weigh 39 Data Center Measures Across Eight States",
+       "url": "https://letsdatascience.com/news/voters-weigh-39-data-center-measures-across-eight-states-e8675da5"
+      },
+      {
+       "title": "TIKR: Micron Sinks 6% as Democratic Sweep Stokes Fears of an AI \"Slowdown in Build\"",
+       "url": "https://www.tikr.com/blog/micron-sinks-6-as-democratic-sweep-stokes-fears-of-an-ai-slowdown-in-build"
+      }
+     ]
+    },
+    {
+     "title": "OpenAI 宣布收購程式碼工具新創 Pierre，強化 Codex 程式開發代理",
+     "category": "產業與投資",
+     "summary": "OpenAI 11/4 宣布將收購 Pierre Computer Company，該公司開發的 Trees 與 Diffs 工具已整合在 OpenAI 的程式開發代理 Codex 中。OpenAI 表示 Pierre 的開源專案將維持開源，現有 Code Storage 客戶在交易完成後仍可繼續使用服務。交易金額與完成時間未揭露。",
+     "why": "AI 程式開發工具是目前商業化最快的領域之一，各大 AI 公司正透過併購加速補齊開發者工具。",
+     "glossary": [
+      {
+       "term": "Codex",
+       "def": "OpenAI 的 AI 程式開發代理，可以依照指示自動撰寫、修改與測試程式碼。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "Benzinga: OpenAI Just Bought Another AI Coding Startup. Here's What It Wants To Build",
+       "url": "https://benzinga.com/markets/private-markets/26/11/62880116/openai-just-bought-another-ai-coding-startup-heres-what-it-wants-to-build"
+      },
+      {
+       "title": "Shattered: OpenAI Pierre Acquisition: 3 Tools Join Codex",
+       "url": "https://shattered.io/openai-acquires-pierre-code-storage-trees-diffs-codex-2026"
+      }
+     ]
+    },
+    {
+     "title": "Anthropic 上市時程：報導稱法說路演最快 11/9 當週啟動、感恩節前掛牌",
+     "category": "產業與投資",
+     "summary": "Anthropic 已於 10/26 公開 S-1 文件、預計以「ANT」代號在那斯達克掛牌，11/2 的修正版仍未載明價格區間與發行股數。據彭博報導，法說路演最快可能在 11/9 當週啟動，目標在 11/26 感恩節前上市；也有消息指向 11/16 當週。公司尚未證實任何日期，價格區間預計會在下一次修正文件中公布。（註：時程僅為媒體報導，經二手來源轉述。）",
+     "why": "若如期上市，將是史上最大規模的科技 IPO 之一，對 AI 類股估值與市場資金流向都有指標意義。",
+     "glossary": [
+      {
+       "term": "法說路演",
+       "def": "公司上市前到各地向機構投資人說明營運與前景、蒐集認購意願的過程，結束後才決定最終發行價。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "Anthropic IPO Tracker: Date, Valuation and S-1 Status",
+       "url": "https://leverageshares.com/us/anthropic-ipo-tracker/"
+      },
+      {
+       "title": "Tastytrade: Anthropic IPO 2026: Date, Valuation & Timeline",
+       "url": "https://tastytrade.com/learn/markets/industry/anthropic-ipo/"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "observation": "美國期中選舉以民主黨大勝收場，國會兩院易手，川普第二任期後半段將面臨強力制衡。多方報導把共和黨失利與伊朗戰爭推高的生活成本連在一起，選後效應立即反映在中東：路透分析指出，全面攻擊伊朗的可能性降低，川普在談判與升級之間的空間被壓縮；油價隨之下探，布蘭特一度跌至每桶 100 美元附近。不過伊朗仍嫌美方回覆「沒有說服力」，海峽重開還有距離。共和黨與支持者則認為選民主要反映的是物價，而非外交路線本身，戰爭責任的評價仍有分歧。\n\n金融市場出現明顯的資金輪動：道瓊因政治不確定性消散大漲 3%，但市場擔心民主黨主導下 AI 資料中心建設放緩，費半與記憶體股重挫，這股壓力直接傳導到台股，外資連續大舉賣超。歐洲方面，歐洲議會放寬 2035 年新車減碳目標，顯示綠色政策在經濟壓力下持續讓步；以色列確認選舉結果、進入組閣諮商，西班牙則因重大鐵道事故出現政治壓力。\n\n接下來可關注：美國國會席次最終統計與民主黨的立法優先順序、美伊是否重啟實質談判、11/5 英國央行決議、11/6 美國非農就業，以及台股外資賣壓能否止歇。",
+ "sources": [
+  {"title": "Al Jazeera: Democratic Party wins US Senate in 2026 midterm elections", "url": "https://www.aljazeera.com/news/2026/11/4/democratic-party-flips-us-senate-in-2026-midterm-elections"},
+  {"title": "Forbes: Democrats Sweep House And Senate", "url": "https://www.forbes.com/sites/saradorn/2026/11/04/midterm-election-results-live-updates-democrats-sweep-house-and-senate-some-races-still-too-close-to-call/"},
+  {"title": "CNBC: Midterm Election Day recap", "url": "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html"},
+  {"title": "Al Jazeera: Abdul El-Sayed defeats Mike Rogers", "url": "https://www.aljazeera.com/news/2026/11/4/el-sayed-defeats-rogers-to-win-senate-seat-in-michigan"},
+  {"title": "Al Jazeera: Hakeem Jeffries promises 'affordability' focus", "url": "https://www.aljazeera.com/news/2026/11/4/hakeem-jeffries-promises-affordability-focus-after-democratic-midterm-win"},
+  {"title": "Al Jazeera: Trump admits Iran war hurt Republican vote", "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-admits-iran-war-hurt-republican-vote-vows-to-veto-insane-bills"},
+  {"title": "Yahoo News: Midterms 2026 live updates", "url": "https://www.yahoo.com/news/politics/live/midterms-2026-live-updates-election-day-voters-head-to-the-polls-as-democrats-look-to-flip-gop-control-of-the-house-and-senate-110000715.html"},
+  {"title": "數位時代：2026美國期中選舉懶人包", "url": "https://www.bnext.com.tw/article/92878/us-midterm-elections-2026-result-taiwan-tariff"},
+  {"title": "Al Jazeera: Iran says US reply to Hormuz plan 'unconvincing'; Trump confirms strikes", "url": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes"},
+  {"title": "US News (Reuters): Beaten at Home, Trump Faces Stark Choice on Iran", "url": "https://www.usnews.com/news/world/articles/2026-11-04/analysis-beaten-at-home-trump-faces-stark-choice-on-iran-deal-or-escalation"},
+  {"title": "OilPrice.com: Brent Falls to $100 as Traders Bet on a U.S.-Iran Deal", "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Falls-to-100-as-Traders-Bet-on-a-US-Iran-Deal.html"},
+  {"title": "Yahoo Finance: Oil Prices Fall as US Midterm Election Results and Iran Negotiations Create Market Uncertainty", "url": "https://finance.yahoo.com/energy/articles/oil-prices-fall-us-midterm-105522600.html"},
+  {"title": "Al Jazeera: Israel vote results confirmed", "url": "https://www.aljazeera.com/news/2026/11/4/israel-vote-results-confirmed-as-election-commission-rejects-fraud-claims"},
+  {"title": "Euronews: Israel's election commission says no fraud found", "url": "https://www.euronews.com/2026/11/04/israels-election-commission-says-no-fraud-found-in-last-weeks-vote"},
+  {"title": "Euronews: MEPs deal another blow to Green Deal with softer car emissions targets", "url": "https://www.euronews.com/2026/11/04/meps-deal-another-blow-to-green-deal-with-softer-car-emissions-targets"},
+  {"title": "CarExpert: Europe inches closer to watering down its 2035 ban", "url": "https://www.carexpert.com.au/car-news/europe-inches-closer-to-watering-down-its-2035-ban-on-new-petrol-and-diesel-cars"},
+  {"title": "ORF: Parlament einig bei Abschwächung von CO2-Ziel für Autos", "url": "https://orf.at/stories/3445667/"},
+  {"title": "Euro Weekly News: Minister on the ropes", "url": "https://euroweeklynews.com/2026/10/31/minister-on-the-ropes-where-do-spains-trains-go-from-here/"},
+  {"title": "Channel 4 News: Spain train crash", "url": "https://www.channel4.com/news/spain-train-crash-calls-for-countrys-transport-minister-oscar-puente-to-quit-after-69-killed"},
+  {"title": "Devdiscourse: Spanish minister refuses to resign", "url": "https://www.devdiscourse.com/article/international/3999607-spanish-minister-refuses-to-resign-over-second-major-train-crash-on-his-watch"},
+  {"title": "StockTitan: Dow Soars in the Stock Market Today, November 4, 2026", "url": "https://stocktitan.net/articles/stock-market-today-live-november-4-2026"},
+  {"title": "CNBC: Dow soars 1,500 points for best day since April 2025", "url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html"},
+  {"title": "鉅亨網：藍潮席捲國會 道瓊飆近1570點 費半挫逾3%", "url": "https://news.cnyes.com/news/id/6646812"},
+  {"title": "自由財經：道瓊狂漲1569點！費半下挫3％", "url": "https://ec.ltn.com.tw/article/breakingnews/5629867"},
+  {"title": "ETtoday：台股殺千點大收斂！", "url": "https://finance.ettoday.net/news/3266263"},
+  {"title": "聯合新聞網：台股收跌358點", "url": "https://udn.com/news/story/7251/9856843"},
+  {"title": "聯合新聞網：外資狂砍1,499億元！", "url": "https://udn.com/news/story/7251/9857091"},
+  {"title": "工商時報：台股驚魂記！", "url": "https://www.ctee.com.tw/news/20261104701332-430201"},
+  {"title": "The Motley Fool: Why Micron Stock Is Falling Today", "url": "https://www.fool.com/investing/2026/11/04/why-micron-stock-is-falling-today/"},
+  {"title": "TIKR: Micron Sinks 6% as Democratic Sweep Stokes Fears", "url": "https://www.tikr.com/blog/micron-sinks-6-as-democratic-sweep-stokes-fears-of-an-ai-slowdown-in-build"},
+  {"title": "Invezz: Micron, SK Hynix, SanDisk stocks fall", "url": "https://invezz.com/news/2026/11/04/micron-sk-hynix-sandisk-stocks-fall-why-dems-texas-win-is-spooking-investors/"},
+  {"title": "S&P Global: Data center backlash shapes midterm ballots", "url": "https://www.spglobal.com/market-intelligence/en/news-insights/articles/2026/10/data-center-backlash-shapes-midterm-ballots-campaigns-across-us-106324121"},
+  {"title": "Let's Data Science: Voters Weigh 39 Data Center Measures", "url": "https://letsdatascience.com/news/voters-weigh-39-data-center-measures-across-eight-states-e8675da5"},
+  {"title": "Benzinga: OpenAI Just Bought Another AI Coding Startup", "url": "https://benzinga.com/markets/private-markets/26/11/62880116/openai-just-bought-another-ai-coding-startup-heres-what-it-wants-to-build"},
+  {"title": "Shattered: OpenAI Pierre Acquisition", "url": "https://shattered.io/openai-acquires-pierre-code-storage-trees-diffs-codex-2026"},
+  {"title": "Leverage Shares: Anthropic IPO Tracker", "url": "https://leverageshares.com/us/anthropic-ipo-tracker/"},
+  {"title": "Tastytrade: Anthropic IPO 2026", "url": "https://tastytrade.com/learn/markets/industry/anthropic-ipo/"}
+ ]
+}
