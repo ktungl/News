@@ -22,6 +22,78 @@
  },
  "days": [
   {
+   "date": "2026-11-06",
+   "title": "🌏 每日早報｜2026/11/06",
+   "items": [
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "川普承認伊朗戰爭拖累選情，但仍警告可能「重擊」伊朗；革命衛隊：協助美方攻擊的國家都是「合法目標」",
+     "anchor": "world-1"
+    },
+    {
+     "section": "world",
+     "category": "全球經濟與市場",
+     "title": "英國央行三年多來首度升息，利率升至 4%；預估通膨明年中達 5%",
+     "anchor": "world-2"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "巴拉圭數位銀行 ueno 倒閉、近半人口帳戶遭凍結，總統培尼亞辭職後數分鐘即遭眾議院彈劾",
+     "anchor": "world-3"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "以色列總統赫佐格展開組閣諮商，阿拉伯政黨表態支持艾森柯特出任總理",
+     "anchor": "world-4"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "南非地方選舉開票：執政黨非國大得票率約 32% 大幅下滑，民主聯盟在多個大城領先",
+     "anchor": "world-5"
+    },
+    {
+     "section": "markets",
+     "category": "美股",
+     "title": "美股崩跌：道瓊重挫 1,833 點、那斯達克跌 5.5% 進入修正，費半單日跌約 12%",
+     "anchor": "markets-1"
+    },
+    {
+     "section": "markets",
+     "category": "台股",
+     "title": "台股：重挫 1,374 點收 41,574 點、失守 42,000 點；櫃買指數再跌 6.4%，台指期夜盤再崩約 2,000 點",
+     "anchor": "markets-2"
+    },
+    {
+     "section": "markets",
+     "category": "產業與個股",
+     "title": "AI 新雲端業者暴跌：Nebius 跌近 18%、CoreWeave 跌逾 14%，那斯達克市值蒸發約 2.5 兆美元",
+     "anchor": "markets-3"
+    },
+    {
+     "section": "ai",
+     "category": "政策與監管",
+     "title": "資料中心立法角力浮上檯面：逾 160 個團體要求國會禁止在聯邦土地興建 AI 資料中心",
+     "anchor": "ai-1"
+    },
+    {
+     "section": "ai",
+     "category": "晶片與算力",
+     "title": "輝達單日重挫約 9%，創 2025 年 4 月以來最大跌幅；晶片股自 10 月高點已大幅修正",
+     "anchor": "ai-2"
+    },
+    {
+     "section": "ai",
+     "category": "產業與投資",
+     "title": "AI 股崩跌引發 Anthropic 上市時程疑問，公司尚未發布任何調整",
+     "anchor": "ai-3"
+    }
+   ]
+  },
+  {
    "date": "2026-11-05",
    "title": "🌏 每日早報｜2026/11/05",
    "items": [
