@@ -22,6 +22,78 @@
  },
  "days": [
   {
+   "date": "2026-11-07",
+   "title": "🌏 每日早報｜2026/11/07",
+   "items": [
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "期中選舉大敗後白宮人事震盪：川普任命米勒接任白宮幕僚長，威爾斯請辭",
+     "anchor": "world-1"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "伊朗稱多艘油輪在荷莫茲海峽觸雷，川普斥為捏造並稱「很快」決定是否再打；卡達持續斡旋",
+     "anchor": "world-2"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "後續：巴拉圭國會未接受總統培尼亞辭職，參議院展開彈劾審判；民眾因存款凍結連日抗議",
+     "anchor": "world-3"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "美俄烏和談 11/10–11 在阿布達比重啟，白宮提出更廣泛的歐洲安全框架，歐洲國家有保留",
+     "anchor": "world-4"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "歐洲航班連續遭炸彈恐嚇，多架次轉降、戰機升空護航，目前均未發現爆裂物",
+     "anchor": "world-5"
+    },
+    {
+     "section": "markets",
+     "category": "美股",
+     "title": "美國 10 月非農新增 16.5 萬人、遠優於預期，失業率降至 4.1%；市場升息預期升溫",
+     "anchor": "markets-1"
+    },
+    {
+     "section": "markets",
+     "category": "美股",
+     "title": "美股週五：費半反彈 4.21%、那斯達克漲 1.09%，道瓊跌 237 點；主要指數週線收黑",
+     "anchor": "markets-2"
+    },
+    {
+     "section": "markets",
+     "category": "台股",
+     "title": "台股：盤中狂瀉 3,737 點創史上最大盤中跌點，終場跌 1,873 點失守 4 萬點；台積電跌 105 元",
+     "anchor": "markets-3"
+    },
+    {
+     "section": "ai",
+     "category": "產業與投資",
+     "title": "AI 股崩跌衝擊 Anthropic 上市：《華爾街日報》稱估值恐從 1.5 兆美元降至約 1 兆，彭博則報 1.2–1.3 兆",
+     "anchor": "ai-1"
+    },
+    {
+     "section": "ai",
+     "category": "晶片與算力",
+     "title": "AI 拋售延燒亞洲：韓股一度跌 8.8% 觸發暫停交易，SK 海力士跌逾 10%、三星跌逾 6%；日經跌逾 5%",
+     "anchor": "ai-2"
+    },
+    {
+     "section": "ai",
+     "category": "晶片與算力",
+     "title": "AI 晶片龍頭本週重挫：週四 AMD、美光各跌約 17%，博通跌逾 10%、輝達跌逾 9%",
+     "anchor": "ai-3"
+    }
+   ]
+  },
+  {
    "date": "2026-11-06",
    "title": "🌏 每日早報｜2026/11/06",
    "items": [
