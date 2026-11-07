@@ -1,0 +1,285 @@
+{
+ "date": "2026-11-08",
+ "title": "🌏 每日早報｜2026/11/08",
+ "generated_at": "2026-11-08T07:30:00+08:00",
+ "sections": [
+  {
+   "id": "world",
+   "name": "國際新聞",
+   "items": [
+    {
+     "title": "美軍選後首度再打伊朗：川普證實對格什姆島防空系統發動「小規模打擊」，同時宣稱談判有進展",
+     "category": "國際政治與地緣",
+     "summary": "川普證實美軍 11/6 晚間對荷莫茲海峽格什姆島上的伊朗防空系統發動「小規模打擊」，這是期中選舉後美方首次出手；伊朗媒體報導 11/7 清晨有兩枚飛彈擊中格什姆島。川普同時宣稱與德黑蘭的談判有進展，卡達表示美伊應盡快達成和平協議、不宜再拖。伊朗外長則說過去 48 小時內與 12 國外長通話。伊朗的方案仍要求美國解除對伊朗港口的海上封鎖，並在美方滿足七項條件後兩天內重開海峽。",
+     "why": "美方「邊打邊談」的策略延續，有限度的軍事行動可能是為談判施壓，但也可能讓局勢再度失控，油價仍隨時可能波動。",
+     "glossary": [
+      {
+       "term": "海上封鎖",
+       "def": "以軍艦阻止船隻進出特定國家港口，切斷其海上貿易，是戰爭中施壓的重要手段。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "Al Jazeera: Trump confirms new US strikes on Iran's Qeshm island",
+       "url": "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island"
+      },
+      {
+       "title": "Euronews: US launches new targeted strikes on Iran as Trump claims progress in talks with Tehran",
+       "url": "https://www.euronews.com/2026/11/07/us-launches-new-targeted-strikes-on-iran-as-trump-claims-progress-in-talks-with-tehran"
+      },
+      {
+       "title": "Al Jazeera: Qeshm island and Hormuz hit, as mediators try to prevent US-Iran escalation",
+       "url": "https://www.aljazeera.com/news/2026/11/7/qeshm-island-and-hormuz-hit-as-mediators-try-to-prevent-us-iran-escalation"
+      },
+      {
+       "title": "RFE/RL: Trump Confirms US Strikes On Iran's Qeshm Island",
+       "url": "https://www.rferl.org/a/iran-live-blog-trump-middle-east/33803414.html"
+      }
+     ]
+    },
+    {
+     "title": "葉門青年運動宣稱以飛彈、無人機攻擊利雅德機場與沙烏地阿美設施，沙國尚未回應",
+     "category": "國際政治與地緣",
+     "summary": "葉門青年運動（胡塞武裝）發言人 11/7 宣稱發動六次行動，以彈道飛彈、巡弋飛彈與無人機攻擊利雅德哈立德國際機場、沙烏地阿美在利雅德的油槽與蒸餾塔、胡賴斯的阿美設施，以及中部的輸油泵站，另攻擊納季蘭的國民兵營區。胡塞方面稱這是報復沙國空襲塔伊茲省一處市場造成數十名平民傷亡；同時有報導指出，沙乃附近遭空襲至少 25 至 27 人死亡。沙烏地當局尚未對攻擊作出回應。（註：攻擊內容為胡塞方面說法，損害尚無獨立證實。）",
+     "why": "沙烏地是全球最大原油出口國之一，若阿美設施真的受損，將在伊朗戰爭之外再添一個供給風險。",
+     "glossary": [
+      {
+       "term": "胡塞武裝",
+       "def": "葉門什葉派武裝組織「青年運動」，控制首都沙那，受伊朗支持，長期與沙烏地領導的聯軍交戰。"
+      },
+      {
+       "term": "沙烏地阿美",
+       "def": "沙烏地阿拉伯國營石油公司，全球產油量最大的企業之一。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "Al Jazeera: Iran war live: Houthis claim attacks on Riyadh; US hits vessel near Hormuz",
+       "url": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal"
+      },
+      {
+       "title": "TBS News: Houthis claim attacks on Riyadh airport, Aramco facilities, Saudi troops in Najran",
+       "url": "https://www.tbsnews.net/worldbiz/middle-east/houthis-claim-attacks-riyadh-airport-aramco-facilities-saudi-troops-najran"
+      },
+      {
+       "title": "WION: Yemen strikes kill at least 27 near Sanaa as Houthis claim missile and drone attacks on Saudi oil sites",
+       "url": "https://www.wionews.com/world/yemen-strikes-kill-at-least-27-near-sanaa-as-houthis-claim-missile-and-drone-attacks-on-saudi-oil-sites-riyadh-airport-1794069483286"
+      },
+      {
+       "title": "India TV: Houthis claim strikes on Riyadh airport, Aramco oil facility, Saudi military after 25 killed in Yemen strikes",
+       "url": "https://www.indiatvnews.com/news/world/houthis-claim-strikes-on-riyadh-airport-aramco-oil-facility-saudi-military-after-25-killed-in-yemen-strikes-2026-11-07-1058925"
+      }
+     ]
+    },
+    {
+     "title": "巴拉圭參議院 44 比 1 罷免培尼亞，副總統阿利亞納宣誓就任總統；培尼亞遭居家軟禁",
+     "category": "國際政治與地緣",
+     "summary": "延續前兩天報導。巴拉圭參議院 11/6 以 45 席中 44 票通過彈劾，罷免總統培尼亞，副總統佩德羅・阿利亞納隨即宣誓就任總統。彈劾罪名包括利益衝突、操縱金融監理、挪用退休基金，以及參與與央行有關的掩蓋行為。檢察官辦公室表示已就 ueno 銀行危機下令逮捕培尼亞，據報導他目前遭居家軟禁。",
+     "why": "新總統上任後，首要任務是處理近半人口存款遭凍結的銀行危機，能否穩住金融體系與民心，將決定巴拉圭政局走向。",
+     "glossary": [
+      {
+       "term": "居家軟禁",
+       "def": "司法機關限制當事人只能待在住處、不得自由外出的強制措施，常用於審判前。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "US News (Reuters): Paraguay's Alliana Sworn in as President After Peña Impeachment",
+       "url": "https://www.usnews.com/news/world/articles/2026-11-06/paraguays-alliana-sworn-in-as-president-after-pena-impeachment"
+      },
+      {
+       "title": "Jerusalem Post: Paraguay's Alliana sworn in as president after Peña impeached, arrested",
+       "url": "https://www.jpost.com/international/article-914103"
+      },
+      {
+       "title": "CNN: Paraguay president impeached and under house arrest following bank collapse scandal",
+       "url": "https://www.cnn.com/2026/11/05/americas/president-paraguay-resigns-latam-intl"
+      }
+     ]
+    },
+    {
+     "title": "紐西蘭大選結果難分：國家黨得票大跌，執政聯盟是否過半各方說法不一，正式結果 11/27 公布",
+     "category": "台灣與亞太",
+     "summary": "紐西蘭 11/7 舉行國會大選，初步計票結果膠著。據 CNN 報導，總理盧克森所屬國家黨得票率約 29.2%，遠低於 2023 年的 38.1%；國家黨約 42 席、工黨約 36 席、綠黨 16 席、ACT 黨 13 席。執政聯盟是否仍保有過半，各媒體說法不一。海外與特殊選票尚未計入，選舉委員會將於 11/27 公布正式結果。盧克森表示將以看守政府身分執政到結果確定，工黨黨魁希普金斯尚未認輸；新政黨「機會黨」可能成為關鍵少數。",
+     "why": "紐西蘭政局若生變，將影響其對中國、印太安全與貿易的政策取向。",
+     "glossary": [
+      {
+       "term": "看守政府",
+       "def": "選後新政府組成前，由原政府暫時處理日常事務、通常不做重大政策決定的過渡安排。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "CNN: New Zealand election: Nation in political limbo after knife-edge vote",
+       "url": "https://www.cnn.com/2026/11/07/world/new-zealand-election-result-uncertain-intl-hnk"
+      },
+      {
+       "title": "ABC News (Australia): New Zealand 2026 election reactions and results",
+       "url": "https://www.abc.net.au/news/2026-11-07/nz-election-2026-live-blog/107355448"
+      },
+      {
+       "title": "RNZ: Election 2026: Results from every electorate",
+       "url": "https://www.rnz.co.nz/news/election-2026-results/electorates"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "markets",
+   "name": "股市觀察（美股・台股）",
+   "items": [
+    {
+     "title": "本週看點（美股）：11/10 公布 10 月 CPI、11/13 PPI，那斯達克與標普週線已連四黑",
+     "category": "美股",
+     "summary": "週末休市。上週美股經歷劇烈震盪，那斯達克一度跌入修正區間，據鉅亨網統計，那斯達克與標普 500 週線已連續四週收黑。本週最重要的是 11/10（週二）美國 10 月消費者物價指數，這是聯準會 12/8–9 開會前最後一份通膨數據；9 月 CPI 年增 3.7%。11/11 為退伍軍人節，11/13（週五）則公布生產者物價指數。上週五非農就業遠優於預期，若通膨也偏熱，市場對 12 月升息的押注可能升溫。",
+     "why": "通膨數據將決定聯準會是否跟進英國、澳洲升息，也直接影響科技股能否從上週的重挫中回穩。",
+     "glossary": [
+      {
+       "term": "CPI",
+       "def": "消費者物價指數，衡量一般家庭購買商品與服務的價格變化，是判斷通膨的主要指標。"
+      },
+      {
+       "term": "PPI",
+       "def": "生產者物價指數，衡量企業端原料與商品的價格變化，常被視為 CPI 的領先指標。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "CPI Chart: When Is the Next CPI Report? November 10, 2026",
+       "url": "https://cpichart.com/cpi-release-calendar/"
+      },
+      {
+       "title": "Market Daily: November 2026 Economic Calendar: JOLTS, Jobs and October CPI Set the Stage for the Fed's December 9 Decision",
+       "url": "https://marketdaily.com/november-2026-economic-calendar-jolts-jobs-and-october-cpi-set-the-stage-for-the-feds-december-9-decision/"
+      },
+      {
+       "title": "鉅亨網：〈美股盤後〉晶片股反彈！費半勁揚逾4.2% 台積電ADR升超6% 那指標普周線四連黑",
+       "url": "https://news.cnyes.com/news/id/6651785"
+      }
+     ]
+    },
+    {
+     "title": "本週看點（台股）：台積電 10 月營收即將公布，觀察是否達第四季財測；外資上週賣超逾 5,200 億元",
+     "category": "台股",
+     "summary": "週末休市。台股上週五盤中跌點創紀錄、收在 39,701.64 點，外資一週賣超約 5,244 億元，台積電、聯發科連 21 日遭外資減碼。所幸週五晚間美股費半反彈 4.21%、台積電 ADR 漲逾 6%。本週焦點是台積電預計於 11/10 前後公布的 10 月營收：台積電第四季財測為 523 億至 543 億美元，以財測匯率換算平均每月約 5,544 億至 5,756 億元新台幣，市場將以 10 月營收是否達到月均下緣，檢驗 AI 需求是否如股價般轉弱。",
+     "why": "台積電營收若維持強勁，有助平息「AI 需求見頂」的疑慮；反之可能讓外資賣壓延續。",
+     "glossary": [
+      {
+       "term": "財測",
+       "def": "公司對未來一季或一年營收、獲利的預估，市場常比實際財報更在意。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "Yahoo 新聞：台積電10月營收將公布 看財測達成度",
+       "url": "https://tw.news.yahoo.com/%E5%8F%B0%E7%A9%8D%E9%9B%BB10%E6%9C%88%E7%87%9F%E6%94%B6%E5%B0%87%E5%85%AC%E5%B8%83-%E7%9C%8B%E8%B2%A1%E6%B8%AC%E9%81%94%E6%88%90%E5%BA%A6-124000329.html"
+      },
+      {
+       "title": "豐雲學堂：台積電營收／月減0.6%、年增54.6%，第三季營收突破1.49兆元超越財測高標",
+       "url": "https://www.sinotrade.com.tw/richclub/hotstock/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E7%87%9F%E6%94%B6-%E6%9C%88%E6%B8%9B0-6--%E5%B9%B4%E5%A2%9E54-6--%E5%89%8D%E4%B9%9D%E6%9C%88%E7%87%9F%E6%94%B63-90%E5%85%86-%E5%B9%B4%E5%A2%9E41-1--%E7%AC%AC%E4%B8%89%E5%AD%A3%E7%87%9F%E6%94%B6%E7%AA%81%E7%A0%B41-49%E5%85%86%E5%85%83%E8%B6%85%E8%B6%8A%E8%B2%A1%E6%B8%AC%E9%AB%98%E6%A8%99-%E8%82%A1%E5%B8%82%E8%A9%B1%E9%A1%8C-6ac74879d110eb0086a13586"
+      },
+      {
+       "title": "Yahoo 股市：外資本週賣超台股5244億元 連21日減碼台積電聯發科",
+       "url": "https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E6%9C%AC%E9%80%B1%E8%B3%A3%E8%B6%85%E5%8F%B0%E8%82%A15244%E5%84%84%E5%85%83-%E9%80%A321%E6%97%A5%E6%B8%9B%E7%A2%BC%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%81%AF%E7%99%BC%E7%A7%91-091446982.html"
+      }
+     ]
+    }
+   ],
+   "mood": "觀望、偏謹慎",
+   "outlook": "偏多因素：上週五費半反彈 4.21%、台積電 ADR 漲逾 6%，台股週一有機會延續反彈；部分分析師認為選後 AI 基建是「放緩而非停止」，已取得許可的專案不受影響；美國就業強勁，經濟衰退疑慮降低。偏空因素：外資一週賣超台股逾 5,200 億元、籌碼面仍弱；那斯達克與標普週線連四黑，若本週 CPI 偏熱，12 月升息預期將升溫；Anthropic 上市估值傳出下修，AI 資金情緒脆弱；美伊與葉門－沙烏地衝突同時升溫，油價風險上升。本週關鍵：11/10 美國 CPI 與台積電 10 月營收、11/10–11 俄烏和談、Anthropic 是否啟動路演，以及下週 11/17 輝達財報。整體而言，市場在劇烈修正後進入觀望，偏謹慎。以上僅整理市場資訊與各方觀點，不構成投資建議。"
+  },
+  {
+   "id": "ai",
+   "name": "AI 科技發展",
+   "items": [
+    {
+     "title": "Anthropic 上市路演傳本週啟動但仍無價格區間，部分投資人質疑能否如期在 11 月掛牌",
+     "category": "產業與投資",
+     "summary": "據彭博報導，Anthropic 的正式上市推介可能於 11/9 當週展開，但截至 11/5，美國證管會申報系統中仍未出現載明價格區間的修正文件。另有報導引述四位知情人士，質疑在 AI 股重挫後，Anthropic 能否在 11/9 當週啟動路演並於本月掛牌。目前投資人討論的估值約 1.2 兆至 1.3 兆美元，低於先前的 1.4 兆至 1.5 兆美元；Anthropic 尚未宣布任何延後。（註：時程與估值均為媒體引述匿名消息。）",
+     "why": "價格區間何時公布，將是判斷這檔史上最大科技 IPO 能否如期進行的關鍵訊號，也牽動整體 AI 類股情緒。",
+     "glossary": [
+      {
+       "term": "價格區間",
+       "def": "公司上市前公布的預計每股發行價範圍，投資人據此認購，最終價格通常在路演結束後確定。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "FinanceFeeds: Anthropic IPO Roadshow Looms With No Price Range In Sight",
+       "url": "https://financefeeds.com/anthropic-ipo-roadshow-looms-with-no-price-range/"
+      },
+      {
+       "title": "Quartz: Anthropic IPO valuation expectations fall after AI stock selloff",
+       "url": "https://qz.com/anthropic-ipo-valuation-expectations-fall-ai-selloff-110626"
+      },
+      {
+       "title": "24/7 Wall St.: Anthropic Could Postpone Its $1.5 Trillion IPO, Per One Investor",
+       "url": "https://247wallst.com/investing/2026/11/07/anthropic-could-postpone-its-1-5-trillion-ipo-per-one-investor-as-market-sours-on-ai-trade-another-says-it-could-end-up-closer-to-1-trillion/"
+      }
+     ]
+    },
+    {
+     "title": "選後 AI 基建前景分歧：雲端巨頭股價抗跌、資料中心開發商重挫，分析師多認為是「放緩而非停止」",
+     "category": "產業與投資",
+     "summary": "期中選舉後，AI 相關股出現明顯分化：據報導，大型雲端業者股價相對抗跌，負責融資、供電與興建資料中心的業者則重挫，例如 Hut 8 單日跌約 23%、IREN 跌約 11%。分析師看法不一：Fundstrat 的湯姆・李認為這是短期反應，民主黨勝選長期未必不利股市；英國券商 HL 指出，已取得許可、正在興建的專案很難被叫停；也有分析認為影響主要會反映在 2027 年後新案審批變慢。整體而言，市場將選後影響解讀為 AI 基建速度可能放緩，而非全面停止。（註：個股跌幅出自彙整報導。）",
+     "why": "資料中心興建速度直接決定 AI 伺服器、電源與散熱需求，是台灣 AI 供應鏈明年訂單能見度的關鍵。",
+     "glossary": [
+      {
+       "term": "雲端巨頭",
+       "def": "Hyperscaler，指亞馬遜、微軟、Google 等擁有超大規模資料中心、提供雲端運算服務的公司。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "FourWeekMBA: Hyperscalers Rise 5%, Data Center Builders Fall 12% on Vote",
+       "url": "https://fourweekmba.com/ai-hyperscalers-rise-5-data-center-builders-fall-12-on-vote/"
+      },
+      {
+       "title": "Stocktwits: $1.2 Trillion Added To US Stocks After Midterms: Is A Slower AI Buildout Part Of The Blue Tidal Wave?",
+       "url": "https://stocktwits.com/news-articles/markets/equity/1-2-trillion-added-to-us-stocks-after-midterms-is-a-slower-ai-buildout-part-of-the-blue-tidal-wave/cNG19o1R9Em"
+      },
+      {
+       "title": "Hargreaves Lansdown: US midterms and markets – the case for not trading the headline",
+       "url": "https://www.hl.co.uk/news/us-midterms-and-markets-the-case-for-not-trading-the-headline"
+      },
+      {
+       "title": "TheStreet Pro: Why Midterm Change Won't Disrupt the AI Buildout as Much as Feared",
+       "url": "https://pro.thestreet.com/portfolio/why-midterm-change-wont-disrupt-the-ai-buildout-as-much-as-feared"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "observation": "週末的國際焦點仍在中東：美軍在選後首度對伊朗發動有限度打擊，川普同時宣稱談判有進展，顯示華府選擇「邊打邊談」，以軍事壓力換取談判籌碼；與此同時，葉門胡塞武裝宣稱攻擊利雅德機場與沙烏地阿美設施，若屬實，代表戰火已從荷莫茲海峽延伸到沙國本土，全球原油供給風險升高。兩條戰線同時升溫，讓本週的美伊談判與油價走勢更值得關注。\n\n其他地區方面，巴拉圭在銀行危機中完成總統更替，紐西蘭大選結果膠著、要等月底正式結果，兩國都面臨政局重組。市場面，上週 AI 股的劇烈修正後，分析師普遍認為選後 AI 基建是「放緩而非停止」，但 Anthropic 上市能否如期、以什麼估值掛牌，將是檢驗 AI 資金信心的第一道關卡。\n\n本週可關注：11/10 美國 10 月 CPI 與台積電 10 月營收、11/10–11 阿布達比俄烏和談、Anthropic 是否公布價格區間，以及美伊、沙烏地與葉門衝突是否進一步擴大。",
+ "sources": [
+  {"title": "Al Jazeera: Trump confirms new US strikes on Iran's Qeshm island", "url": "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island"},
+  {"title": "Euronews: US launches new targeted strikes on Iran as Trump claims progress in talks", "url": "https://www.euronews.com/2026/11/07/us-launches-new-targeted-strikes-on-iran-as-trump-claims-progress-in-talks-with-tehran"},
+  {"title": "Al Jazeera: Qeshm island and Hormuz hit, as mediators try to prevent US-Iran escalation", "url": "https://www.aljazeera.com/news/2026/11/7/qeshm-island-and-hormuz-hit-as-mediators-try-to-prevent-us-iran-escalation"},
+  {"title": "RFE/RL: Trump Confirms US Strikes On Iran's Qeshm Island", "url": "https://www.rferl.org/a/iran-live-blog-trump-middle-east/33803414.html"},
+  {"title": "Al Jazeera: Iran war live: Houthis claim attacks on Riyadh", "url": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal"},
+  {"title": "TBS News: Houthis claim attacks on Riyadh airport, Aramco facilities", "url": "https://www.tbsnews.net/worldbiz/middle-east/houthis-claim-attacks-riyadh-airport-aramco-facilities-saudi-troops-najran"},
+  {"title": "WION: Yemen strikes kill at least 27 near Sanaa as Houthis claim attacks on Saudi oil sites", "url": "https://www.wionews.com/world/yemen-strikes-kill-at-least-27-near-sanaa-as-houthis-claim-missile-and-drone-attacks-on-saudi-oil-sites-riyadh-airport-1794069483286"},
+  {"title": "India TV: Houthis claim strikes on Riyadh airport, Aramco oil facility", "url": "https://www.indiatvnews.com/news/world/houthis-claim-strikes-on-riyadh-airport-aramco-oil-facility-saudi-military-after-25-killed-in-yemen-strikes-2026-11-07-1058925"},
+  {"title": "US News (Reuters): Paraguay's Alliana Sworn in as President After Peña Impeachment", "url": "https://www.usnews.com/news/world/articles/2026-11-06/paraguays-alliana-sworn-in-as-president-after-pena-impeachment"},
+  {"title": "Jerusalem Post: Paraguay's Alliana sworn in as president", "url": "https://www.jpost.com/international/article-914103"},
+  {"title": "CNN: Paraguay president impeached and under house arrest", "url": "https://www.cnn.com/2026/11/05/americas/president-paraguay-resigns-latam-intl"},
+  {"title": "CNN: New Zealand election: Nation in political limbo after knife-edge vote", "url": "https://www.cnn.com/2026/11/07/world/new-zealand-election-result-uncertain-intl-hnk"},
+  {"title": "ABC News (Australia): New Zealand 2026 election reactions and results", "url": "https://www.abc.net.au/news/2026-11-07/nz-election-2026-live-blog/107355448"},
+  {"title": "RNZ: Election 2026: Results from every electorate", "url": "https://www.rnz.co.nz/news/election-2026-results/electorates"},
+  {"title": "CPI Chart: CPI Release Schedule", "url": "https://cpichart.com/cpi-release-calendar/"},
+  {"title": "Market Daily: November 2026 Economic Calendar", "url": "https://marketdaily.com/november-2026-economic-calendar-jolts-jobs-and-october-cpi-set-the-stage-for-the-feds-december-9-decision/"},
+  {"title": "鉅亨網：〈美股盤後〉晶片股反彈！那指標普周線四連黑", "url": "https://news.cnyes.com/news/id/6651785"},
+  {"title": "Yahoo 新聞：台積電10月營收將公布 看財測達成度", "url": "https://tw.news.yahoo.com/%E5%8F%B0%E7%A9%8D%E9%9B%BB10%E6%9C%88%E7%87%9F%E6%94%B6%E5%B0%87%E5%85%AC%E5%B8%83-%E7%9C%8B%E8%B2%A1%E6%B8%AC%E9%81%94%E6%88%90%E5%BA%A6-124000329.html"},
+  {"title": "豐雲學堂：台積電9月營收與第三季財報", "url": "https://www.sinotrade.com.tw/richclub/hotstock/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E7%87%9F%E6%94%B6-%E6%9C%88%E6%B8%9B0-6--%E5%B9%B4%E5%A2%9E54-6--%E5%89%8D%E4%B9%9D%E6%9C%88%E7%87%9F%E6%94%B63-90%E5%85%86-%E5%B9%B4%E5%A2%9E41-1--%E7%AC%AC%E4%B8%89%E5%AD%A3%E7%87%9F%E6%94%B6%E7%AA%81%E7%A0%B41-49%E5%85%86%E5%85%83%E8%B6%85%E8%B6%8A%E8%B2%A1%E6%B8%AC%E9%AB%98%E6%A8%99-%E8%82%A1%E5%B8%82%E8%A9%B1%E9%A1%8C-6ac74879d110eb0086a13586"},
+  {"title": "Yahoo 股市：外資本週賣超台股5244億元", "url": "https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E6%9C%AC%E9%80%B1%E8%B3%A3%E8%B6%85%E5%8F%B0%E8%82%A15244%E5%84%84%E5%85%83-%E9%80%A321%E6%97%A5%E6%B8%9B%E7%A2%BC%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%81%AF%E7%99%BC%E7%A7%91-091446982.html"},
+  {"title": "FinanceFeeds: Anthropic IPO Roadshow Looms With No Price Range In Sight", "url": "https://financefeeds.com/anthropic-ipo-roadshow-looms-with-no-price-range/"},
+  {"title": "Quartz: Anthropic IPO valuation expectations fall after AI stock selloff", "url": "https://qz.com/anthropic-ipo-valuation-expectations-fall-ai-selloff-110626"},
+  {"title": "24/7 Wall St.: Anthropic Could Postpone Its $1.5 Trillion IPO", "url": "https://247wallst.com/investing/2026/11/07/anthropic-could-postpone-its-1-5-trillion-ipo-per-one-investor-as-market-sours-on-ai-trade-another-says-it-could-end-up-closer-to-1-trillion/"},
+  {"title": "FourWeekMBA: Hyperscalers Rise 5%, Data Center Builders Fall 12% on Vote", "url": "https://fourweekmba.com/ai-hyperscalers-rise-5-data-center-builders-fall-12-on-vote/"},
+  {"title": "Stocktwits: $1.2 Trillion Added To US Stocks After Midterms", "url": "https://stocktwits.com/news-articles/markets/equity/1-2-trillion-added-to-us-stocks-after-midterms-is-a-slower-ai-buildout-part-of-the-blue-tidal-wave/cNG19o1R9Em"},
+  {"title": "Hargreaves Lansdown: US midterms and markets", "url": "https://www.hl.co.uk/news/us-midterms-and-markets-the-case-for-not-trading-the-headline"},
+  {"title": "TheStreet Pro: Why Midterm Change Won't Disrupt the AI Buildout as Much as Feared", "url": "https://pro.thestreet.com/portfolio/why-midterm-change-wont-disrupt-the-ai-buildout-as-much-as-feared"}
+ ]
+}

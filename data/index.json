@@ -22,6 +22,60 @@
  },
  "days": [
   {
+   "date": "2026-11-08",
+   "title": "🌏 每日早報｜2026/11/08",
+   "items": [
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "美軍選後首度再打伊朗：川普證實對格什姆島防空系統發動「小規模打擊」，同時宣稱談判有進展",
+     "anchor": "world-1"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "葉門青年運動宣稱以飛彈、無人機攻擊利雅德機場與沙烏地阿美設施，沙國尚未回應",
+     "anchor": "world-2"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "巴拉圭參議院 44 比 1 罷免培尼亞，副總統阿利亞納宣誓就任總統；培尼亞遭居家軟禁",
+     "anchor": "world-3"
+    },
+    {
+     "section": "world",
+     "category": "台灣與亞太",
+     "title": "紐西蘭大選結果難分：國家黨得票大跌，執政聯盟是否過半各方說法不一，正式結果 11/27 公布",
+     "anchor": "world-4"
+    },
+    {
+     "section": "markets",
+     "category": "美股",
+     "title": "本週看點（美股）：11/10 公布 10 月 CPI、11/13 PPI，那斯達克與標普週線已連四黑",
+     "anchor": "markets-1"
+    },
+    {
+     "section": "markets",
+     "category": "台股",
+     "title": "本週看點（台股）：台積電 10 月營收即將公布，觀察是否達第四季財測；外資上週賣超逾 5,200 億元",
+     "anchor": "markets-2"
+    },
+    {
+     "section": "ai",
+     "category": "產業與投資",
+     "title": "Anthropic 上市路演傳本週啟動但仍無價格區間，部分投資人質疑能否如期在 11 月掛牌",
+     "anchor": "ai-1"
+    },
+    {
+     "section": "ai",
+     "category": "產業與投資",
+     "title": "選後 AI 基建前景分歧：雲端巨頭股價抗跌、資料中心開發商重挫，分析師多認為是「放緩而非停止」",
+     "anchor": "ai-2"
+    }
+   ]
+  },
+  {
    "date": "2026-11-07",
    "title": "🌏 每日早報｜2026/11/07",
    "items": [
