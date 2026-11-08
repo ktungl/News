@@ -22,6 +22,66 @@
  },
  "days": [
   {
+   "date": "2026-11-09",
+   "title": "🌏 每日早報｜2026/11/09",
+   "items": [
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "盧比歐：與伊朗的談判「沒有成效」、協議未必可能；川普稱談判若有進展「極不可能」再打",
+     "anchor": "world-1"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "以色列總統赫佐格正式授權艾森柯特組閣，獲 67 席推薦；納坦雅胡僅 46 席",
+     "anchor": "world-2"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "波蘭克拉科夫老城廣場槍擊 6 死 15 傷，檢方以恐怖攻擊偵辦，疑受極右翼思想影響",
+     "anchor": "world-3"
+    },
+    {
+     "section": "world",
+     "category": "台灣與亞太",
+     "title": "國安基金決議第 10 度進場護盤、可動用上限 5,000 億元，自今天（11/9）起適時啟動",
+     "anchor": "world-4"
+    },
+    {
+     "section": "markets",
+     "category": "台股",
+     "title": "今日看點（台股）：國安基金護盤首日，台指期夜盤上週五大漲 646 點收復 4 萬點",
+     "anchor": "markets-1"
+    },
+    {
+     "section": "markets",
+     "category": "美股",
+     "title": "今日看點（美股）：本週 11/10 公布 CPI、11/13 PPI；Anthropic 傳本週啟動上市路演",
+     "anchor": "markets-2"
+    },
+    {
+     "section": "ai",
+     "category": "產業與投資",
+     "title": "OpenAI 據報完成約 110 億美元募資、估值 1.25 兆美元，規模低於原先目標",
+     "anchor": "ai-1"
+    },
+    {
+     "section": "ai",
+     "category": "產業與投資",
+     "title": "Anthropic 上市路演傳本週展開、擬募資 800 億至 1,000 億美元，價格區間仍未公布",
+     "anchor": "ai-2"
+    },
+    {
+     "section": "ai",
+     "category": "研究與安全",
+     "title": "OpenAI 宣稱 AI 證明數學難題「局部平滑猜想」，並附電腦驗證證明；學界尚待審查",
+     "anchor": "ai-3"
+    }
+   ]
+  },
+  {
    "date": "2026-11-08",
    "title": "🌏 每日早報｜2026/11/08",
    "items": [
