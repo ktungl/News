@@ -22,6 +22,72 @@
  },
  "days": [
   {
+   "date": "2026-11-10",
+   "title": "🌏 每日早報｜2026/11/10",
+   "items": [
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "川普會晤卡達總理後稱伊朗戰爭「實際上已結束」、再開戰「相當不可能」；伊朗：不解除封鎖就無法走向和平",
+     "anchor": "world-1"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "川普改口質疑期中選舉舞弊，未提出證據；舒默批「重回否認選舉」",
+     "anchor": "world-2"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "美俄烏和談今起在阿布達比舉行兩天，俄方由梅金斯基率團，烏克蘭聚焦安全保障與能源停火",
+     "anchor": "world-3"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "南非選委會宣布地方選舉自由公正，非國大僅單獨掌握 53 個市政府，逾半數議會無多數",
+     "anchor": "world-4"
+    },
+    {
+     "section": "markets",
+     "category": "美股",
+     "title": "美股強彈：道瓊大漲 1,104 點、那斯達克漲 2.74% 脫離修正區，費半漲近 7%；輝達逆勢跌逾 4%",
+     "anchor": "markets-1"
+    },
+    {
+     "section": "markets",
+     "category": "台股",
+     "title": "台股：國安基金護盤首日狂飆 1,960 點、史上第二大漲點，237 檔漲停；外資仍賣超 900 億元",
+     "anchor": "markets-2"
+    },
+    {
+     "section": "markets",
+     "category": "產業與個股",
+     "title": "今日看點：台積電公布 10 月營收、美國晚間公布 10 月 CPI",
+     "anchor": "markets-3"
+    },
+    {
+     "section": "ai",
+     "category": "產業與投資",
+     "title": "輝達董事會調查執行長黃仁勳：涉與疑似中國間諜交往，股價逆勢跌逾 4%",
+     "anchor": "ai-1"
+    },
+    {
+     "section": "ai",
+     "category": "產業與投資",
+     "title": "Anthropic 上市路演週仍未公布價格區間；有報導稱最快 11/18 收盤後定價",
+     "anchor": "ai-2"
+    },
+    {
+     "section": "ai",
+     "category": "政策與監管",
+     "title": "Google、微軟、OpenAI、Anthropic 共同支持統一的 robots.txt「拒絕 AI 訓練」標記",
+     "anchor": "ai-3"
+    }
+   ]
+  },
+  {
    "date": "2026-11-09",
    "title": "🌏 每日早報｜2026/11/09",
    "items": [

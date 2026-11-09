@@ -1,0 +1,334 @@
+{
+ "date": "2026-11-10",
+ "title": "🌏 每日早報｜2026/11/10",
+ "generated_at": "2026-11-10T07:30:00+08:00",
+ "sections": [
+  {
+   "id": "world",
+   "name": "國際新聞",
+   "items": [
+    {
+     "title": "川普會晤卡達總理後稱伊朗戰爭「實際上已結束」、再開戰「相當不可能」；伊朗：不解除封鎖就無法走向和平",
+     "category": "國際政治與地緣",
+     "summary": "川普 11/9 在白宮會晤卡達總理後表示，看到「結束衝突的正面動能」，據半島電視台報導他形容美以對伊朗的戰爭「實際上已經結束」，並稱恢復攻擊「相當不可能」，但也說美國仍「蓄勢待發」。川普表示他滿意目前對伊朗的海上封鎖，並稱卡達、沙烏地、阿聯、巴林、科威特等國偏好維持現狀，也就是海上封鎖加上新的陸路封鎖行動「鐵門行動」。伊朗則表示，除非美國解除海上封鎖、歸還被扣押資產並取消制裁，否則不可能走向和平；國務卿盧比歐也說談判沒有進展。",
+     "why": "美方釋出降溫訊號有助壓低油價，但封鎖持續、伊朗條件未獲回應，荷莫茲海峽何時恢復正常通航仍無定論。",
+     "glossary": [
+      {
+       "term": "鐵門行動",
+       "def": "Operation Iron Gate，川普所稱美方新近展開、針對伊朗陸路運輸的封鎖行動，用來配合既有的海上封鎖。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "Bloomberg: Trump Cites 'Momentum' Toward Iran War Resolution Following Qatar Meeting",
+       "url": "https://www.bloomberg.com/news/articles/2026-11-09/trump-sees-momentum-toward-war-s-end-after-meeting-qatari-pm"
+      },
+      {
+       "title": "Al Jazeera: Iran war live: Trump says US-Israel war on Iran 'effectively over'",
+       "url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq"
+      },
+      {
+       "title": "The National: Trump meets Qatari PM and calls renewed military action on Iran 'quite unlikely'",
+       "url": "https://www.thenationalnews.com/news/us/2026/11/09/trump-meets-qatari-pm-and-calls-renewed-military-action-on-iran-quite-unlikely/"
+      },
+      {
+       "title": "InvestingLive: Trump says renewed Iran strikes 'quite unlikely' as Gulf allies back blockade status quo",
+       "url": "https://investinglive.com/commodities/trump-says-renewed-iran-strikes-quite-unlikely-as-gulf-allies-back-blockade-status-quo/"
+      }
+     ]
+    },
+    {
+     "title": "川普改口質疑期中選舉舞弊，未提出證據；舒默批「重回否認選舉」",
+     "category": "國際政治與地緣",
+     "summary": "川普 11/9 在 Truth Social 發文質疑上週期中選舉的公正性，問「民調怎麼會錯得這麼離譜？」並聲稱部分提前投票的計票數量大到共和黨不可能獲勝，但未提出任何舞弊證據。據半島電視台報導，這是他首次公開質疑整體期中選舉結果，距他祝賀民主黨勝選、表示「完全願意」接受結果不到一週。參議院民主黨領袖舒默批評川普「可悲地重回否認選舉」。另有報導指出，川普也施壓要求將仍未定的阿拉斯加參議員選舉票數轉給落後候選人。",
+     "why": "總統質疑選舉結果，可能加深美國政治對立，也讓下屆國會開議前的政局更添不確定性。",
+     "glossary": [
+      {
+       "term": "否認選舉",
+       "def": "Election denialism，指在缺乏證據的情況下拒絕承認選舉結果，或宣稱選舉遭操縱的立場。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "Al Jazeera: Trump reverses stance, alleges fraud in recent US midterm elections",
+       "url": "https://www.aljazeera.com/news/2026/11/9/trump-reverses-stance-alleges-fraud-in-recent-us-midterm-elections"
+      },
+      {
+       "title": "CTV News: Trump revives election fraud claims after crushing midterm defeat",
+       "url": "https://www.ctvnews.ca/world/article/trump-revives-election-fraud-claims-after-crushing-midterm-defeat/"
+      },
+      {
+       "title": "Rolling Stone: Trump Finally Gets Around to Claiming the Midterms Were Rigged",
+       "url": "https://www.rollingstone.com/politics/politics-news/trump-claims-midterm-elections-rigged-1235654597/"
+      }
+     ]
+    },
+    {
+     "title": "美俄烏和談今起在阿布達比舉行兩天，俄方由梅金斯基率團，烏克蘭聚焦安全保障與能源停火",
+     "category": "國際政治與地緣",
+     "summary": "美國、俄羅斯與烏克蘭的三方和談 11/10–11 在阿布達比舉行，克里姆林宮已確認，俄方代表團由總統助理梅金斯基率領；烏克蘭方面由誰領軍說法不一，總統顧問否認軍情局長布達諾夫擔任團長，但表示他會參與。烏克蘭外長西比哈列出的優先議題包括安全保障、黑海降溫、能源停火、遣返兒童與交換戰俘。這是 2 月伊朗戰爭爆發、外交中斷後首度三方會談；今年 1 月在阿布達比的前幾輪談判未達成協議。",
+     "why": "俄烏若能達成能源停火或局部協議，將降低歐洲能源與安全風險，但領土問題仍是最大障礙。",
+     "glossary": [
+      {
+       "term": "能源停火",
+       "def": "交戰雙方同意暫停攻擊對方的電廠、電網、油氣設施等能源基礎設施。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "Kathmandu Post: Kremlin confirms trilateral Ukraine peace talks in Abu Dhabi next week",
+       "url": "https://kathmandupost.com/world/2026/11/03/kremlin-confirms-trilateral-ukraine-peace-talks-in-abu-dhabi-next-week"
+      },
+      {
+       "title": "Khaleej Times: US to mediate Russia-Ukraine talks in Abu Dhabi in November, Witkoff says",
+       "url": "https://www.khaleejtimes.com/world/us-mediate-russia-ukraine-talks-abu-dhabi-november-witkoff?amp=1"
+      },
+      {
+       "title": "Interfax-Ukraine",
+       "url": "https://en.interfax.com.ua/news/general/1232641.html"
+      }
+     ]
+    },
+    {
+     "title": "南非選委會宣布地方選舉自由公正，非國大僅單獨掌握 53 個市政府，逾半數議會無多數",
+     "category": "國際政治與地緣",
+     "summary": "延續上週報導。南非選舉委員會 11/8 宣布 11/4 地方選舉自由且公正，但下令道格拉斯一處投票所重新投票，原因是有支持者涉嫌銷毀選票。據報導，執政黨非國大在全國 213 個市政府中單獨過半掌握 53 個，民主聯盟掌握 12 個，另有 127 個議會沒有任何政黨過半，須靠聯合執政。（註：席次統計目前僅見單一來源報導。）",
+     "why": "大量「懸峙議會」意味著南非地方政治將進入聯盟協商時代，也考驗中央聯合政府的穩定度。",
+     "glossary": [
+      {
+       "term": "懸峙議會",
+       "def": "Hung council，選後沒有任何政黨取得過半席次的議會，需要政黨合作才能組成執政團隊。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "Rio Times: South Africa Election Declared Free and Fair",
+       "url": "https://www.riotimesonline.com/south-africa-election-free-fair-douglas-revote"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "markets",
+   "name": "股市觀察（美股・台股）",
+   "items": [
+    {
+     "title": "美股強彈：道瓊大漲 1,104 點、那斯達克漲 2.74% 脫離修正區，費半漲近 7%；輝達逆勢跌逾 4%",
+     "category": "美股",
+     "summary": "11/9 美股在上週重挫後強勁反彈。道瓊收 52,389.75 點，大漲 1,104.02 點（+2.15%）；標普 500 收 7,549.94 點、漲 2.35%，為 4 月 8 日以來最大單日漲幅；那斯達克收 25,253.14 點、漲 2.74%，脫離修正區間；羅素 2000 小型股漲 3.15%。費城半導體指數大漲，據報導收在 10,033.88 點、漲約 6.85%，AMD、博通領漲，台積電 ADR 漲幅各家報導約 5% 至 8%。輝達則因執行長黃仁勳遭董事會調查，逆勢下跌約 4.27%。油價下跌也有助市場情緒。（註：費半與台積電 ADR 收盤數字各來源略有出入。）",
+     "why": "AI 與半導體股大幅反彈，加上國安基金進場，有助台股延續反彈，但輝達的個別風險仍需留意。",
+     "glossary": [
+      {
+       "term": "羅素 2000",
+       "def": "美國小型股的代表性指數，涵蓋約 2,000 家中小型上市公司，常用來觀察市場風險偏好。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "CNBC: Dow surges 1,100 points, Nasdaq climbs more than 2% as tech rebounds from last week's tumult",
+       "url": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html"
+      },
+      {
+       "title": "Kiplinger: Dow Adds 1,104 Points Even as Nvidia Sinks: Stock Market Today",
+       "url": "https://www.kiplinger.com/investing/stocks/dow-adds-1-104-points-even-as-nvidia-stock-sinks-stock-market-today"
+      },
+      {
+       "title": "TradingKey: Nasdaq Extends Gains by 2.7%, Philadelphia Semiconductor Index Reclaims 10,000",
+       "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262297090-us-stock-nasdaq-dow-rise-anthropic-ipo-nvidia-spacex-tesla-tradingkey"
+      },
+      {
+       "title": "BigGo Finance: U.S. Stocks Rebound Sharply: Philadelphia Semiconductor Index Surges, TSMC ADR Jumps Nearly 8%",
+       "url": "https://finance.biggo.com/news/59eb0bd4-97b3-48b3-92d6-904689ff9d8a"
+      }
+     ]
+    },
+    {
+     "title": "台股：國安基金護盤首日狂飆 1,960 點、史上第二大漲點，237 檔漲停；外資仍賣超 900 億元",
+     "category": "台股",
+     "summary": "國安基金宣示進場與限空措施上路，加權指數 11/9 收 41,661.70 點，大漲 1,960.06 點（+4.94%），為史上第二大收盤漲點，上市櫃共 237 檔漲停。台積電漲 100 元收 2,235 元（+4.68%）。但法人籌碼仍弱：外資及陸資賣超 900.56 億元，已連 8 個交易日賣超、累計逾 7,957 億元，賣超前段包括聯電與台積電；外資台指期淨空單突破 10 萬口創新高。投信買超 267.49 億元，三大法人合計賣超 945.26 億元。",
+     "why": "指數大漲主要來自護盤與內資，外資不但續賣現貨、還加碼期貨空單，反彈力道能否延續仍待觀察。",
+     "glossary": [
+      {
+       "term": "期貨淨空單",
+       "def": "期貨市場中，看跌部位減去看漲部位的數量；外資淨空單愈大，代表其愈看壞後市或用來避險。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "ETtoday：國安基金告捷！台股收漲1960點史上第2大 台積電漲100元至2235",
+       "url": "https://finance.ettoday.net/news/3268934"
+      },
+      {
+       "title": "聯合新聞網：史上收盤第二大漲點！上市櫃共237家漲停 三大法人卻賣超945億元",
+       "url": "https://udn.com/news/story/7251/9866962"
+      },
+      {
+       "title": "中央社：外資賣超台股逾900億元 調節聯電、台積電",
+       "url": "https://www.cna.com.tw/news/afe/202611090237.aspx"
+      },
+      {
+       "title": "鉅亨網：外資還在作空 集中市場賣超900億元期貨再加空 空單數衝破10萬口登頂",
+       "url": "https://news.cnyes.com/news/id/6653512"
+      }
+     ]
+    },
+    {
+     "title": "今日看點：台積電公布 10 月營收、美國晚間公布 10 月 CPI",
+     "category": "產業與個股",
+     "summary": "台積電預計今天（11/10）公布 10 月營收。依第四季財測 523 億至 543 億美元換算，平均每月約 5,544 億至 5,756 億元新台幣；若 10 月營收達月均下緣，年增率約 50.9%（去年同期 3,674.73 億元）。美國則在台灣時間今晚 21:30 公布 10 月消費者物價指數，這是聯準會 12/8–9 會議前最後一份通膨數據；9 月 CPI 年增 3.7%。",
+     "why": "台積電營收將檢驗 AI 需求是否真的轉弱，CPI 則決定聯準會 12 月是否升息，兩者都可能左右本週台股與美股方向。",
+     "glossary": [
+      {
+       "term": "年增率",
+       "def": "與去年同期相比的成長幅度，可排除季節因素，是觀察公司或經濟成長最常用的指標之一。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "Yahoo 新聞：台積電10月營收將公布 看財測達成度",
+       "url": "https://tw.news.yahoo.com/%E5%8F%B0%E7%A9%8D%E9%9B%BB10%E6%9C%88%E7%87%9F%E6%94%B6%E5%B0%87%E5%85%AC%E5%B8%83-%E7%9C%8B%E8%B2%A1%E6%B8%AC%E9%81%94%E6%88%90%E5%BA%A6-124000329.html"
+      },
+      {
+       "title": "CPI Chart: When Is the Next CPI Report? November 10, 2026",
+       "url": "https://cpichart.com/cpi-release-calendar/"
+      },
+      {
+       "title": "Market Daily: November 2026 Economic Calendar",
+       "url": "https://marketdaily.com/november-2026-economic-calendar-jolts-jobs-and-october-cpi-set-the-stage-for-the-feds-december-9-decision/"
+      }
+     ]
+    }
+   ],
+   "mood": "強彈後震盪、偏中性",
+   "outlook": "偏多因素：美股強彈、那斯達克脫離修正區，費半單日大漲近 7%、台積電 ADR 大漲；國安基金首日護盤帶動台股史上第二大漲點；川普稱伊朗戰爭「實際上已結束」，油價回落有助緩解通膨。偏空因素：外資連 8 日賣超、累計近 8,000 億元，台指期淨空單創新高，顯示外資仍偏空；輝達執行長遭董事會調查，龍頭個股出現治理風險；今晚 CPI 若偏熱，12 月升息預期升溫；川普質疑選舉結果增添美國政治不確定性。本週關鍵：今天台積電 10 月營收與美國 CPI、阿布達比俄烏和談、Anthropic 路演與定價、11/13 PPI，以及 11/17 輝達財報。整體而言，市場在大幅反彈後轉為震盪，偏中性。以上僅整理市場資訊與各方觀點，不構成投資建議。"
+  },
+  {
+   "id": "ai",
+   "name": "AI 科技發展",
+   "items": [
+    {
+     "title": "輝達董事會調查執行長黃仁勳：涉與疑似中國間諜交往，股價逆勢跌逾 4%",
+     "category": "產業與投資",
+     "summary": "輝達董事會 11/8 宣布，由獨立董事組成委員會並委任外部律師，調查有關黃仁勳成為外國情報行動目標的報導。據彭博報導，公司起初否認相關報導，後來黃仁勳在內部備忘錄中承認與一名被指為疑似中國間諜的女子有婚外情。董事會表示沒有理由認為國家安全或公司機密遭外洩，並對黃仁勳及經營團隊表示信心，但未設定調查完成時間。中國否認相關指控，稱是抹黑。輝達股價 11/9 收跌約 4.27%，在大盤強彈中逆勢下跌。有分析師警告，視調查結果，黃仁勳不排除被撤換的風險。（註：情報相關指控尚未獲證實。）",
+     "why": "黃仁勳是輝達與全球 AI 晶片產業的核心人物，調查結果若影響其職位，將牽動輝達策略與台灣供應鏈合作關係。",
+     "glossary": [
+      {
+       "term": "獨立董事",
+       "def": "不在公司擔任職務、與經營團隊無重大利害關係的董事，負責監督管理層，處理涉及高層的調查時尤其重要。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "CNBC: Nvidia stock falls 4% as scrutiny turns to Jensen Huang's affair with alleged Chinese spy",
+       "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html"
+      },
+      {
+       "title": "Bloomberg: Nvidia Shares Drop After CEO Huang's Affair Triggers Board Probe",
+       "url": "https://www.bloomberg.com/news/articles/2026-11-09/nvidia-shares-dip-on-robinhood-as-huang-affair-spurs-board-probe"
+      },
+      {
+       "title": "NBC News: Nvidia shares sink while stock market surges",
+       "url": "https://www.nbcnews.com/business/markets/nvidia-stock-falls-probe-ceos-relationship-chinese-spy-rcna608290"
+      },
+      {
+       "title": "CBC: Nvidia's shares slide as chip giant probes CEO Jensen Huang over spy claims",
+       "url": "https://www.cbc.ca/news/business/nvidia-shares-ceo-jensen-huang-probe-9.7414655"
+      }
+     ]
+    },
+    {
+     "title": "Anthropic 上市路演週仍未公布價格區間；有報導稱最快 11/18 收盤後定價",
+     "category": "產業與投資",
+     "summary": "延續前幾天報導。據報導，截至 11/9，Anthropic 在美國證管會的最新文件仍是 11/2 的修正版，發行股數、價格區間與募資規模皆空白。路演時程說法不一：有報導稱本週啟動，也有報導稱最快 11/10 開始、11/18 收盤後定價，另有報導質疑 11/16 當週掛牌的時程。估值討論多集中在 1.2 兆至 1.3 兆美元，募資規模傳約 750 億至 1,000 億美元。Anthropic 尚未證實任何日期。（註：11/18 定價時程僅見單一來源。）",
+     "why": "價格區間一旦公布，將決定這檔史上最大科技 IPO 的走向，也是檢驗 AI 資金信心的指標。",
+     "glossary": [
+      {
+       "term": "定價",
+       "def": "IPO 路演結束後，公司與承銷商根據投資人認購情況，決定最終每股發行價格。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "FinanceFeeds: Anthropic IPO Date: Roadshow Week Arrives With No Price Range On File",
+       "url": "https://financefeeds.com/anthropic-ipo-date-roadshow-week-arrives-with-no-price-range-on-file/"
+      },
+      {
+       "title": "ChainCatcher: Anthropic will launch its Nasdaq IPO",
+       "url": "https://www.chaincatcher.com/en/article/2303110"
+      },
+      {
+       "title": "Venture Magazine: Anthropic's IPO Roadshow Faces Valuation Pushback After the AI Selloff",
+       "url": "https://venturemagazine.net/blog/anthropics-ipo-roadshow-faces-valuation-pushback-after-the-ai-selloff"
+      }
+     ]
+    },
+    {
+     "title": "Google、微軟、OpenAI、Anthropic 共同支持統一的 robots.txt「拒絕 AI 訓練」標記",
+     "category": "政策與監管",
+     "summary": "事件發生在 10/30，本報此前未報導，故補入。Google、微軟、OpenAI 與 Anthropic 宣布將支持同一個 robots.txt 標記，讓網站可以用一條規則表示「不同意內容被用於生成式 AI 訓練」。這個標記出自 Anthropic 一名工程師提出的網際網路工程任務組（IETF）草案。各家實施時程不同：Anthropic 已開始實施，OpenAI 預計「未來幾個月」導入，微軟預計 2027 年 2 月 1 日起遵循，Google 則訂在 2027 年。報導指出，這個標記只管「訓練」用途，與是否封鎖 AI 搜尋或爬蟲是不同選擇。（註：各家實施狀態各來源說法不完全一致。）",
+     "why": "統一的退出機制讓新聞媒體與內容業者更容易表達授權意願，可能影響 AI 訓練資料取得與版權爭議的走向。",
+     "glossary": [
+      {
+       "term": "robots.txt",
+       "def": "放在網站根目錄的文字檔，用來告訴搜尋引擎與爬蟲哪些頁面可以抓取、哪些不行。"
+      },
+      {
+       "term": "IETF",
+       "def": "網際網路工程任務組，負責制定網際網路技術標準的國際組織。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "The Next Web: Google, Microsoft, OpenAI and Anthropic back one AI training opt-out",
+       "url": "https://thenextweb.com/news/ai-training-opt-out-robots-txt-google-openai-microsoft-anthropic"
+      },
+      {
+       "title": "Search Engine Journal: Google, Microsoft, OpenAI shared AI training opt-out",
+       "url": "https://searchenginejournal.com/google-microsoft-openai-shared-ai-training-opt-out/595387"
+      },
+      {
+       "title": "PPC Land: Google, Microsoft, OpenAI and Anthropic back one AI training opt-out",
+       "url": "https://ppc.land/google-microsoft-openai-and-anthropic-back-one-ai-training-opt-out/"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "observation": "市場在週一出現明顯的「風險回歸」：美股三大指數全面大漲、那斯達克脫離修正區，費半單日漲近 7%，台股在國安基金首日護盤下大漲 1,960 點。背後有三股力量：上週超跌後的技術性反彈、川普稱伊朗戰爭「實際上已結束」帶動油價回落，以及台灣政府的護盤與限空措施。但隱憂並未消失：外資連 8 日賣超台股、期貨空單創新高，輝達執行長遭董事會調查則為 AI 龍頭增添治理風險。\n\n政治面，川普在對伊朗釋出降溫訊號的同時，卻改口質疑期中選舉舞弊，國內對立可能升高；國務卿盧比歐與川普對伊朗談判的說法也不盡一致。國際上，美俄烏三方今天在阿布達比重啟和談，是伊朗戰爭以來首次，能源停火與安全保障是觀察重點；南非地方選舉則出現大量無多數議會，政黨聯盟將主導地方政治。\n\n接下來可關注：今天台積電 10 月營收與美國 10 月 CPI、阿布達比和談結果、外資是否止賣，以及輝達調查與 Anthropic 上市定價的最新進展。",
+ "sources": [
+  {"title": "Bloomberg: Trump Cites 'Momentum' Toward Iran War Resolution Following Qatar Meeting", "url": "https://www.bloomberg.com/news/articles/2026-11-09/trump-sees-momentum-toward-war-s-end-after-meeting-qatari-pm"},
+  {"title": "Al Jazeera: Iran war live: Trump says US-Israel war on Iran 'effectively over'", "url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq"},
+  {"title": "The National: Trump meets Qatari PM and calls renewed military action on Iran 'quite unlikely'", "url": "https://www.thenationalnews.com/news/us/2026/11/09/trump-meets-qatari-pm-and-calls-renewed-military-action-on-iran-quite-unlikely/"},
+  {"title": "InvestingLive: Trump says renewed Iran strikes 'quite unlikely'", "url": "https://investinglive.com/commodities/trump-says-renewed-iran-strikes-quite-unlikely-as-gulf-allies-back-blockade-status-quo/"},
+  {"title": "Al Jazeera: Trump reverses stance, alleges fraud in recent US midterm elections", "url": "https://www.aljazeera.com/news/2026/11/9/trump-reverses-stance-alleges-fraud-in-recent-us-midterm-elections"},
+  {"title": "CTV News: Trump revives election fraud claims after crushing midterm defeat", "url": "https://www.ctvnews.ca/world/article/trump-revives-election-fraud-claims-after-crushing-midterm-defeat/"},
+  {"title": "Rolling Stone: Trump Finally Gets Around to Claiming the Midterms Were Rigged", "url": "https://www.rollingstone.com/politics/politics-news/trump-claims-midterm-elections-rigged-1235654597/"},
+  {"title": "Kathmandu Post: Kremlin confirms trilateral Ukraine peace talks in Abu Dhabi", "url": "https://kathmandupost.com/world/2026/11/03/kremlin-confirms-trilateral-ukraine-peace-talks-in-abu-dhabi-next-week"},
+  {"title": "Khaleej Times: US to mediate Russia-Ukraine talks in Abu Dhabi", "url": "https://www.khaleejtimes.com/world/us-mediate-russia-ukraine-talks-abu-dhabi-november-witkoff?amp=1"},
+  {"title": "Interfax-Ukraine", "url": "https://en.interfax.com.ua/news/general/1232641.html"},
+  {"title": "Rio Times: South Africa Election Declared Free and Fair", "url": "https://www.riotimesonline.com/south-africa-election-free-fair-douglas-revote"},
+  {"title": "CNBC: Dow surges 1,100 points, Nasdaq climbs more than 2%", "url": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html"},
+  {"title": "Kiplinger: Dow Adds 1,104 Points Even as Nvidia Sinks", "url": "https://www.kiplinger.com/investing/stocks/dow-adds-1-104-points-even-as-nvidia-stock-sinks-stock-market-today"},
+  {"title": "TradingKey: Philadelphia Semiconductor Index Reclaims 10,000", "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262297090-us-stock-nasdaq-dow-rise-anthropic-ipo-nvidia-spacex-tesla-tradingkey"},
+  {"title": "BigGo Finance: U.S. Stocks Rebound Sharply, TSMC ADR Jumps Nearly 8%", "url": "https://finance.biggo.com/news/59eb0bd4-97b3-48b3-92d6-904689ff9d8a"},
+  {"title": "ETtoday：國安基金告捷！台股收漲1960點史上第2大", "url": "https://finance.ettoday.net/news/3268934"},
+  {"title": "聯合新聞網：史上收盤第二大漲點！上市櫃共237家漲停", "url": "https://udn.com/news/story/7251/9866962"},
+  {"title": "中央社：外資賣超台股逾900億元 調節聯電、台積電", "url": "https://www.cna.com.tw/news/afe/202611090237.aspx"},
+  {"title": "鉅亨網：外資還在作空 期貨空單數衝破10萬口登頂", "url": "https://news.cnyes.com/news/id/6653512"},
+  {"title": "Yahoo 新聞：台積電10月營收將公布 看財測達成度", "url": "https://tw.news.yahoo.com/%E5%8F%B0%E7%A9%8D%E9%9B%BB10%E6%9C%88%E7%87%9F%E6%94%B6%E5%B0%87%E5%85%AC%E5%B8%83-%E7%9C%8B%E8%B2%A1%E6%B8%AC%E9%81%94%E6%88%90%E5%BA%A6-124000329.html"},
+  {"title": "CPI Chart: CPI Release Schedule", "url": "https://cpichart.com/cpi-release-calendar/"},
+  {"title": "Market Daily: November 2026 Economic Calendar", "url": "https://marketdaily.com/november-2026-economic-calendar-jolts-jobs-and-october-cpi-set-the-stage-for-the-feds-december-9-decision/"},
+  {"title": "CNBC: Nvidia stock falls 4% as scrutiny turns to Jensen Huang's affair with alleged Chinese spy", "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html"},
+  {"title": "Bloomberg: Nvidia Shares Drop After CEO Huang's Affair Triggers Board Probe", "url": "https://www.bloomberg.com/news/articles/2026-11-09/nvidia-shares-dip-on-robinhood-as-huang-affair-spurs-board-probe"},
+  {"title": "NBC News: Nvidia shares sink while stock market surges", "url": "https://www.nbcnews.com/business/markets/nvidia-stock-falls-probe-ceos-relationship-chinese-spy-rcna608290"},
+  {"title": "CBC: Nvidia's shares slide as chip giant probes CEO Jensen Huang over spy claims", "url": "https://www.cbc.ca/news/business/nvidia-shares-ceo-jensen-huang-probe-9.7414655"},
+  {"title": "FinanceFeeds: Anthropic IPO Date: Roadshow Week Arrives With No Price Range On File", "url": "https://financefeeds.com/anthropic-ipo-date-roadshow-week-arrives-with-no-price-range-on-file/"},
+  {"title": "ChainCatcher: Anthropic will launch its Nasdaq IPO", "url": "https://www.chaincatcher.com/en/article/2303110"},
+  {"title": "Venture Magazine: Anthropic's IPO Roadshow Faces Valuation Pushback", "url": "https://venturemagazine.net/blog/anthropics-ipo-roadshow-faces-valuation-pushback-after-the-ai-selloff"},
+  {"title": "The Next Web: Google, Microsoft, OpenAI and Anthropic back one AI training opt-out", "url": "https://thenextweb.com/news/ai-training-opt-out-robots-txt-google-openai-microsoft-anthropic"},
+  {"title": "Search Engine Journal: shared AI training opt-out", "url": "https://searchenginejournal.com/google-microsoft-openai-shared-ai-training-opt-out/595387"},
+  {"title": "PPC Land: Google, Microsoft, OpenAI and Anthropic back one AI training opt-out", "url": "https://ppc.land/google-microsoft-openai-and-anthropic-back-one-ai-training-opt-out/"}
+ ]
+}
