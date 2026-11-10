@@ -22,6 +22,60 @@
  },
  "days": [
   {
+   "date": "2026-11-11",
+   "title": "🌏 每日早報｜2026/11/11",
+   "items": [
+    {
+     "section": "world",
+     "category": "全球經濟與市場",
+     "title": "美國 10 月 CPI 月增 0.4% 高於預期、核心 0.3%，聯準會 12 月升息幾成定局",
+     "anchor": "world-1"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "阿布達比美俄烏和談首日：澤倫斯基稱「有建設性且相當實質」，聚焦安全保障與降溫",
+     "anchor": "world-2"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "美國國會選後洗牌：喬丹擊敗史卡利斯出任眾院共和黨領袖；眾院就國防部長赫格塞斯彈劾案展開程序表決",
+     "anchor": "world-3"
+    },
+    {
+     "section": "markets",
+     "category": "美股",
+     "title": "美股：CPI 高於預期引發升息擔憂，四大指數收黑；輝達連兩日重挫、再跌約 5.5%",
+     "anchor": "markets-1"
+    },
+    {
+     "section": "markets",
+     "category": "台股",
+     "title": "台股：護盤第二天再漲 1,050 點收 42,711 點；外資連 9 賣、投信連 21 買",
+     "anchor": "markets-2"
+    },
+    {
+     "section": "markets",
+     "category": "產業與個股",
+     "title": "台積電 10 月營收 5,868.9 億元創單月新高，年增 59.7%、月增 14.7%",
+     "anchor": "markets-3"
+    },
+    {
+     "section": "ai",
+     "category": "產業與投資",
+     "title": "Anthropic 公布上市價格區間每股 70 至 78 美元，預計 11/18 定價、11/19 掛牌；台積電等七家參與 260 億美元私募",
+     "anchor": "ai-1"
+    },
+    {
+     "section": "ai",
+     "category": "晶片與算力",
+     "title": "輝達風波延燒：股價連兩日重挫，媒體報導相關關係可能涉及 75 億美元晶片流向中國企業",
+     "anchor": "ai-2"
+    }
+   ]
+  },
+  {
    "date": "2026-11-10",
    "title": "🌏 每日早報｜2026/11/10",
    "items": [
