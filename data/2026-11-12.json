@@ -1,0 +1,310 @@
+{
+ "date": "2026-11-12",
+ "title": "🌏 每日早報｜2026/11/12",
+ "generated_at": "2026-11-12T07:30:00+08:00",
+ "sections": [
+  {
+   "id": "world",
+   "name": "國際新聞",
+   "items": [
+    {
+     "title": "赫格塞斯彈劾案以 211 比 204 遭轉交委員會，等於在本屆國會胎死腹中；11 名民主黨議員缺席引發黨內批評",
+     "category": "國際政治與地緣",
+     "summary": "美國眾議院 11/10 晚間以 211 比 204，通過把共和黨眾議員馬西提出的國防部長赫格塞斯彈劾案轉交司法委員會，等於在共和黨仍掌控的本屆（第 119 屆）國會內封殺此案。馬西是唯一投下反對票的共和黨議員，到場的民主黨議員全數反對；但共有 18 名議員缺席，其中 11 名是民主黨人，部分民主黨議員表示，若黨內議員全數到場，動議可能就不會通過。川普嘲諷彈劾「慘敗」，眾院民主黨領袖傑佛瑞斯則說「這只是開始」。參議院共和黨同日再度選出圖恩擔任黨團領袖。",
+     "why": "彈劾案雖暫時擱置，但伊朗戰爭責任將在民主黨掌控的下屆國會中持續被追究，美國行政與立法部門的對立恐將升溫。",
+     "glossary": [
+      {
+       "term": "轉交委員會",
+       "def": "國會程序中把議案送交相關委員會審查；若委員會不排入議程，議案實際上就無法推進，常被用來封殺議案。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "CBS News: House blocks Massie's effort to impeach Hegseth, voting to kill resolution",
+       "url": "https://www.cbsnews.com/news/massie-hegseth-impeachment/"
+      },
+      {
+       "title": "ABC News: House tables Hegseth impeachment, effectively killing it in current Congress",
+       "url": "https://abcnews.com/US/hegseth-dismisses-impeachment-effort-political-spectacle/story?id=138002466"
+      },
+      {
+       "title": "The Hill: House blocks Pete Hegseth impeachment after nearly a dozen Democrats miss vote",
+       "url": "https://thehill.com/newsletters/morning-report/6212705-house-hegseth-impeachment-vote-blocked-gop-leadership-elections-economy/"
+      },
+      {
+       "title": "Al Jazeera: Did Democrats save Pete Hegseth from impeachment?",
+       "url": "https://www.aljazeera.com/news/2026/11/11/did-democrats-save-pete-hegseth-from-impeachment"
+      }
+     ]
+    },
+    {
+     "title": "阿布達比和談落幕：俄烏同意大規模交換戰俘，但領土、安全保障與停火條件仍無突破",
+     "category": "國際政治與地緣",
+     "summary": "延續前兩天報導。美國斡旋的俄烏三方和談 11/11 結束兩天議程，據 NBC 報導，雙方特使宣布同意進行一次大規模戰俘交換；但 ABC、歐洲新聞台等報導指出，雙方在領土、安全保障與停火條件上仍有重大分歧，未宣布實質突破。美方代表庫許納稱會談是「積極的一步」，俄羅斯外長拉夫羅夫則拒絕停火的提議。會談期間雙方仍互相發動無人機攻擊，俄國防部稱擊中一艘在黑海為烏克蘭運送武器的貨輪。",
+     "why": "戰俘交換是人道上的具體成果，但核心議題毫無進展，顯示俄烏戰爭短期內仍難以停火。",
+     "glossary": [
+      {
+       "term": "戰俘交換",
+       "def": "交戰雙方依協議互相釋放被俘的軍人，是戰爭期間少數能達成的人道協議之一。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "NBC News: Russia and Ukraine agree to a large prisoner exchange as talks conclude with no major breakthrough",
+       "url": "https://www.nbcnews.com/world/middle-east/us-russia-ukraine-start-second-day-abu-dhabi-peace-talks-rcna608714"
+      },
+      {
+       "title": "ABC News: Russia-Ukraine talks end without breakthrough announcement amid barrage of drones",
+       "url": "https://abcnews.com/International/ukraine-russia-exchange-hundreds-drones-day-2-abu/story?id=138038984"
+      },
+      {
+       "title": "Euronews: Ukraine-Russia peace talks enter second day with territory and security guarantees in focus",
+       "url": "https://www.euronews.com/2026/11/11/ukraine-russia-peace-talks-enter-second-day-with-territory-and-security-guarantees-in-focu"
+      },
+      {
+       "title": "BOE Report (Reuters): Russia, Ukraine and US start second day of Abu Dhabi peace talks",
+       "url": "https://boereport.com/2026/11/11/russia-ukraine-and-us-start-second-day-of-abu-dhabi-peace-talks/"
+      }
+     ]
+    },
+    {
+     "title": "伊朗否認與美方談判，重申條件未滿足前荷莫茲海峽不會重開；沙烏地聯軍再攔截胡塞飛彈",
+     "category": "國際政治與地緣",
+     "summary": "伊朗 11/11 否認正與美國談判，並表示在美方滿足其條件前，荷莫茲海峽將持續關閉。伊朗國會議長兼首席談判代表卡利巴夫向半島電視台表示，德黑蘭已傳達重啟談判的條件，「球在美方手上」，華府必須決定是否接受最新提案。這與川普前兩天稱戰爭「實際上已結束」的說法形成落差。另一方面，沙烏地領導的聯軍表示，攔截並摧毀胡塞武裝發射的巡弋飛彈與兩架無人機。",
+     "why": "美伊對談判現況說法不一，海峽重開仍遙遙無期，油價與全球航運的供給風險持續存在。",
+     "glossary": [
+      {
+       "term": "荷莫茲海峽",
+       "def": "連接波斯灣與阿拉伯海的狹窄水道，全球約五分之一的石油海運經過此處，是能源供應的咽喉要道。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "Al Jazeera: Iran denies talks with US, says Hormuz will stay shut until demands are met",
+       "url": "https://aljazeera.com/news/2026/11/11/iran-denies-talks-with-us-says-hormuz-will-stay-shut-until-demands-are-met"
+      },
+      {
+       "title": "Al Jazeera: Iran war live: Tehran lead negotiator says ball in US court, deal possible",
+       "url": "https://www.aljazeera.com/news/liveblog/2026/11/11/iran-war-live-hegseth-survives-impeachment-bid-iran-denies-us-talks"
+      },
+      {
+       "title": "Gulf News: 'Ball is in US court': Iran lays out terms for talks",
+       "url": "https://gulfnews.com/world/mena/ball-is-in-us-court-iran-lays-out-terms-for-talks-1.500732725"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "markets",
+   "name": "股市觀察（美股・台股）",
+   "items": [
+    {
+     "title": "美股：CoreWeave 財報點燃 AI 買盤，費半大漲 5.66%、台積電 ADR 漲 4.25%；蘋果創新高",
+     "category": "美股",
+     "summary": "11/11 美股在 AI 雲端業者 CoreWeave 財報優於預期後反彈。道瓊收 52,486.49 點、漲 254.60 點（+0.49%）；標普 500 收 7,619.38 點、漲 1.31%；那斯達克收 25,466.19 點、漲 1.6%。費城半導體指數大漲 565.78 點（+5.66%）收 10,564.11 點，AMD 漲 7.32%、應用材料漲 6.05%、博通漲 3.99%；輝達結束連兩跌，收漲約 2.87%；台積電 ADR 漲 4.25%、收 413.35 美元。據 TheStreet 報導，蘋果股價創歷史新高。（註：各媒體收盤數字略有差異，此處採 CNBC 與鉅亨網數據。）",
+     "why": "AI 雲端業者財報證實算力需求仍強，帶動晶片股回神，有利台股延續反彈。",
+     "glossary": [
+      {
+       "term": "應用材料",
+       "def": "Applied Materials，全球最大的半導體設備商之一，股價常反映晶圓廠擴產與設備需求。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "CNBC: Stock market news for Nov. 11, 2026",
+       "url": "https://www.cnbc.com/2026/11/10/stock-market-today-live-updates.html"
+      },
+      {
+       "title": "Investing.com: Wall Street ends higher, Nasdaq adds over 1.5% as AI trade comes back to life",
+       "url": "https://investing.com/news/stock-market-news/us-stock-futures-tick-higher-after-wall-st-slips-on-hot-cpi-nvidia-losses-5017417"
+      },
+      {
+       "title": "鉅亨網：〈美股盤後〉CoreWeave點燃AI買盤 輝達終止連二跌 費半勁揚超5.6%",
+       "url": "https://news.cnyes.com/news/id/6658684"
+      },
+      {
+       "title": "自由財經：美股收盤》輝達止跌！費半狂飆近6％ 台積電ADR漲逾4％",
+       "url": "https://ec.ltn.com.tw/article/breakingnews/5637726"
+      },
+      {
+       "title": "TheStreet: Stock Market Today (Nov. 11, 2026): Nasdaq, S&P 500 gain after CoreWeave earnings beat; Apple hits new record",
+       "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-11-2026"
+      }
+     ]
+    },
+    {
+     "title": "台股：飆 1,545 點收 44,257 點、史上第 6 大漲點，三天大漲約 4,555 點；外資終止連 23 賣台積電",
+     "category": "台股",
+     "summary": "加權指數 11/11 收 44,257 點，大漲 1,545.23 點（+3.62%），為史上第 6 大收盤漲點，重新站回 44,000 點，成交值約 8,492 億元；國安基金宣布護盤後三個交易日累計大漲約 4,555 點。台積電大漲 110 元（+4.81%）收 2,395 元，收在當日最高。外資現貨僅賣超 7.66 億元、連 10 賣但賣壓明顯收斂，且買超台積電約 6,038 張，終止連 23 日賣超；三大法人合計買超 202.56 億元，終止連 9 賣。（註：成交值另有報導為 8,763 億元，此處採多數報導。）",
+     "why": "外資賣壓大幅收斂並回補台積電，是這波反彈以來籌碼面首度明顯轉好的訊號。",
+     "glossary": [
+      {
+       "term": "回補",
+       "def": "先前賣出或放空的投資人重新買進股票，常被視為賣壓減輕、態度轉向的訊號。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "ETtoday：快訊／台股收漲1545點史上第6大 台積電漲110元收最高2395",
+       "url": "https://finance.ettoday.net/news/3270250"
+      },
+      {
+       "title": "聯合新聞網：台股3天急漲4,555點！三大法人終於轉買超202.56億元 但外資還是賣超",
+       "url": "https://udn.com/news/story/7251/9872013"
+      },
+      {
+       "title": "東森新聞：終止連23賣！外資回補台積電",
+       "url": "https://news.ebc.net.tw/news/business/580184"
+      },
+      {
+       "title": "三立新聞：台股收盤／台積電漲110元！台股飆1545點收復4.4萬",
+       "url": "https://inews.setn.com/news/1936855"
+      }
+     ]
+    },
+    {
+     "title": "本週看點：11/13 美國 PPI、11/17 輝達財報、11/18 Anthropic 定價",
+     "category": "產業與個股",
+     "summary": "美國 10 月 CPI 高於預期後，市場將關注 11/13（週五）公布的生產者物價指數，以確認通膨壓力是否擴散，作為聯準會 12/8–9 會議的參考。下週則有兩個 AI 重要事件：輝達 11/17 公布財報，是黃仁勳風波後首度面對投資人；Anthropic 預計 11/18 定價、11/19 在那斯達克掛牌，將檢驗市場對 AI 公司的估值信心。",
+     "why": "通膨數據決定利率方向，輝達財報與 Anthropic 上市則決定 AI 資金情緒，三者將共同左右台股能否延續反彈。",
+     "glossary": [
+      {
+       "term": "PPI",
+       "def": "生產者物價指數，衡量企業端原料與商品的價格變化，常被視為 CPI 的領先指標。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "Market Daily: November 2026 Economic Calendar",
+       "url": "https://marketdaily.com/november-2026-economic-calendar-jolts-jobs-and-october-cpi-set-the-stage-for-the-feds-december-9-decision/"
+      },
+      {
+       "title": "CNBC: Anthropic sets IPO price range of $70 to $78, looks to start trading Nov. 19, sources say",
+       "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html"
+      },
+      {
+       "title": "The Motley Fool: Nvidia Stock Just Lost 10% in 1 Day. Should You Buy It Before It Reports Earnings on Nov. 17?",
+       "url": "https://www.fool.com/investing/2026/11/10/nvidia-stock-just-lost-10-in-1-day-should-you-buy-it-before-it-reports-earnings-on-nov-17/"
+      }
+     ]
+    }
+   ],
+   "mood": "反彈延續、籌碼轉好",
+   "outlook": "偏多因素：CoreWeave 財報優於預期並上調財測，帶動費半大漲 5.66%、台積電 ADR 漲 4.25%；台股三天大漲約 4,555 點，外資賣壓大幅收斂並回補台積電，三大法人轉為買超；台積電 10 月營收創新高，基本面支撐明確。偏空因素：美國 CPI 偏熱，聯準會 12 月升息幾成定局；輝達執行長風波仍未落幕，FBI 與國會調查的報導增添不確定性；美伊對談判說法分歧、海峽仍未重開；短線急漲後，指數可能出現獲利了結賣壓。本週與下週關鍵：11/13 美國 PPI、11/17 輝達財報、11/18 Anthropic 定價。整體而言，反彈延續、籌碼轉好，但短線漲多後仍需留意震盪。以上僅整理市場資訊與各方觀點，不構成投資建議。"
+  },
+  {
+   "id": "ai",
+   "name": "AI 科技發展",
+   "items": [
+    {
+     "title": "CoreWeave 第三季營收 36.6 億美元、年增 168%，上調全年財測、未完成訂單達 1,330 億美元",
+     "category": "產業與投資",
+     "summary": "專門出租 AI 算力的新雲端業者 CoreWeave 11/10 盤後公布第三季營收約 36.6 億美元，年增 168%，略優於市場預期的約 35.5 億美元；未完成訂單約 1,330 億美元。公司將 2026 年營收財測上調至 130 億至 133 億美元，資本支出預估 370 億至 390 億美元。不過本季淨損 7.09 億美元，調整後每股虧損 0.95 美元，優於預期的 1.16 美元。該股過去一個月曾隨 AI 基建類股重挫約四成，財報後成為 11/11 AI 買盤回籠的引爆點。",
+     "why": "CoreWeave 是 AI 伺服器與 GPU 的大買家，訂單與財測上修顯示 AI 算力需求並未因選後政策疑慮而轉弱。",
+     "glossary": [
+      {
+       "term": "未完成訂單",
+       "def": "Backlog，客戶已簽約但尚未交付、尚未認列營收的訂單金額，可用來判斷公司未來營收能見度。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "CNBC: CoreWeave (CRWV) Q3 earnings report 2026",
+       "url": "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html"
+      },
+      {
+       "title": "SEC: CoreWeave Third Quarter 2026 earnings press release (Form 8-K)",
+       "url": "https://www.sec.gov/Archives/edgar/data/0001769628/000176962826000461/coreweave3q26earningspress.htm"
+      },
+      {
+       "title": "Yahoo Finance: CoreWeave Q3 Earnings Call Highlights",
+       "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-q3-earnings-call-highlights-021441959.html"
+      }
+     ]
+    },
+    {
+     "title": "Anthropic 路演簡報：宣稱三天內把 Claude 移植到 AMD GPU；Axios 稱上市目標低於市場原先預期",
+     "category": "晶片與算力",
+     "summary": "延續前一天報導。Anthropic 已展開上市路演，計畫募資最多約 644 億美元、估值最高約 1.4 兆美元。據 The Decoder 引述 Anthropic 投資人簡報，公司宣稱借助 AI 工具，只花三天就把自家模型 Claude 移植到 AMD GPU 上運行，而過去這類轉換通常需要數月，並以此說明 AI 正在削弱輝達 CUDA 軟體生態的領先優勢。Axios 則指出，這次上市目標低於市場原先預期。（註：三天移植的說法出自公司簡報，尚未經獨立驗證。）",
+     "why": "若 AI 晶片之間的軟體轉換成本大幅下降，將削弱輝達的生態系護城河，有利 AMD 等對手，也影響台積電客戶結構的變化。",
+     "glossary": [
+      {
+       "term": "CUDA",
+       "def": "輝達開發的 GPU 程式開發平台，多年來是 AI 軟體的主流工具，被視為輝達最重要的競爭優勢之一。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "The Decoder: Anthropic says AI is eroding Nvidia's CUDA lead, cutting an AMD chip switch from months to three days",
+       "url": "https://the-decoder.com/anthropic-says-ai-is-eroding-nvidias-cuda-lead-cutting-an-amd-chip-switch-from-months-to-three-days/"
+      },
+      {
+       "title": "Axios: The AI industry's week from hell",
+       "url": "https://www.axios.com/2026/11/11/anthropic-ipo-ai-nvidia-midterms"
+      }
+     ]
+    },
+    {
+     "title": "輝達風波擴大：據報 FBI 與國會介入調查、股東提起集體訴訟；市值自首波報導後蒸發逾 1 兆美元",
+     "category": "產業與投資",
+     "summary": "延續前兩天報導。據 Axios 報導，除了輝達董事會的獨立調查，聯邦調查局與國會也已介入調查黃仁勳與疑似中國間諜的關係，輝達市值自首波報導以來已蒸發逾 1 兆美元。路透則報導，一名股東已提起擬議中的集體訴訟，指控黃仁勳隱瞞與一名疑似中國間諜人士的關係。輝達股價 11/11 隨晶片股反彈收漲約 2.87%，結束連兩日下跌。（註：FBI 與國會調查的說法目前主要來自 Axios，相關指控均未經證實。）",
+     "why": "調查與訴訟可能延長不確定性，11/17 財報會議上管理層如何回應，將是市場關注焦點。",
+     "glossary": [
+      {
+       "term": "集體訴訟",
+       "def": "由一名或少數原告代表一群受害者（例如全體股東）提起的訴訟，判決結果適用於所有成員。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "Axios: The AI industry's week from hell",
+       "url": "https://www.axios.com/2026/11/11/anthropic-ipo-ai-nvidia-midterms"
+      },
+      {
+       "title": "Crypto Briefing: Nvidia CEO Jensen Huang faces class action over alleged spy ties, Reuters",
+       "url": "https://cryptobriefing.com/nvidia-ceo-jensen-huang-faces-class-action-over-alleged-spy-ties-reuters/"
+      },
+      {
+       "title": "Fox News: Nvidia, CEO Jensen Huang sued over alleged Chinese spy ties amid FBI probe",
+       "url": "https://www.foxnews.com/live-news/ai-news-nvidia-jensen-huang-11-10-26"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "observation": "市場在 11/11 出現「AI 交易回魂」：CoreWeave 財報與財測上修，證明 AI 算力需求並未因選後政策疑慮或輝達風波而消退，費半大漲逾 5%，台股在國安基金護盤、外資賣壓收斂下三天大漲約 4,555 點。不過這波反彈建立在「需求仍強」的基本面上，與「利率將升」的總體環境之間仍有拉鋸：美國 CPI 偏熱，聯準會 12 月升息幾成定局，加上輝達執行長面臨調查與訴訟，AI 板塊的波動短期內難以平息。\n\n政治與地緣方面，美國眾院以些微差距擱置國防部長赫格塞斯彈劾案，但民主黨表示「這只是開始」，伊朗戰爭責任將在下屆國會持續發酵。阿布達比和談以戰俘交換作收，核心議題毫無進展；伊朗則否認與美方談判，堅持條件未滿足前不重開荷莫茲海峽，與川普的樂觀說法明顯落差，油價與航運風險仍在。\n\n接下來可關注：11/13 美國 PPI、外資是否由賣轉買、11/17 輝達財報與管理層對調查的回應、11/18 Anthropic 定價，以及美伊是否恢復實質談判。",
+ "sources": [
+  {"title": "CBS News: House blocks Massie's effort to impeach Hegseth", "url": "https://www.cbsnews.com/news/massie-hegseth-impeachment/"},
+  {"title": "ABC News: House tables Hegseth impeachment", "url": "https://abcnews.com/US/hegseth-dismisses-impeachment-effort-political-spectacle/story?id=138002466"},
+  {"title": "The Hill: House blocks Pete Hegseth impeachment after nearly a dozen Democrats miss vote", "url": "https://thehill.com/newsletters/morning-report/6212705-house-hegseth-impeachment-vote-blocked-gop-leadership-elections-economy/"},
+  {"title": "Al Jazeera: Did Democrats save Pete Hegseth from impeachment?", "url": "https://www.aljazeera.com/news/2026/11/11/did-democrats-save-pete-hegseth-from-impeachment"},
+  {"title": "NBC News: Russia and Ukraine agree to a large prisoner exchange as talks conclude", "url": "https://www.nbcnews.com/world/middle-east/us-russia-ukraine-start-second-day-abu-dhabi-peace-talks-rcna608714"},
+  {"title": "ABC News: Russia-Ukraine talks end without breakthrough announcement", "url": "https://abcnews.com/International/ukraine-russia-exchange-hundreds-drones-day-2-abu/story?id=138038984"},
+  {"title": "Euronews: Ukraine-Russia peace talks enter second day", "url": "https://www.euronews.com/2026/11/11/ukraine-russia-peace-talks-enter-second-day-with-territory-and-security-guarantees-in-focu"},
+  {"title": "BOE Report (Reuters): Russia, Ukraine and US start second day of Abu Dhabi peace talks", "url": "https://boereport.com/2026/11/11/russia-ukraine-and-us-start-second-day-of-abu-dhabi-peace-talks/"},
+  {"title": "Al Jazeera: Iran denies talks with US, says Hormuz will stay shut until demands are met", "url": "https://aljazeera.com/news/2026/11/11/iran-denies-talks-with-us-says-hormuz-will-stay-shut-until-demands-are-met"},
+  {"title": "Al Jazeera: Iran war live, November 11", "url": "https://www.aljazeera.com/news/liveblog/2026/11/11/iran-war-live-hegseth-survives-impeachment-bid-iran-denies-us-talks"},
+  {"title": "Gulf News: 'Ball is in US court': Iran lays out terms for talks", "url": "https://gulfnews.com/world/mena/ball-is-in-us-court-iran-lays-out-terms-for-talks-1.500732725"},
+  {"title": "CNBC: Stock market news for Nov. 11, 2026", "url": "https://www.cnbc.com/2026/11/10/stock-market-today-live-updates.html"},
+  {"title": "Investing.com: Wall Street ends higher, Nasdaq adds over 1.5%", "url": "https://investing.com/news/stock-market-news/us-stock-futures-tick-higher-after-wall-st-slips-on-hot-cpi-nvidia-losses-5017417"},
+  {"title": "鉅亨網：〈美股盤後〉CoreWeave點燃AI買盤 費半勁揚超5.6%", "url": "https://news.cnyes.com/news/id/6658684"},
+  {"title": "自由財經：美股收盤》輝達止跌！費半狂飆近6％", "url": "https://ec.ltn.com.tw/article/breakingnews/5637726"},
+  {"title": "TheStreet: Stock Market Today (Nov. 11, 2026)", "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-11-2026"},
+  {"title": "ETtoday：台股收漲1545點史上第6大", "url": "https://finance.ettoday.net/news/3270250"},
+  {"title": "聯合新聞網：台股3天急漲4,555點！三大法人終於轉買超202.56億元", "url": "https://udn.com/news/story/7251/9872013"},
+  {"title": "東森新聞：終止連23賣！外資回補台積電", "url": "https://news.ebc.net.tw/news/business/580184"},
+  {"title": "三立新聞：台股飆1545點收復4.4萬", "url": "https://inews.setn.com/news/1936855"},
+  {"title": "Market Daily: November 2026 Economic Calendar", "url": "https://marketdaily.com/november-2026-economic-calendar-jolts-jobs-and-october-cpi-set-the-stage-for-the-feds-december-9-decision/"},
+  {"title": "CNBC: Anthropic sets IPO price range of $70 to $78", "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html"},
+  {"title": "The Motley Fool: Nvidia reports earnings on Nov. 17", "url": "https://www.fool.com/investing/2026/11/10/nvidia-stock-just-lost-10-in-1-day-should-you-buy-it-before-it-reports-earnings-on-nov-17/"},
+  {"title": "CNBC: CoreWeave (CRWV) Q3 earnings report 2026", "url": "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html"},
+  {"title": "SEC: CoreWeave Q3 2026 earnings press release", "url": "https://www.sec.gov/Archives/edgar/data/0001769628/000176962826000461/coreweave3q26earningspress.htm"},
+  {"title": "Yahoo Finance: CoreWeave Q3 Earnings Call Highlights", "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-q3-earnings-call-highlights-021441959.html"},
+  {"title": "The Decoder: Anthropic says AI is eroding Nvidia's CUDA lead", "url": "https://the-decoder.com/anthropic-says-ai-is-eroding-nvidias-cuda-lead-cutting-an-amd-chip-switch-from-months-to-three-days/"},
+  {"title": "Axios: The AI industry's week from hell", "url": "https://www.axios.com/2026/11/11/anthropic-ipo-ai-nvidia-midterms"},
+  {"title": "Crypto Briefing: Nvidia CEO Jensen Huang faces class action over alleged spy ties, Reuters", "url": "https://cryptobriefing.com/nvidia-ceo-jensen-huang-faces-class-action-over-alleged-spy-ties-reuters/"},
+  {"title": "Fox News: Nvidia, CEO Jensen Huang sued over alleged Chinese spy ties amid FBI probe", "url": "https://www.foxnews.com/live-news/ai-news-nvidia-jensen-huang-11-10-26"}
+ ]
+}

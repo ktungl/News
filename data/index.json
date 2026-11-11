@@ -22,6 +22,66 @@
  },
  "days": [
   {
+   "date": "2026-11-12",
+   "title": "🌏 每日早報｜2026/11/12",
+   "items": [
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "赫格塞斯彈劾案以 211 比 204 遭轉交委員會，等於在本屆國會胎死腹中；11 名民主黨議員缺席引發黨內批評",
+     "anchor": "world-1"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "阿布達比和談落幕：俄烏同意大規模交換戰俘，但領土、安全保障與停火條件仍無突破",
+     "anchor": "world-2"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "伊朗否認與美方談判，重申條件未滿足前荷莫茲海峽不會重開；沙烏地聯軍再攔截胡塞飛彈",
+     "anchor": "world-3"
+    },
+    {
+     "section": "markets",
+     "category": "美股",
+     "title": "美股：CoreWeave 財報點燃 AI 買盤，費半大漲 5.66%、台積電 ADR 漲 4.25%；蘋果創新高",
+     "anchor": "markets-1"
+    },
+    {
+     "section": "markets",
+     "category": "台股",
+     "title": "台股：飆 1,545 點收 44,257 點、史上第 6 大漲點，三天大漲約 4,555 點；外資終止連 23 賣台積電",
+     "anchor": "markets-2"
+    },
+    {
+     "section": "markets",
+     "category": "產業與個股",
+     "title": "本週看點：11/13 美國 PPI、11/17 輝達財報、11/18 Anthropic 定價",
+     "anchor": "markets-3"
+    },
+    {
+     "section": "ai",
+     "category": "產業與投資",
+     "title": "CoreWeave 第三季營收 36.6 億美元、年增 168%，上調全年財測、未完成訂單達 1,330 億美元",
+     "anchor": "ai-1"
+    },
+    {
+     "section": "ai",
+     "category": "晶片與算力",
+     "title": "Anthropic 路演簡報：宣稱三天內把 Claude 移植到 AMD GPU；Axios 稱上市目標低於市場原先預期",
+     "anchor": "ai-2"
+    },
+    {
+     "section": "ai",
+     "category": "產業與投資",
+     "title": "輝達風波擴大：據報 FBI 與國會介入調查、股東提起集體訴訟；市值自首波報導後蒸發逾 1 兆美元",
+     "anchor": "ai-3"
+    }
+   ]
+  },
+  {
    "date": "2026-11-11",
    "title": "🌏 每日早報｜2026/11/11",
    "items": [
