@@ -22,6 +22,54 @@
  },
  "days": [
   {
+   "date": "2026-11-13",
+   "title": "🌏 每日早報｜2026/11/13",
+   "items": [
+    {
+     "section": "world",
+     "category": "台灣與亞太",
+     "title": "印尼副總統吉布蘭因學歷爭議請辭，成 1998 年民主化以來首位任期內辭職的副總統",
+     "anchor": "world-1"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "西班牙兩大工會 11/11 發動 14 年來首次全國大罷工，抗議房價與工資；距 11/29 提前大選只剩兩週",
+     "anchor": "world-2"
+    },
+    {
+     "section": "markets",
+     "category": "美股",
+     "title": "美股：黃仁勳請辭衝擊科技股，四大指數收黑；輝達盤中重挫 13% 後收跌 4.34%，費半小跌 0.54%",
+     "anchor": "markets-1"
+    },
+    {
+     "section": "markets",
+     "category": "台股",
+     "title": "台股：獲利了結加上輝達執行長去留疑慮，重挫 1,165 點收 43,091 點；外資連 11 賣但金額小",
+     "anchor": "markets-2"
+    },
+    {
+     "section": "markets",
+     "category": "產業與個股",
+     "title": "今日看點：台股首度反映黃仁勳請辭；美國晚間公布 10 月 PPI",
+     "anchor": "markets-3"
+    },
+    {
+     "section": "ai",
+     "category": "產業與投資",
+     "title": "黃仁勳辭去輝達執行長與董事職務，財務長克雷斯代理執行長；公司首度設立董事長",
+     "anchor": "ai-1"
+    },
+    {
+     "section": "ai",
+     "category": "產業與投資",
+     "title": "Anthropic 260 億美元私募明細曝光：輝達、Google 各認購 100 億美元，台積電 5 億美元",
+     "anchor": "ai-2"
+    }
+   ]
+  },
+  {
    "date": "2026-11-12",
    "title": "🌏 每日早報｜2026/11/12",
    "items": [

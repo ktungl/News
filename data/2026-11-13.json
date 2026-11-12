@@ -1,0 +1,250 @@
+{
+ "date": "2026-11-13",
+ "title": "🌏 每日早報｜2026/11/13",
+ "generated_at": "2026-11-13T07:30:00+08:00",
+ "sections": [
+  {
+   "id": "world",
+   "name": "國際新聞",
+   "items": [
+    {
+     "title": "印尼副總統吉布蘭因學歷爭議請辭，成 1998 年民主化以來首位任期內辭職的副總統",
+     "category": "台灣與亞太",
+     "summary": "印尼副總統吉布蘭（前總統佐科威之子）11/12 向人民協商會議領導層遞交辭呈。他前一天在與總統普拉伯沃會面時表示，希望避免政治爭議延燒。上個月憲法法院與最高法院先後認定，他提交的海外學歷文件不符合選舉資格要求；印尼法律規定正副總統候選人須完成高中或同等學歷。吉布蘭表示仍希望在法庭上證明文件有效。他是 1998 年蘇哈托下台、民主改革以來，首位未做滿任期就辭職的副總統，繼任者將由人民協商會議選出，而非直接民選。佐科威表示「公職本來就有政治起伏，這很正常」。",
+     "why": "印尼是東南亞最大經濟體，副總統更替牽動普拉伯沃政府的權力布局，也考驗印尼民主制度的穩定性。",
+     "glossary": [
+      {
+       "term": "人民協商會議",
+       "def": "印尼的最高立法機構，由國會議員與地方代表組成，有權在副總統出缺時選出繼任者。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "Al Jazeera: Indonesia vice president resigns amid dispute over eligibility",
+       "url": "https://www.aljazeera.com/news/2026/11/12/indonesia-vice-president-resigns-amid-dispute-over-eligibility"
+      },
+      {
+       "title": "NPR: Indonesia's VP resigns as his eligibility and academic credentials are questioned",
+       "url": "https://www.npr.org/2026/11/12/g-s1-153190/indonesias-vp-resigns-as-his-eligibility-and-academic-credentials-are-questioned"
+      },
+      {
+       "title": "Yahoo News (AP): Indonesia's vice president resigns as his eligibility and academic credentials are questioned",
+       "url": "https://www.yahoo.com/news/world/articles/indonesias-vice-president-resigns-academic-044611301.html"
+      }
+     ]
+    },
+    {
+     "title": "西班牙兩大工會 11/11 發動 14 年來首次全國大罷工，抗議房價與工資；距 11/29 提前大選只剩兩週",
+     "category": "國際政治與地緣",
+     "summary": "西班牙最大的兩個工會聯盟 CCOO 與 UGT 於 11/11 發動 24 小時全國總罷工，訴求「工資、住房、物價」，是兩大工會自 2012 年以來首次聯合發動的全國大罷工，預期影響航班、鐵路與城市交通。罷工背景是政府未能通過緊急住房措施，首相桑切斯因此宣布於 11/29 提前舉行大選；10 月初馬德里曾爆發大規模住房抗議，參與人數官方估計約 7 萬人、主辦單位稱達 50 萬人。批評者則質疑罷工時間點帶有選舉色彩。（註：截稿時尚未查到罷工參與人數與實際影響的報導。）",
+     "why": "住房危機已成為歐洲多國的核心政治議題，西班牙選前罷工的規模與選舉結果，將影響歐元區第四大經濟體的政策方向。",
+     "glossary": [
+      {
+       "term": "總罷工",
+       "def": "跨行業、全國性的大規模罷工，通常由主要工會聯合發動，用來向政府施壓。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "Al Jazeera: Spain braces for nationwide strike as anger over housing, costs boils over",
+       "url": "https://www.aljazeera.com/news/2026/11/10/spain-braces-for-nationwide-walkout-as-anger-over-housing-costs-boils-over"
+      },
+      {
+       "title": "Idealista: Spain general strike over housing crisis takes place on 11 November",
+       "url": "https://www.idealista.com/en/news/legal-advice-in-spain/2026/11/10/917678-spain-general-strike-over-housing-crisis-takes-place-on-11-november"
+      },
+      {
+       "title": "Al Jazeera: Tens of thousands protest in Spain after failed housing reforms",
+       "url": "https://www.aljazeera.com/news/2026/10/3/tens-of-thousands-protest-in-spain-after-failed-housing-reforms"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "markets",
+   "name": "股市觀察（美股・台股）",
+   "items": [
+    {
+     "title": "美股：黃仁勳請辭衝擊科技股，四大指數收黑；輝達盤中重挫 13% 後收跌 4.34%，費半小跌 0.54%",
+     "category": "美股",
+     "summary": "11/12 美股在輝達宣布執行長黃仁勳請辭後全面收黑。據美聯社，道瓊收 52,297.09 點、跌約 189 點；標普 500 收 7,592.40 點、跌約 27 點；那斯達克收 25,366.09 點、跌約 100 點，三大指數跌幅均約 0.4%。輝達開盤一度重挫逾 13%，終場收跌 4.34%，單日市值蒸發約 1,821 億美元。費城半導體指數小跌 0.54%，AMD、博通逆勢各漲逾 5%；台積電 ADR 收跌 1.90%。美債殖利率上升與油價走高也壓抑市場。（註：收盤點位與漲跌幅依美聯社及鉅亨網報導，盤中數字與收盤差距甚大。）",
+     "why": "輝達跌幅從 13% 收斂到 4%，顯示市場對領導層變動的恐慌有所消化，但 AI 龍頭失去創辦人，仍為台灣供應鏈增添不確定性。",
+     "glossary": [
+      {
+       "term": "代理執行長",
+       "def": "正式執行長出缺時，由董事會暫時指派的負責人，任期至正式人選確定為止。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "TV News Check (AP): Dow Dips 189, Nasdaq Sinks 100, S&P 500 Falls 27",
+       "url": "https://tvnewscheck.com/business/article/dow-dips-189-nasdaq-sinks-100-sp-500-falls-27/"
+      },
+      {
+       "title": "CNBC: Nasdaq Composite slides as Nvidia shares tumble on Jensen Huang's exit; oil prices jump",
+       "url": "https://www.cnbc.com/2026/11/11/stock-market-today-live-updates.html"
+      },
+      {
+       "title": "鉅亨網：〈美股盤後〉黃仁勳閃辭後 輝達市值一夕蒸發超1800億美元 四大指數全黑",
+       "url": "https://news.cnyes.com/news/id/6660716"
+      },
+      {
+       "title": "NOWnews：黃仁勳辭職震撼彈！輝達開盤大跌13％領跌",
+       "url": "https://www.nownews.com/news/6891886"
+      }
+     ]
+    },
+    {
+     "title": "台股：獲利了結加上輝達執行長去留疑慮，重挫 1,165 點收 43,091 點；外資連 11 賣但金額小",
+     "category": "台股",
+     "summary": "加權指數 11/12 收 43,091.87 點，下跌 1,165.28 點（-2.63%），盤中一度跌破 43,000 點，成交值約 1.013 兆元。台積電跌 55 元收 2,340 元（-2.30%），跌破月線；PCB 載板族群走弱，南電、景碩跌停。外資賣超約 6.85 億元、連 11 個交易日賣超，但金額不大；三大法人合計買超約 51.59 億元。報導指出，下跌主因是前三天急漲約 4,555 點後的獲利了結，以及《華爾街日報》前晚報導輝達董事會準備撤換黃仁勳。黃仁勳請辭的正式消息是在台股收盤後的台灣時間 11/12 晚間公布。",
+     "why": "黃仁勳請辭的正式消息在台股收盤後才公布，今天台股將首度完整反映，輝達供應鏈個股的波動值得留意。",
+     "glossary": [
+      {
+       "term": "月線",
+       "def": "過去約 20 個交易日的平均收盤價，常被視為短中期趨勢的參考；跌破月線通常代表短線轉弱。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "中央社：台股挫1165點險守43000點 台積電跌55元",
+       "url": "https://www.cna.com.tw/news/afe/202611120160.aspx"
+      },
+      {
+       "title": "ETtoday：快訊／台股收跌1165點險守43K 台積電跌55元至2340",
+       "url": "https://finance.ettoday.net/news/3270901"
+      },
+      {
+       "title": "風傳媒：台股重挫1165點、驚險守住4萬3！台積電跌55元 南電、景碩跌停",
+       "url": "https://www.storm.mg/article/11180913"
+      },
+      {
+       "title": "中時新聞網：台股殺千點誰賣的？三大法人買超51億元 外資僅小賣6.8億元",
+       "url": "https://www.chinatimes.com/realtimenews/20261112003685-260410"
+      }
+     ]
+    },
+    {
+     "title": "今日看點：台股首度反映黃仁勳請辭；美國晚間公布 10 月 PPI",
+     "category": "產業與個股",
+     "summary": "黃仁勳請辭的正式消息在台股 11/12 收盤後公布，今天是台股首個完整反映的交易日；不過輝達美股收盤跌幅已從盤中 13% 收斂至 4%，台積電 ADR 則跌 1.90%。美國今晚公布 10 月生產者物價指數，市場將藉此判斷通膨壓力是否從消費端擴散至生產端，作為聯準會 12/8–9 會議的參考。下週則有輝達 11/17 財報（黃仁勳離職後首份）與 Anthropic 11/18 定價。",
+     "why": "輝達領導層變動與美國通膨數據同時考驗市場，台股能否守住 43,000 點是短線觀察重點。",
+     "glossary": [
+      {
+       "term": "PPI",
+       "def": "生產者物價指數，衡量企業端原料與商品的價格變化，常被視為 CPI 的領先指標。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "Market Daily: November 2026 Economic Calendar",
+       "url": "https://marketdaily.com/november-2026-economic-calendar-jolts-jobs-and-october-cpi-set-the-stage-for-the-feds-december-9-decision/"
+      },
+      {
+       "title": "鉅亨網：〈美股盤後〉黃仁勳閃辭後 輝達市值一夕蒸發超1800億美元",
+       "url": "https://news.cnyes.com/news/id/6660716"
+      },
+      {
+       "title": "ABC News (Australia): Nvidia without succession plan as CEO Jensen Huang resigns",
+       "url": "https://www.abc.net.au/news/2026-11-12/jensen-huang-nvidia-ceo-succession-plan-after-spy-plot/107376722"
+      }
+     ]
+    }
+   ],
+   "mood": "震盪偏謹慎",
+   "outlook": "偏多因素：輝達跌幅從盤中 13% 大幅收斂到 4%，市場恐慌有所消化；AMD、博通逆勢大漲，顯示資金在 AI 晶片間輪動而非全面撤出；台積電 10 月營收創新高的基本面仍在；外資賣超金額已大幅縮小。偏空因素：輝達失去創辦人兼執行長、且無明確接班計畫，FBI 與國會調查仍在進行；美國通膨偏熱、聯準會 12 月升息幾成定局，美債殖利率走升；台股前三天急漲後已出現獲利了結賣壓，跌破月線。關鍵觀察：今晚美國 PPI、11/17 輝達財報與新領導層說法、11/18 Anthropic 定價。整體而言，市場在 AI 龍頭領導層變動下震盪，偏謹慎。以上僅整理市場資訊與各方觀點，不構成投資建議。"
+  },
+  {
+   "id": "ai",
+   "name": "AI 科技發展",
+   "items": [
+    {
+     "title": "黃仁勳辭去輝達執行長與董事職務，財務長克雷斯代理執行長；公司首度設立董事長",
+     "category": "產業與投資",
+     "summary": "輝達 11/12 宣布，共同創辦人黃仁勳即日起辭去總裁、執行長與董事職務，財務長克雷斯出任代理執行長，董事會將從內外部人選中遴選正式接班人；同時任命瓊斯為公司史上首位董事會主席。黃仁勳創立輝達 33 年，報導指出他的離職與疑似中國間諜相關的婚外情風波有關，部分報導並提到第二、甚至第三段婚外情，但細節各家說法不一。輝達被指缺乏明確接班計畫。美國總統川普稱此事「很糟糕、令人難過」，並建議由蘋果前執行長庫克接手。輝達仍將於 11/17 公布財報。（註：間諜相關指控仍未經證實。）",
+     "why": "黃仁勳一手打造輝達的 AI 晶片霸業，與台積電、台灣伺服器供應鏈關係深厚，他的離開將牽動輝達策略、產品路線與台灣產業的合作模式。",
+     "glossary": [
+      {
+       "term": "接班計畫",
+       "def": "公司預先規劃在執行長等關鍵職位出缺時由誰接任，以避免經營斷層；大型企業通常被要求具備。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "NVIDIA Newsroom: NVIDIA Announces CEO Transition",
+       "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"
+      },
+      {
+       "title": "Fortune: Nvidia's Jensen Huang resigns, CFO Colette Kress named interim CEO",
+       "url": "https://fortune.com/2026/11/11/nvidia-oust-jensen-huang-spy-affairs/"
+      },
+      {
+       "title": "CNBC: Nvidia live updates: Trump calls Huang saga a 'horrible thing' and 'so sad to see'",
+       "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html"
+      },
+      {
+       "title": "ABC News (Australia): Nvidia without succession plan as CEO Jensen Huang resigns",
+       "url": "https://www.abc.net.au/news/2026-11-12/jensen-huang-nvidia-ceo-succession-plan-after-spy-plot/107376722"
+      }
+     ]
+    },
+    {
+     "title": "Anthropic 260 億美元私募明細曝光：輝達、Google 各認購 100 億美元，台積電 5 億美元",
+     "category": "產業與投資",
+     "summary": "延續前兩天報導。據 FourWeekMBA 引述 Anthropic 11/10 的修正版上市文件，與 IPO 同步進行的 260 億美元私募中，輝達與 Google 各認購 100 億美元，AMD 25 億美元，博通、美光、微軟各 10 億美元，台積電 5 億美元，全部為以 IPO 價格認購的無表決權 N 類股，且不受閉鎖期限制。路透 9 月曾報導輝達洽談擔任 Anthropic IPO 基石投資人、規模最多 100 億美元。這筆私募是否為新資金、或是輝達 2025 年 11 月承諾投資的延續，報導中尚未釐清。（註：各家認購金額僅見單一二手來源整理，尚待對照證管會原始文件。）",
+     "why": "晶片供應商同時成為客戶的大股東，凸顯 AI 產業「供應商投資客戶」的循環結構，台積電少量參與也顯示其與 AI 模型公司的關係更緊密。",
+     "glossary": [
+      {
+       "term": "閉鎖期",
+       "def": "IPO 後一段期間內，特定股東不得出售持股的限制，目的是避免股價在上市初期遭大量拋售。"
+      },
+      {
+       "term": "基石投資人",
+       "def": "在 IPO 前就承諾以發行價認購大量股份的大型投資人，有助穩定市場信心。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "FourWeekMBA: Nvidia, Google Buy $10B Each of Anthropic's $26B Placement",
+       "url": "https://fourweekmba.com/ai-nvidia-google-buy-10b-each-of-anthropics-26b-placement/"
+      },
+      {
+       "title": "Bloomberg Government: Nvidia Mulls $10 Billion Anthropic IPO Backing, Reuters Says",
+       "url": "https://news.bgov.com/capital-markets/nvidia-in-talks-to-invest-up-to-10b-in-anthropic-ipo-reuters"
+      },
+      {
+       "title": "TechCrunch: Anthropic sets IPO price range of $70 to $78 per share",
+       "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "observation": "黃仁勳請辭是 AI 時代最具象徵意義的企業領導層變動之一。輝達在他帶領下成為全球市值最高的公司之一，如今在間諜疑雲與婚外情風波中失去創辦人，且缺乏明確接班計畫。市場反應顯示投資人一方面擔心領導斷層，另一方面也認為 AI 需求不會因此改變：輝達盤中重挫 13% 後收斂至 4%，同日 AMD、博通大漲，資金在 AI 晶片之間輪動。接下來 11/17 的財報，將是代理執行長克雷斯首度向市場說明公司方向。\n\n國際政治方面，印尼副總統因學歷爭議請辭，繼任者將由人民協商會議選出，普拉伯沃政府面臨權力重組；西班牙則在 11/29 提前大選前發動 14 年來首次全國大罷工，住房危機已成為歐洲政治的核心議題。在總體環境上，美國通膨偏熱、殖利率走升，台股在前三天急漲後出現獲利了結，外資雖仍小幅賣超，但賣壓已明顯收斂。\n\n接下來可關注：今晚美國 10 月 PPI、台股對黃仁勳請辭的反應、11/17 輝達財報、11/18 Anthropic 定價，以及西班牙大選前的政局變化。",
+ "sources": [
+  {"title": "Al Jazeera: Indonesia vice president resigns amid dispute over eligibility", "url": "https://www.aljazeera.com/news/2026/11/12/indonesia-vice-president-resigns-amid-dispute-over-eligibility"},
+  {"title": "NPR: Indonesia's VP resigns as his eligibility and academic credentials are questioned", "url": "https://www.npr.org/2026/11/12/g-s1-153190/indonesias-vp-resigns-as-his-eligibility-and-academic-credentials-are-questioned"},
+  {"title": "Yahoo News (AP): Indonesia's vice president resigns", "url": "https://www.yahoo.com/news/world/articles/indonesias-vice-president-resigns-academic-044611301.html"},
+  {"title": "Al Jazeera: Spain braces for nationwide strike", "url": "https://www.aljazeera.com/news/2026/11/10/spain-braces-for-nationwide-walkout-as-anger-over-housing-costs-boils-over"},
+  {"title": "Idealista: Spain general strike over housing crisis takes place on 11 November", "url": "https://www.idealista.com/en/news/legal-advice-in-spain/2026/11/10/917678-spain-general-strike-over-housing-crisis-takes-place-on-11-november"},
+  {"title": "Al Jazeera: Tens of thousands protest in Spain after failed housing reforms", "url": "https://www.aljazeera.com/news/2026/10/3/tens-of-thousands-protest-in-spain-after-failed-housing-reforms"},
+  {"title": "TV News Check (AP): Dow Dips 189, Nasdaq Sinks 100, S&P 500 Falls 27", "url": "https://tvnewscheck.com/business/article/dow-dips-189-nasdaq-sinks-100-sp-500-falls-27/"},
+  {"title": "CNBC: Nasdaq Composite slides as Nvidia shares tumble on Jensen Huang's exit", "url": "https://www.cnbc.com/2026/11/11/stock-market-today-live-updates.html"},
+  {"title": "鉅亨網：〈美股盤後〉黃仁勳閃辭後 輝達市值一夕蒸發超1800億美元", "url": "https://news.cnyes.com/news/id/6660716"},
+  {"title": "NOWnews：黃仁勳辭職震撼彈！輝達開盤大跌13％", "url": "https://www.nownews.com/news/6891886"},
+  {"title": "中央社：台股挫1165點險守43000點", "url": "https://www.cna.com.tw/news/afe/202611120160.aspx"},
+  {"title": "ETtoday：台股收跌1165點險守43K", "url": "https://finance.ettoday.net/news/3270901"},
+  {"title": "風傳媒：台股重挫1165點", "url": "https://www.storm.mg/article/11180913"},
+  {"title": "中時新聞網：三大法人買超51億元 外資僅小賣6.8億元", "url": "https://www.chinatimes.com/realtimenews/20261112003685-260410"},
+  {"title": "Market Daily: November 2026 Economic Calendar", "url": "https://marketdaily.com/november-2026-economic-calendar-jolts-jobs-and-october-cpi-set-the-stage-for-the-feds-december-9-decision/"},
+  {"title": "ABC News (Australia): Nvidia without succession plan as CEO Jensen Huang resigns", "url": "https://www.abc.net.au/news/2026-11-12/jensen-huang-nvidia-ceo-succession-plan-after-spy-plot/107376722"},
+  {"title": "NVIDIA Newsroom: NVIDIA Announces CEO Transition", "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"},
+  {"title": "Fortune: Nvidia's Jensen Huang resigns, CFO Colette Kress named interim CEO", "url": "https://fortune.com/2026/11/11/nvidia-oust-jensen-huang-spy-affairs/"},
+  {"title": "CNBC: Nvidia live updates", "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html"},
+  {"title": "FourWeekMBA: Nvidia, Google Buy $10B Each of Anthropic's $26B Placement", "url": "https://fourweekmba.com/ai-nvidia-google-buy-10b-each-of-anthropics-26b-placement/"},
+  {"title": "Bloomberg Government: Nvidia Mulls $10 Billion Anthropic IPO Backing", "url": "https://news.bgov.com/capital-markets/nvidia-in-talks-to-invest-up-to-10b-in-anthropic-ipo-reuters"},
+  {"title": "TechCrunch: Anthropic sets IPO price range of $70 to $78 per share", "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"}
+ ]
+}
