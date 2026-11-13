@@ -22,6 +22,54 @@
  },
  "days": [
   {
+   "date": "2026-11-14",
+   "title": "🌏 每日早報｜2026/11/14",
+   "items": [
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "歐盟領袖都柏林非正式峰會：爭論誰代表歐洲參與俄烏和談；莫斯科冷淡回應與歐洲對話",
+     "anchor": "world-1"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "伊朗革命衛隊稱擊中美軍駐巴林預警雷達，美方否認並稱擊落兩架攻擊無人機",
+     "anchor": "world-2"
+    },
+    {
+     "section": "markets",
+     "category": "美股",
+     "title": "美國 10 月 PPI 月增 0.3% 略低於預期，但年增 6.5% 創近四年新高",
+     "anchor": "markets-1"
+    },
+    {
+     "section": "markets",
+     "category": "美股",
+     "title": "美股週五：費半跌 3.43%、AMD 重挫 8.75%，輝達單週跌約 13%；但三大指數創 8 月初以來最佳單週",
+     "anchor": "markets-2"
+    },
+    {
+     "section": "markets",
+     "category": "台股",
+     "title": "台股：不畏黃仁勳請辭，早盤強彈逾千點、終場漲 583 點收 43,675 點；外資轉買約 288 億元",
+     "anchor": "markets-3"
+    },
+    {
+     "section": "ai",
+     "category": "政策與監管",
+     "title": "美國眾院三位委員會主席要求黃仁勳 11/18 閉門簡報輝達防諜措施，揚言可能發傳票",
+     "anchor": "ai-1"
+    },
+    {
+     "section": "ai",
+     "category": "晶片與算力",
+     "title": "輝達單週重挫約 13%，外資券商降評至「持有」；11/17 財報將是代理執行長克雷斯首度面對市場",
+     "anchor": "ai-2"
+    }
+   ]
+  },
+  {
    "date": "2026-11-13",
    "title": "🌏 每日早報｜2026/11/13",
    "items": [
