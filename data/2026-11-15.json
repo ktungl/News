@@ -1,0 +1,260 @@
+{
+ "date": "2026-11-15",
+ "title": "🌏 每日早報｜2026/11/15",
+ "generated_at": "2026-11-15T07:30:00+08:00",
+ "sections": [
+  {
+   "id": "world",
+   "name": "國際新聞",
+   "items": [
+    {
+     "title": "白宮證實川普、習近平、普丁將於 11/19 在深圳 APEC 場邊舉行首次三方會談，聚焦核擴散",
+     "category": "台灣與亞太",
+     "summary": "白宮發言人宣布，川普、習近平與普丁將在中國深圳舉行的亞太經合會（APEC）峰會場邊，舉行三人首次的三方會談；克里姆林宮確認日期為 11/19。白宮表示會談將聚焦核擴散議題，美方官員說川普打算提出伊朗問題，但烏克蘭不在議程上；川普與普丁未安排另外的雙邊會談。克里姆林宮發言人佩斯科夫稱這次會面「極為重要」，但表示任何協議都不能強加於其他國家。川普預計週一（11/16）啟程，先赴菲律賓出席東協相關會議，再前往深圳。截至報導時，中國官方媒體尚未報導這場三方會談。",
+     "why": "美中俄三國領袖首度同桌，議題涉及核武與伊朗，任何共識或分歧都可能牽動亞太安全格局與台海情勢。",
+     "glossary": [
+      {
+       "term": "APEC",
+       "def": "亞太經濟合作會議，由 21 個亞太經濟體組成的區域論壇，台灣以「中華台北」名義參與。"
+      },
+      {
+       "term": "核擴散",
+       "def": "核武或製造核武的技術、材料擴散到更多國家或團體，是國際安全的重大議題。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "Al Jazeera: Trump-Xi-Putin trilateral meeting at APEC: What to expect",
+       "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect"
+      },
+      {
+       "title": "Yahoo News: Kremlin confirms date of Trump-Xi-Putin meeting",
+       "url": "https://www.yahoo.com/news/politics/articles/kremlin-confirms-date-trump-xi-160100860.html"
+      },
+      {
+       "title": "Military.com (AP): Trump, Xi and Putin Plan an Unprecedented Joint Meeting on the Sidelines of APEC",
+       "url": "https://www.military.com/trump-xi-and-putin-plan-an-unprecedented-joint-meeting-on-the-sidelines-of-apec-white-house-says"
+      },
+      {
+       "title": "Business Standard: Xi, Trump and Putin to hold historic trilateral summit at APEC meet",
+       "url": "https://business-standard.com/amp/world-news/xi-trump-and-putin-to-hold-historic-trilateral-summit-at-apec-meet-126111400913_1.html"
+      }
+     ]
+    },
+    {
+     "title": "澤倫斯基：美方在阿布達比和談首度提出「割讓頓巴斯換加入北約」，烏克蘭拒絕",
+     "category": "國際政治與地緣",
+     "summary": "烏克蘭總統澤倫斯基 11/14 表示，美方談判代表在阿布達比和談中詢問，若烏克蘭能加入北約，是否願意撤出頓巴斯地區；這是和談中首次把北約會籍與領土讓步掛鉤，但他說目前並無具體提案。澤倫斯基表示拒絕割讓領土，也不會修憲讓烏克蘭成為中立國；不過若能獲得包括安全保障、軍事與重建資金在內的完整方案，他可能把問題交付公投。美國政府尚未對澤倫斯基的說法作出回應。（註：此為烏方說法，美方尚未證實。）",
+     "why": "以領土換北約會籍若成為談判選項，將是俄烏和談的重大轉折，但也觸及烏克蘭主權與歐洲安全的核心爭議。",
+     "glossary": [
+      {
+       "term": "頓巴斯",
+       "def": "烏克蘭東部頓內次克與盧甘斯克兩州的合稱，工業重鎮，也是俄烏戰爭爭奪最激烈的地區。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "CNN: US floated idea of Ukraine swapping land for NATO membership, Zelensky says",
+       "url": "https://www.cnn.com/2026/11/14/europe/us-ukraine-zelensky-nato-intl"
+      },
+      {
+       "title": "France 24: US proposed Ukraine cedes Donbas in exchange for joining NATO, Zelensky says",
+       "url": "https://www.france24.com/en/europe/20261114-us-negotiators-suggest-ukraine-cedes-territory-in-exchange-for-nato-membership"
+      },
+      {
+       "title": "RTÉ: US proposed Donbas swap for NATO membership - Zelensky",
+       "url": "https://www.rte.ie/news/europe/2026/1114/1599202-us-ukraine-russia/"
+      },
+      {
+       "title": "Al Jazeera: US suggested Ukraine cede parts of Donbas to Russia to become part of NATO",
+       "url": "https://www.aljazeera.com/news/2026/11/14/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato"
+      }
+     ]
+    },
+    {
+     "title": "美國全國航班地面停飛：起因為航管電信系統升級出錯，17 個航管中心受影響，交通部長要求國會撥款 500 億美元翻新",
+     "category": "國際政治與地緣",
+     "summary": "事件發生在 11/13，本報此前未報導，故補入。美國聯邦航空總署 11/13 對全美出發航班下達地面停飛令，數百班航班取消。交通部長達菲表示，事故發生在 L3Harris 管理的老舊電信系統由銅線轉換為光纖的工程中，一台更換中的路由器開始對航管系統其他路由器大量發送訊號；目前仍不清楚是承包商操作失誤還是設備故障，他也表示「我們不認為」是網路攻擊。聯邦航空總署署長貝德福德說，22 個航管中心中最多有 17 個受影響，但沒有設施「真正斷線」。停飛令已解除，但延誤與取消仍持續。達菲呼籲國會撥款 500 億美元全面翻新系統。",
+     "why": "美國航管系統老舊問題再度浮上檯面，全國停飛衝擊經濟與物流，也可能成為新國會的基礎建設議題。",
+     "glossary": [
+      {
+       "term": "地面停飛令",
+       "def": "Ground stop，航空主管機關要求航班暫停起飛的命令，通常用於天候、系統故障或安全疑慮時。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "CNBC: Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT's Duffy",
+       "url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html"
+      },
+      {
+       "title": "CNN: What we know about the cause of the nationwide FAA ground stop",
+       "url": "https://www.cnn.com/2026/11/14/politics/faa-ground-stop-what-we-know"
+      },
+      {
+       "title": "NPR: FAA blames Friday's ground stop on 'equipment issue' during telecoms network upgrade",
+       "url": "https://www.npr.org/2026/11/14/nx-s1-6040952/faa-ground-stop-airplane-travel"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "markets",
+   "name": "股市觀察（美股・台股）",
+   "items": [
+    {
+     "title": "本週看點（美股）：11/17 輝達財報、11/18 Anthropic 定價、11/19 美中俄三方會談",
+     "category": "美股",
+     "summary": "週末休市。本週最大焦點是輝達 11/17 盤後公布的第三季財報，這是黃仁勳卸任後首份財報，也是代理執行長克雷斯的首次考驗。公司財測營收為 1,080 億美元（±2%），分析師預估約 1,087 億至 1,090 億美元，毛利率指引 74.0%，低於前一季的 75.0%；選擇權市場隱含財報後股價波動約 ±10.8%，高於過去十年平均的約 7.8%。Anthropic 預計 11/18 定價、11/19 掛牌；同日美中俄領袖將在深圳舉行三方會談。上週三大指數創 8 月初以來最佳單週，但輝達單週重挫約 13%。",
+     "why": "輝達財報與 Anthropic 上市將決定 AI 類股能否止穩，對台股電子權值股影響最直接。",
+     "glossary": [
+      {
+       "term": "隱含波動",
+       "def": "從選擇權價格推算出市場預期的股價波動幅度，數值愈大代表市場預期財報後股價震盪愈劇烈。"
+      },
+      {
+       "term": "毛利率",
+       "def": "營收扣除直接生產成本後的利潤占營收比例，反映產品的獲利能力與定價能力。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "FourWeekMBA: Nvidia Earnings Nov. 17: $108B Guide, 89% Above a Year Ago",
+       "url": "https://fourweekmba.com/ai-nvidia-earnings-nov-17-108b-guide-89-above-a-year-ago/"
+      },
+      {
+       "title": "Earnings Watcher: NVDA Earnings November 2026: Nov 17, ±10.8% Implied Move",
+       "url": "https://earnings-watcher.com/wiki/nvda-earnings-november-2026"
+      },
+      {
+       "title": "The Motley Fool: Should You Buy Nvidia Stock Before Nov. 17?",
+       "url": "https://www.fool.com/investing/2026/11/14/should-you-buy-nvidia-stock-before-nov-17/"
+      },
+      {
+       "title": "CMC Markets: The Week Ahead: Fed minutes, Japan CPI, Nvidia earnings",
+       "url": "https://www.cmcmarkets.com/en-ie/news-and-analysis/the-week-ahead-fed-minutes-japan-cpi-nvidia-earnings"
+      }
+     ]
+    },
+    {
+     "title": "本週看點（台股）：上週大漲 3,973 點創單週紀錄，外資終止連 11 賣；法人看法分歧",
+     "category": "台股",
+     "summary": "週末休市。台股上週（11/9–11/13）在國安基金護盤下大漲 3,973 點，創單週漲點紀錄，週五收 43,675.12 點，外資也在 11/13 終止連 11 個交易日賣超。據鉅亨網報導，市場資金出現「賣輝達、轉台積」的現象。對本週走勢，分析看法分歧：樂觀者認為可望延續反彈，在 42,500 點至季線約 46,500 點間震盪；保守者則警告，若跌破 40,000 點，可能回測國安基金進場前的低點 37,837 點。觀察重點包括外資能否續買、新台幣匯率與融資籌碼是否清洗乾淨。",
+     "why": "輝達財報結果將直接影響台積電與 AI 供應鏈，外資態度則決定這波反彈能否延續。",
+     "glossary": [
+      {
+       "term": "季線",
+       "def": "過去約 60 個交易日的平均收盤價，常被視為中期趨勢的參考，指數站上季線通常代表中期轉強。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "鉅亨網：資金大風吹！市場熱錢「賣輝達、轉台積」 專家揭台股下周攻防關鍵指標",
+       "url": "https://news.cnyes.com/news/id/6662541"
+      },
+      {
+       "title": "TVBS TECH：輝達變天拖累AI股！台股下週恐陷C波下殺 關注2大事定生死",
+       "url": "https://tech.tvbs.com.tw/money/4050452"
+      },
+      {
+       "title": "聯合新聞網：台股漲583點 力抗黃仁勳風暴",
+       "url": "https://udn.com/news/story/7251/9877936"
+      },
+      {
+       "title": "TVBS：國安基金進場台股有救了？下週小心3大魔王 達人曝3重大指標",
+       "url": "https://news.tvbs.com.tw/money/4047555"
+      }
+     ]
+    }
+   ],
+   "mood": "觀望、偏中性",
+   "outlook": "偏多因素：台股上週大漲 3,973 點創單週紀錄，外資終止連 11 賣，資金轉向台積電與非輝達供應鏈；美股三大指數上週創 8 月初以來最佳單週；國安基金仍在場內護盤。偏空因素：輝達財報前不確定性極高，選擇權隱含波動約 ±10.8%，代理執行長首度面對市場；國會要求黃仁勳說明防諜措施，調查仍在進行；美國通膨偏熱、聯準會 12 月升息幾成定局；美伊在波斯灣持續交火。本週關鍵：11/17 輝達財報、11/18 Anthropic 定價、11/19 Anthropic 掛牌與美中俄三方會談。整體而言，市場在多項重大事件前進入觀望，偏中性。以上僅整理市場資訊與各方觀點，不構成投資建議。"
+  },
+  {
+   "id": "ai",
+   "name": "AI 科技發展",
+   "items": [
+    {
+     "title": "輝達財報前瞻：財測營收 1,080 億美元、毛利率指引下滑，市場關注接班計畫與調查進展",
+     "category": "晶片與算力",
+     "summary": "輝達將於 11/17 美股盤後公布截至 10 月的第三季財報，這是黃仁勳 11/12 卸任後首份財報。公司先前財測營收 1,080 億美元（±2%），據報導比一年前高出約 89%；毛利率指引 74.0%（±0.5 個百分點），低於前一季的 75.0%。分析指出，市場除了看營收數字，更關注代理執行長克雷斯對接班時程、董事會調查與國會要求的說明，以及 AI 晶片需求是否因選後政策疑慮而轉弱。（註：年增 89% 的說法出自單一來源整理。）",
+     "why": "輝達是全球 AI 晶片需求的風向球，財報與展望將直接影響台積電先進製程與台灣伺服器供應鏈的訂單預期。",
+     "glossary": [
+      {
+       "term": "財測",
+       "def": "公司對未來一季或一年營收、獲利的預估，市場常比實際財報更在意。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "FourWeekMBA: Nvidia Earnings Nov. 17: $108B Guide, 89% Above a Year Ago",
+       "url": "https://fourweekmba.com/ai-nvidia-earnings-nov-17-108b-guide-89-above-a-year-ago/"
+      },
+      {
+       "title": "RoboForex: Nvidia Earnings Date: 17 November Scenarios, Interim CEO",
+       "url": "https://roboforex.com/blog/analysis/nvidia-earnings-date-interim-ceo-scenarios/"
+      },
+      {
+       "title": "Seeking Alpha: The Nvidia Earnings Report Could Wreck The Market",
+       "url": "https://seekingalpha.com/article/4967764-nvidia-earnings-report-could-wreck-the-market"
+      }
+     ]
+    },
+    {
+     "title": "Anthropic 上市倒數：預計 11/18 定價、11/19 以代號「ANT」在那斯達克掛牌",
+     "category": "產業與投資",
+     "summary": "延續前幾天報導。Anthropic 預計 11/18 訂定最終發行價，11/19 起以代號「ANT」在那斯達克交易，價格區間為每股 70 至 78 美元，計畫發行 8.25 億股、募資約 577.5 億至 643.5 億美元。據報導，認購簿在此區間已足額，並規劃約 20% 配售給散戶。這檔 IPO 與輝達財報同一週登場，被市場視為檢驗 AI 資金信心的雙重考驗。（註：定價與掛牌日期為媒體引述消息，公司尚未正式公布。）",
+     "why": "若定價落在區間上緣、首日表現穩健，可望提振 AI 類股情緒；反之則可能加深市場對 AI 估值的疑慮。",
+     "glossary": [
+      {
+       "term": "IPO 定價",
+       "def": "公司與承銷商在路演結束後，根據投資人認購情況決定的最終每股發行價格。"
+      }
+     ],
+     "sources": [
+      {
+       "title": "CNBC: Anthropic sets IPO price range of $70 to $78, looks to start trading Nov. 19, sources say",
+       "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html"
+      },
+      {
+       "title": "TechCrunch: Anthropic sets IPO price range of $70 to $78 per share",
+       "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
+      },
+      {
+       "title": "Yahoo Finance: Everything you need to know ahead of Anthropic's IPO",
+       "url": "https://finance.yahoo.com/technology/ai/article/anthropic-ipo-what-we-know-143321078.html"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "observation": "本週將是今年最密集的事件週之一：11/17 輝達財報、11/18 Anthropic 定價、11/19 Anthropic 掛牌與美中俄三方會談接連登場。AI 產業剛經歷選後拋售、輝達換帥與國會調查，這兩場考驗將決定市場對 AI 的信心能否穩住；台股上週在國安基金護盤下創下單週最大漲點，外資也終止連賣，但法人對本週走勢看法分歧，輝達財報可能是方向的關鍵。\n\n地緣政治方面，美中俄領袖首次三方會談以核擴散與伊朗為主軸，烏克蘭不在議程上；但澤倫斯基同時透露，美方在阿布達比和談中首度提出「割讓頓巴斯換加入北約」的構想，遭烏方拒絕，顯示俄烏和談的核心爭議正在浮上檯面。三方會談在深圳舉行，台灣也需關注美中在會中是否觸及台海與科技管制議題。美國國內則因航管系統升級出錯導致全國停飛，老舊基礎建設再度成為政治焦點。\n\n本週可關注：輝達財報與代理執行長的說明、Anthropic 定價與首日表現、美中俄三方會談的結果，以及外資是否延續買超台股。",
+ "sources": [
+  {"title": "Al Jazeera: Trump-Xi-Putin trilateral meeting at APEC: What to expect", "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect"},
+  {"title": "Yahoo News: Kremlin confirms date of Trump-Xi-Putin meeting", "url": "https://www.yahoo.com/news/politics/articles/kremlin-confirms-date-trump-xi-160100860.html"},
+  {"title": "Military.com (AP): Trump, Xi and Putin Plan an Unprecedented Joint Meeting", "url": "https://www.military.com/trump-xi-and-putin-plan-an-unprecedented-joint-meeting-on-the-sidelines-of-apec-white-house-says"},
+  {"title": "Business Standard: Xi, Trump and Putin to hold historic trilateral summit at APEC meet", "url": "https://business-standard.com/amp/world-news/xi-trump-and-putin-to-hold-historic-trilateral-summit-at-apec-meet-126111400913_1.html"},
+  {"title": "CNN: US floated idea of Ukraine swapping land for NATO membership, Zelensky says", "url": "https://www.cnn.com/2026/11/14/europe/us-ukraine-zelensky-nato-intl"},
+  {"title": "France 24: US proposed Ukraine cedes Donbas in exchange for joining NATO", "url": "https://www.france24.com/en/europe/20261114-us-negotiators-suggest-ukraine-cedes-territory-in-exchange-for-nato-membership"},
+  {"title": "RTÉ: US proposed Donbas swap for NATO membership - Zelensky", "url": "https://www.rte.ie/news/europe/2026/1114/1599202-us-ukraine-russia/"},
+  {"title": "Al Jazeera: US suggested Ukraine cede parts of Donbas to Russia to become part of NATO", "url": "https://www.aljazeera.com/news/2026/11/14/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato"},
+  {"title": "CNBC: Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system", "url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html"},
+  {"title": "CNN: What we know about the cause of the nationwide FAA ground stop", "url": "https://www.cnn.com/2026/11/14/politics/faa-ground-stop-what-we-know"},
+  {"title": "NPR: FAA blames Friday's ground stop on 'equipment issue'", "url": "https://www.npr.org/2026/11/14/nx-s1-6040952/faa-ground-stop-airplane-travel"},
+  {"title": "FourWeekMBA: Nvidia Earnings Nov. 17: $108B Guide", "url": "https://fourweekmba.com/ai-nvidia-earnings-nov-17-108b-guide-89-above-a-year-ago/"},
+  {"title": "Earnings Watcher: NVDA Earnings November 2026", "url": "https://earnings-watcher.com/wiki/nvda-earnings-november-2026"},
+  {"title": "The Motley Fool: Should You Buy Nvidia Stock Before Nov. 17?", "url": "https://www.fool.com/investing/2026/11/14/should-you-buy-nvidia-stock-before-nov-17/"},
+  {"title": "CMC Markets: The Week Ahead: Fed minutes, Japan CPI, Nvidia earnings", "url": "https://www.cmcmarkets.com/en-ie/news-and-analysis/the-week-ahead-fed-minutes-japan-cpi-nvidia-earnings"},
+  {"title": "鉅亨網：資金大風吹！市場熱錢「賣輝達、轉台積」", "url": "https://news.cnyes.com/news/id/6662541"},
+  {"title": "TVBS TECH：輝達變天拖累AI股！台股下週恐陷C波下殺", "url": "https://tech.tvbs.com.tw/money/4050452"},
+  {"title": "聯合新聞網：台股漲583點 力抗黃仁勳風暴", "url": "https://udn.com/news/story/7251/9877936"},
+  {"title": "TVBS：國安基金進場台股有救了？下週小心3大魔王", "url": "https://news.tvbs.com.tw/money/4047555"},
+  {"title": "RoboForex: Nvidia Earnings Date: 17 November Scenarios, Interim CEO", "url": "https://roboforex.com/blog/analysis/nvidia-earnings-date-interim-ceo-scenarios/"},
+  {"title": "Seeking Alpha: The Nvidia Earnings Report Could Wreck The Market", "url": "https://seekingalpha.com/article/4967764-nvidia-earnings-report-could-wreck-the-market"},
+  {"title": "CNBC: Anthropic sets IPO price range of $70 to $78", "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html"},
+  {"title": "TechCrunch: Anthropic sets IPO price range of $70 to $78 per share", "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"},
+  {"title": "Yahoo Finance: Everything you need to know ahead of Anthropic's IPO", "url": "https://finance.yahoo.com/technology/ai/article/anthropic-ipo-what-we-know-143321078.html"}
+ ]
+}

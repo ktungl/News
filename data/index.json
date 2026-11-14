@@ -22,6 +22,54 @@
  },
  "days": [
   {
+   "date": "2026-11-15",
+   "title": "🌏 每日早報｜2026/11/15",
+   "items": [
+    {
+     "section": "world",
+     "category": "台灣與亞太",
+     "title": "白宮證實川普、習近平、普丁將於 11/19 在深圳 APEC 場邊舉行首次三方會談，聚焦核擴散",
+     "anchor": "world-1"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "澤倫斯基：美方在阿布達比和談首度提出「割讓頓巴斯換加入北約」，烏克蘭拒絕",
+     "anchor": "world-2"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "美國全國航班地面停飛：起因為航管電信系統升級出錯，17 個航管中心受影響，交通部長要求國會撥款 500 億美元翻新",
+     "anchor": "world-3"
+    },
+    {
+     "section": "markets",
+     "category": "美股",
+     "title": "本週看點（美股）：11/17 輝達財報、11/18 Anthropic 定價、11/19 美中俄三方會談",
+     "anchor": "markets-1"
+    },
+    {
+     "section": "markets",
+     "category": "台股",
+     "title": "本週看點（台股）：上週大漲 3,973 點創單週紀錄，外資終止連 11 賣；法人看法分歧",
+     "anchor": "markets-2"
+    },
+    {
+     "section": "ai",
+     "category": "晶片與算力",
+     "title": "輝達財報前瞻：財測營收 1,080 億美元、毛利率指引下滑，市場關注接班計畫與調查進展",
+     "anchor": "ai-1"
+    },
+    {
+     "section": "ai",
+     "category": "產業與投資",
+     "title": "Anthropic 上市倒數：預計 11/18 定價、11/19 以代號「ANT」在那斯達克掛牌",
+     "anchor": "ai-2"
+    }
+   ]
+  },
+  {
    "date": "2026-11-14",
    "title": "🌏 每日早報｜2026/11/14",
    "items": [
