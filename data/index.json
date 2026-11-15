@@ -22,6 +22,60 @@
  },
  "days": [
   {
+   "date": "2026-11-16",
+   "title": "🌏 每日早報｜2026/11/16",
+   "items": [
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "伊朗稱以無人機攻擊巴林美軍雷達，巴林數月來首度全國警報；伊朗另稱多艘油輪在荷莫茲海峽觸雷",
+     "anchor": "world-1"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "歐盟海軍在地中海登檢疑似俄羅斯「影子艦隊」油輪，發現懸掛假旗；歐盟外長 11/16 擬通過新一輪對俄制裁",
+     "anchor": "world-2"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "荷蘭聯合政府因「富人稅」爭議瀕臨垮台，執政三黨週末在希爾弗瑟姆閉門危機會談",
+     "anchor": "world-3"
+    },
+    {
+     "section": "world",
+     "category": "台灣與亞太",
+     "title": "東協峰會在馬尼拉登場，成員國簽署全球首個區域性《數位經濟框架協定》",
+     "anchor": "world-4"
+    },
+    {
+     "section": "markets",
+     "category": "美股",
+     "title": "今日看點（美股）：本週輝達財報、聯準會會議紀要、零售財報接連登場；輝達 11 月以來已跌約兩成",
+     "anchor": "markets-1"
+    },
+    {
+     "section": "markets",
+     "category": "台股",
+     "title": "今日看點（台股）：輝達財報台灣時間 11/18 清晨出爐，同日台指期 11 月結算；投顧看本週挑戰 45,000 點",
+     "anchor": "markets-2"
+    },
+    {
+     "section": "ai",
+     "category": "晶片與算力",
+     "title": "輝達財報倒數兩天；國會調查升溫，眾院定 12/1 閉門約談黃仁勳，商務部長盧特尼克同意作證",
+     "anchor": "ai-1"
+    },
+    {
+     "section": "ai",
+     "category": "產業與投資",
+     "title": "Anthropic IPO 據報獲數倍超額認購，傳承銷商考慮調高定價",
+     "anchor": "ai-2"
+    }
+   ]
+  },
+  {
    "date": "2026-11-15",
    "title": "🌏 每日早報｜2026/11/15",
    "items": [
