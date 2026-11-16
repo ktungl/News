@@ -22,6 +22,78 @@
  },
  "days": [
   {
+   "date": "2026-11-17",
+   "title": "🌏 每日早報｜2026/11/17",
+   "items": [
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "伊朗三天內第二度以無人機攻擊巴林美軍雷達，美國第三艘航艦抵達中東；川普稱「不需要與伊朗達成協議」",
+     "anchor": "world-1"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "歐盟外長通過新一輪對俄制裁，近 50 家俄國銀行被列入；卡拉斯：停火前談歐洲安全言之過早",
+     "anchor": "world-2"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "荷蘭聯合政府歷經四天危機會談後決定續行，以少數派政府繼續執政",
+     "anchor": "world-3"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "捷克布拉格大規模示威，反對巴比什政府改變公共媒體經費來源；公共媒體員工罷工",
+     "anchor": "world-4"
+    },
+    {
+     "section": "world",
+     "category": "台灣與亞太",
+     "title": "東協—中國峰會：李強承諾盡早完成南海行為準則，但談判未能在今年完成、也未訂新期限",
+     "anchor": "world-5"
+    },
+    {
+     "section": "markets",
+     "category": "美股",
+     "title": "美股重挫：那斯達克跌約 2.5%，輝達跌 4.1% 收 2025 年 7 月以來新低；本週財報與 Anthropic 上市前避險情緒升溫",
+     "anchor": "markets-1"
+    },
+    {
+     "section": "markets",
+     "category": "台股",
+     "title": "台股重挫 2,635 點、跌 6.03%，創史上第二大跌點；台積電跌 135 元，三大法人賣超逾 1,140 億元",
+     "anchor": "markets-2"
+    },
+    {
+     "section": "markets",
+     "category": "產業與個股",
+     "title": "今日看點：輝達財報台灣時間 11/18 清晨揭曉；Anthropic 11/18 晚間定價",
+     "anchor": "markets-3"
+    },
+    {
+     "section": "ai",
+     "category": "產業與投資",
+     "title": "輝達執行長人選之爭：美財長貝森特要求找外部人選並限期 10 天答覆，FT 報導黃仁勳與盟友商議回鍋",
+     "anchor": "ai-1"
+    },
+    {
+     "section": "ai",
+     "category": "模型與產品",
+     "title": "阿里巴巴推出旗艦模型 Qwen4-Max，不開放權重，宣稱程式能力超越對手",
+     "anchor": "ai-2"
+    },
+    {
+     "section": "ai",
+     "category": "政策與監管",
+     "title": "聯準會金融穩定報告：87% 市場受訪者把 AI 列為金融體系最大風險",
+     "anchor": "ai-3"
+    }
+   ]
+  },
+  {
    "date": "2026-11-16",
    "title": "🌏 每日早報｜2026/11/16",
    "items": [

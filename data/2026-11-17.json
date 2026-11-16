@@ -1,0 +1,560 @@
+{
+  "date": "2026-11-17",
+  "title": "🌏 每日早報｜2026/11/17",
+  "generated_at": "2026-11-17T07:30:00+08:00",
+  "sections": [
+    {
+      "id": "world",
+      "name": "國際新聞",
+      "items": [
+        {
+          "title": "伊朗三天內第二度以無人機攻擊巴林美軍雷達，美國第三艘航艦抵達中東；川普稱「不需要與伊朗達成協議」",
+          "category": "國際政治與地緣",
+          "summary": "延續昨日報導。巴林軍方表示，防空系統攔截了伊朗對里法空軍基地美軍雷達的無人機攻擊，是三天內第二次。美國第三艘航空母艦已抵達中東，伊朗則升高對美軍與海灣國家的威脅。英國海事貿易行動辦公室（UKMTO）通報，一艘油輪 11/16 駛出荷莫茲海峽時遭不明投射物擊中，機艙起火。革命衛隊另稱又有兩艘油輪觸雷爆炸，但未獲獨立證實。外交方面，川普表示「我們不需要與伊朗達成協議」，並據報叫停副總統范斯重啟對伊談判的努力；伊朗方面也稱目前與美國沒有談判。美國持續封鎖伊朗在波斯灣與阿曼灣的港口。（註：革命衛隊的觸雷說法未獲證實。）",
+          "why": "美伊談判停擺、軍力持續集結，荷莫茲海峽短期難以恢復通航，能源與航運風險仍高。",
+          "glossary": [
+            {
+              "term": "UKMTO",
+              "def": "英國海事貿易行動辦公室，負責通報中東海域商船遭攻擊或可疑活動的機構。"
+            },
+            {
+              "term": "封鎖",
+              "def": "以軍事力量阻止船隻進出特定港口或海域，屬於高強度的施壓手段。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "CNN: Iran raises stakes with new drone attacks as Trump signals a waiting game",
+              "url": "https://www.cnn.com/2026/11/15/middleeast/iran-bahrain-attacks-trump-intl"
+            },
+            {
+              "title": "The National: Iran escalates threats against US forces and Gulf states as third American carrier arrives",
+              "url": "https://thenationalnews.com/news/gulf/2026/11/16/iran-escalates-threats-against-us-forces-and-gulf-states-as-third-american-carrier-arrives"
+            },
+            {
+              "title": "CBS News: Bahrain says it intercepted Iranian attacks after Tehran claims it targeted U.S. assets",
+              "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-nuclear-material-no-deal/"
+            },
+            {
+              "title": "Iran International: Live - Vance says Trump won't allow 'forever war'; tanker hit in Strait of Hormuz",
+              "url": "https://www.iranintl.com/en/liveblog/202611143682"
+            }
+          ]
+        },
+        {
+          "title": "歐盟外長通過新一輪對俄制裁，近 50 家俄國銀行被列入；卡拉斯：停火前談歐洲安全言之過早",
+          "category": "國際政治與地緣",
+          "summary": "延續昨日報導。歐盟外長 11/16 通過新制裁，據歐盟理事會資料，共新增 12 名個人與 101 個實體，與愛爾蘭外長麥肯蒂事前宣布的 113 筆名單相符；法國外長巴羅則稱新增 145 項制裁，各方計算方式不同。名單涵蓋近 50 家俄羅斯銀行與金融機構、俄國電商龍頭 Wildberries 的唯一股東，以及經營煉油廠與石油碼頭的能源公司。更全面的第 22 輪制裁方案仍在討論中。多位外長也表示，在烏克蘭停火前與俄羅斯討論歐洲安全問題言之過早；卡拉斯說，歐洲須先看到俄方讓步與停火，才會展開認真的和談。",
+          "why": "制裁鎖定俄國金融體系與能源收入，顯示歐盟在美俄接觸頻繁之際仍維持對俄施壓。",
+          "glossary": [
+            {
+              "term": "制裁名單",
+              "def": "被凍結資產、禁止往來或入境的個人與機構清單，是歐盟對外施壓的主要工具。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "Sofia Globe: EU ministers approve new sanctions to further restrict Russia's ability to finance its war",
+              "url": "https://sofiaglobe.com/2026/11/16/eu-ministers-approve-new-sanctions-to-further-restrict-russias-ability-to-finance-its-war/"
+            },
+            {
+              "title": "Investing.com: EU to add 113 new Russia sanctions ahead of broader package",
+              "url": "https://www.investing.com/news/economy-news/eu-to-add-113-new-russia-sanctions-ahead-of-broader-package-93CH-5028724"
+            },
+            {
+              "title": "UNN: The EU has approved new sanctions against Russia and is preparing the 22nd package, ministers say",
+              "url": "https://unn.ua/en/news/the-eu-has-approved-new-sanctions-against-russia-and-is-preparing-the-22nd-package-ministers-say"
+            },
+            {
+              "title": "Internazionale (Reuters): Holding talks with Russia on Europe's security now would be premature, EU ministers say",
+              "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/16/holding-talks-with-russia-on-europe-s-security-now-would-be-premature-eu-ministers-say"
+            }
+          ]
+        },
+        {
+          "title": "荷蘭聯合政府歷經四天危機會談後決定續行，以少數派政府繼續執政",
+          "category": "國際政治與地緣",
+          "summary": "延續昨日報導。荷蘭總理顏頓辦公室 11/16 表示，經過四天危機會談，D66、VVD、CDA 三黨決定繼續以少數派政府執政，並稱會談恢復了三黨間的互信。各黨領袖未另發聲明，將在 11/17 與其他閣員開會後說明。這場危機起因於富人稅爭議：方案擬對超過 6 萬歐元的投資報酬課徵 38.5% 稅率，VVD 認為違反聯合執政協議，並在國會投票反對自家政府的稅改。報導未說明最終妥協內容。",
+          "why": "荷蘭暫時避免五年內第四次大選，有助歐盟在對俄制裁與預算議題上維持協調。",
+          "glossary": [
+            {
+              "term": "聯合執政協議",
+              "def": "多黨組成政府時簽訂的政策承諾文件，違反協議常是聯合政府破局的導火線。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "US News (Reuters): Dutch Government Coalition to Continue After Days of Crisis Talks",
+              "url": "https://www.usnews.com/news/world/articles/2026-11-16/dutch-government-coalition-to-continue-after-days-of-crisis-talks"
+            },
+            {
+              "title": "Yahoo News: Dutch government coalition to continue after days of crisis talks",
+              "url": "https://www.yahoo.com/news/politics/articles/dutch-government-coalition-continue-days-221328051.html"
+            },
+            {
+              "title": "DutchNews.nl: Jetten cabinet survives crisis talks for now, deadlock continues",
+              "url": "https://www.dutchnews.nl/2026/11/jetten-cabinet-survives-crisis-talks-but-deadlock-continues/"
+            }
+          ]
+        },
+        {
+          "title": "捷克布拉格大規模示威，反對巴比什政府改變公共媒體經費來源；公共媒體員工罷工",
+          "category": "國際政治與地緣",
+          "summary": "捷克民眾 11/15 在布拉格萊特納廣場集會，要求政府撤回取消收視費、改由國家預算支應公共電視與廣播經費的法案；主辦單位預估有 40 萬至 60 萬人參加。批評者認為，此舉將讓執政的三黨聯盟掌控媒體，執政聯盟日前意外在下議院推進此案。隔天另有數千人上街，公共媒體員工也發動罷工，獲工會、大學、教會與國際媒體組織支持。總理巴比什表示將繼續推動，並否認會影響新聞自由。歐盟司法執委麥葛瑞斯表示，公共服務媒體的經費須依透明客觀標準決定。批評者將此案與斯洛伐克、匈牙利的媒體政策相比。",
+          "why": "中歐國家的新聞自由爭議再起，可能成為歐盟法治審查的新焦點。",
+          "glossary": [
+            {
+              "term": "收視費",
+              "def": "由民眾直接繳納、專門支應公共廣播電視的費用，目的是讓公共媒體在財務上獨立於政府。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "Al Jazeera: Thousands rally in Czech Republic against state media funding changes",
+              "url": "https://www.aljazeera.com/news/2026/11/15/thousands-rally-in-czech-republic-against-state-media-funding-changes"
+            },
+            {
+              "title": "Bloomberg: Czechs Protest Against New Funding Plan for Public Broadcasters",
+              "url": "https://www.bloomberg.com/news/articles/2026-11-15/czechs-protest-against-new-funding-plan-for-public-broadcasters"
+            },
+            {
+              "title": "Arkansas Online (AP): Czechs protest ruling coalition's media plan",
+              "url": "https://www.arkansasonline.com/news/2026/nov/16/czechs-protest-ruling-coalitions-media-plan/"
+            },
+            {
+              "title": "Yahoo News: Thousands join Czech protest against public media financing plan",
+              "url": "https://www.yahoo.com/news/world/articles/thousands-join-czech-protest-against-064856857.html"
+            }
+          ]
+        },
+        {
+          "title": "東協—中國峰會：李強承諾盡早完成南海行為準則，但談判未能在今年完成、也未訂新期限",
+          "category": "台灣與亞太",
+          "summary": "中國國務院總理李強 11/16 在馬尼拉出席第 29 屆中國—東協峰會，承諾推動「有效、實質、早日」完成南海行為準則。不過菲律賓外長拉薩羅表示，雖然準則約 80% 內容已有暫定共識，仍無法在菲律賓擔任主席國期間完成談判；馬來西亞總理安華則說，雙方尚未訂定新期限，談判可能延至原訂 2026 年 12 月目標之後。據美聯社看到的聲明草案，領袖們將承諾在活動上自我克制，避免使爭端複雜化或升級。李強在川普抵達前離開；川普預計 11/17 抵達馬尼拉，出席東協—美國峰會，11/18 與菲律賓總統小馬可仕會談後轉往深圳。",
+          "why": "南海規則談判進展直接關係台海周邊航行安全，美中領袖相繼到訪東協也顯示區域影響力競逐升溫。",
+          "glossary": [
+            {
+              "term": "南海行為準則",
+              "def": "中國與東協自 2002 年起協商的南海行為規範，目標是降低衝突風險，但至今未完成。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "The Jakarta Post: China commits to early conclusion of South China Sea code, Philippines says",
+              "url": "https://www.thejakartapost.com/world/2026/11/16/china-commits-to-early-conclusion-of-south-china-sea-code-philippines-says"
+            },
+            {
+              "title": "中國外交部：Remarks by H.E. Li Qiang at the 29th China-ASEAN Summit",
+              "url": "https://www.fmprc.gov.cn/mfa_eng/xw/zyxw/202611/t20261116_12060432.html"
+            },
+            {
+              "title": "Media Selangor: ASEAN, China haven't set new deadline for Code of Conduct talks — Anwar",
+              "url": "https://mediaselangor.com/en/2026/11/407307"
+            },
+            {
+              "title": "WSLS (AP): China and Southeast Asia pledge to avoid disputes during talks on South China Sea pact",
+              "url": "https://www.wsls.com/news/world/2026/11/16/china-and-southeast-asia-pledge-to-avoid-disputes-during-talks-on-south-china-sea-pact/"
+            },
+            {
+              "title": "ASEAN NOW: Asean summit opens in Manila with world's conflicts topping agenda",
+              "url": "https://aseannow.com/worldnews/asean-summit-opens-in-manila-with-worlds-conflicts-topping-agenda-r2654"
+            },
+            {
+              "title": "Iowa Public Radio (AP): Trump to arrive in the Philippines as Southeast Asian leaders meet for ASEAN summit",
+              "url": "https://www.iowapublicradio.org/2026-11-16/trump-to-arrive-in-the-philippines-as-southeast-asian-leaders-meet-for-asean-summit"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "name": "股市觀察（美股・台股）",
+      "items": [
+        {
+          "title": "美股重挫：那斯達克跌約 2.5%，輝達跌 4.1% 收 2025 年 7 月以來新低；本週財報與 Anthropic 上市前避險情緒升溫",
+          "category": "美股",
+          "summary": "美股 11/16 全面下跌。據 CNBC，那斯達克指數跌 2.49% 收 24,509.76 點，標普 500 指數跌 1.92% 收 7,416.59 點，道瓊工業指數跌 739.38 點（1.41%）收 51,608.17 點；另有報導的跌幅略有差異。輝達跌 4.1%，收 156.14 美元，為 2025 年 7 月 1 日以來最低，11 月以來累計跌近 24%。據報導，那斯達克已較 10/6 高點下跌約 10.9%，進入修正區間。油價下跌，布蘭特原油約每桶 92 至 93 美元；美元指數升至 2025 年 4 月以來高點，聯準會主席華許的談話未改變市場對 12 月升息的預期。",
+          "why": "AI 龍頭在財報前持續失血，若財報無法止跌，可能擴大全球科技股修正。",
+          "glossary": [
+            {
+              "term": "修正",
+              "def": "股價指數自近期高點下跌超過 10%，但未達 20% 的空頭市場門檻。"
+            },
+            {
+              "term": "美元指數",
+              "def": "衡量美元對一籃子主要貨幣強弱的指標，走強常代表資金轉向避險或美國利率偏高。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "CNBC: Stock market news for Nov. 16, 2026",
+              "url": "https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html"
+            },
+            {
+              "title": "CNN: Stocks slide to kick off major week for Wall Street",
+              "url": "https://www.cnn.com/2026/11/16/business/stocks-nvidia-ai-anthropic"
+            },
+            {
+              "title": "Yahoo Finance: Stock market today: Dow and S&P 500 drop, Nasdaq sinks over 2% as Nvidia leads AI trade lower",
+              "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html"
+            },
+            {
+              "title": "Euronext (Reuters): Stocks end lower ahead of Nvidia earnings and Anthropic IPO; oil drops",
+              "url": "https://live.euronext.com/en/financial-news/stocks-end-lower-ahead-nvidia-earnings-and-anthropic-ipo-oil-drops"
+            }
+          ]
+        },
+        {
+          "title": "台股重挫 2,635 點、跌 6.03%，創史上第二大跌點；台積電跌 135 元，三大法人賣超逾 1,140 億元",
+          "category": "台股",
+          "summary": "台股 11/16 收盤下跌 2,635.04 點、跌幅 6.03%，收 41,040.08 點，成交金額 8,450.56 億元，為史上第二大收盤跌點，僅次於今年 7/17 的 2,953.71 點。台積電收 2,215 元，跌 135 元、跌幅 5.74%；聯發科、台達電、鴻海等權值股同步重挫，上市櫃共 174 家跌停。法人方面，外資賣超 701.89 億元、自營商賣超 259.03 億元、投信賣超 179.63 億元，合計 1,140.55 億元，投信也終結連續 24 日買超。報導指出，下跌主因包括輝達人事變動後經營方向不明、美國半導體類股上週五重挫，以及通膨與升息疑慮；也有分析認為內資恐慌賣壓加重跌勢。證交所發布聲明，表示國際機構仍看好 AI 中長期需求，並提醒投資人留意槓桿風險。",
+          "why": "上週國安基金護盤帶動的反彈幾乎回吐大半，輝達財報結果將決定台股能否止穩。",
+          "glossary": [
+            {
+              "term": "跌停",
+              "def": "個股單日跌幅達到漲跌幅限制（台股為 10%），當天無法再往下成交。"
+            },
+            {
+              "term": "投信",
+              "def": "證券投資信託公司，即發行與管理共同基金、ETF 的機構，是台股三大法人之一。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "ETtoday：台股史上第2慘！崩2635點收41040 台積電暴跌135元",
+              "url": "https://finance.ettoday.net/news/3273039"
+            },
+            {
+              "title": "聯合新聞網：輝達風暴牽連台股狂瀉2635點 AI供應鏈成重災區台積電失守2300元",
+              "url": "https://udn.com/news/story/7251/9881766"
+            },
+            {
+              "title": "經濟日報：台股重挫2635.04點史上第2大跌點 台積電跌135元",
+              "url": "https://money.udn.com/money/story/5607/9881690"
+            },
+            {
+              "title": "風傳媒：三大法人再賣超1140億！外資轉賣702億，投信終結連24買",
+              "url": "https://www.storm.mg/article/11181925"
+            },
+            {
+              "title": "Yahoo股市：史上第二慘！台股終場崩跌2635點「失守4萬2」 台積電收2215元",
+              "url": "https://tw.stock.yahoo.com/news/%E5%8F%B2%E4%B8%8A%E7%AC%AC%E4%BA%8C%E6%85%98-%E5%8F%B0%E8%82%A1%E7%B5%82%E5%A0%B4%E5%B4%A9%E8%B7%8C2635%E9%BB%9E-%E5%A4%B1%E5%AE%884%E8%90%AC2-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%94%B62215%E5%85%83-060027659.html"
+            },
+            {
+              "title": "Yahoo股市：台股重挫外資賣超701億元 拋售主動型台股ETF",
+              "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E9%87%8D%E6%8C%AB%E5%A4%96%E8%B3%87%E8%B3%A3%E8%B6%85701%E5%84%84%E5%85%83-%E6%8B%8B%E5%94%AE%E4%B8%BB%E5%8B%95%E5%9E%8B%E5%8F%B0%E8%82%A1etf-094843700.html"
+            }
+          ]
+        },
+        {
+          "title": "今日看點：輝達財報台灣時間 11/18 清晨揭曉；Anthropic 11/18 晚間定價",
+          "category": "產業與個股",
+          "summary": "輝達將在美國時間 11/17 盤後（台灣時間 11/18 清晨）公布第三季財報，由代理執行長克雷斯主持說明會。分析師預估營收約 1,090 億美元，公司財測為 1,080 億美元（±2%）。市場關注資料中心營收展望、Vera Rubin 出貨進度與經營層變動的影響。美國 11/17 另將公布 10 月零售銷售。Anthropic 預計 11/18 晚間定價、11/19 在那斯達克掛牌，CNBC 11/16 的整理仍列每股 70 至 78 美元的區間，目前未見調整區間的報導。台股方面，11/18 也是台指期 11 月結算日。",
+          "why": "輝達財報是台股 AI 供應鏈的短線方向指標，結果揭曉時恰逢台指期結算，波動可能放大。",
+          "glossary": [
+            {
+              "term": "財測",
+              "def": "公司對未來一季或一年營收、獲利的預估，市場常比實際財報更在意。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "TradingKey: The Week Ahead: Nvidia Q3 Earnings, US October Retail Sales, FOMC Minutes and Walmart Earnings",
+              "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262305825-week-ahead-nvidia-q3-earnings-us-october-retail-sales-fomc-minutes-walmart-tradingkey"
+            },
+            {
+              "title": "FXEmpire: The Week Ahead: Nvidia Earnings, Anthropic IPO Test AI Trade",
+              "url": "https://www.fxempire.com/forecasts/article/the-week-ahead-nvidia-earnings-anthropic-ipo-test-ai-trade-1644719"
+            },
+            {
+              "title": "中央社：黃仁勳去職後首場輝達財報說明會 法人看AI展望牽動台股",
+              "url": "https://www.cna.com.tw/news/afe/202611150033.aspx"
+            },
+            {
+              "title": "CNBC: Anthropic IPO guide: The price range, date and more",
+              "url": "https://www.cnbc.com/2026/11/16/anthropic-ipo-date-price-range.html"
+            }
+          ]
+        }
+      ],
+      "mood": "偏空、避險",
+      "outlook": "偏空因素：台股 11/16 重挫 2,635 點、三大法人賣超逾 1,140 億元，上週反彈大半回吐；美股那斯達克跌入修正區間，輝達 11 月以來跌近 24%；美元走強、市場預期聯準會 12 月升息；美伊談判停擺，波斯灣軍事緊張升溫。偏多因素：證交所強調 AI 中長期需求仍在；油價小幅回落；Anthropic IPO 據報認購踴躍；荷蘭政局暫穩。今日關鍵：台股能否止跌，以及美國零售銷售與輝達盤後財報。整體而言，市場在財報前避險情緒濃厚，偏空。以上僅整理市場資訊與各方觀點，不構成投資建議。"
+    },
+    {
+      "id": "ai",
+      "name": "AI 科技發展",
+      "items": [
+        {
+          "title": "輝達執行長人選之爭：美財長貝森特要求找外部人選並限期 10 天答覆，FT 報導黃仁勳與盟友商議回鍋",
+          "category": "產業與投資",
+          "summary": "延續前幾天報導。美國財政部長貝森特 11/15 在福斯新聞表示，輝達董事會應從公司外部尋找下一任執行長，並要求董事會與外部律師在 10 天內回答公司出口管制合規文化的問題。英國《金融時報》11/13 報導，董事會曾接觸 Arm 執行長哈斯；11/15 又報導黃仁勳正與盟友商議重返執行長職位。輝達發言人表示，公司正在挑選獵才公司，尚未正式接觸任何人選。（註：接觸哈斯與黃仁勳考慮回鍋均為 FT 引述消息人士，公司未證實。）",
+          "why": "美國政府直接介入輝達接班，顯示 AI 晶片龍頭已被視為國安議題，接班結果將影響其對中策略與供應鏈。",
+          "glossary": [
+            {
+              "term": "出口管制",
+              "def": "政府限制特定技術或產品出口到特定國家的規定，美國以此限制先進 AI 晶片流向中國。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "Al Jazeera: US Treasury chief calls for outsider to lead embattled tech firm Nvidia",
+              "url": "https://www.aljazeera.com/news/2026/11/15/us-treasury-chief-calls-for-outsider-to-lead-embattled-tech-firm-nvidia"
+            },
+            {
+              "title": "Investing.com (Reuters): Bessent says Nvidia must 'go outside the company' to find new CEO",
+              "url": "https://www.investing.com/news/economy-news/bessent-says-nvidia-must-go-outside-the-company-to-find-new-ceo-5028004"
+            },
+            {
+              "title": "SCMP: Jensen Huang discusses comeback as Nvidia CEO with allies: report",
+              "url": "https://www.scmp.com/news/world/united-states-canada/article/3374512/bessent-says-nvidia-must-go-outside-company-find-new-ceo"
+            },
+            {
+              "title": "Fox Business: Bessent calls for Nvidia leadership shake-up amid China chip scandal, urges outside CEO",
+              "url": "https://www.foxbusiness.com/business-leaders/bessent-calls-nvidia-leadership-shake-up-amid-china-chip-scandal-urges-outside-ceo"
+            }
+          ]
+        },
+        {
+          "title": "阿里巴巴推出旗艦模型 Qwen4-Max，不開放權重，宣稱程式能力超越對手",
+          "category": "模型與產品",
+          "summary": "阿里巴巴 11/16 正式推出 Qwen 系列旗艦模型 Qwen4-Max，透過雲端 API 與旗下工具提供。這是混合專家（MoE）架構模型，據報總參數約 2.4 兆，可處理文字、圖片與影片，單次輸入上限約 100 萬個詞元，API 價格為每百萬輸入詞元 1.5 美元、輸出 4.5 美元。阿里巴巴宣稱其程式能力勝過競爭對手，但比較對象各報導說法不一；也有報導指出它在部分終端操作測試上仍落後。與過去不同，旗艦版不開放權重，較小的 Qwen4 模型則計畫開源。（註：效能數據均為公司宣稱，比較對象各家報導不一。）",
+          "why": "中國頂尖模型轉向閉源並以低價競爭，可能改變開源模型生態與全球 API 價格戰。",
+          "glossary": [
+            {
+              "term": "開放權重",
+              "def": "公開模型訓練後的參數檔，讓外界可自行下載、部署與微調。"
+            },
+            {
+              "term": "混合專家",
+              "def": "MoE，模型由多個子網路組成，每次只啟用部分專家，以降低運算成本。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "The Next Web: Alibaba launches Qwen4-Max flagship AI model without open weights",
+              "url": "https://thenextweb.com/news/alibaba-launches-qwen4-max-flagship-ai-model-without-open-weights"
+            },
+            {
+              "title": "Technology.org: Alibaba Launches Qwen4-Max Flagship AI Model",
+              "url": "https://www.technology.org/2026/11/16/alibaba-qwen4-max-flagship-ai-model-safety-cost/"
+            },
+            {
+              "title": "Digital Today: Alibaba unveils Qwen4-Max, says it beats Claude Fable 5.1 in coding",
+              "url": "https://www.digitaltoday.co.kr/en/view/126459/alibaba-unveils-qwen4-max-says-it-beats-claude-fable-51-in-coding"
+            }
+          ]
+        },
+        {
+          "title": "聯準會金融穩定報告：87% 市場受訪者把 AI 列為金融體系最大風險",
+          "category": "政策與監管",
+          "summary": "事件發生在 11/13，本報此前未報導，故補入。聯準會 11/13 公布的金融穩定報告顯示，在市場聯繫人調查中，87% 受訪者將 AI 列為金融體系的主要風險，高於春季調查的 50%，名列第一；其次為風險資產修正（52%）、長期利率上升（48%）、網路攻擊與財政債務可持續性（各 43%）。受訪者的疑慮包括股票估值過高、網路安全，以及複雜的 AI 相關融資。報告指出，截至 10 月為 AI 運算基礎設施發行的債務約 6,800 億美元。調查樣本僅 23 位市場聯繫人，代表受訪者看法，並非聯準會官方立場。",
+          "why": "監管機構開始把 AI 投資熱潮視為系統性風險來源，可能影響資料中心融資條件與 AI 類股估值。",
+          "glossary": [
+            {
+              "term": "金融穩定報告",
+              "def": "聯準會每半年發布的報告，評估資產估值、槓桿與融資等可能威脅金融體系的風險。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "StockAnalysis: AI tops the risks to the financial system in the Fed's survey, named by 87% of market contacts",
+              "url": "https://stockanalysis.com/news/fed-financial-stability-report-ai-risk-november-2026/"
+            },
+            {
+              "title": "MLQ.ai: Fed financial stability report finds AI is now the top worry for the financial system",
+              "url": "https://mlq.ai/news/fed-financial-stability-report-finds-ai-is-now-the-top-worry-for-the-financial-system-cited-by-87-of-market-contacts/"
+            },
+            {
+              "title": "Fin in 2 min: Fed flags AI financing risks as advanced-computing debt issuance tops $680 billion",
+              "url": "https://finin2min.com/finnews/economy-policy/fed-financial-stability-report-november-2026-ai-data-centre-debt/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "observation": "AI 交易的壓力在財報前集中爆發：台股 11/16 重挫 2,635 點、創史上第二大跌點，三大法人賣超逾 1,140 億元；美股那斯達克跌近 2.5%、進入修正區間，輝達收在 2025 年 7 月以來新低。美國財長要求輝達找外部執行長、黃仁勳傳考慮回鍋，加上聯準會報告把 AI 列為金融體系頭號風險，市場對 AI 的疑慮已從估值擴及治理與融資。\n\n地緣上，美伊談判停擺、美國第三艘航艦抵達中東；歐盟通過對俄新制裁，荷蘭政府暫時渡過危機。東協與中國未能如期完成南海行為準則，川普預計今日抵達馬尼拉，台灣應關注美國與東協的安全與經貿互動。\n\n今日可關注：輝達盤後財報、美國零售銷售，以及台股能否止跌。",
+  "sources": [
+    {
+      "title": "CNN: Iran raises stakes with new drone attacks as Trump signals a waiting game",
+      "url": "https://www.cnn.com/2026/11/15/middleeast/iran-bahrain-attacks-trump-intl"
+    },
+    {
+      "title": "The National: Iran escalates threats against US forces and Gulf states as third American carrier arrives",
+      "url": "https://thenationalnews.com/news/gulf/2026/11/16/iran-escalates-threats-against-us-forces-and-gulf-states-as-third-american-carrier-arrives"
+    },
+    {
+      "title": "CBS News: Bahrain says it intercepted Iranian attacks after Tehran claims it targeted U.S. assets",
+      "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-nuclear-material-no-deal/"
+    },
+    {
+      "title": "Iran International: Live - Vance says Trump won't allow 'forever war'; tanker hit in Strait of Hormuz",
+      "url": "https://www.iranintl.com/en/liveblog/202611143682"
+    },
+    {
+      "title": "Sofia Globe: EU ministers approve new sanctions to further restrict Russia's ability to finance its war",
+      "url": "https://sofiaglobe.com/2026/11/16/eu-ministers-approve-new-sanctions-to-further-restrict-russias-ability-to-finance-its-war/"
+    },
+    {
+      "title": "Investing.com: EU to add 113 new Russia sanctions ahead of broader package",
+      "url": "https://www.investing.com/news/economy-news/eu-to-add-113-new-russia-sanctions-ahead-of-broader-package-93CH-5028724"
+    },
+    {
+      "title": "UNN: The EU has approved new sanctions against Russia and is preparing the 22nd package, ministers say",
+      "url": "https://unn.ua/en/news/the-eu-has-approved-new-sanctions-against-russia-and-is-preparing-the-22nd-package-ministers-say"
+    },
+    {
+      "title": "Internazionale (Reuters): Holding talks with Russia on Europe's security now would be premature, EU ministers say",
+      "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/16/holding-talks-with-russia-on-europe-s-security-now-would-be-premature-eu-ministers-say"
+    },
+    {
+      "title": "US News (Reuters): Dutch Government Coalition to Continue After Days of Crisis Talks",
+      "url": "https://www.usnews.com/news/world/articles/2026-11-16/dutch-government-coalition-to-continue-after-days-of-crisis-talks"
+    },
+    {
+      "title": "Yahoo News: Dutch government coalition to continue after days of crisis talks",
+      "url": "https://www.yahoo.com/news/politics/articles/dutch-government-coalition-continue-days-221328051.html"
+    },
+    {
+      "title": "DutchNews.nl: Jetten cabinet survives crisis talks for now, deadlock continues",
+      "url": "https://www.dutchnews.nl/2026/11/jetten-cabinet-survives-crisis-talks-but-deadlock-continues/"
+    },
+    {
+      "title": "Al Jazeera: Thousands rally in Czech Republic against state media funding changes",
+      "url": "https://www.aljazeera.com/news/2026/11/15/thousands-rally-in-czech-republic-against-state-media-funding-changes"
+    },
+    {
+      "title": "Bloomberg: Czechs Protest Against New Funding Plan for Public Broadcasters",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-15/czechs-protest-against-new-funding-plan-for-public-broadcasters"
+    },
+    {
+      "title": "Arkansas Online (AP): Czechs protest ruling coalition's media plan",
+      "url": "https://www.arkansasonline.com/news/2026/nov/16/czechs-protest-ruling-coalitions-media-plan/"
+    },
+    {
+      "title": "Yahoo News: Thousands join Czech protest against public media financing plan",
+      "url": "https://www.yahoo.com/news/world/articles/thousands-join-czech-protest-against-064856857.html"
+    },
+    {
+      "title": "The Jakarta Post: China commits to early conclusion of South China Sea code, Philippines says",
+      "url": "https://www.thejakartapost.com/world/2026/11/16/china-commits-to-early-conclusion-of-south-china-sea-code-philippines-says"
+    },
+    {
+      "title": "中國外交部：Remarks by H.E. Li Qiang at the 29th China-ASEAN Summit",
+      "url": "https://www.fmprc.gov.cn/mfa_eng/xw/zyxw/202611/t20261116_12060432.html"
+    },
+    {
+      "title": "Media Selangor: ASEAN, China haven't set new deadline for Code of Conduct talks — Anwar",
+      "url": "https://mediaselangor.com/en/2026/11/407307"
+    },
+    {
+      "title": "WSLS (AP): China and Southeast Asia pledge to avoid disputes during talks on South China Sea pact",
+      "url": "https://www.wsls.com/news/world/2026/11/16/china-and-southeast-asia-pledge-to-avoid-disputes-during-talks-on-south-china-sea-pact/"
+    },
+    {
+      "title": "ASEAN NOW: Asean summit opens in Manila with world's conflicts topping agenda",
+      "url": "https://aseannow.com/worldnews/asean-summit-opens-in-manila-with-worlds-conflicts-topping-agenda-r2654"
+    },
+    {
+      "title": "Iowa Public Radio (AP): Trump to arrive in the Philippines as Southeast Asian leaders meet for ASEAN summit",
+      "url": "https://www.iowapublicradio.org/2026-11-16/trump-to-arrive-in-the-philippines-as-southeast-asian-leaders-meet-for-asean-summit"
+    },
+    {
+      "title": "CNBC: Stock market news for Nov. 16, 2026",
+      "url": "https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html"
+    },
+    {
+      "title": "CNN: Stocks slide to kick off major week for Wall Street",
+      "url": "https://www.cnn.com/2026/11/16/business/stocks-nvidia-ai-anthropic"
+    },
+    {
+      "title": "Yahoo Finance: Stock market today: Dow and S&P 500 drop, Nasdaq sinks over 2% as Nvidia leads AI trade lower",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html"
+    },
+    {
+      "title": "Euronext (Reuters): Stocks end lower ahead of Nvidia earnings and Anthropic IPO; oil drops",
+      "url": "https://live.euronext.com/en/financial-news/stocks-end-lower-ahead-nvidia-earnings-and-anthropic-ipo-oil-drops"
+    },
+    {
+      "title": "ETtoday：台股史上第2慘！崩2635點收41040 台積電暴跌135元",
+      "url": "https://finance.ettoday.net/news/3273039"
+    },
+    {
+      "title": "聯合新聞網：輝達風暴牽連台股狂瀉2635點 AI供應鏈成重災區台積電失守2300元",
+      "url": "https://udn.com/news/story/7251/9881766"
+    },
+    {
+      "title": "經濟日報：台股重挫2635.04點史上第2大跌點 台積電跌135元",
+      "url": "https://money.udn.com/money/story/5607/9881690"
+    },
+    {
+      "title": "風傳媒：三大法人再賣超1140億！外資轉賣702億，投信終結連24買",
+      "url": "https://www.storm.mg/article/11181925"
+    },
+    {
+      "title": "Yahoo股市：史上第二慘！台股終場崩跌2635點「失守4萬2」 台積電收2215元",
+      "url": "https://tw.stock.yahoo.com/news/%E5%8F%B2%E4%B8%8A%E7%AC%AC%E4%BA%8C%E6%85%98-%E5%8F%B0%E8%82%A1%E7%B5%82%E5%A0%B4%E5%B4%A9%E8%B7%8C2635%E9%BB%9E-%E5%A4%B1%E5%AE%884%E8%90%AC2-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%94%B62215%E5%85%83-060027659.html"
+    },
+    {
+      "title": "Yahoo股市：台股重挫外資賣超701億元 拋售主動型台股ETF",
+      "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E9%87%8D%E6%8C%AB%E5%A4%96%E8%B3%87%E8%B3%A3%E8%B6%85701%E5%84%84%E5%85%83-%E6%8B%8B%E5%94%AE%E4%B8%BB%E5%8B%95%E5%9E%8B%E5%8F%B0%E8%82%A1etf-094843700.html"
+    },
+    {
+      "title": "TradingKey: The Week Ahead: Nvidia Q3 Earnings, US October Retail Sales, FOMC Minutes and Walmart Earnings",
+      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262305825-week-ahead-nvidia-q3-earnings-us-october-retail-sales-fomc-minutes-walmart-tradingkey"
+    },
+    {
+      "title": "FXEmpire: The Week Ahead: Nvidia Earnings, Anthropic IPO Test AI Trade",
+      "url": "https://www.fxempire.com/forecasts/article/the-week-ahead-nvidia-earnings-anthropic-ipo-test-ai-trade-1644719"
+    },
+    {
+      "title": "中央社：黃仁勳去職後首場輝達財報說明會 法人看AI展望牽動台股",
+      "url": "https://www.cna.com.tw/news/afe/202611150033.aspx"
+    },
+    {
+      "title": "CNBC: Anthropic IPO guide: The price range, date and more",
+      "url": "https://www.cnbc.com/2026/11/16/anthropic-ipo-date-price-range.html"
+    },
+    {
+      "title": "Al Jazeera: US Treasury chief calls for outsider to lead embattled tech firm Nvidia",
+      "url": "https://www.aljazeera.com/news/2026/11/15/us-treasury-chief-calls-for-outsider-to-lead-embattled-tech-firm-nvidia"
+    },
+    {
+      "title": "Investing.com (Reuters): Bessent says Nvidia must 'go outside the company' to find new CEO",
+      "url": "https://www.investing.com/news/economy-news/bessent-says-nvidia-must-go-outside-the-company-to-find-new-ceo-5028004"
+    },
+    {
+      "title": "SCMP: Jensen Huang discusses comeback as Nvidia CEO with allies: report",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3374512/bessent-says-nvidia-must-go-outside-company-find-new-ceo"
+    },
+    {
+      "title": "Fox Business: Bessent calls for Nvidia leadership shake-up amid China chip scandal, urges outside CEO",
+      "url": "https://www.foxbusiness.com/business-leaders/bessent-calls-nvidia-leadership-shake-up-amid-china-chip-scandal-urges-outside-ceo"
+    },
+    {
+      "title": "The Next Web: Alibaba launches Qwen4-Max flagship AI model without open weights",
+      "url": "https://thenextweb.com/news/alibaba-launches-qwen4-max-flagship-ai-model-without-open-weights"
+    },
+    {
+      "title": "Technology.org: Alibaba Launches Qwen4-Max Flagship AI Model",
+      "url": "https://www.technology.org/2026/11/16/alibaba-qwen4-max-flagship-ai-model-safety-cost/"
+    },
+    {
+      "title": "Digital Today: Alibaba unveils Qwen4-Max, says it beats Claude Fable 5.1 in coding",
+      "url": "https://www.digitaltoday.co.kr/en/view/126459/alibaba-unveils-qwen4-max-says-it-beats-claude-fable-51-in-coding"
+    },
+    {
+      "title": "StockAnalysis: AI tops the risks to the financial system in the Fed's survey, named by 87% of market contacts",
+      "url": "https://stockanalysis.com/news/fed-financial-stability-report-ai-risk-november-2026/"
+    },
+    {
+      "title": "MLQ.ai: Fed financial stability report finds AI is now the top worry for the financial system",
+      "url": "https://mlq.ai/news/fed-financial-stability-report-finds-ai-is-now-the-top-worry-for-the-financial-system-cited-by-87-of-market-contacts/"
+    },
+    {
+      "title": "Fin in 2 min: Fed flags AI financing risks as advanced-computing debt issuance tops $680 billion",
+      "url": "https://finin2min.com/finnews/economy-policy/fed-financial-stability-report-november-2026-ai-data-centre-debt/"
+    }
+  ]
+}
