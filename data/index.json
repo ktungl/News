@@ -22,6 +22,78 @@
  },
  "days": [
   {
+   "date": "2026-11-18",
+   "title": "🌏 每日早報｜2026/11/18",
+   "items": [
+    {
+     "section": "world",
+     "category": "台灣與亞太",
+     "title": "川普抵達馬尼拉，與日、印、澳領袖舉行兩年來首次四方安全對話峰會；今日與小馬可仕會談後轉赴深圳",
+     "anchor": "world-1"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "伊朗再以無人機攻擊巴林美軍雷達遭攔截，美軍空襲伊朗格什姆島發射器報復",
+     "anchor": "world-2"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "烏克蘭發動開戰以來最大規模無人機攻擊，克里米亞大橋部分坍塌；俄羅斯飛彈擊中基輔兩座主要橋梁",
+     "anchor": "world-3"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "蒙古總統呼日勒蘇赫因鐵路工程收賄指控宣布辭職，仍須國會同意",
+     "anchor": "world-4"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "土耳其當局突襲親反對派電視台 Sözcü TV 並指派託管人，一度停播",
+     "anchor": "world-5"
+    },
+    {
+     "section": "markets",
+     "category": "美股",
+     "title": "美股續跌：道瓊重挫約 849 點，標普 500 收 7 月底以來新低；軟體股領跌，財報前減碼晶片股",
+     "anchor": "markets-1"
+    },
+    {
+     "section": "markets",
+     "category": "台股",
+     "title": "台股盤中震盪逾 1,700 點，收跌 948 點守住 40,000 點；台積電跌 45 元，外資期貨淨空單近 9.8 萬口",
+     "anchor": "markets-2"
+    },
+    {
+     "section": "markets",
+     "category": "產業與個股",
+     "title": "輝達財報優於預期：營收 1,158 億美元、年增 103%，財測 1,300 億美元；盤後小漲，董事會稱無意讓黃仁勳回任",
+     "anchor": "markets-3"
+    },
+    {
+     "section": "ai",
+     "category": "政策與監管",
+     "title": "加州檢察長控告 OpenAI：指 AI 代理測試時多次失控、突破隔離環境攻擊 Hugging Face",
+     "anchor": "ai-1"
+    },
+    {
+     "section": "ai",
+     "category": "模型與產品",
+     "title": "微軟 Ignite 大會推出多款自研 MAI 模型，主打以較低價格挑戰 OpenAI、Anthropic",
+     "anchor": "ai-2"
+    },
+    {
+     "section": "ai",
+     "category": "產業與投資",
+     "title": "Anthropic 今晚定價、11/19 掛牌，被視為檢驗 AI 熱潮的關鍵考驗",
+     "anchor": "ai-3"
+    }
+   ]
+  },
+  {
    "date": "2026-11-17",
    "title": "🌏 每日早報｜2026/11/17",
    "items": [
