@@ -22,6 +22,72 @@
  },
  "days": [
   {
+   "date": "2026-11-19",
+   "title": "🌏 每日早報｜2026/11/19",
+   "items": [
+    {
+     "section": "world",
+     "category": "台灣與亞太",
+     "title": "川普在馬尼拉宣布與菲律賓達成「史上最大」貿易協議但未公布細節，隨後飛抵深圳、習近平親赴停機坪迎接",
+     "anchor": "world-1"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "伊朗擴大攻擊範圍：稱以無人機攻擊科威特美軍駐紮的阿里薩利姆空軍基地，科威特斥為「犯罪」",
+     "anchor": "world-2"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "孟加拉成衣工人要求調高最低工資，與警方爆發衝突，約 25 家工廠停工",
+     "anchor": "world-3"
+    },
+    {
+     "section": "world",
+     "category": "全球經濟與市場",
+     "title": "德國聯合政府同意調降電力稅並為燃油價格設上限，梅爾茨政府化解預算僵局",
+     "anchor": "world-4"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "蒙古國會常設委員會支持總統辭職請求，將交大會表決",
+     "anchor": "world-5"
+    },
+    {
+     "section": "markets",
+     "category": "美股",
+     "title": "美股分歧：道瓊跌 561 點，標普 500 連五跌、跌破 200 日均線；那斯達克小漲",
+     "anchor": "markets-1"
+    },
+    {
+     "section": "markets",
+     "category": "美股",
+     "title": "聯準會會議紀要：幾乎所有官員認為可能需要再升息，少數人提議 12 月升息幅度超過一碼；多人視 AI 建設為通膨風險",
+     "anchor": "markets-2"
+    },
+    {
+     "section": "markets",
+     "category": "台股",
+     "title": "台股輝達財報後開高震盪近 1,700 點，終場小漲 103 點收 40,194 點；台積電漲 5 元",
+     "anchor": "markets-3"
+    },
+    {
+     "section": "ai",
+     "category": "產業與投資",
+     "title": "Anthropic IPO 以每股 83 美元定價，高於原訂區間，估值約 1.5 兆美元；今晚在那斯達克掛牌",
+     "anchor": "ai-1"
+    },
+    {
+     "section": "ai",
+     "category": "晶片與算力",
+     "title": "輝達代理執行長：已停止對中國出貨經美國核准的 Hopper 資料中心晶片",
+     "anchor": "ai-2"
+    }
+   ]
+  },
+  {
    "date": "2026-11-18",
    "title": "🌏 每日早報｜2026/11/18",
    "items": [
