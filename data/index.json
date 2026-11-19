@@ -22,6 +22,72 @@
  },
  "days": [
   {
+   "date": "2026-11-20",
+   "title": "🌏 每日早報｜2026/11/20",
+   "items": [
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "川習普首次三方會談在深圳舉行 81 分鐘，重申「核戰沒有贏家」但無重大突破；普丁排除與烏克蘭直接談判",
+     "anchor": "world-1"
+    },
+    {
+     "section": "world",
+     "category": "台灣與亞太",
+     "title": "川習雙邊會談：中方稱習近平要美國在台灣問題上「做正確的事」，並稱川普表示不支持台獨；貿易休戰延長無進展",
+     "anchor": "world-2"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "國際法院裁定緬甸對羅興亞人犯下種族滅絕罪，為該院首度認定國家犯下種族滅絕",
+     "anchor": "world-3"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "美防長赫格塞斯突訪委內瑞拉，宣布兩國簽署軍事合作協議",
+     "anchor": "world-4"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "以色列坦克越過加薩停火「黃線」，為停火以來首次大規模地面推進，數千人再度逃離",
+     "anchor": "world-5"
+    },
+    {
+     "section": "markets",
+     "category": "美股",
+     "title": "美股重挫：道瓊暴跌逾 1,100 點，標普 500 連六跌、創 2024 年以來最長連跌；Anthropic 上市未能提振 AI 類股",
+     "anchor": "markets-1"
+    },
+    {
+     "section": "markets",
+     "category": "台股",
+     "title": "台股重挫 1,768 點、跌 4.4%，收 38,426 點創史上第七大跌點並跌破年線；台積電跌 75 元",
+     "anchor": "markets-2"
+    },
+    {
+     "section": "ai",
+     "category": "產業與投資",
+     "title": "Anthropic 那斯達克掛牌首日收 97.17 美元，較承銷價漲約 17%；募資約 810 億美元創紀錄",
+     "anchor": "ai-1"
+    },
+    {
+     "section": "ai",
+     "category": "模型與產品",
+     "title": "Google 推出 Gemini 4 Neon，定位介於 Carbon 與 Hydrogen 之間，主打以較低成本達到旗艦級表現",
+     "anchor": "ai-2"
+    },
+    {
+     "section": "ai",
+     "category": "產業與投資",
+     "title": "Palo Alto Networks 以約 45 億美元全股票收購 AI 新創 Applied Compute，布局企業開源權重模型",
+     "anchor": "ai-3"
+    }
+   ]
+  },
+  {
    "date": "2026-11-19",
    "title": "🌏 每日早報｜2026/11/19",
    "items": [

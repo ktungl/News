@@ -1,0 +1,510 @@
+{
+  "date": "2026-11-20",
+  "title": "🌏 每日早報｜2026/11/20",
+  "generated_at": "2026-11-20T07:30:00+08:00",
+  "sections": [
+    {
+      "id": "world",
+      "name": "國際新聞",
+      "items": [
+        {
+          "title": "川習普首次三方會談在深圳舉行 81 分鐘，重申「核戰沒有贏家」但無重大突破；普丁排除與烏克蘭直接談判",
+          "category": "國際政治與地緣",
+          "summary": "延續前幾天報導。美國總統川普、中國國家主席習近平與俄羅斯總統普丁 11/19 在深圳 APEC 場邊舉行三人首次三方會談，據 CNN 報導歷時 81 分鐘，未有外交突破。克里姆林宮發布三方聯合聲明，重申「核戰沒有贏家」；美國外交關係協會（CFR）專家認為，最具意義的成果可能是承諾就降低核風險與防止核擴散展開對話，但聲明未觸及烏克蘭與伊朗等關鍵問題。會談雖討論了俄烏戰爭，但會後唯一重要表態是普丁排除與烏克蘭直接談判。川普以「滿分 10 分給 12 分」形容會談，俄方則稱氣氛良好。川普預計 11/20 返美途中向媒體說明。",
+          "why": "三強首度同桌只換得原則性核聲明，顯示烏克蘭與伊朗問題短期難解，地緣風險仍將牽動能源與金融市場。",
+          "glossary": [
+            {
+              "term": "核擴散",
+              "def": "核武或製造核武的技術、材料擴散到更多國家或團體，是國際安全的重大議題。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "CBS News: Trump, Xi and Putin sit down for a rare 3-way meeting in China, but appear to achieve little",
+              "url": "https://www.cbsnews.com/news/trump-xi-putin-china-apec-summit/"
+            },
+            {
+              "title": "CFR: Six Experts on the Significance of Trump, Xi, and Putin's First Trilateral Meeting",
+              "url": "https://www.cfr.org/articles/six-experts-on-what-trump-xi-and-putins-first-trilateral-means"
+            },
+            {
+              "title": "CNN: Live updates: Trump to brief press Friday as he heads home after historic meeting with 'friends' Xi and Putin",
+              "url": "https://www.cnn.com/2026/11/17/politics/live-news/trump-visit-china-philippines"
+            },
+            {
+              "title": "NBC News: Trump leaves China after historic summit with Xi and Putin",
+              "url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-xi-putin-china-apec-congress-2026-live-updates-rcna609888"
+            }
+          ]
+        },
+        {
+          "title": "川習雙邊會談：中方稱習近平要美國在台灣問題上「做正確的事」，並稱川普表示不支持台獨；貿易休戰延長無進展",
+          "category": "台灣與亞太",
+          "summary": "川普與習近平 11/19 在深圳舉行雙邊會談。據中方紀要，習近平敦促美方在台灣問題上繼續「做正確的事」，以避免兩國關係出現重大動盪；中方紀要並稱川普表示美國不支持「台灣獨立」。截至報導時白宮未發布書面聲明，這段說法僅為北京單方版本。貿易方面，去年釜山會談達成的貿易休戰將於明年 1 月到期，CFR 專家認為此次會談在延長休戰上進展有限；美方在峰會前幾天才提議擴大半導體出口管制。雙方也討論荷莫茲海峽油運與伊朗問題，川普稱將要求中國擴大採購農產品。（註：川普對台灣的表態僅見中方紀要，美方未證實。）",
+          "why": "美中領袖對台灣的表述直接牽動台海情勢，貿易休戰到期與半導體管制也關係台灣科技業出口與供應鏈布局。",
+          "glossary": [
+            {
+              "term": "貿易休戰",
+              "def": "美中雙方暫停加徵關稅或報復措施的階段性協議，通常設有到期日。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "Nikkei Asia: Xi tells Trump to 'do right thing' on Taiwan as trade truce remains in flux",
+              "url": "https://asia.nikkei.com/politics/international-relations/apec/xi-tells-trump-to-do-right-thing-on-taiwan-as-trade-truce-remains-in-flux"
+            },
+            {
+              "title": "Fortune: What's at stake for Trump and Xi in Shenzhen: A trade truce deadline, new export controls, and Iran",
+              "url": "https://fortune.com/2026/11/18/trump-xi-putin-shenzhen-apec-trade-truce-export-controls/"
+            },
+            {
+              "title": "CFR: Six Experts on the Significance of Trump, Xi, and Putin's First Trilateral Meeting",
+              "url": "https://www.cfr.org/articles/six-experts-on-what-trump-xi-and-putins-first-trilateral-means"
+            }
+          ]
+        },
+        {
+          "title": "國際法院裁定緬甸對羅興亞人犯下種族滅絕罪，為該院首度認定國家犯下種族滅絕",
+          "category": "國際政治與地緣",
+          "summary": "聯合國國際法院（ICJ）11/19 以 9 比 6 裁定，緬甸對羅興亞人犯下種族滅絕罪，認定從緬甸的行為來看，唯一合理推論是其意圖摧毀若開邦北部相當部分的羅興亞人。這是國際法院約 80 年來首次認定一個國家依 1948 年《防止及懲治滅絕種族罪公約》須負種族滅絕責任。法院命令緬甸讓流離失所的羅興亞人安全返鄉、保護其免受歧視，但未命令給予所有羅興亞人公民身分；賠償將另行決定，緬甸須在兩年內向法院報告。本案由甘比亞於 2019 年提起。國際法院本身沒有強制執行判決的手段。",
+          "why": "國際最高法院首度認定國家犯下種族滅絕，將成為國際法重要判例，也增加緬甸軍政府的國際壓力。",
+          "glossary": [
+            {
+              "term": "國際法院",
+              "def": "聯合國主要司法機關，位於荷蘭海牙，處理國家間的法律爭端。"
+            },
+            {
+              "term": "種族滅絕",
+              "def": "意圖全部或局部消滅某一民族、族裔、種族或宗教團體的行為，是國際法上最嚴重的罪行之一。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "Al Jazeera: UN's top court finds Myanmar guilty of genocide against Rohingya",
+              "url": "https://www.aljazeera.com/news/2026/11/19/un-top-court-finds-myanmar-killed-10000-rohingya-as-it-rules-on-genocide"
+            },
+            {
+              "title": "Al Jazeera: What the ICJ genocide ruling means for the Rohingya people",
+              "url": "https://www.aljazeera.com/news/2026/11/19/what-the-icj-ruling-means-for-the-rohingya"
+            },
+            {
+              "title": "ASIL: ICJ Rules Myanmar Committed Genocide Against Rohingya",
+              "url": "https://asil.org/ilib/icj-rules-myanmar-committed-genocide-against-rohingya/"
+            },
+            {
+              "title": "Truthout: ICJ Finds Myanmar Guilty of Committing Genocide Against Rohingya Muslims",
+              "url": "https://truthout.org/articles/icj-finds-myanmar-guilty-of-committing-genocide-against-rohingya-muslims/"
+            }
+          ]
+        },
+        {
+          "title": "美防長赫格塞斯突訪委內瑞拉，宣布兩國簽署軍事合作協議",
+          "category": "國際政治與地緣",
+          "summary": "美國國防部長赫格塞斯 11/18 突訪委內瑞拉首都卡拉卡斯，與代理總統羅德里格斯在總統府宣布兩國簽署軍事合作協議，內容包括聯合訓練、情報分享等，並將大幅增加打擊販毒集團的聯合行動。這是自今年 1 月美國行動推翻馬杜洛以來，美國防長首次訪委。羅德里格斯表示協議有助共同應對威脅、加強委國軍隊訓練。五角大廈未事先公布行程，也未提供協議細節。據路透報導，赫格塞斯提到美委石油協議可降低西半球對荷莫茲海峽的依賴，並援引新版門羅主義。",
+          "why": "美國重塑與委內瑞拉的軍事與能源關係，顯示華府在中東動盪下加強經營西半球能源與安全布局。",
+          "glossary": [
+            {
+              "term": "門羅主義",
+              "def": "1823 年美國提出的外交原則，主張反對歐洲列強干涉美洲事務，後被視為美國主導西半球的政策基礎。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "US News (Reuters): Hegseth, in Caracas, Announces US-Venezuela Military Partnership Agreement",
+              "url": "https://www.usnews.com/news/world/articles/2026-11-18/us-defense-secretary-hegseth-vows-to-boost-venezuela-military-cooperation"
+            },
+            {
+              "title": "Yahoo News (AP): US and Venezuela sign a deal to reestablish military ties, Hegseth says in visit to Caracas",
+              "url": "https://www.yahoo.com/news/world/articles/hegseth-venezuela-meet-interim-authorities-162255387.html"
+            },
+            {
+              "title": "Al Jazeera: US Defence Secretary Hegseth reveals military partnership on Venezuela trip",
+              "url": "https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela"
+            },
+            {
+              "title": "Air & Space Forces Magazine: Hegseth Makes Surprise Visit to Venezuela to Strengthen Military Ties",
+              "url": "https://www.airandspaceforces.com/hegseth-makes-surprise-visit-venezuela-to-strengthen-military-ties/"
+            }
+          ]
+        },
+        {
+          "title": "以色列坦克越過加薩停火「黃線」，為停火以來首次大規模地面推進，數千人再度逃離",
+          "category": "國際政治與地緣",
+          "summary": "以色列軍隊 11/18 出動坦克、部隊與裝甲推土機越過加薩中部的停火「黃線」向西推進，多家媒體形容這是 2025 年 10 月停火以來首次大規模越線地面行動。以軍表示是在摧毀威脅部隊的地道，並暫時封閉部分薩拉丁路。加薩政府媒體辦公室估計約 6,000 人逃離，此數字未獲獨立證實；巴勒斯坦醫護人員稱附近一次空襲造成 1 人死亡。以色列國防部長卡茨表示，軍方準備奪取更多土地，並將占領區域設為永久安全區。各家報導對推進距離說法不一。（註：逃離人數出自加薩當局，未獲獨立證實。）",
+          "why": "停火線遭突破可能動搖加薩停火，增加中東局勢升溫風險。",
+          "glossary": [
+            {
+              "term": "黃線",
+              "def": "加薩停火協議劃定的以軍撤退界線，以軍須留在線的東側。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "Democracy Now!: Israeli Tanks and Bulldozers Push Past Gaza's 'Yellow Line,' Further Displacing Palestinians",
+              "url": "https://www.democracynow.org/2026/11/19/headlines/israeli_tanks_and_bulldozers_push_past_gazas_yellow_line_further_displacing_palestinians"
+            },
+            {
+              "title": "The Week: Israeli forces cross Gaza Yellow Line again; first major incursion since ceasefire",
+              "url": "https://www.theweek.in/news/middle-east/2026/11/19/israeli-forces-cross-gaza-yellow-line-again-first-major-incursion-since-ceasefire.html"
+            },
+            {
+              "title": "P.M. News: Israeli tanks roll into central Gaza despite ceasefire",
+              "url": "https://pmnewsnigeria.com/2026/11/19/israeli-tanks-roll-into-central-gaza-despite-ceasefire/"
+            },
+            {
+              "title": "Latin Times: Israeli forces reportedly crossed Gaza's yellow-line ceasefire boundary",
+              "url": "https://www.latintimes.com/israeli-forces-cross-gaza-ceasefire-line-601567"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "name": "股市觀察（美股・台股）",
+      "items": [
+        {
+          "title": "美股重挫：道瓊暴跌逾 1,100 點，標普 500 連六跌、創 2024 年以來最長連跌；Anthropic 上市未能提振 AI 類股",
+          "category": "美股",
+          "summary": "美股 11/19 尾盤賣壓擴大。據 CNBC，道瓊工業指數跌 1,101.11 點（2.19%）收 49,097.06 點；標普 500 指數跌約 2.0% 收約 7,176 點，連續第六個交易日下跌，為 2024 年以來最長連跌；那斯達克指數跌約 2.2% 收約 23,880 點，各家報導的收盤數字略有差異。報導指出，Anthropic 上市未能重振 AI 交易，加上聯準會會議紀要偏鷹，壓抑市場情緒。沃爾瑪財報優於預期並上調全年財測，調整後每股盈餘 0.65 美元、營收 1,888.4 億美元，但股價仍下跌約 1%。",
+          "why": "美股連跌加劇、科技股修正擴大，外資對亞洲科技股的賣壓恐難以緩解。",
+          "glossary": [
+            {
+              "term": "連跌",
+              "def": "指數連續多個交易日收低，連跌天數愈長代表賣壓愈持續。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "The Motley Fool: Stock Market Today, Nov. 19: Dow Plunges 1,100 Points as the S&P 500 Suffers Its 6th Straight Day of Losses",
+              "url": "https://www.fool.com/coverage/stock-market-today/2026/11/19/stock-market-today-nov-19-dow-plunges-1-100-points-as-the-s-and-p-500-suffers-its-6th-straight-day-of-losses/"
+            },
+            {
+              "title": "CNBC: Stock market news for Nov. 19, 2026",
+              "url": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html"
+            },
+            {
+              "title": "Yahoo Finance: Stock market today: Dow sinks 1,100 points, S&P 500 and Nasdaq tank 2% as Anthropic IPO grabs spotlight",
+              "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
+            },
+            {
+              "title": "Benzinga: Dow Tumbles 900 Points; Walmart Raises Full-Year Guidance",
+              "url": "https://benzinga.com/markets/market-summary/26/11/63451962/dow-tumbles-900-points-walmart-raises-full-year-guidance"
+            },
+            {
+              "title": "The Weekend Spread: The Close: Thursday, November 19, 2026",
+              "url": "https://theweekendspread.substack.com/p/the-close-thursday-november-19-2026"
+            }
+          ]
+        },
+        {
+          "title": "台股重挫 1,768 點、跌 4.4%，收 38,426 點創史上第七大跌點並跌破年線；台積電跌 75 元",
+          "category": "台股",
+          "summary": "台股 11/19 收盤下跌 1,768.02 點、跌幅 4.4%，收 38,426.89 點，成交金額約 8,953 億元，為史上第七大跌點，指數並跌破年線。台積電收 2,100 元，跌 75 元、跌幅 3.45%。法人方面，外資賣超 243.12 億元，連續第四天賣超；三大法人合計賣超 461.03 億元，投信則逆勢買超約 15.12 億元。據報導，外資對台積電已連續多日賣超；TVBS 報導外資本週累計賣超逾 2,000 億元。",
+          "why": "台股跌破年線且外資持續提款，技術面與籌碼面同步轉弱，短線止跌難度提高。",
+          "glossary": [
+            {
+              "term": "年線",
+              "def": "過去約 240 個交易日的平均收盤價，常被視為長期多空分界。"
+            },
+            {
+              "term": "三大法人",
+              "def": "外資、投信與自營商的合稱，其買賣動向常被視為台股風向指標。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "經濟日報：擋不住的賣壓！台股收盤摜破39K 下跌1,768點 台積電收低75元",
+              "url": "https://money.udn.com/money/story/5607/9888887"
+            },
+            {
+              "title": "風傳媒：三大法人聯手賣超461億元！台股暴跌1768點，外資連3賣、投信逆勢加碼15億元",
+              "url": "https://www.storm.mg/article/11183143"
+            },
+            {
+              "title": "NOWnews：台股收盤重挫1768點！加權指數跌至38426點 台積電收跌75元",
+              "url": "https://www.nownews.com/news/6893689"
+            },
+            {
+              "title": "ETtoday：台股史上第7慘！單日崩1768點 台積電跌75元收2100",
+              "url": "https://finance.ettoday.net/news/3274917"
+            },
+            {
+              "title": "Yahoo股市：外資連4賣提款243億元 大砍主動式ETF、連6賣台積電",
+              "url": "https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E9%80%A34%E8%B3%A3%E6%8F%90%E6%AC%BE243%E5%84%84%E5%85%83-%E5%A4%A7%E7%A0%8D%E4%B8%BB%E5%8B%95%E5%BC%8Fetf-%E9%80%A36%E8%B3%A3%E5%8F%B0%E7%A9%8D%E9%9B%BB-110832927.html"
+            },
+            {
+              "title": "TVBS：台股大跌創史上第7慘！外資週砍逾2千億 1檔遭倒貨9.2萬張",
+              "url": "https://news.tvbs.com.tw/money/4053122"
+            }
+          ]
+        }
+      ],
+      "mood": "偏空、恐慌",
+      "outlook": "偏空因素：美股道瓊暴跌逾 1,100 點、標普 500 連六跌；台股重挫 1,768 點、跌破年線，外資連四賣；聯準會偏鷹、12 月升息預期升溫；川習普會談無重大突破，美中貿易休戰明年 1 月到期仍無進展；以軍越過加薩停火線、中東局勢持續緊張。偏多因素：Anthropic 首日收漲約 17%，顯示資金仍追逐頂尖 AI 公司；沃爾瑪財報優於預期、上調財測，美國消費仍具韌性。今日關鍵：外資賣壓是否趨緩，以及川普返美途中的說明。整體偏空，市場情緒偏恐慌。以上僅整理市場資訊與各方觀點，不構成投資建議。"
+    },
+    {
+      "id": "ai",
+      "name": "AI 科技發展",
+      "items": [
+        {
+          "title": "Anthropic 那斯達克掛牌首日收 97.17 美元，較承銷價漲約 17%；募資約 810 億美元創紀錄",
+          "category": "產業與投資",
+          "summary": "延續前幾天報導。Anthropic 11/19 以代號「ANT」在那斯達克掛牌，開盤價 111.50 美元，盤中最高 114.99 美元，收盤 97.17 美元，較每股 83 美元的承銷價上漲約 17%。公司最終發行 9.8 億股，高於原計畫的 8.25 億股，以 83 美元計募資約 810 億美元，被多家媒體形容為史上最大 IPO。不過 Anthropic 的亮眼表現未能阻止大盤下跌，當天美股主要指數均跌約 2%。",
+          "why": "頂尖 AI 公司上市首日收紅，顯示資金對 AI 龍頭仍有需求，但開高走低與大盤重挫也反映市場對 AI 估值的分歧。",
+          "glossary": [
+            {
+              "term": "承銷價",
+              "def": "IPO 時投資人認購新股的價格，掛牌後的漲跌常以此為比較基準。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "CNBC: Anthropic closes first day at $97.17 per share in landmark moment for AI",
+              "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html"
+            },
+            {
+              "title": "CBS News: Anthropic shares gain 17% on first day of trading after record IPO",
+              "url": "https://www.cbsnews.com/news/anthropic-ipo-nasdaq-debut-claude-ai/"
+            },
+            {
+              "title": "BNN Bloomberg: Anthropic closes first day of trading at US$97.17",
+              "url": "https://www.bnnbloomberg.ca/business/company-news/2026/11/19/anthropic-set-to-begin-trading-as-a-us15-trillion-company-in-the-biggest-ipo-on-record/"
+            },
+            {
+              "title": "Forbes: Anthropic IPO Live: Stock Closes Day At $97—Up More Than 17%",
+              "url": "https://www.forbes.com/sites/fionariley/2026/11/19/anthropic-ipo-live-stock-closes-day-at-97-up-more-than-17/"
+            },
+            {
+              "title": "NBC News: Live updates: Anthropic's record-setting IPO can't halt broader market slide",
+              "url": "https://www.nbcnews.com/business/markets/live-blog/anthropic-ipo-live-updates-rcna610159"
+            }
+          ]
+        },
+        {
+          "title": "Google 推出 Gemini 4 Neon，定位介於 Carbon 與 Hydrogen 之間，主打以較低成本達到旗艦級表現",
+          "category": "模型與產品",
+          "summary": "Google 11/18 推出 Gemini 4 Neon，定位在 Gemini 4 Carbon 與 Gemini 4 Hydrogen 之間，宣稱在程式、推理與代理任務上的表現與 Carbon 相當甚至更好，但速度接近 Flash 等級、成本較低。模型支援 100 萬詞元的上下文長度與四段思考強度，已開始透過 Gemini API、Google AI Studio、企業版 Gemini 與 Antigravity 推出，Pro 與 Ultra 訂閱用戶可在 Gemini app 選用；另計畫推出供資安防禦人員使用的版本。各家報導對定價與相較 Carbon 的成本說法不一。（註：效能為 Google 宣稱，定價說法不一。）",
+          "why": "各大模型商持續以「旗艦效能、較低價格」競爭，AI 推論成本下降將加速企業採用。",
+          "glossary": [
+            {
+              "term": "上下文長度",
+              "def": "模型單次可處理的輸入內容長度，愈長代表能一次讀取更多文件或程式碼。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "9to5Google: Google launches Gemini 4 Neon with Carbon quality at Flash speeds",
+              "url": "https://9to5google.com/2026/11/18/gemini-4-neon-announcement/"
+            },
+            {
+              "title": "GSMArena: Google launches Gemini 4 Neon, its new mid-tier AI model",
+              "url": "https://www.gsmarena.com/google_launches_gemini_4_neon_its_new_midtier_ai_model-news-75544.php"
+            },
+            {
+              "title": "Online Tech Tips: Google releases Gemini 4 Neon with faster frontier-level reasoning",
+              "url": "https://www.online-tech-tips.com/google-gemini-4-neon-release/"
+            }
+          ]
+        },
+        {
+          "title": "Palo Alto Networks 以約 45 億美元全股票收購 AI 新創 Applied Compute，布局企業開源權重模型",
+          "category": "產業與投資",
+          "summary": "資安公司 Palo Alto Networks 11/18 隨第一季財報宣布，以約 45 億美元全股票方式收購 AI 新創 Applied Compute，預計在其會計年度第三季完成。Applied Compute 提供平台，協助企業用自有資料調校開放權重模型並投入生產，Palo Alto 表示收購後將能為企業訓練、部署並保護這類模型；Applied Compute 共同創辦人兼執行長帕蒂爾將出任共同首席 AI 長。Palo Alto 預期到 2029 會計年度可為新世代資安業務增加逾 10 億美元的年度經常性收入，並上調全年財測。Applied Compute 上一輪融資估值為 32.5 億美元。消息公布後 Palo Alto 股價盤前大漲逾 9%。",
+          "why": "資安巨頭砸重金布局企業自建 AI 模型，顯示 AI 安全與私有化部署正成為企業 IT 支出重點。",
+          "glossary": [
+            {
+              "term": "年度經常性收入",
+              "def": "ARR，訂閱制企業每年可預期重複取得的收入，是衡量軟體公司成長的重要指標。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "Bloomberg: Palo Alto Networks to Acquire Applied Compute in $4.5 Billion All-Stock Deal",
+              "url": "https://www.bloomberg.com/news/articles/2026-11-18/palo-alto-networks-to-buy-applied-compute-in-4-5-billion-deal"
+            },
+            {
+              "title": "SecurityWeek: Palo Alto Networks to Buy AI Startup Applied Compute for $4.5 Billion",
+              "url": "https://www.securityweek.com/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion/"
+            },
+            {
+              "title": "CNBC: Palo Alto stock jumps on earnings beat and company's big bet on securing open-weight models",
+              "url": "https://www.cnbc.com/2026/11/19/palo-alto-networks-earnings-applied-compute.html"
+            },
+            {
+              "title": "CSO Online: Palo Alto Networks bets $4.5B on enterprise AI with Applied Compute acquisition",
+              "url": "https://www.csoonline.com/article/4250669/palo-alto-networks-bets-4-5b-on-enterprise-ai-with-applied-compute-acquisition.html"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "observation": "AI 與地緣兩條主線都沒有帶來好消息。Anthropic 掛牌首日收漲約 17%、募資規模創紀錄，但美股主要指數仍跌約 2%，標普 500 連六跌；台股重挫 1,768 點、跌破年線，外資持續賣超。聯準會偏鷹與 AI 估值疑慮交織，顯示市場正重新評估 AI 投資熱潮的風險。\n\n地緣上，川習普首次三方會談只得到「核戰沒有贏家」的原則性聲明，烏克蘭與伊朗問題未有進展；中方紀要稱川普表示不支持台獨，美方尚未證實，台灣應密切關注美方後續說法與貿易休戰談判。國際法院首度認定國家犯下種族滅絕，以軍越過加薩停火線，國際秩序壓力持續。\n\n今日可關注：川普返美說明、外資動向與美股能否止跌。",
+  "sources": [
+    {
+      "title": "CBS News: Trump, Xi and Putin sit down for a rare 3-way meeting in China, but appear to achieve little",
+      "url": "https://www.cbsnews.com/news/trump-xi-putin-china-apec-summit/"
+    },
+    {
+      "title": "CFR: Six Experts on the Significance of Trump, Xi, and Putin's First Trilateral Meeting",
+      "url": "https://www.cfr.org/articles/six-experts-on-what-trump-xi-and-putins-first-trilateral-means"
+    },
+    {
+      "title": "CNN: Live updates: Trump to brief press Friday as he heads home after historic meeting with 'friends' Xi and Putin",
+      "url": "https://www.cnn.com/2026/11/17/politics/live-news/trump-visit-china-philippines"
+    },
+    {
+      "title": "NBC News: Trump leaves China after historic summit with Xi and Putin",
+      "url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-xi-putin-china-apec-congress-2026-live-updates-rcna609888"
+    },
+    {
+      "title": "Nikkei Asia: Xi tells Trump to 'do right thing' on Taiwan as trade truce remains in flux",
+      "url": "https://asia.nikkei.com/politics/international-relations/apec/xi-tells-trump-to-do-right-thing-on-taiwan-as-trade-truce-remains-in-flux"
+    },
+    {
+      "title": "Fortune: What's at stake for Trump and Xi in Shenzhen: A trade truce deadline, new export controls, and Iran",
+      "url": "https://fortune.com/2026/11/18/trump-xi-putin-shenzhen-apec-trade-truce-export-controls/"
+    },
+    {
+      "title": "Al Jazeera: UN's top court finds Myanmar guilty of genocide against Rohingya",
+      "url": "https://www.aljazeera.com/news/2026/11/19/un-top-court-finds-myanmar-killed-10000-rohingya-as-it-rules-on-genocide"
+    },
+    {
+      "title": "Al Jazeera: What the ICJ genocide ruling means for the Rohingya people",
+      "url": "https://www.aljazeera.com/news/2026/11/19/what-the-icj-ruling-means-for-the-rohingya"
+    },
+    {
+      "title": "ASIL: ICJ Rules Myanmar Committed Genocide Against Rohingya",
+      "url": "https://asil.org/ilib/icj-rules-myanmar-committed-genocide-against-rohingya/"
+    },
+    {
+      "title": "Truthout: ICJ Finds Myanmar Guilty of Committing Genocide Against Rohingya Muslims",
+      "url": "https://truthout.org/articles/icj-finds-myanmar-guilty-of-committing-genocide-against-rohingya-muslims/"
+    },
+    {
+      "title": "US News (Reuters): Hegseth, in Caracas, Announces US-Venezuela Military Partnership Agreement",
+      "url": "https://www.usnews.com/news/world/articles/2026-11-18/us-defense-secretary-hegseth-vows-to-boost-venezuela-military-cooperation"
+    },
+    {
+      "title": "Yahoo News (AP): US and Venezuela sign a deal to reestablish military ties, Hegseth says in visit to Caracas",
+      "url": "https://www.yahoo.com/news/world/articles/hegseth-venezuela-meet-interim-authorities-162255387.html"
+    },
+    {
+      "title": "Al Jazeera: US Defence Secretary Hegseth reveals military partnership on Venezuela trip",
+      "url": "https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela"
+    },
+    {
+      "title": "Air & Space Forces Magazine: Hegseth Makes Surprise Visit to Venezuela to Strengthen Military Ties",
+      "url": "https://www.airandspaceforces.com/hegseth-makes-surprise-visit-venezuela-to-strengthen-military-ties/"
+    },
+    {
+      "title": "Democracy Now!: Israeli Tanks and Bulldozers Push Past Gaza's 'Yellow Line,' Further Displacing Palestinians",
+      "url": "https://www.democracynow.org/2026/11/19/headlines/israeli_tanks_and_bulldozers_push_past_gazas_yellow_line_further_displacing_palestinians"
+    },
+    {
+      "title": "The Week: Israeli forces cross Gaza Yellow Line again; first major incursion since ceasefire",
+      "url": "https://www.theweek.in/news/middle-east/2026/11/19/israeli-forces-cross-gaza-yellow-line-again-first-major-incursion-since-ceasefire.html"
+    },
+    {
+      "title": "P.M. News: Israeli tanks roll into central Gaza despite ceasefire",
+      "url": "https://pmnewsnigeria.com/2026/11/19/israeli-tanks-roll-into-central-gaza-despite-ceasefire/"
+    },
+    {
+      "title": "Latin Times: Israeli forces reportedly crossed Gaza's yellow-line ceasefire boundary",
+      "url": "https://www.latintimes.com/israeli-forces-cross-gaza-ceasefire-line-601567"
+    },
+    {
+      "title": "The Motley Fool: Stock Market Today, Nov. 19: Dow Plunges 1,100 Points as the S&P 500 Suffers Its 6th Straight Day of Losses",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/19/stock-market-today-nov-19-dow-plunges-1-100-points-as-the-s-and-p-500-suffers-its-6th-straight-day-of-losses/"
+    },
+    {
+      "title": "CNBC: Stock market news for Nov. 19, 2026",
+      "url": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html"
+    },
+    {
+      "title": "Yahoo Finance: Stock market today: Dow sinks 1,100 points, S&P 500 and Nasdaq tank 2% as Anthropic IPO grabs spotlight",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
+    },
+    {
+      "title": "Benzinga: Dow Tumbles 900 Points; Walmart Raises Full-Year Guidance",
+      "url": "https://benzinga.com/markets/market-summary/26/11/63451962/dow-tumbles-900-points-walmart-raises-full-year-guidance"
+    },
+    {
+      "title": "The Weekend Spread: The Close: Thursday, November 19, 2026",
+      "url": "https://theweekendspread.substack.com/p/the-close-thursday-november-19-2026"
+    },
+    {
+      "title": "經濟日報：擋不住的賣壓！台股收盤摜破39K 下跌1,768點 台積電收低75元",
+      "url": "https://money.udn.com/money/story/5607/9888887"
+    },
+    {
+      "title": "風傳媒：三大法人聯手賣超461億元！台股暴跌1768點，外資連3賣、投信逆勢加碼15億元",
+      "url": "https://www.storm.mg/article/11183143"
+    },
+    {
+      "title": "NOWnews：台股收盤重挫1768點！加權指數跌至38426點 台積電收跌75元",
+      "url": "https://www.nownews.com/news/6893689"
+    },
+    {
+      "title": "ETtoday：台股史上第7慘！單日崩1768點 台積電跌75元收2100",
+      "url": "https://finance.ettoday.net/news/3274917"
+    },
+    {
+      "title": "Yahoo股市：外資連4賣提款243億元 大砍主動式ETF、連6賣台積電",
+      "url": "https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E9%80%A34%E8%B3%A3%E6%8F%90%E6%AC%BE243%E5%84%84%E5%85%83-%E5%A4%A7%E7%A0%8D%E4%B8%BB%E5%8B%95%E5%BC%8Fetf-%E9%80%A36%E8%B3%A3%E5%8F%B0%E7%A9%8D%E9%9B%BB-110832927.html"
+    },
+    {
+      "title": "TVBS：台股大跌創史上第7慘！外資週砍逾2千億 1檔遭倒貨9.2萬張",
+      "url": "https://news.tvbs.com.tw/money/4053122"
+    },
+    {
+      "title": "CNBC: Anthropic closes first day at $97.17 per share in landmark moment for AI",
+      "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html"
+    },
+    {
+      "title": "CBS News: Anthropic shares gain 17% on first day of trading after record IPO",
+      "url": "https://www.cbsnews.com/news/anthropic-ipo-nasdaq-debut-claude-ai/"
+    },
+    {
+      "title": "BNN Bloomberg: Anthropic closes first day of trading at US$97.17",
+      "url": "https://www.bnnbloomberg.ca/business/company-news/2026/11/19/anthropic-set-to-begin-trading-as-a-us15-trillion-company-in-the-biggest-ipo-on-record/"
+    },
+    {
+      "title": "Forbes: Anthropic IPO Live: Stock Closes Day At $97—Up More Than 17%",
+      "url": "https://www.forbes.com/sites/fionariley/2026/11/19/anthropic-ipo-live-stock-closes-day-at-97-up-more-than-17/"
+    },
+    {
+      "title": "NBC News: Live updates: Anthropic's record-setting IPO can't halt broader market slide",
+      "url": "https://www.nbcnews.com/business/markets/live-blog/anthropic-ipo-live-updates-rcna610159"
+    },
+    {
+      "title": "9to5Google: Google launches Gemini 4 Neon with Carbon quality at Flash speeds",
+      "url": "https://9to5google.com/2026/11/18/gemini-4-neon-announcement/"
+    },
+    {
+      "title": "GSMArena: Google launches Gemini 4 Neon, its new mid-tier AI model",
+      "url": "https://www.gsmarena.com/google_launches_gemini_4_neon_its_new_midtier_ai_model-news-75544.php"
+    },
+    {
+      "title": "Online Tech Tips: Google releases Gemini 4 Neon with faster frontier-level reasoning",
+      "url": "https://www.online-tech-tips.com/google-gemini-4-neon-release/"
+    },
+    {
+      "title": "Bloomberg: Palo Alto Networks to Acquire Applied Compute in $4.5 Billion All-Stock Deal",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/palo-alto-networks-to-buy-applied-compute-in-4-5-billion-deal"
+    },
+    {
+      "title": "SecurityWeek: Palo Alto Networks to Buy AI Startup Applied Compute for $4.5 Billion",
+      "url": "https://www.securityweek.com/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion/"
+    },
+    {
+      "title": "CNBC: Palo Alto stock jumps on earnings beat and company's big bet on securing open-weight models",
+      "url": "https://www.cnbc.com/2026/11/19/palo-alto-networks-earnings-applied-compute.html"
+    },
+    {
+      "title": "CSO Online: Palo Alto Networks bets $4.5B on enterprise AI with Applied Compute acquisition",
+      "url": "https://www.csoonline.com/article/4250669/palo-alto-networks-bets-4-5b-on-enterprise-ai-with-applied-compute-acquisition.html"
+    }
+  ]
+}
