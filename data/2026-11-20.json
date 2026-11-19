@@ -166,7 +166,7 @@
         {
           "title": "美股重挫：道瓊暴跌逾 1,100 點，標普 500 連六跌、創 2024 年以來最長連跌；Anthropic 上市未能提振 AI 類股",
           "category": "美股",
-          "summary": "美股 11/19 尾盤賣壓擴大。據 CNBC，道瓊工業指數跌 1,101.11 點（2.19%）收 49,097.06 點；標普 500 指數跌約 2.0% 收約 7,176 點，連續第六個交易日下跌，為 2024 年以來最長連跌；那斯達克指數跌約 2.2% 收約 23,880 點，各家報導的收盤數字略有差異。報導指出，Anthropic 上市未能重振 AI 交易，加上聯準會會議紀要偏鷹，壓抑市場情緒。沃爾瑪財報優於預期並上調全年財測，調整後每股盈餘 0.65 美元、營收 1,888.4 億美元，但股價仍下跌約 1%。",
+          "summary": "美股 11/19 尾盤賣壓擴大。據 CNBC，道瓊工業指數跌 1,101.11 點（2.19%）收 49,097.06 點；標普 500 指數跌約 2.0% 收約 7,176 點，連續第六個交易日下跌，為 2024 年以來最長連跌；那斯達克指數跌約 2.2% 收約 23,880 點，各家報導的收盤數字略有差異。報導指出，Anthropic 上市未能重振 AI 交易，加上聯準會會議紀要偏鷹，壓抑市場情緒。",
           "why": "美股連跌加劇、科技股修正擴大，外資對亞洲科技股的賣壓恐難以緩解。",
           "glossary": [
             {
@@ -186,14 +186,6 @@
             {
               "title": "Yahoo Finance: Stock market today: Dow sinks 1,100 points, S&P 500 and Nasdaq tank 2% as Anthropic IPO grabs spotlight",
               "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
-            },
-            {
-              "title": "Benzinga: Dow Tumbles 900 Points; Walmart Raises Full-Year Guidance",
-              "url": "https://benzinga.com/markets/market-summary/26/11/63451962/dow-tumbles-900-points-walmart-raises-full-year-guidance"
-            },
-            {
-              "title": "The Weekend Spread: The Close: Thursday, November 19, 2026",
-              "url": "https://theweekendspread.substack.com/p/the-close-thursday-november-19-2026"
             }
           ]
         },
@@ -236,6 +228,28 @@
             {
               "title": "TVBS：台股大跌創史上第7慘！外資週砍逾2千億 1檔遭倒貨9.2萬張",
               "url": "https://news.tvbs.com.tw/money/4053122"
+            }
+          ]
+        },
+        {
+          "title": "沃爾瑪財報優於預期並上調全年財測，股價仍逆勢小跌",
+          "category": "產業與個股",
+          "summary": "美國零售龍頭沃爾瑪 11/19 公布財報，調整後每股盈餘 0.65 美元，高於預估的 0.64 美元；營收 1,888.4 億美元，高於預估的 1,873.8 億美元，並上調全年財測。不過在大盤重挫下，沃爾瑪股價仍下跌 1.04%，收 126.04 美元。",
+          "why": "美國消費龍頭財報穩健，顯示實體經濟仍具韌性，與科技股的估值修正形成對比。",
+          "glossary": [
+            {
+              "term": "財測上調",
+              "def": "公司提高對全年營收或獲利的預估，通常代表管理層對前景較有信心。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "Benzinga: Dow Tumbles 900 Points; Walmart Raises Full-Year Guidance",
+              "url": "https://benzinga.com/markets/market-summary/26/11/63451962/dow-tumbles-900-points-walmart-raises-full-year-guidance"
+            },
+            {
+              "title": "The Weekend Spread: The Close: Thursday, November 19, 2026",
+              "url": "https://theweekendspread.substack.com/p/the-close-thursday-november-19-2026"
             }
           ]
         }
