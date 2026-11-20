@@ -22,6 +22,84 @@
  },
  "days": [
   {
+   "date": "2026-11-21",
+   "title": "🌏 每日早報｜2026/11/21",
+   "items": [
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "川普返美記者會盛讚與習近平、普丁關係「棒極了」，但峰會具體成果有限",
+     "anchor": "world-1"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "波蘭：兩枚疑似俄羅斯飛彈與一架無人機落入境內，圖斯克斥為「蓄意挑釁」，北約表態聲援",
+     "anchor": "world-2"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "愛沙尼亞決定 12/1 起關閉與俄羅斯所有陸路口岸至少六個月，指俄軍情局策劃縱火；莫斯科批「新鐵幕」",
+     "anchor": "world-3"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "索馬利亞驅逐阿聯大使、限 72 小時離境，指控阿聯「公然入侵」主權",
+     "anchor": "world-4"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "義大利最大工會發動全國大罷工，抗議梅洛尼政府工資與公共支出政策",
+     "anchor": "world-5"
+    },
+    {
+     "section": "world",
+     "category": "ESG／氣候與歐盟法規",
+     "title": "COP31 氣候峰會延長談判：最新草案刪除所有「轉型脫離化石燃料」文字，多國抗議",
+     "anchor": "world-6"
+    },
+    {
+     "section": "markets",
+     "category": "美股",
+     "title": "美股崩跌：那斯達克重挫逾 5%、抹去今年漲幅，標普 500 與道瓊進入修正",
+     "anchor": "markets-1"
+    },
+    {
+     "section": "markets",
+     "category": "台股",
+     "title": "台股崩跌 2,393 點、跌 6.23%，收 36,033 點創史上第三大跌點；國安基金與限空令仍難擋賣壓",
+     "anchor": "markets-2"
+    },
+    {
+     "section": "markets",
+     "category": "產業與個股",
+     "title": "輝達重挫逾 11%、創 52 週新低：路透報導美國證管會調查其會計問題",
+     "anchor": "markets-3"
+    },
+    {
+     "section": "ai",
+     "category": "晶片與算力",
+     "title": "博通重挫約 12%：郭明錤稱 Google 削減 2027 年 TPU 8i 訂單約兩成，轉向聯發科",
+     "anchor": "ai-1"
+    },
+    {
+     "section": "ai",
+     "category": "產業與投資",
+     "title": "Anthropic 掛牌第二天下跌約 9%，盤中一度逼近 83 美元承銷價",
+     "anchor": "ai-2"
+    },
+    {
+     "section": "ai",
+     "category": "政策與監管",
+     "title": "川普稱與習近平同意就 AI 建立「聯合護欄」，但未說明內容",
+     "anchor": "ai-3"
+    }
+   ]
+  },
+  {
    "date": "2026-11-20",
    "title": "🌏 每日早報｜2026/11/20",
    "items": [

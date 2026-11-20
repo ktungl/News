@@ -1,0 +1,582 @@
+{
+  "date": "2026-11-21",
+  "title": "🌏 每日早報｜2026/11/21",
+  "generated_at": "2026-11-21T07:30:00+08:00",
+  "sections": [
+    {
+      "id": "world",
+      "name": "國際新聞",
+      "items": [
+        {
+          "title": "川普返美記者會盛讚與習近平、普丁關係「棒極了」，但峰會具體成果有限",
+          "category": "國際政治與地緣",
+          "summary": "延續昨日報導。川普 11/20 在白宮與副總統范斯、國務卿盧比歐一同召開記者會，稱與習近平、普丁的關係「棒極了」，並以搭乘空軍一號創下最長航程自誇。盧比歐表示，擁有最大核武庫的三國領袖應定期對話。川普也透露與習近平同意就 AI 建立「聯合護欄」（詳見 AI 單元）；另據福斯新聞報導，三方會談記者離場後川普又與普丁另行會談。多家媒體評論，除了延續降低核風險對話等聯合聲明內容外，川普提出的具體成果不多。截至報導時，未見川普在記者會上就台灣問題回應中方紀要的說法。",
+          "why": "美方未正面回應中方紀要中有關台灣的表述，華府與北京後續說法仍是台灣須密切觀察的重點。",
+          "glossary": [
+            {
+              "term": "空軍一號",
+              "def": "美國總統搭乘的專機呼號。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "CBS News: Trump touts Asia deals and meeting with Xi and Putin at White House press conference",
+              "url": "https://www.cbsnews.com/live-updates/trump-press-conference-live-stream-2026-11-20/"
+            },
+            {
+              "title": "The Hill: Live updates: Trump, Vance and Rubio brief reporters on China summit",
+              "url": "https://thehill.com/homenews/administration/6232240-live-updates-trump-asia-trip-putin-xi-summit-gop-reconciliation-defense-spending/"
+            },
+            {
+              "title": "OPB (NPR): Trump touts meeting with Xi and Putin but offers little results",
+              "url": "https://www.opb.org/article/2026/11/20/trump-touts-meeting-with-xi-and-putin-but-offers-little-results/"
+            },
+            {
+              "title": "France 24: Trump hails 'fantastic' relationships with China's Xi, Russia's Putin after three-way talks",
+              "url": "https://www.france24.com/en/americas/20261120-watch-live-trump-holds-press-conference-meeting-xi-putin"
+            }
+          ]
+        },
+        {
+          "title": "波蘭：兩枚疑似俄羅斯飛彈與一架無人機落入境內，圖斯克斥為「蓄意挑釁」，北約表態聲援",
+          "category": "國際政治與地緣",
+          "summary": "俄羅斯 11/20 凌晨大舉空襲烏克蘭西部期間，波蘭國防部長科西尼亞克—卡梅什表示，有三個物體侵犯波蘭領空，可能是兩枚飛彈與一架噴射動力無人機；其中一枚 Kh-101 飛彈落在東南部諾維利波維茨的鄉間，無人機則墜毀在莫沃迪奇。總理圖斯克表示「可以確定掉下來的東西來自俄羅斯」，稱這是「蓄意挑釁」，可能與烏克蘭盟友當時在波蘭舉行的「志願聯盟」軍演有關，並將要求北約加強東翼支援。北約秘書長呂特稱事件「顯然很危險」，表示與波蘭團結一致。目前未有傷亡或關鍵基礎設施受損報告；俄羅斯駐華沙大使館未立即回應。（註：部分物體仍為「疑似」，官方調查中。）",
+          "why": "俄方武器落入北約成員國境內，升高俄烏戰爭外溢至北約的風險。",
+          "glossary": [
+            {
+              "term": "北約東翼",
+              "def": "北約在東歐靠近俄羅斯的成員國，包括波蘭與波羅的海三國等。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "The Hill: Poland says likely Russian missiles violated airspace",
+              "url": "https://thehill.com/policy/international/6233039-poland-accuses-russia-missile-drone-incursion/"
+            },
+            {
+              "title": "Kyiv Independent: 2 Russian Kh-101 missiles, drone, fall in Poland during Russian attack on Ukraine",
+              "url": "https://kyivindependent.com/poland-reports-airspace-violation-during-russian-attack-on-ukraine-investigates-debris-crash/"
+            },
+            {
+              "title": "Euronews: Tusk denounces Russian 'provocation' after Warsaw says missiles crash in Poland",
+              "url": "https://www.euronews.com/2026/11/20/unidentified-object-falls-in-eastern-poland-amid-major-russian-attack-on-ukraine"
+            },
+            {
+              "title": "RTÉ: Poland condemns Russian airspace 'provocation'",
+              "url": "https://www.rte.ie/news/2026/1120/1600008-poland-russia-airspace-violations/"
+            },
+            {
+              "title": "UPI: Russian missiles hit Poland amid military exercise",
+              "url": "https://www.upi.com/Top_News/World-News/2026/11/20/poland-russian-missiles-hit-poland/7571795188566/"
+            }
+          ]
+        },
+        {
+          "title": "愛沙尼亞決定 12/1 起關閉與俄羅斯所有陸路口岸至少六個月，指俄軍情局策劃縱火；莫斯科批「新鐵幕」",
+          "category": "國際政治與地緣",
+          "summary": "愛沙尼亞政府 11/20 決定自 12/1 起關閉與俄羅斯的所有陸路邊境口岸（納爾瓦、盧哈馬與科伊杜拉），據彭博報導為期至少六個月。愛沙尼亞安全部門指稱，俄羅斯軍事情報總局（GRU）下令對一家無人機製造商策劃縱火，但行動遭挫敗。總理米哈爾表示，俄國情報機構利用邊境口岸對民眾施加影響。俄羅斯則指控愛沙尼亞打造「新鐵幕」，並揚言回應。愛沙尼亞早在 11/15 就宣布將關閉邊境，11/20 正式拍板日期與範圍。",
+          "why": "歐盟國家以關閉邊境回應俄方破壞行動，顯示歐俄對立持續升級，波羅的海安全情勢趨緊。",
+          "glossary": [
+            {
+              "term": "軍事情報總局",
+              "def": "GRU，俄羅斯軍方情報機構，多次被西方指控在歐洲策劃破壞與暗殺行動。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "Bloomberg: Estonia to Close Border With Russia for Six Months After Sabotage Incidents",
+              "url": "https://www.bloomberg.com/news/articles/2026-11-20/estonia-to-close-russian-border-as-moscow-threatens-response"
+            },
+            {
+              "title": "Al Jazeera: Russia complains of 'new Iron Curtain' as Estonia shuts its borders",
+              "url": "https://www.aljazeera.com/news/2026/11/20/russia-complains-of-new-iron-curtain-as-estonia-shuts-its-borders"
+            },
+            {
+              "title": "Meduza: Estonia to close all road crossings with Russia",
+              "url": "https://meduza.io/en/news/2026/11/20/estonia-to-close-all-road-crossings-with-russia"
+            },
+            {
+              "title": "CNN: Estonia to shut its border with Russia, blaming Moscow for foiled arson plot",
+              "url": "https://www.cnn.com/2026/11/15/europe/estonia-close-russian-border-attack-intl"
+            },
+            {
+              "title": "EUobserver: Estonia's border closure makes Russia pay a price for alleged arson",
+              "url": "https://euobserver.com/249994/estonias-border-closure-makes-russia-pay-a-price-for-alleged-arson-as-sabotage-attacks-spread-across-the-eu/"
+            }
+          ]
+        },
+        {
+          "title": "索馬利亞驅逐阿聯大使、限 72 小時離境，指控阿聯「公然入侵」主權",
+          "category": "國際政治與地緣",
+          "summary": "索馬利亞內閣 11/19 決定驅逐阿拉伯聯合大公國駐索大使，限其 72 小時內離境，並召回駐阿聯大使。索國官員指控阿聯「公然入侵」主權，包括未經政府同意興建軍事基地、資助武裝團體與中央政府反對者；總統也指阿聯未經聯邦政府批准，就與柏培拉、博薩索、基斯馬尤等港口簽約。索馬利亞今年 1 月已廢止與阿聯的所有協議，阿聯當時也關閉駐摩加迪休使館。阿聯譴責索方「升高衝突且敵對」的做法，總統外交顧問加爾加什在 X 上稱索方說法是「攻擊」。",
+          "why": "非洲之角的港口與軍事部署牽動紅海航運安全，索阿關係惡化可能加劇區域權力競逐。",
+          "glossary": [
+            {
+              "term": "非洲之角",
+              "def": "非洲東北部突出的半島地區，包括索馬利亞、衣索比亞、厄利垂亞與吉布地，扼守紅海與亞丁灣航道。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "Al Jazeera: Somalia expels UAE ambassador, accuses Abu Dhabi of violating sovereignty",
+              "url": "https://www.aljazeera.com/news/2026/11/19/somalia-expels-uae-ambassador-accuses-abu-dhabi-of-violating-sovereignty"
+            },
+            {
+              "title": "Anadolu: Somalia orders UAE ambassador to leave within 72 hours",
+              "url": "https://www.aa.com.tr/en/africa/somalia-orders-uae-ambassador-to-leave-within-72-hours/4131043"
+            },
+            {
+              "title": "Middle East Eye: Somalia expels Emirati envoy, recalls own ambassador over 'open invasion'",
+              "url": "https://www.middleeasteye.net/news/somalia-expels-emirati-envoy-recalls-somali-counterpart-envoy-over-open-invasion"
+            },
+            {
+              "title": "Xinhua: Somalia expels UAE ambassador, recalls envoy from Abu Dhabi",
+              "url": "https://english.news.cn/20261120/fa989135cc90462892b2bbf4b49a6b0d/c.html"
+            }
+          ]
+        },
+        {
+          "title": "義大利最大工會發動全國大罷工，抗議梅洛尼政府工資與公共支出政策",
+          "category": "國際政治與地緣",
+          "summary": "義大利最大工會「義大利總工會」（CGIL）11/20 發動全國大罷工，抗議總理梅洛尼的經濟政策，要求提高工資並增加公共服務支出；工人與學生在逾 100 個城市遊行。國會正在審議規模約 260 億歐元的 2027 年預算，CGIL 認為不足以支撐所得與公共服務。工業部長烏爾索批評罷工是「先發制人」，稱工會在還不知道預算內容前就號召罷工，並表示預算仍可在國會修正。航空與鐵路不在這次罷工範圍內，另有一場鐵路罷工於當晚登場；其他工會未參加這次罷工。",
+          "why": "歐洲第三大經濟體勞資對立升溫，可能影響梅洛尼政府的預算審議與財政路線。",
+          "glossary": [
+            {
+              "term": "大罷工",
+              "def": "跨產業、全國性的罷工行動，通常由大型工會發起，以向政府施壓。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "Internazionale (Reuters): Thousands protest across Italy in strike over wages, public spending",
+              "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/20/thousands-protest-across-italy-in-strike-over-wages-public-spending"
+            },
+            {
+              "title": "Yahoo Finance (Reuters): Thousands protest across Italy in strike over wages, public spending",
+              "url": "https://sg.finance.yahoo.com/news/thousands-protest-across-italy-strike-101548571.html"
+            },
+            {
+              "title": "anews: Thousands protest across Italy in strike over wages, public spending",
+              "url": "https://www.anews.com.tr/world/2026/11/20/thousands-protest-across-italy-in-strike-over-wages-public-spending"
+            }
+          ]
+        },
+        {
+          "title": "COP31 氣候峰會延長談判：最新草案刪除所有「轉型脫離化石燃料」文字，多國抗議",
+          "category": "ESG／氣候與歐盟法規",
+          "summary": "在土耳其安塔利亞舉行的聯合國氣候峰會 COP31 原訂 11/20 閉幕，但因各國對化石燃料議題爭執不下而延長。最新草案刪除所有「轉型脫離化石燃料」的文字，也刪除每年 1,200 億美元的氣候調適融資目標；據報導這是在沙烏地阿拉伯等主要產油國反對後所做的修改。挪威等國堅持最終宣言須保留過去峰會已同意的化石燃料轉型文字。另有報導指出，草案把東道主主打的電力目標改為自願性質。會議已暫停至週六（11/21）上午續談，最終結果仍未出爐。",
+          "why": "化石燃料轉型文字若被刪除，將削弱全球減碳承諾，也影響企業的氣候法規與碳成本預期。",
+          "glossary": [
+            {
+              "term": "COP",
+              "def": "聯合國氣候變化綱要公約締約方大會，每年舉行一次，是全球氣候談判的主要場合。"
+            },
+            {
+              "term": "氣候調適",
+              "def": "因應氣候變遷已造成或將造成的影響所做的調整，例如防洪、抗旱設施。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "RTÉ: COP31 draft climate deal removes mention of fossil fuels",
+              "url": "https://www.rte.ie/news/world/2026/1119/1599773-cop31-thursday/"
+            },
+            {
+              "title": "Health Policy Watch: COP31 Draft Deal Drops Fossil Fuels References As Final Session Goes Into Overtime",
+              "url": "https://healthpolicy-watch.news/cop31-draft-deal-drops-fossil-fuels-references-as-final-session-goes-into-overtime/"
+            },
+            {
+              "title": "US News (AP): Nations Demand Fossil Fuel Cuts as UN Climate Talks COP31 Are Wrapping up in Turkey",
+              "url": "https://www.usnews.com/news/world/articles/2026-11-20/nations-seek-deeper-fossil-fuel-cuts-as-annual-un-climate-summit-enters-final-day"
+            },
+            {
+              "title": "Yahoo News: COP31 climate talks spill into overtime as nations quarrel over fossil fuels",
+              "url": "https://sg.news.yahoo.com/cop31-climate-talks-spill-overtime-150416330.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "name": "股市觀察（美股・台股）",
+      "items": [
+        {
+          "title": "美股崩跌：那斯達克重挫逾 5%、抹去今年漲幅，標普 500 與道瓊進入修正",
+          "category": "美股",
+          "summary": "美股 11/20 全面重挫。據 CNBC，那斯達克指數跌約 5.3% 收約 22,618 點，抹去 2026 年全部漲幅；標普 500 指數跌約 3.7% 收約 6,910 點；道瓊工業指數跌約 1.9% 收約 48,147 點。標普 500 與道瓊均較歷史收盤高點下跌逾 10%，正式進入修正。另有引述路透的報導收盤數字略有差異。報導指出，Anthropic 上市未能穩定市場情緒，通膨與聯準會可能升息的疑慮也加重賣壓；輝達因證管會調查報導重挫，博通也因 Google 縮減訂單的報導大跌。",
+          "why": "美股進入修正、科技股領跌，全球 AI 供應鏈個股恐持續承壓，台股下週開盤壓力沉重。",
+          "glossary": [
+            {
+              "term": "修正",
+              "def": "股價指數自近期高點下跌超過 10%，但未達 20% 的空頭市場門檻。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "CNBC: S&P 500 and Dow close in correction; Nasdaq erases 2026 gain as AI rout picks up steam",
+              "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"
+            },
+            {
+              "title": "Yahoo Finance: Dow and S&P 500 enter correction, Nasdaq sinks 5% to erase 2026 gains as AI trade melts down",
+              "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-19-dow-sp-500-nasdaq-anthropic-nvidia-141644188.html"
+            },
+            {
+              "title": "CBS News: Stocks plunge as investors take cover amid growing uncertainty",
+              "url": "https://www.cbsnews.com/news/dow-tumbles-wall-street-ai-fears/"
+            }
+          ]
+        },
+        {
+          "title": "台股崩跌 2,393 點、跌 6.23%，收 36,033 點創史上第三大跌點；國安基金與限空令仍難擋賣壓",
+          "category": "台股",
+          "summary": "台股 11/20 收盤下跌 2,393.60 點、跌幅 6.23%，收 36,033.29 點，成交金額 8,773.50 億元，為史上第三大收盤跌點；盤中最低來到 35,738.68 點。台積電跌 100 元、收 2,000 元，盤中一度跌破 2,000 元；聯發科、台達電等個股跌停，跌停家數各報導約 360 多檔。櫃買指數跌 7.72%。三大法人合計賣超 522.46 億元，其中自營商賣超 340.84 億元（避險賣超 290.16 億元），投信賣超 87.49 億元，外資賣超 94.13 億元、連五賣但金額收斂。據民視報導，國安基金進場護盤、金管會也加碼限空令，仍擋不住賣壓。有報導指台股本週累計重挫 7,641 點、跌幅 17.5%。",
+          "why": "台股單週跌幅創罕見紀錄，政府護市措施未能止跌，市場信心面臨嚴峻考驗。",
+          "glossary": [
+            {
+              "term": "限空令",
+              "def": "主管機關在股市劇烈下跌時限制融券或借券放空的措施，以減緩賣壓。"
+            },
+            {
+              "term": "自營商避險",
+              "def": "證券商因發行權證等商品而進行的反向買賣，市場劇烈波動時可能放大賣壓。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "ETtoday：台股史上第3慘！單日崩2393點 台積電跌100元險守2000",
+              "url": "https://finance.ettoday.net/news/3275531"
+            },
+            {
+              "title": "中央社：三大法人賣超台股522.46億元",
+              "url": "https://www.cna.com.tw/news/afe/202611200157.aspx"
+            },
+            {
+              "title": "新頭殼：台股爆多殺多？大盤狂瀉2,393點、365檔跌停 外資卻僅賣超94億",
+              "url": "https://newtalk.tw/news/view/2026-11-20/1072278"
+            },
+            {
+              "title": "民視財經：國安基金護盤+限空令難擋賣壓 台股重挫2393點！史上第3大跌點",
+              "url": "https://finance.ftvnews.com.tw/news/detail/2026B20F05M2"
+            },
+            {
+              "title": "聯合新聞網：台股暴跌2393點誰在賣？外資賣超降至94億 自營商避險賣超放大波動",
+              "url": "https://udn.com/news/story/7251/9891475"
+            }
+          ]
+        },
+        {
+          "title": "輝達重挫逾 11%、創 52 週新低：路透報導美國證管會調查其會計問題",
+          "category": "產業與個股",
+          "summary": "據路透引述兩名知情人士，美國證券交易委員會（SEC）正在調查輝達可能的會計問題；證管會與輝達均未回應。《華爾街日報》11/17 已報導證管會在調查輝達。輝達股價 11/20 重挫，跌幅各報導在約 11.5% 至 14% 之間，創 52 週新低。目前不清楚調查涉及哪些會計做法，也不清楚何時開始；輝達過去改變新加坡營收的認列方式再度受到關注，但路透未說明是否在調查範圍內。這起報導接續黃仁勳辭職、董事會拒絕其回任等一連串風波。（註：調查內容未獲官方證實，跌幅各家報導不一。）",
+          "why": "AI 龍頭接連面臨治理與會計疑慮，將衝擊全球 AI 供應鏈評價，台積電與伺服器供應鏈首當其衝。",
+          "glossary": [
+            {
+              "term": "證管會",
+              "def": "美國證券交易委員會（SEC），負責監管證券市場與上市公司資訊揭露。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "Investing.com: Nvidia shares fall 11.5% as report of SEC accounting probe adds to pressure",
+              "url": "https://in.investing.com/news/stock-market-news/nvidia-shares-fall-115-as-report-of-sec-accounting-probe-adds-to-pressure-5718405"
+            },
+            {
+              "title": "Seeking Alpha: Nvidia tumbles as SEC probe explores accounting issues: report",
+              "url": "https://seekingalpha.com/news/4675286-nvidia-tumbles-as-sec-probe-explores-accounting-issues-report"
+            },
+            {
+              "title": "Decrypt: Nvidia Shares Sink to 52-Week Low After Report SEC Is Probing Accounting",
+              "url": "https://decrypt.co/383744/nvidia-shares-sink-52-week-low-sec-probing-accounting"
+            },
+            {
+              "title": "Yahoo Finance: Nvidia stock extends rout as SEC probe reportedly investigates its accounting",
+              "url": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html"
+            }
+          ]
+        }
+      ],
+      "mood": "恐慌、極度偏空",
+      "outlook": "偏空因素：那斯達克單日重挫逾 5%、抹去全年漲幅，標普 500 與道瓊進入修正；台股單日崩跌 2,393 點、本週重挫約 17.5%，國安基金與限空令未能止跌；輝達傳遭證管會調查會計、博通傳遭 Google 縮減訂單，AI 供應鏈疑慮擴大；俄方飛彈落入波蘭，地緣風險升溫。偏多因素：外資賣超金額收斂；Anthropic 第二天仍守在承銷價之上。下週關鍵：外資與自營商賣壓是否趨緩、輝達調查後續與美股能否止跌。整體市場情緒恐慌。以上僅整理市場資訊與各方觀點，不構成投資建議。"
+    },
+    {
+      "id": "ai",
+      "name": "AI 科技發展",
+      "items": [
+        {
+          "title": "博通重挫約 12%：郭明錤稱 Google 削減 2027 年 TPU 8i 訂單約兩成，轉向聯發科",
+          "category": "晶片與算力",
+          "summary": "分析師郭明錤報告指出，Google 將 2027 年博通設計的 TPU 8i 晶片出貨量削減約 100 萬顆、約 20%，主要集中在較高價的 8i Max 型號，並預期將部分份額轉向聯發科設計的 TPU 8t；相關細節尚未定案。博通與 Google 均未回應。博通股價 11/20 重挫，多數報導跌約 11% 至 12%，另有報導稱跌約 8.9%；Marvell 等 AI 晶片股也同步大跌，聯發科在台股亦下跌。博通將於 12/9 公布財報。（註：訂單調整出自分析師報告，公司未證實。）",
+          "why": "雲端巨頭調整自研晶片供應商，牽動博通與聯發科等台灣 IC 設計業者的 AI 訂單版圖。",
+          "glossary": [
+            {
+              "term": "TPU",
+              "def": "Google 自行設計的 AI 專用加速晶片，委由博通等夥伴協助設計、台積電代工。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "Seeking Alpha: Broadcom sinks 12% as Google trims 2027 TPU orders, tech stocks drop",
+              "url": "https://seekingalpha.com/news/4675350-broadcom-sinks-12-as-google-trims-2027-tpu-orders-tech-stocks-drop?feed_item_type=news"
+            },
+            {
+              "title": "24/7 Wall St.: Broadcom Stock Plunges 12% After a Report That Google Cut Its Plans for Broadcom AI Chips",
+              "url": "https://247wallst.com/investing/2026/11/20/broadcom-stock-plunges-12-and-loses-191-billion-after-a-report-that-google-cut-its-plans-for-broadcom-ai-chips/"
+            },
+            {
+              "title": "Investing.com: Google reportedly cuts Broadcom-designed TPU plans, eyes more MediaTek chips",
+              "url": "https://ph.investing.com/news/stock-market-news/google-reportedly-cuts-broadcomdesigned-tpu-plans-eyes-more-mediatek-chips-2713814"
+            },
+            {
+              "title": "TipRanks: Broadcom Stock (AVGO) Sinks on Report Google Is Shaking Up Its AI Chip Plans",
+              "url": "https://www.tipranks.com/news/broadcom-stock-avgo-sinks-on-report-google-is-shaking-up-its-ai-chip-plans"
+            }
+          ]
+        },
+        {
+          "title": "Anthropic 掛牌第二天下跌約 9%，盤中一度逼近 83 美元承銷價",
+          "category": "產業與投資",
+          "summary": "延續昨日報導。Anthropic 11/20 掛牌第二天隨 AI 類股賣壓下跌，盤中最低來到 83.05 美元，僅高於每股 83 美元承銷價 5 美分，之後反彈；據報導收在 88.30 美元，較首日收盤的 97.17 美元下跌約 9%，另有報導的盤中報價略有不同。報導指出，下跌與輝達、博通等 AI 晶片股大跌引發的整體賣壓有關。據一則報導，即使下跌後，Anthropic 市值仍約 1.2 兆美元。（註：收盤價各報導略有出入。）",
+          "why": "AI 新股上市兩天就逼近承銷價，反映市場對 AI 估值的信心快速降溫。",
+          "glossary": [
+            {
+              "term": "承銷價",
+              "def": "IPO 時投資人認購新股的價格，掛牌後若跌破常被視為上市表現不佳的訊號。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "The Motley Fool: Why Anthropic Stock Is Falling Today",
+              "url": "https://www.fool.com/investing/2026/11/20/why-anthropic-stock-is-falling-today/"
+            },
+            {
+              "title": "Yahoo Finance: Anthropic Stock Came Within 5 Cents of Its $83 IPO Price on Day 2, Then Bounced to Close at $88.30",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-stock-came-within-5-211710460.html"
+            },
+            {
+              "title": "Yahoo Finance: Anthropic Sinks 9% on Day Two as AI Selloff Deepens",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-sinks-9-day-two-144026883.html"
+            },
+            {
+              "title": "NBC News: Anthropic stock is down during its second day of trading after a historic Wall Street debut",
+              "url": "https://www.nbcnews.com/video/anthropic-stock-is-down-during-its-second-day-of-trading-after-a-historic-wall-street-debut-273897541540"
+            }
+          ]
+        },
+        {
+          "title": "川普稱與習近平同意就 AI 建立「聯合護欄」，但未說明內容",
+          "category": "政策與監管",
+          "summary": "川普 11/20 在白宮記者會表示，他與習近平同意就 AI 建立「聯合護欄」，理由是 AI 競賽中「沒有第三名」，但未說明護欄的具體內容。川普還說習近平也喜歡他使用「超級智慧」一詞，而不是人工智慧。有媒體指出，這對一向主張監管會抑制美國創新的川普而言是新動向。目前未見任何協議文本。（註：內容僅為川普口頭說法，未見書面協議。）",
+          "why": "美中若就先進 AI 建立共同規範，將影響全球 AI 治理走向，以及晶片出口管制與科技競爭的節奏。",
+          "glossary": [
+            {
+              "term": "超級智慧",
+              "def": "在幾乎所有領域都遠超人類能力的假想 AI 系統，常見於 AI 安全與治理的討論。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "OPB (NPR): Trump touts meeting with Xi and Putin but offers little results",
+              "url": "https://www.opb.org/article/2026/11/20/trump-touts-meeting-with-xi-and-putin-but-offers-little-results/"
+            },
+            {
+              "title": "The Hill: Live updates: Trump, Vance and Rubio brief reporters on China summit",
+              "url": "https://thehill.com/homenews/administration/6232240-live-updates-trump-asia-trip-putin-xi-summit-gop-reconciliation-defense-spending/"
+            },
+            {
+              "title": "MS NOW: Trump press conference live: Trump talks Xi, Putin and AI data centers",
+              "url": "https://www.ms.now/liveblog/trump-press-conference-xi-putin-summit-live-updates"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "observation": "本週以 AI 為核心的賣壓全面爆發：那斯達克單日重挫逾 5%、抹去全年漲幅，標普 500 與道瓊進入修正；台股單日崩跌 2,393 點，本週重挫約 17.5%，國安基金與限空令都未能止跌。輝達傳遭證管會調查會計、博通傳遭 Google 削減訂單，Anthropic 上市第二天就逼近承銷價，市場對 AI 的疑慮已從估值擴及治理、會計與訂單。\n\n地緣上，川普稱與習近平同意建立 AI「聯合護欄」，但峰會具體成果有限；俄方飛彈落入波蘭、愛沙尼亞關閉對俄邊境，歐俄對立升高。COP31 草案刪除化石燃料轉型文字，週六續談。\n\n週末可關注：COP31 最終結果、美方對台灣表述的後續說明，以及下週一外資動向。",
+  "sources": [
+    {
+      "title": "CBS News: Trump touts Asia deals and meeting with Xi and Putin at White House press conference",
+      "url": "https://www.cbsnews.com/live-updates/trump-press-conference-live-stream-2026-11-20/"
+    },
+    {
+      "title": "The Hill: Live updates: Trump, Vance and Rubio brief reporters on China summit",
+      "url": "https://thehill.com/homenews/administration/6232240-live-updates-trump-asia-trip-putin-xi-summit-gop-reconciliation-defense-spending/"
+    },
+    {
+      "title": "OPB (NPR): Trump touts meeting with Xi and Putin but offers little results",
+      "url": "https://www.opb.org/article/2026/11/20/trump-touts-meeting-with-xi-and-putin-but-offers-little-results/"
+    },
+    {
+      "title": "France 24: Trump hails 'fantastic' relationships with China's Xi, Russia's Putin after three-way talks",
+      "url": "https://www.france24.com/en/americas/20261120-watch-live-trump-holds-press-conference-meeting-xi-putin"
+    },
+    {
+      "title": "The Hill: Poland says likely Russian missiles violated airspace",
+      "url": "https://thehill.com/policy/international/6233039-poland-accuses-russia-missile-drone-incursion/"
+    },
+    {
+      "title": "Kyiv Independent: 2 Russian Kh-101 missiles, drone, fall in Poland during Russian attack on Ukraine",
+      "url": "https://kyivindependent.com/poland-reports-airspace-violation-during-russian-attack-on-ukraine-investigates-debris-crash/"
+    },
+    {
+      "title": "Euronews: Tusk denounces Russian 'provocation' after Warsaw says missiles crash in Poland",
+      "url": "https://www.euronews.com/2026/11/20/unidentified-object-falls-in-eastern-poland-amid-major-russian-attack-on-ukraine"
+    },
+    {
+      "title": "RTÉ: Poland condemns Russian airspace 'provocation'",
+      "url": "https://www.rte.ie/news/2026/1120/1600008-poland-russia-airspace-violations/"
+    },
+    {
+      "title": "UPI: Russian missiles hit Poland amid military exercise",
+      "url": "https://www.upi.com/Top_News/World-News/2026/11/20/poland-russian-missiles-hit-poland/7571795188566/"
+    },
+    {
+      "title": "Bloomberg: Estonia to Close Border With Russia for Six Months After Sabotage Incidents",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/estonia-to-close-russian-border-as-moscow-threatens-response"
+    },
+    {
+      "title": "Al Jazeera: Russia complains of 'new Iron Curtain' as Estonia shuts its borders",
+      "url": "https://www.aljazeera.com/news/2026/11/20/russia-complains-of-new-iron-curtain-as-estonia-shuts-its-borders"
+    },
+    {
+      "title": "Meduza: Estonia to close all road crossings with Russia",
+      "url": "https://meduza.io/en/news/2026/11/20/estonia-to-close-all-road-crossings-with-russia"
+    },
+    {
+      "title": "CNN: Estonia to shut its border with Russia, blaming Moscow for foiled arson plot",
+      "url": "https://www.cnn.com/2026/11/15/europe/estonia-close-russian-border-attack-intl"
+    },
+    {
+      "title": "EUobserver: Estonia's border closure makes Russia pay a price for alleged arson",
+      "url": "https://euobserver.com/249994/estonias-border-closure-makes-russia-pay-a-price-for-alleged-arson-as-sabotage-attacks-spread-across-the-eu/"
+    },
+    {
+      "title": "Al Jazeera: Somalia expels UAE ambassador, accuses Abu Dhabi of violating sovereignty",
+      "url": "https://www.aljazeera.com/news/2026/11/19/somalia-expels-uae-ambassador-accuses-abu-dhabi-of-violating-sovereignty"
+    },
+    {
+      "title": "Anadolu: Somalia orders UAE ambassador to leave within 72 hours",
+      "url": "https://www.aa.com.tr/en/africa/somalia-orders-uae-ambassador-to-leave-within-72-hours/4131043"
+    },
+    {
+      "title": "Middle East Eye: Somalia expels Emirati envoy, recalls own ambassador over 'open invasion'",
+      "url": "https://www.middleeasteye.net/news/somalia-expels-emirati-envoy-recalls-somali-counterpart-envoy-over-open-invasion"
+    },
+    {
+      "title": "Xinhua: Somalia expels UAE ambassador, recalls envoy from Abu Dhabi",
+      "url": "https://english.news.cn/20261120/fa989135cc90462892b2bbf4b49a6b0d/c.html"
+    },
+    {
+      "title": "Internazionale (Reuters): Thousands protest across Italy in strike over wages, public spending",
+      "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/20/thousands-protest-across-italy-in-strike-over-wages-public-spending"
+    },
+    {
+      "title": "Yahoo Finance (Reuters): Thousands protest across Italy in strike over wages, public spending",
+      "url": "https://sg.finance.yahoo.com/news/thousands-protest-across-italy-strike-101548571.html"
+    },
+    {
+      "title": "anews: Thousands protest across Italy in strike over wages, public spending",
+      "url": "https://www.anews.com.tr/world/2026/11/20/thousands-protest-across-italy-in-strike-over-wages-public-spending"
+    },
+    {
+      "title": "RTÉ: COP31 draft climate deal removes mention of fossil fuels",
+      "url": "https://www.rte.ie/news/world/2026/1119/1599773-cop31-thursday/"
+    },
+    {
+      "title": "Health Policy Watch: COP31 Draft Deal Drops Fossil Fuels References As Final Session Goes Into Overtime",
+      "url": "https://healthpolicy-watch.news/cop31-draft-deal-drops-fossil-fuels-references-as-final-session-goes-into-overtime/"
+    },
+    {
+      "title": "US News (AP): Nations Demand Fossil Fuel Cuts as UN Climate Talks COP31 Are Wrapping up in Turkey",
+      "url": "https://www.usnews.com/news/world/articles/2026-11-20/nations-seek-deeper-fossil-fuel-cuts-as-annual-un-climate-summit-enters-final-day"
+    },
+    {
+      "title": "Yahoo News: COP31 climate talks spill into overtime as nations quarrel over fossil fuels",
+      "url": "https://sg.news.yahoo.com/cop31-climate-talks-spill-overtime-150416330.html"
+    },
+    {
+      "title": "CNBC: S&P 500 and Dow close in correction; Nasdaq erases 2026 gain as AI rout picks up steam",
+      "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"
+    },
+    {
+      "title": "Yahoo Finance: Dow and S&P 500 enter correction, Nasdaq sinks 5% to erase 2026 gains as AI trade melts down",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-19-dow-sp-500-nasdaq-anthropic-nvidia-141644188.html"
+    },
+    {
+      "title": "CBS News: Stocks plunge as investors take cover amid growing uncertainty",
+      "url": "https://www.cbsnews.com/news/dow-tumbles-wall-street-ai-fears/"
+    },
+    {
+      "title": "ETtoday：台股史上第3慘！單日崩2393點 台積電跌100元險守2000",
+      "url": "https://finance.ettoday.net/news/3275531"
+    },
+    {
+      "title": "中央社：三大法人賣超台股522.46億元",
+      "url": "https://www.cna.com.tw/news/afe/202611200157.aspx"
+    },
+    {
+      "title": "新頭殼：台股爆多殺多？大盤狂瀉2,393點、365檔跌停 外資卻僅賣超94億",
+      "url": "https://newtalk.tw/news/view/2026-11-20/1072278"
+    },
+    {
+      "title": "民視財經：國安基金護盤+限空令難擋賣壓 台股重挫2393點！史上第3大跌點",
+      "url": "https://finance.ftvnews.com.tw/news/detail/2026B20F05M2"
+    },
+    {
+      "title": "聯合新聞網：台股暴跌2393點誰在賣？外資賣超降至94億 自營商避險賣超放大波動",
+      "url": "https://udn.com/news/story/7251/9891475"
+    },
+    {
+      "title": "Investing.com: Nvidia shares fall 11.5% as report of SEC accounting probe adds to pressure",
+      "url": "https://in.investing.com/news/stock-market-news/nvidia-shares-fall-115-as-report-of-sec-accounting-probe-adds-to-pressure-5718405"
+    },
+    {
+      "title": "Seeking Alpha: Nvidia tumbles as SEC probe explores accounting issues: report",
+      "url": "https://seekingalpha.com/news/4675286-nvidia-tumbles-as-sec-probe-explores-accounting-issues-report"
+    },
+    {
+      "title": "Decrypt: Nvidia Shares Sink to 52-Week Low After Report SEC Is Probing Accounting",
+      "url": "https://decrypt.co/383744/nvidia-shares-sink-52-week-low-sec-probing-accounting"
+    },
+    {
+      "title": "Yahoo Finance: Nvidia stock extends rout as SEC probe reportedly investigates its accounting",
+      "url": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html"
+    },
+    {
+      "title": "Seeking Alpha: Broadcom sinks 12% as Google trims 2027 TPU orders, tech stocks drop",
+      "url": "https://seekingalpha.com/news/4675350-broadcom-sinks-12-as-google-trims-2027-tpu-orders-tech-stocks-drop?feed_item_type=news"
+    },
+    {
+      "title": "24/7 Wall St.: Broadcom Stock Plunges 12% After a Report That Google Cut Its Plans for Broadcom AI Chips",
+      "url": "https://247wallst.com/investing/2026/11/20/broadcom-stock-plunges-12-and-loses-191-billion-after-a-report-that-google-cut-its-plans-for-broadcom-ai-chips/"
+    },
+    {
+      "title": "Investing.com: Google reportedly cuts Broadcom-designed TPU plans, eyes more MediaTek chips",
+      "url": "https://ph.investing.com/news/stock-market-news/google-reportedly-cuts-broadcomdesigned-tpu-plans-eyes-more-mediatek-chips-2713814"
+    },
+    {
+      "title": "TipRanks: Broadcom Stock (AVGO) Sinks on Report Google Is Shaking Up Its AI Chip Plans",
+      "url": "https://www.tipranks.com/news/broadcom-stock-avgo-sinks-on-report-google-is-shaking-up-its-ai-chip-plans"
+    },
+    {
+      "title": "The Motley Fool: Why Anthropic Stock Is Falling Today",
+      "url": "https://www.fool.com/investing/2026/11/20/why-anthropic-stock-is-falling-today/"
+    },
+    {
+      "title": "Yahoo Finance: Anthropic Stock Came Within 5 Cents of Its $83 IPO Price on Day 2, Then Bounced to Close at $88.30",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-stock-came-within-5-211710460.html"
+    },
+    {
+      "title": "Yahoo Finance: Anthropic Sinks 9% on Day Two as AI Selloff Deepens",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-sinks-9-day-two-144026883.html"
+    },
+    {
+      "title": "NBC News: Anthropic stock is down during its second day of trading after a historic Wall Street debut",
+      "url": "https://www.nbcnews.com/video/anthropic-stock-is-down-during-its-second-day-of-trading-after-a-historic-wall-street-debut-273897541540"
+    },
+    {
+      "title": "MS NOW: Trump press conference live: Trump talks Xi, Putin and AI data centers",
+      "url": "https://www.ms.now/liveblog/trump-press-conference-xi-putin-summit-live-updates"
+    }
+  ]
+}
