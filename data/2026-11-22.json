@@ -1,0 +1,504 @@
+{
+  "date": "2026-11-22",
+  "title": "🌏 每日早報｜2026/11/22",
+  "generated_at": "2026-11-22T07:30:00+08:00",
+  "sections": [
+    {
+      "id": "world",
+      "name": "國際新聞",
+      "items": [
+        {
+          "title": "丹麥指俄情報機構策劃暗殺烏克蘭饒舌歌手，驅逐俄國防武官並停發俄國人非必要簽證",
+          "category": "國際政治與地緣",
+          "summary": "丹麥 11/20 宣布驅逐俄羅斯駐丹麥國防武官，限七天內離境，並召見俄國大使。丹麥安全情報局（PET）評估，俄羅斯情報機構策劃並發動 9/25 在丹麥暗殺一名美國與烏克蘭雙重國籍人士的行動，多家媒體報導目標是烏克蘭饒舌歌手 Kyivstoner。外交部長拉斯穆森表示，丹麥將停止核發俄羅斯公民的非必要簽證，並呼籲歐盟跟進；但不會驅逐所有俄國外交官，以維持溝通管道。是否暫停核發申根簽證尚未決定。俄國大使館批評此舉「出於報復」，稱丹麥未提出證據。",
+          "why": "繼愛沙尼亞關閉邊境後，又一歐盟國家以外交與簽證手段反制俄方，歐俄關係持續惡化。",
+          "glossary": [
+            {
+              "term": "國防武官",
+              "def": "派駐外國使館的軍方代表，負責軍事外交聯繫，也常被視為情報工作的重要角色。"
+            },
+            {
+              "term": "申根簽證",
+              "def": "可在歐洲申根區多數國家通行的短期簽證。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "Anadolu: Denmark expels Russian defense attache, halts non-essential visas for Russians",
+              "url": "https://aa.com.tr/en/asia-pacific/denmark-expels-russian-defense-attache-halts-non-essential-visas-for-russians/4132455"
+            },
+            {
+              "title": "Al Jazeera: Denmark expels Russian diplomat over alleged plot to kill Ukrainian rapper",
+              "url": "https://www.aljazeera.com/news/2026/11/21/denmark-expels-russian-diplomat-over-alleged-plot-to-kill-ukrainian-rapper"
+            },
+            {
+              "title": "Xinhua: Denmark expels Russian defense attache over assassination attempt allegation",
+              "url": "https://english.news.cn/20261121/d5e6cace18b54e1f80381d1f5b13ded0/c.html"
+            },
+            {
+              "title": "UNN: Denmark expels Russia's military attaché and may stop issuing Schengen visas to Russians",
+              "url": "https://unn.ua/en/news/attempted-assassination-of-kyivstoner-denmark-expels-russias-military-attache-and-may-stop-issuing-schengen-visas-to-russians"
+            }
+          ]
+        },
+        {
+          "title": "墨西哥逮捕 FBI 十大通緝要犯「小矮子伊西德羅」，錫那羅亞州爆發暴力衝突",
+          "category": "國際政治與地緣",
+          "summary": "墨西哥國防部宣布，在美國聯邦調查局與緝毒局情報合作下，於錫那羅亞州瓜薩韋逮捕綽號「小矮子伊西德羅」（El Chapo Isidro）的毒梟梅薩‧弗洛雷斯。他曾領導貝爾特蘭‧萊瓦販毒集團，後自立門戶，名列 FBI 十大通緝要犯，美國國務院懸賞最高 500 萬美元；他將面臨引渡美國受審。另有兩名同夥一併被捕。逮捕後，錫那羅亞州發生槍戰與焚車，瓜薩韋街頭至少出現 10 處燃燒車輛路障，軍方與國民警衛隊特種部隊直到凌晨 4 點才將他移出。各報導對逮捕日期說法不一（11/20 或 11/21）。",
+          "why": "美墨聯手打擊販毒集團是美墨關係核心議題，也牽動美方對墨西哥的關稅與安全政策。",
+          "glossary": [
+            {
+              "term": "引渡",
+              "def": "一國將被控犯罪者移交給另一國審判的法律程序。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "Bloomberg: Mexico Arrests Sinaloa Cartel Leader Meza-Flores, One of FBI's Most Wanted",
+              "url": "https://www.bloomberg.com/news/articles/2026-11-21/mexico-arrests-sinaloa-drug-kingpin-on-fbi-s-most-wanted-list"
+            },
+            {
+              "title": "ABC News: Mexican cartel leader on FBI's 10 most wanted fugitives list arrested",
+              "url": "https://abcnews.com/International/mexican-cartel-leader-fbis-10-wanted-fugitive-list/story?id=138346100"
+            },
+            {
+              "title": "CBS News: Mexico arrests drug kingpin on FBI's 10 Most Wanted, sparking violence in Sinaloa",
+              "url": "https://www.cbsnews.com/news/mexico-drug-kingpin-arrest-fausto-isidro-meza-flores-sinaloa/"
+            },
+            {
+              "title": "Washington Times (AP): Mexico detains top cartel boss 'El Chapo Isidro,' setting off a burst of violence in Sinaloa",
+              "url": "https://www.washingtontimes.com/news/2026/nov/21/mexico-detains-top-cartel-boss-el-chapo-isidro-setting-burst-violence/"
+            },
+            {
+              "title": "UPI: Drug cartel boss 'El Chapo Isidro' arrested; violence breaks out",
+              "url": "https://www.upi.com/Top_News/World-News/2026/11/21/latam-mexico-el-chapo-isidro-arrested/9781795278569/"
+            }
+          ]
+        },
+        {
+          "title": "波蘭召見俄國大使、要求北約增派防空資產，但未正式啟動北約第 4 條；俄方未回應",
+          "category": "國際政治與地緣",
+          "summary": "延續昨日報導。俄羅斯 Kh-101 巡弋飛彈與疑似噴射動力無人機 11/20 落入波蘭東南部後，波蘭隔天召見俄國大使，並在「東方哨兵行動」框架下要求北約增派防空資產、呼籲盟國磋商，但未正式啟動《北大西洋公約》第 4 條。北約秘書長呂特稱這是對波蘭領空的「嚴重侵犯」，北約與歐洲領袖表態支持波蘭。截至美聯社報導時，莫斯科未就飛彈落入波蘭及當天的軍演發表評論。（註：各報導對波蘭是否啟動第 4 條說法不一，以未正式啟動為較新說法。）",
+          "why": "北約如何回應俄方武器落入成員國境內，將影響東翼防空部署與歐俄對峙的升溫程度。",
+          "glossary": [
+            {
+              "term": "北約第 4 條",
+              "def": "成員國認為其領土完整、政治獨立或安全受威脅時，可要求盟國進行磋商的條款。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "Al Jazeera: Russian missiles hit Poland: What happened, and could NATO respond?",
+              "url": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond"
+            },
+            {
+              "title": "Manila Times (AP): Russian missiles land in Poland, as Europe held military drills nearby. NATO calls it a violation",
+              "url": "https://www.manilatimes.net/2026/11/21/world/americas-emea/russian-missiles-land-in-poland-as-europe-held-military-drills-nearby-nato-calls-it-a-violation/2475390"
+            },
+            {
+              "title": "Latin Times: Poland Requests More NATO Air Defenses After Russian Missiles, Drone Crash on Its Soil",
+              "url": "https://www.latintimes.com/russian-weapons-crash-poland-nato-article-4-601654"
+            },
+            {
+              "title": "CBS News: Poland accuses Russia of 'intentional provocation' as missiles hit NATO soil",
+              "url": "https://www.cbsnews.com/news/ukraine-war-russia-intentional-provocation-poland-missiles-nato/"
+            }
+          ]
+        },
+        {
+          "title": "衣索比亞與厄利垂亞邊境大舉集結兵力，巴德梅一帶傳出無人機與砲擊，引發開戰疑慮",
+          "category": "國際政治與地緣",
+          "summary": "事件發生在 11/18，本報此前未報導，故補入。路透 11/18 引述衝突監測機構 ACLED 與國際危機組織報導，衣索比亞與厄利垂亞在邊境集結兵力，雙方軍隊已進入彼此攻擊範圍。ACLED 指出，衣索比亞 11/12 以無人機攻擊巴德梅附近疑似厄國陣地，厄國隨後砲擊回應；路透無法獨立證實交火報導。厄國新聞部長稱集結報導是「宣傳」。兩國 10/1 已斷交。七大工業國集團（G7）呼籲雙方最大限度自制。分析人士認為，最大風險在於衣索比亞軍隊與提格雷叛軍的戰鬥可能把厄利垂亞直接捲入。（註：交火報導未獲獨立證實。）",
+          "why": "非洲之角若爆發戰爭，將衝擊紅海航運與區域穩定，與索馬利亞—阿聯緊張關係交織。",
+          "glossary": [
+            {
+              "term": "巴德梅",
+              "def": "衣厄兩國爭議邊境城鎮，1998 至 2000 年兩國曾因此爆發戰爭。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "Al-Monitor (Reuters): Ethiopia and Eritrea amass forces along border, heightening war fears, sources say",
+              "url": "https://www.al-monitor.com/originals/2026/11/ethiopia-and-eritrea-amass-forces-along-border-heightening-war-fears-sources-say"
+            },
+            {
+              "title": "bne IntelliNews: Ethiopia and Eritrea mass troops on border as Badme clashes stoke Horn of Africa war fears",
+              "url": "https://www.intellinews.com/ethiopia-and-eritrea-mass-troops-on-border-as-badme-clashes-stoke-horn-of-africa-war-fears-486576/"
+            },
+            {
+              "title": "allAfrica: Overnight Drone, Artillery Strikes Reported Around Badme Amid Ethiopian, Eritrean Military Buildup",
+              "url": "https://allafrica.com/stories/202611190377.html"
+            },
+            {
+              "title": "Critical Threats: Ethiopia War Security Review, November 17, 2026",
+              "url": "https://www.criticalthreats.org/briefs/ethiopia-war-security-review/november-17-2026"
+            }
+          ]
+        },
+        {
+          "title": "COP31 延長談判仍未達成最終協議；草案刪除化石燃料轉型文字，巴拿馬揚言正式反對",
+          "category": "ESG／氣候與歐盟法規",
+          "summary": "延續昨日報導。在土耳其安塔利亞舉行的 COP31 因各國在融資、減排、調適與公正轉型上無法談妥，延長至 11/21。大會主席庫魯姆稱修訂後的文件為「安塔利亞宣言」，但草案已刪除所有轉型脫離化石燃料的文字，以及 1,200 億美元的調適融資目標；草案仍非最終協議，各國可在閉幕前要求修改。晚間會議已通過《巴黎協定》第 6 條合作等部分決議。巴拿馬表示，若最終協議不增加氣候融資、不限制石油生產，將「正式反對」。東道主土耳其則表示會議期間另外談成逾 260 億美元的協議與計畫。截至報導時，最終結果尚未出爐。",
+          "why": "全球氣候談判若在化石燃料議題上倒退，將影響各國減碳政策與企業的碳成本預期。",
+          "glossary": [
+            {
+              "term": "巴黎協定第 6 條",
+              "def": "規範國家間碳排放權交易與合作減排機制的條款。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "Hürriyet Daily News: COP31 talks extended as countries seek final deal",
+              "url": "https://www.hurriyetdailynews.com/cop31-concludes-in-antalya-after-two-weeks-of-climate-talks-229651"
+            },
+            {
+              "title": "Al-Monitor: COP31 delivers deals for host Turkey as climate diplomacy stalls",
+              "url": "https://www.al-monitor.com/originals/2026/11/cop31-delivers-deals-host-turkey-climate-diplomacy-stalls"
+            },
+            {
+              "title": "Climate Action: COP31 reaches its final day: new momentum on electrification, but a weakened draft deal",
+              "url": "https://www.climateaction.org/news/cop31-reaches-its-final-day-new-momentum-on-electrification-but-a-weakened"
+            },
+            {
+              "title": "Yahoo News: COP31 draft drops fossil fuel language as talks near deadline",
+              "url": "https://sg.news.yahoo.com/cop31-negotiators-publish-revised-deal-121302138.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "name": "股市觀察（美股・台股）",
+      "items": [
+        {
+          "title": "本週看點（美股）：感恩節短週，市場關注黑色星期五消費與 PCE 通膨；標普 500 較高點跌逾一成",
+          "category": "美股",
+          "summary": "週末休市。本週為感恩節短週，美股 11/26（週四）休市，11/27（週五）提前於下午 1 點收盤。上週那斯達克單週重挫約 10%，為 2020 年以來最差單週，標普 500 與道瓊進入修正；據路透報導，標普 500 已較 10/6 紀錄高點下跌約 11.6%。投資人擔心 AI 基礎建設的龐大融資需求與投資報酬，輝達財報與 Anthropic 上市都未能穩住市場。本週焦點包括黑色星期五假期消費、PCE 通膨數據，以及 12 月是否升息；牛津經濟研究院預估今年假期零售銷售成長 4.2%，扣除通膨後約 2.2%。",
+          "why": "消費數據若穩健，可望緩和市場對經濟的擔憂；但 PCE 偏熱將強化 12 月升息預期，加重科技股壓力。",
+          "glossary": [
+            {
+              "term": "PCE",
+              "def": "個人消費支出物價指數，是聯準會最重視的通膨指標。"
+            },
+            {
+              "term": "黑色星期五",
+              "def": "美國感恩節隔天的購物節，被視為年底消費旺季的開端。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "Kitco (Reuters): Wall St Week Ahead: 'Black Friday' brings consumer spending into focus for AI-rocked market",
+              "url": "https://www.kitco.com/news/off-the-wire/2026-11-20/wall-st-week-ahead-black-friday-brings-consumer-spending-focus-ai"
+            },
+            {
+              "title": "Futu News: Global Market Watch for Next Week: Can U.S. Stocks Stabilize? PCE Data and Black Friday Spending to Test Market Confidence",
+              "url": "https://news.futunn.com/en/post/1005274638/global-market-watch-for-next-week-can-us-stocks-stabilize"
+            },
+            {
+              "title": "Coinpaper: Nasdaq Crashes 10% in One Week as S&P 500 and Dow Enter Correction Territory",
+              "url": "https://coinpaper.com/39182/nasdaq-crashes-10-in-one-week-as-s-and-p-500-and-dow-enter-correction-territory"
+            },
+            {
+              "title": "Charles Schwab: Markets' November Nightmare Keeps Getting Worse",
+              "url": "https://www.schwab.com/learn/story/market-volatility"
+            }
+          ]
+        },
+        {
+          "title": "本週看點（台股）：金管會 11/23 起全面禁止平盤以下放空等五措施，為 2015 年以來首次；國安基金罕見假日喊話",
+          "category": "台股",
+          "summary": "週末休市。金管會 11/21 宣布第三波穩定股市措施，11/23 起實施：融券及借券賣出上市櫃股票價格不得低於前一營業日收盤價，不再以個股跌幅 3.5% 為條件，改為全面適用；最低融券保證金成數由 130% 調高至 150%；暫停受理認售權證上市櫃申請；並鼓勵上市櫃公司實施庫藏股、金融機構暫停出借股票。證券商與期貨商的避險需求可豁免。這是 2015 年以來首度全面禁止平盤以下放空。國安基金也罕見在假日發布新聞稿，證實已依 11/6 臨時委員會授權進場護盤，呼籲投資人保持信心，並強調台灣經濟基本面穩健。台股上週重挫 7,641 點、跌幅 17.5%，收 36,033 點；有分析師提醒，11/25 可能面臨融資追繳不足的斷頭賣壓。",
+          "why": "政府祭出近十年最強的限空措施，能否止住賣壓、守住 35,000 點，是本週台股最大觀察重點。",
+          "glossary": [
+            {
+              "term": "平盤以下放空",
+              "def": "以低於前一日收盤價的價格融券或借券賣出，被禁止後可減少空方在下跌時加碼放空。"
+            },
+            {
+              "term": "融資斷頭",
+              "def": "融資買股的投資人在股價下跌後未補足保證金，遭券商強制賣出持股。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "工商時報：台股跳水 金管會再出手！宣布「全面禁止平盤以下放空」等五項措施",
+              "url": "https://www.ctee.com.tw/news/20261121700641-430301"
+            },
+            {
+              "title": "公視新聞：金管會祭第3波限空令 23日起全面禁止平盤以下放空",
+              "url": "https://news.pts.org.tw/article/836748"
+            },
+            {
+              "title": "鉅亨網：第三波救市來了！金管會：23日起全面禁平盤下放空、籲法人停止出借股票",
+              "url": "https://news.cnyes.com/news/id/6669819"
+            },
+            {
+              "title": "商業周刊：限空令11/23再加碼！最新消息、5大措施與股市影響一次看",
+              "url": "https://www.businessweekly.com.tw/business/blog/3023539"
+            },
+            {
+              "title": "聯合新聞網：台股狂瀉有人管嗎？國安基金：已進場護盤",
+              "url": "https://udn.com/news/story/7238/9893388"
+            },
+            {
+              "title": "ETtoday：國安基金罕見假日喊話！財部喊「已進場護盤」",
+              "url": "https://finance.ettoday.net/news/3276094"
+            },
+            {
+              "title": "NOWnews：台股下週剉咧等？國安基金已進場護盤、假日難得喊話「保持信心」",
+              "url": "https://www.nownews.com/news/6894338"
+            },
+            {
+              "title": "鉅亨網：台股血崩7641點下周守住35000！國安基金急派「定心丸」喊話4大撐盤亮點",
+              "url": "https://news.cnyes.com/news/id/6669743"
+            },
+            {
+              "title": "東森新聞：台股下週恐再殺？金管會祭出「禁空令」 國安基金罕見假日喊話",
+              "url": "https://news.ebc.net.tw/news/business/581812"
+            }
+          ]
+        }
+      ],
+      "mood": "恐慌、觀望政策效果",
+      "outlook": "偏多因素：金管會 11/23 起全面禁止平盤以下放空、調高融券保證金，國安基金也表態持續護盤；外資賣超金額收斂；美國感恩節假期消費預估仍成長。偏空因素：美股上週那斯達克重挫約 10%、標普 500 進入修正；輝達同時面臨證管會與加州檢察長調查；12 月升息預期升溫；台股可能面臨融資斷頭賣壓；俄方飛彈落入波蘭。本週關鍵：週一台股開盤對救市措施的反應、11/25 融資追繳、美國 PCE 與黑色星期五消費。整體情緒仍恐慌，市場觀望政策效果。以上僅整理市場資訊與各方觀點，不構成投資建議。"
+    },
+    {
+      "id": "ai",
+      "name": "AI 科技發展",
+      "items": [
+        {
+          "title": "加州檢察長傳喚輝達，調查晶片是否流入中國、是否誤導投資人",
+          "category": "政策與監管",
+          "summary": "加州檢察長邦塔 11/19 對輝達發出調查傳票，調查輝達的先進晶片或機密資訊是否流入中國，以及公司是否就此風險誤導投資人或大眾。邦塔表示，輝達與前執行長的行為引發「明顯警訊」，包括公司可能誤導投資人的方式；傳票屬調查措施，並非認定違法。此案起因於前執行長黃仁勳與一名疑似中國間諜交往的報導，並與新加坡公司 Megaspeed 涉嫌轉運受管制晶片到中國的調查有關。另據《華爾街日報》，美國證管會也在調查輝達是否在揭露上誤導投資人。輝達發言人表示，雖曾取得部分出口許可，但已停止向中國出貨 H200。",
+          "why": "輝達同時面對聯邦與州層級調查，治理與合規風險升高，將持續壓抑 AI 供應鏈評價。",
+          "glossary": [
+            {
+              "term": "調查傳票",
+              "def": "檢察機關要求企業或個人提供文件、資料或出面說明的法律文件，用於調查階段。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "California Attorney General: Attorney General Bonta Serves Investigative Subpoena on Nvidia",
+              "url": "https://oag.ca.gov/news/press-releases/attorney-general-bonta-serves-investigative-subpoena-nvidia"
+            },
+            {
+              "title": "The Hill: California attorney general issues subpoena to Nvidia over chip sales to China",
+              "url": "https://thehill.com/homenews/state-watch/6232059-california-bonta-subpoenas-nvidia-ai-chips/"
+            },
+            {
+              "title": "Newsweek: Nvidia Subpoenaed in California Over Jensen Huang China Scandal",
+              "url": "https://www.newsweek.com/nvidia-california-subpoena-jensen-huang-china-scandal-12743893"
+            },
+            {
+              "title": "KCRA: AG Rob Bonta subpoenas tech company Nvidia after former CEO's affair with alleged Chinese spy",
+              "url": "https://www.kcra.com/article/california-ag-rob-bonta-subpoenas-nvidia-in-china-probe/74483138"
+            }
+          ]
+        },
+        {
+          "title": "Anthropic 上市後解禁時程與分析師評等受關注：首批解禁約占發行四成，非承銷券商目標價最高 155 美元",
+          "category": "產業與投資",
+          "summary": "延續前幾天報導。Anthropic 上市首週股價從首日收盤 97.17 美元回落至約 88 美元後，市場開始關注股份解禁與分析師評等。據報導，Anthropic 的閉鎖期採分批解禁，首月內分批釋出，並在掛牌後第 48、62、76 天再有解禁潮；一份報告稱首批解禁約占發行規模近四成。分析師方面，非承銷團的 Melius、Needham、Wolfe Research 與 Citizens 給予正面評等，目標價分別為 155、150、135 與 125 美元；依金融業監管局規定，承銷團的 22 家銀行至少須等 10 天才能發布研究報告。另有分析指出，若股價下跌，可能影響持股的亞馬遜與 Alphabet 財報。（註：解禁比例出自單一分析報告，以公司公開文件為準。）",
+          "why": "大量股份解禁與承銷券商的首份報告，將是 Anthropic 未來數週股價波動的關鍵，也牽動 AI 類股情緒。",
+          "glossary": [
+            {
+              "term": "閉鎖期",
+              "def": "IPO 後內部人與早期投資人在一段期間內不得出售持股的限制，到期即稱為解禁。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "Business Insider Japan: Anthropic IPO has billions of shares waiting to be unlocked",
+              "url": "https://www.businessinsider.jp/article/2611-news-anthropic-ipo-has-billions-of-shares-waiting-to-be-unlocked/"
+            },
+            {
+              "title": "TIKR: Anthropic's Lock-Ups Free 'Nearly 40% of the Deal' on Day One",
+              "url": "https://www.tikr.com/blog/anthropics-lock-ups-free-nearly-40-of-the-deal-on-day-one-thats-a-big-risk-for-alphabet-and-amazon"
+            },
+            {
+              "title": "Finimize: Analysts warm up to Anthropic ahead of its Nasdaq debut",
+              "url": "https://finimize.com/content/analysts-warm-up-to-anthropic-ahead-of-its-nasdaq-debut"
+            },
+            {
+              "title": "FourWeekMBA: Wall Street Starts Anthropic at Buy With Targets Up to $155",
+              "url": "https://fourweekmba.com/ai-wall-street-starts-anthropic-at-buy-with-targets-up-to-155/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "observation": "本週市場焦點在於救市政策能否止住 AI 賣壓。台股上週重挫約 17.5%，金管會祭出 2015 年以來首次全面禁止平盤以下放空，國安基金也罕見假日喊話；美股感恩節短週將檢驗黑色星期五消費與 PCE 通膨，聯準會 12 月升息的陰影仍在。輝達同時面臨證管會與加州檢察長調查，Anthropic 則將迎來解禁與承銷券商的首份報告，AI 類股短線波動恐難平息。\n\n地緣上，丹麥驅逐俄國武官、波蘭要求北約增援，歐俄對立持續升溫；衣索比亞與厄利垂亞邊境集結兵力，非洲之角風險升高。COP31 延長談判仍未達成協議。\n\n本週可關注：週一台股對禁空令的反應、11/25 融資追繳與美國 PCE 數據。",
+  "sources": [
+    {
+      "title": "Anadolu: Denmark expels Russian defense attache, halts non-essential visas for Russians",
+      "url": "https://aa.com.tr/en/asia-pacific/denmark-expels-russian-defense-attache-halts-non-essential-visas-for-russians/4132455"
+    },
+    {
+      "title": "Al Jazeera: Denmark expels Russian diplomat over alleged plot to kill Ukrainian rapper",
+      "url": "https://www.aljazeera.com/news/2026/11/21/denmark-expels-russian-diplomat-over-alleged-plot-to-kill-ukrainian-rapper"
+    },
+    {
+      "title": "Xinhua: Denmark expels Russian defense attache over assassination attempt allegation",
+      "url": "https://english.news.cn/20261121/d5e6cace18b54e1f80381d1f5b13ded0/c.html"
+    },
+    {
+      "title": "UNN: Denmark expels Russia's military attaché and may stop issuing Schengen visas to Russians",
+      "url": "https://unn.ua/en/news/attempted-assassination-of-kyivstoner-denmark-expels-russias-military-attache-and-may-stop-issuing-schengen-visas-to-russians"
+    },
+    {
+      "title": "Bloomberg: Mexico Arrests Sinaloa Cartel Leader Meza-Flores, One of FBI's Most Wanted",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-21/mexico-arrests-sinaloa-drug-kingpin-on-fbi-s-most-wanted-list"
+    },
+    {
+      "title": "ABC News: Mexican cartel leader on FBI's 10 most wanted fugitives list arrested",
+      "url": "https://abcnews.com/International/mexican-cartel-leader-fbis-10-wanted-fugitive-list/story?id=138346100"
+    },
+    {
+      "title": "CBS News: Mexico arrests drug kingpin on FBI's 10 Most Wanted, sparking violence in Sinaloa",
+      "url": "https://www.cbsnews.com/news/mexico-drug-kingpin-arrest-fausto-isidro-meza-flores-sinaloa/"
+    },
+    {
+      "title": "Washington Times (AP): Mexico detains top cartel boss 'El Chapo Isidro,' setting off a burst of violence in Sinaloa",
+      "url": "https://www.washingtontimes.com/news/2026/nov/21/mexico-detains-top-cartel-boss-el-chapo-isidro-setting-burst-violence/"
+    },
+    {
+      "title": "UPI: Drug cartel boss 'El Chapo Isidro' arrested; violence breaks out",
+      "url": "https://www.upi.com/Top_News/World-News/2026/11/21/latam-mexico-el-chapo-isidro-arrested/9781795278569/"
+    },
+    {
+      "title": "Al Jazeera: Russian missiles hit Poland: What happened, and could NATO respond?",
+      "url": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond"
+    },
+    {
+      "title": "Manila Times (AP): Russian missiles land in Poland, as Europe held military drills nearby. NATO calls it a violation",
+      "url": "https://www.manilatimes.net/2026/11/21/world/americas-emea/russian-missiles-land-in-poland-as-europe-held-military-drills-nearby-nato-calls-it-a-violation/2475390"
+    },
+    {
+      "title": "Latin Times: Poland Requests More NATO Air Defenses After Russian Missiles, Drone Crash on Its Soil",
+      "url": "https://www.latintimes.com/russian-weapons-crash-poland-nato-article-4-601654"
+    },
+    {
+      "title": "CBS News: Poland accuses Russia of 'intentional provocation' as missiles hit NATO soil",
+      "url": "https://www.cbsnews.com/news/ukraine-war-russia-intentional-provocation-poland-missiles-nato/"
+    },
+    {
+      "title": "Al-Monitor (Reuters): Ethiopia and Eritrea amass forces along border, heightening war fears, sources say",
+      "url": "https://www.al-monitor.com/originals/2026/11/ethiopia-and-eritrea-amass-forces-along-border-heightening-war-fears-sources-say"
+    },
+    {
+      "title": "bne IntelliNews: Ethiopia and Eritrea mass troops on border as Badme clashes stoke Horn of Africa war fears",
+      "url": "https://www.intellinews.com/ethiopia-and-eritrea-mass-troops-on-border-as-badme-clashes-stoke-horn-of-africa-war-fears-486576/"
+    },
+    {
+      "title": "allAfrica: Overnight Drone, Artillery Strikes Reported Around Badme Amid Ethiopian, Eritrean Military Buildup",
+      "url": "https://allafrica.com/stories/202611190377.html"
+    },
+    {
+      "title": "Critical Threats: Ethiopia War Security Review, November 17, 2026",
+      "url": "https://www.criticalthreats.org/briefs/ethiopia-war-security-review/november-17-2026"
+    },
+    {
+      "title": "Hürriyet Daily News: COP31 talks extended as countries seek final deal",
+      "url": "https://www.hurriyetdailynews.com/cop31-concludes-in-antalya-after-two-weeks-of-climate-talks-229651"
+    },
+    {
+      "title": "Al-Monitor: COP31 delivers deals for host Turkey as climate diplomacy stalls",
+      "url": "https://www.al-monitor.com/originals/2026/11/cop31-delivers-deals-host-turkey-climate-diplomacy-stalls"
+    },
+    {
+      "title": "Climate Action: COP31 reaches its final day: new momentum on electrification, but a weakened draft deal",
+      "url": "https://www.climateaction.org/news/cop31-reaches-its-final-day-new-momentum-on-electrification-but-a-weakened"
+    },
+    {
+      "title": "Yahoo News: COP31 draft drops fossil fuel language as talks near deadline",
+      "url": "https://sg.news.yahoo.com/cop31-negotiators-publish-revised-deal-121302138.html"
+    },
+    {
+      "title": "Kitco (Reuters): Wall St Week Ahead: 'Black Friday' brings consumer spending into focus for AI-rocked market",
+      "url": "https://www.kitco.com/news/off-the-wire/2026-11-20/wall-st-week-ahead-black-friday-brings-consumer-spending-focus-ai"
+    },
+    {
+      "title": "Futu News: Global Market Watch for Next Week: Can U.S. Stocks Stabilize? PCE Data and Black Friday Spending to Test Market Confidence",
+      "url": "https://news.futunn.com/en/post/1005274638/global-market-watch-for-next-week-can-us-stocks-stabilize"
+    },
+    {
+      "title": "Coinpaper: Nasdaq Crashes 10% in One Week as S&P 500 and Dow Enter Correction Territory",
+      "url": "https://coinpaper.com/39182/nasdaq-crashes-10-in-one-week-as-s-and-p-500-and-dow-enter-correction-territory"
+    },
+    {
+      "title": "Charles Schwab: Markets' November Nightmare Keeps Getting Worse",
+      "url": "https://www.schwab.com/learn/story/market-volatility"
+    },
+    {
+      "title": "工商時報：台股跳水 金管會再出手！宣布「全面禁止平盤以下放空」等五項措施",
+      "url": "https://www.ctee.com.tw/news/20261121700641-430301"
+    },
+    {
+      "title": "公視新聞：金管會祭第3波限空令 23日起全面禁止平盤以下放空",
+      "url": "https://news.pts.org.tw/article/836748"
+    },
+    {
+      "title": "鉅亨網：第三波救市來了！金管會：23日起全面禁平盤下放空、籲法人停止出借股票",
+      "url": "https://news.cnyes.com/news/id/6669819"
+    },
+    {
+      "title": "商業周刊：限空令11/23再加碼！最新消息、5大措施與股市影響一次看",
+      "url": "https://www.businessweekly.com.tw/business/blog/3023539"
+    },
+    {
+      "title": "聯合新聞網：台股狂瀉有人管嗎？國安基金：已進場護盤",
+      "url": "https://udn.com/news/story/7238/9893388"
+    },
+    {
+      "title": "ETtoday：國安基金罕見假日喊話！財部喊「已進場護盤」",
+      "url": "https://finance.ettoday.net/news/3276094"
+    },
+    {
+      "title": "NOWnews：台股下週剉咧等？國安基金已進場護盤、假日難得喊話「保持信心」",
+      "url": "https://www.nownews.com/news/6894338"
+    },
+    {
+      "title": "鉅亨網：台股血崩7641點下周守住35000！國安基金急派「定心丸」喊話4大撐盤亮點",
+      "url": "https://news.cnyes.com/news/id/6669743"
+    },
+    {
+      "title": "東森新聞：台股下週恐再殺？金管會祭出「禁空令」 國安基金罕見假日喊話",
+      "url": "https://news.ebc.net.tw/news/business/581812"
+    },
+    {
+      "title": "California Attorney General: Attorney General Bonta Serves Investigative Subpoena on Nvidia",
+      "url": "https://oag.ca.gov/news/press-releases/attorney-general-bonta-serves-investigative-subpoena-nvidia"
+    },
+    {
+      "title": "The Hill: California attorney general issues subpoena to Nvidia over chip sales to China",
+      "url": "https://thehill.com/homenews/state-watch/6232059-california-bonta-subpoenas-nvidia-ai-chips/"
+    },
+    {
+      "title": "Newsweek: Nvidia Subpoenaed in California Over Jensen Huang China Scandal",
+      "url": "https://www.newsweek.com/nvidia-california-subpoena-jensen-huang-china-scandal-12743893"
+    },
+    {
+      "title": "KCRA: AG Rob Bonta subpoenas tech company Nvidia after former CEO's affair with alleged Chinese spy",
+      "url": "https://www.kcra.com/article/california-ag-rob-bonta-subpoenas-nvidia-in-china-probe/74483138"
+    },
+    {
+      "title": "Business Insider Japan: Anthropic IPO has billions of shares waiting to be unlocked",
+      "url": "https://www.businessinsider.jp/article/2611-news-anthropic-ipo-has-billions-of-shares-waiting-to-be-unlocked/"
+    },
+    {
+      "title": "TIKR: Anthropic's Lock-Ups Free 'Nearly 40% of the Deal' on Day One",
+      "url": "https://www.tikr.com/blog/anthropics-lock-ups-free-nearly-40-of-the-deal-on-day-one-thats-a-big-risk-for-alphabet-and-amazon"
+    },
+    {
+      "title": "Finimize: Analysts warm up to Anthropic ahead of its Nasdaq debut",
+      "url": "https://finimize.com/content/analysts-warm-up-to-anthropic-ahead-of-its-nasdaq-debut"
+    },
+    {
+      "title": "FourWeekMBA: Wall Street Starts Anthropic at Buy With Targets Up to $155",
+      "url": "https://fourweekmba.com/ai-wall-street-starts-anthropic-at-buy-with-targets-up-to-155/"
+    }
+  ]
+}

@@ -22,6 +22,66 @@
  },
  "days": [
   {
+   "date": "2026-11-22",
+   "title": "🌏 每日早報｜2026/11/22",
+   "items": [
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "丹麥指俄情報機構策劃暗殺烏克蘭饒舌歌手，驅逐俄國防武官並停發俄國人非必要簽證",
+     "anchor": "world-1"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "墨西哥逮捕 FBI 十大通緝要犯「小矮子伊西德羅」，錫那羅亞州爆發暴力衝突",
+     "anchor": "world-2"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "波蘭召見俄國大使、要求北約增派防空資產，但未正式啟動北約第 4 條；俄方未回應",
+     "anchor": "world-3"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "衣索比亞與厄利垂亞邊境大舉集結兵力，巴德梅一帶傳出無人機與砲擊，引發開戰疑慮",
+     "anchor": "world-4"
+    },
+    {
+     "section": "world",
+     "category": "ESG／氣候與歐盟法規",
+     "title": "COP31 延長談判仍未達成最終協議；草案刪除化石燃料轉型文字，巴拿馬揚言正式反對",
+     "anchor": "world-5"
+    },
+    {
+     "section": "markets",
+     "category": "美股",
+     "title": "本週看點（美股）：感恩節短週，市場關注黑色星期五消費與 PCE 通膨；標普 500 較高點跌逾一成",
+     "anchor": "markets-1"
+    },
+    {
+     "section": "markets",
+     "category": "台股",
+     "title": "本週看點（台股）：金管會 11/23 起全面禁止平盤以下放空等五措施，為 2015 年以來首次；國安基金罕見假日喊話",
+     "anchor": "markets-2"
+    },
+    {
+     "section": "ai",
+     "category": "政策與監管",
+     "title": "加州檢察長傳喚輝達，調查晶片是否流入中國、是否誤導投資人",
+     "anchor": "ai-1"
+    },
+    {
+     "section": "ai",
+     "category": "產業與投資",
+     "title": "Anthropic 上市後解禁時程與分析師評等受關注：首批解禁約占發行四成，非承銷券商目標價最高 155 美元",
+     "anchor": "ai-2"
+    }
+   ]
+  },
+  {
    "date": "2026-11-21",
    "title": "🌏 每日早報｜2026/11/21",
    "items": [
