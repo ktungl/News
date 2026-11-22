@@ -22,6 +22,60 @@
  },
  "days": [
   {
+   "date": "2026-11-23",
+   "title": "🌏 每日早報｜2026/11/23",
+   "items": [
+    {
+     "section": "world",
+     "category": "ESG／氣候與歐盟法規",
+     "title": "COP31 氣候峰會破局：歐盟等國拒絕未提化石燃料的草案，為 2009 年以來首度無協議收場",
+     "anchor": "world-1"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "俄國貨輪芬蘭灣遭無人機攻擊起火延燒，芬蘭軍方研判可能為烏克蘭所為",
+     "anchor": "world-2"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "俄軍無人機擊中基輔州一棟住宅，至少 2 死、多人受困",
+     "anchor": "world-3"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "聯合國駐黎巴嫩維和部隊開始把南黎巴嫩據點移交黎巴嫩軍，任務年底到期",
+     "anchor": "world-4"
+    },
+    {
+     "section": "markets",
+     "category": "美股",
+     "title": "今日看點（美股）：費城半導體上週五重挫 10.73%、單週跌 17% 創 2001 年以來最差；本週感恩節短週",
+     "anchor": "markets-1"
+    },
+    {
+     "section": "markets",
+     "category": "台股",
+     "title": "今日看點（台股）：台指期夜盤重挫 1,881 點至 33,919 點；全面禁空令今日上路，法人看法分歧",
+     "anchor": "markets-2"
+    },
+    {
+     "section": "ai",
+     "category": "研究與安全",
+     "title": "OpenAI 首度公開內部預訓練困惑度數據，首席科學家提議業界設定「共同上限」",
+     "anchor": "ai-1"
+    },
+    {
+     "section": "ai",
+     "category": "產業與投資",
+     "title": "英國《金融時報》：亞馬遜洽購 AI 新創 Decart，金額最高約 75 億美元",
+     "anchor": "ai-2"
+    }
+   ]
+  },
+  {
    "date": "2026-11-22",
    "title": "🌏 每日早報｜2026/11/22",
    "items": [

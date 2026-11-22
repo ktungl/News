@@ -1,0 +1,414 @@
+{
+  "date": "2026-11-23",
+  "title": "🌏 每日早報｜2026/11/23",
+  "generated_at": "2026-11-23T07:30:00+08:00",
+  "sections": [
+    {
+      "id": "world",
+      "name": "國際新聞",
+      "items": [
+        {
+          "title": "COP31 氣候峰會破局：歐盟等國拒絕未提化石燃料的草案，為 2009 年以來首度無協議收場",
+          "category": "ESG／氣候與歐盟法規",
+          "summary": "延續前幾天報導。在土耳其安塔利亞舉行的聯合國氣候峰會 COP31 最終未能達成協議。歐盟、英國、巴拿馬、萬那杜、馬紹爾群島與小島國家反對一份未提及化石燃料的草案，歐盟代表認為草案在迎合化石燃料出口國；由於決議須共識通過，任一國反對即可阻擋。大會主席庫魯姆表示相關決議未獲通過。這屆會議比原訂延長約兩天，成為史上最長的聯合國氣候峰會，也是 2009 年以來首度無協議收場。聯合國秘書長古特瑞斯表示「深感失望」，主導談判的澳洲氣候部長鮑文也稱結果「非常令人失望」。報導指出，這次未達成新協議，不影響過去會議已確立的氣候義務。",
+          "why": "全球氣候談判停滯，可能減緩各國減碳政策推進，但歐盟碳邊境調整機制等既有法規仍將持續影響台灣出口企業。",
+          "glossary": [
+            {
+              "term": "共識決",
+              "def": "須所有與會國家無異議才能通過決議的機制，任何一國反對都可阻擋。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "UN News: COP31 ends without climate pact as UN chief warns there is 'no ambiguity in the science'",
+              "url": "https://news.un.org/en/story/2026/11/1168855"
+            },
+            {
+              "title": "CBS News: U.N. COP31 climate conference ends with no agreement after fossil fuel debate reaches standstill",
+              "url": "https://www.cbsnews.com/news/un-cop31-climate-conference-ends-no-agreement-fossil-fuel-debate-standstill/"
+            },
+            {
+              "title": "NBC News: COP31 climate talks break down after angry dispute over fossil fuels",
+              "url": "https://www.nbcnews.com/science/climate-change/cop31-climate-talks-break-angry-dispute-fossil-fuels-rcna610656"
+            },
+            {
+              "title": "CBC: COP31 climate talks collapse after member states reject deal for not mentioning fossil fuels",
+              "url": "https://www.cbc.ca/news/world/cop31-talks-collapse-fossil-fuel-9.7431847"
+            },
+            {
+              "title": "ABC (Australia): COP31 ends without deal after climate change talks break down",
+              "url": "https://www.abc.net.au/news/2026-11-23/cop31-talks-break-down-in-longest-ever-un-climate-debate/107414772"
+            }
+          ]
+        },
+        {
+          "title": "俄國貨輪芬蘭灣遭無人機攻擊起火延燒，芬蘭軍方研判可能為烏克蘭所為",
+          "category": "國際政治與地緣",
+          "summary": "俄羅斯貨輪 Sparta II 號 11/21 在芬蘭灣、俄國戈格蘭島以西的國際水域遭無人機攻擊起火，至 11/22 仍持續燃燒，船隻已漂入芬蘭海域下錨。芬蘭國防軍證實俄方說法，並研判攻擊可能由烏克蘭發動，但烏方未證實。16 名船員已全數轉移至附近一艘俄國船隻。共有 7 艘船參與滅火，包括 2 艘俄國、2 艘愛沙尼亞及芬蘭船隻。美國財政部資料顯示該船受美國制裁，船東 Oboronlogistika 為俄羅斯國防部提供後勤服務。愛沙尼亞海軍司令警告，不排除芬蘭灣還會發生攻擊。（註：攻擊者身分為芬蘭軍方研判，未獲證實。）",
+          "why": "俄烏戰火延伸至波羅的海、緊鄰北約國家水域，增加區域航運與安全風險。",
+          "glossary": [
+            {
+              "term": "芬蘭灣",
+              "def": "波羅的海東側海灣，連接聖彼得堡與芬蘭、愛沙尼亞，是俄國重要出海通道。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "gCaptain: Russian Cargo Ship Still On Fire Off Finland After Attack",
+              "url": "https://gcaptain.com/russian-cargo-ship-still-on-fire-off-finland-after-attack/"
+            },
+            {
+              "title": "CNBC: Russian ship hit by drones in Baltic still smolders as Finland, Estonia help put out blaze",
+              "url": "https://www.cnbc.com/2026/11/22/russian-cargo-ship-still-on-fire-off-finland-after-attack.html"
+            },
+            {
+              "title": "US News (Reuters): Russian Cargo Ship Still on Fire off Finland After Attack",
+              "url": "https://www.usnews.com/news/world/articles/2026-11-22/russian-cargo-ship-still-on-fire-off-finland-after-attack"
+            },
+            {
+              "title": "Yahoo News: Russian cargo ship catches fire after drone attack in Gulf of Finland",
+              "url": "https://www.yahoo.com/news/world/articles/russian-cargo-ship-catches-fire-225308723.html"
+            }
+          ]
+        },
+        {
+          "title": "俄軍無人機擊中基輔州一棟住宅，至少 2 死、多人受困",
+          "category": "國際政治與地緣",
+          "summary": "俄羅斯無人機 11/22 上午擊中基輔州德梅爾的一棟五層住宅。澤倫斯基辦公室表示，已有 9 人撤離、火勢受控，最初通報至少 14 人可能受困瓦礫下；路透後續報導至少 2 人死亡、約 10 人可能仍受困。下午 3:35 因空襲警報，救援人員一度中止搜救。各家報導的傷亡數字仍在變動。另有報導指俄軍攻擊澤倫斯基家鄉克里維里赫，造成數十人受傷，但日期與人數各報導不一。（註：傷亡數字為初步統計，各報導不一。）",
+          "why": "俄方持續空襲烏克蘭民宅，和談前景渺茫，也使歐洲對俄立場更趨強硬。",
+          "glossary": [
+            {
+              "term": "基輔州",
+              "def": "烏克蘭首都基輔周邊的行政區，與基輔市為不同行政單位。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "US News (Reuters): At Least 14 People Missing After Russian Drone Hit Building in Kyiv Region, Zelenskiy Says",
+              "url": "https://www.usnews.com/news/world/articles/2026-11-22/at-least-14-people-missing-after-russian-drone-hit-building-in-kyiv-region-zelenskiy-says"
+            },
+            {
+              "title": "AOL (Reuters): At least 2 killed when Russian drone hit building in Kyiv region, officials say",
+              "url": "https://www.aol.com/articles/least-14-people-missing-russian-085938000.html"
+            },
+            {
+              "title": "Jerusalem Post: Over a dozen people missing after Russian drone hit building in Ukraine",
+              "url": "http://www.jpost.com/international/internationalrussia-ukraine-war/article-915689"
+            },
+            {
+              "title": "Il Sole 24 Ore: War, latest news",
+              "url": "https://en.ilsole24ore.com/art/war-latest-news-ukraine-russian-attack-kryvyi-rih-73-injured-including-9-children-AJnYj5OC"
+            }
+          ]
+        },
+        {
+          "title": "聯合國駐黎巴嫩維和部隊開始把南黎巴嫩據點移交黎巴嫩軍，任務年底到期",
+          "category": "國際政治與地緣",
+          "summary": "聯合國駐黎巴嫩臨時部隊（UNIFIL）指揮官阿巴尼亞拉 11/22 在提爾宣布，部隊已開始將南黎巴嫩部分據點移交黎巴嫩軍隊，並警告任務結束後可能出現安全真空。聯合國安理會 2025 年 8 月已將 UNIFIL 任務最後一次延長至 2026 年 12 月 31 日，2027 年分階段撤離。今年 8 月 UNIFIL 曾移交首個據點，這次被視為延續移交進程。移交與 6/26 美國斡旋的框架有關：以色列從黎巴嫩領土撤軍，與黎巴嫩軍恢復控制、非國家武裝團體經查證解除武裝掛鉤。阿巴尼亞拉表示，聯合國在南黎的未來角色取決於安理會決定。",
+          "why": "維和部隊撤離後若出現權力真空，可能讓以色列與真主黨之間的緊張再度升溫。",
+          "glossary": [
+            {
+              "term": "UNIFIL",
+              "def": "聯合國駐黎巴嫩臨時部隊，1978 年成立，負責監督黎巴嫩南部與以色列邊界地區。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "Anadolu: UNIFIL begins handing over positions in southern Lebanon to Lebanese army",
+              "url": "https://aa.com.tr/en/middle-east/unifil-begins-handing-over-positions-in-southern-lebanon-to-lebanese-army/4133076"
+            },
+            {
+              "title": "Bernama: UNIFIL Begins Handing Over Positions In Southern Lebanon To Lebanese Army",
+              "url": "https://www.bernama.com/en/world/news.php?id=2637692"
+            },
+            {
+              "title": "Free Malaysia Today: Unifil begins handing over positions in Southern Lebanon to Lebanese army",
+              "url": "https://www.freemalaysiatoday.com/category/world/2026/11/22/unifil-begins-handing-over-positions-in-southern-lebanon-to-lebanese-army"
+            },
+            {
+              "title": "HNGN: Israel Strikes Test June Framework as UNIFIL Hands Over First Position to Lebanese Army",
+              "url": "https://www.hngn.com/articles/272847/20260821/israel-strikes-test-june-framework-unifil-hands-over-first-position-lebanese-army.htm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "name": "股市觀察（美股・台股）",
+      "items": [
+        {
+          "title": "今日看點（美股）：費城半導體上週五重挫 10.73%、單週跌 17% 創 2001 年以來最差；本週感恩節短週",
+          "category": "美股",
+          "summary": "美股週末休市，上週五（11/20）收盤數據本報已報導。補充數據：費城半導體指數 11/20 重挫 10.73%、收 8,408.59 點，單週暴跌約 17.1%，為 2001 年 9 月以來最差單週；台積電 ADR 重挫 9.48%、收 318.71 美元；恐慌指數 VIX 收 38.48，創 2025 年 4 月以來新高。本週為感恩節短週，11/26 休市、11/27 提前收盤，市場焦點在黑色星期五消費、PCE 通膨數據，以及 AI 類股能否止跌。",
+          "why": "半導體類股創逾二十年來最大單週跌幅，台積電 ADR 重挫將直接反映在今日台股開盤。",
+          "glossary": [
+            {
+              "term": "VIX",
+              "def": "芝加哥期權交易所波動率指數，俗稱恐慌指數，數值愈高代表市場預期波動愈大。"
+            },
+            {
+              "term": "費城半導體指數",
+              "def": "追蹤美國主要半導體公司股價的指數，是全球半導體類股的風向指標。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "今周刊：費半挫11%台積電ADR跌9.5%，台指期夜盤崩1881點見33K",
+              "url": "https://www.businesstoday.com.tw/article/category/183008/post/202611210002/"
+            },
+            {
+              "title": "Yahoo新聞：費半一週跌17% 寫2001年來最慘",
+              "url": "https://tw.news.yahoo.com/%E8%B2%BB%E5%8D%8A-%E9%80%B1%E8%B7%8C17-%E5%AF%AB2001%E5%B9%B4%E4%BE%86%E6%9C%80%E6%85%98-043000927.html"
+            },
+            {
+              "title": "Kitco (Reuters): Wall St Week Ahead: 'Black Friday' brings consumer spending into focus for AI-rocked market",
+              "url": "https://www.kitco.com/news/off-the-wire/2026-11-20/wall-st-week-ahead-black-friday-brings-consumer-spending-focus-ai"
+            },
+            {
+              "title": "CNBC: S&P 500 and Dow close in correction; Nasdaq erases 2026 gain as AI rout picks up steam",
+              "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"
+            }
+          ]
+        },
+        {
+          "title": "今日看點（台股）：台指期夜盤重挫 1,881 點至 33,919 點；全面禁空令今日上路，法人看法分歧",
+          "category": "台股",
+          "summary": "受美股半導體重挫拖累，台指期上週五夜盤暴跌 1,881 點、收 33,919 點，台積電期貨跌 116 元至 1,880 元，法人預期今日開盤仍有系統性賣壓。金管會全面禁止平盤以下放空等五項措施今日起實施，國安基金也強調已實彈進場護盤。法人看法分歧：統一投顧預估台股將在 33,000 至 40,000 點大區間震盪；有法人認為限空令不利流動性，本週恐下探 32,000 點，永豐投顧建議觀望；也有分析師認為政策有助降低恐慌，可能出現短暫反彈，並指出歷史上限空令雖難立即止跌，往往代表中長線波段相對低點。",
+          "why": "禁空令首日能否緩和賣壓、台積電能否守住 2,000 元，將決定台股是否止跌。",
+          "glossary": [
+            {
+              "term": "夜盤",
+              "def": "期貨在正常交易時段結束後的盤後交易時段，可反映美股等海外市場變化，常被視為隔日開盤的參考。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "自由財經：下週台股挫咧等！台指期夜盤大暴跌 狂殺1881點",
+              "url": "https://ec.ltn.com.tw/article/breakingnews/5648342"
+            },
+            {
+              "title": "TVBS：台股週一恐再殺？金管會「全面禁空令」上路 法人揭關鍵防線",
+              "url": "https://news.tvbs.com.tw/money/4054366"
+            },
+            {
+              "title": "聯合新聞網：台股創史上最大單周跌點…限空令不利流動性 法人：本周恐下探32,000點",
+              "url": "https://udn.com/news/story/7251/9894732"
+            },
+            {
+              "title": "台視新聞：限空令+國安基金能救市？台股週一表現受矚 專家估宣洩完反彈",
+              "url": "https://news.ttv.com.tw/news/11511220009300I"
+            },
+            {
+              "title": "Yahoo股市：費半暴跌10.7％、台積電ADR摔逾9％！台股周一開盤繼續殺？",
+              "url": "https://tw.stock.yahoo.com/news/%E8%B2%BB%E5%8D%8A%E6%9A%B4%E8%B7%8C10-7-%E5%8F%B0%E7%A9%8D%E9%9B%BBadr%E6%91%94%E9%80%BE9-%E5%8F%B0%E8%82%A1%E5%91%A8-%E9%96%8B%E7%9B%A4%E7%B9%BC%E7%BA%8C%E6%AE%BA-015353993.html"
+            }
+          ]
+        }
+      ],
+      "mood": "恐慌、偏空",
+      "outlook": "偏空因素：費城半導體上週五重挫 10.73%、單週跌約 17%，台積電 ADR 跌 9.48%；台指期夜盤重挫 1,881 點至 33,919 點；VIX 升至 2025 年 4 月以來新高；聯準會 12 月升息預期升溫；有法人認為限空令不利流動性。偏多因素：全面禁空令今日上路、國安基金強調已實彈護盤；有分析師認為恐慌宣洩後可能出現短暫反彈。今日關鍵：台股開盤跌幅、台積電能否守住 2,000 元，以及禁空令對賣壓的影響。整體市場情緒仍恐慌。以上僅整理市場資訊與各方觀點，不構成投資建議。"
+    },
+    {
+      "id": "ai",
+      "name": "AI 科技發展",
+      "items": [
+        {
+          "title": "OpenAI 首度公開內部預訓練困惑度數據，首席科學家提議業界設定「共同上限」",
+          "category": "研究與安全",
+          "summary": "OpenAI 首席科學家帕霍茨基 11/22 發表〈困惑度與智慧〉一文，首度公開內部模型的預訓練分數：在 OpenAI 內部程式碼保留資料集上，GPT-3.5 的對數困惑度約 0.99、GPT-4 約 0.91。他提議各 AI 開發商以困惑度等指標設定「共同上限」，並承諾在 AI 行為監控達到具體里程碑前不越過上限。他預期最快 2027 年可能出現預訓練突破的「雪崩」，速度可能快過對齊與監控技術的進展。他也承認困惑度難以跨實驗室比較、不直接對應實際任務能力。各報導對建議的上限門檻數值說法不一。（註：此為單一公司提議，其他開發商尚未回應。）",
+          "why": "頂尖 AI 公司主動提出業界自律上限，可能影響未來 AI 治理與監管的討論方向。",
+          "glossary": [
+            {
+              "term": "困惑度",
+              "def": "衡量語言模型預測文字能力的指標，數值愈低代表模型預測愈準確。"
+            },
+            {
+              "term": "預訓練",
+              "def": "以大量資料訓練模型基礎能力的階段，之後再針對特定任務微調。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "MLQ.ai: OpenAI publishes its models' perplexity scores and proposes industry-wide limits on AI development",
+              "url": "https://mlq.ai/news/openai-publishes-its-models-perplexity-scores-and-proposes-industry-wide-limits-on-ai-development/"
+            },
+            {
+              "title": "Data Studios: OpenAI proposes perplexity limits on frontier AI and publishes internal scores",
+              "url": "https://www.datastudios.org/post/openai-proposes-perplexity-limits-frontier-ai-development"
+            },
+            {
+              "title": "Crypto Briefing: OpenAI's chief scientist sees major AI pretraining breakthroughs as soon as 2027",
+              "url": "https://cryptobriefing.com/openai-pachocki-pretraining-breakthroughs-2027/"
+            },
+            {
+              "title": "StartupHub.ai: OpenAI says perplexity tracks intelligence",
+              "url": "https://www.startuphub.ai/ai-news/ai-research/2026/openai-says-perplexity-tracks-intelligence"
+            }
+          ]
+        },
+        {
+          "title": "英國《金融時報》：亞馬遜洽購 AI 新創 Decart，金額最高約 75 億美元",
+          "category": "產業與投資",
+          "summary": "據英國《金融時報》11/21 報導，亞馬遜正與舊金山 AI 新創 Decart 進行深入洽談，收購金額最高約 75 億美元，最快本週宣布，但談判仍可能破局，雙方均未證實。Decart 於 2023 年由三名以色列工程師創立，產品包括即時影片編輯模型 Lucy、互動式世界模型 Oasis，以及讓 AI 運算在不同晶片上更有效率運行的軟體，可能有助亞馬遜雲端服務（AWS）與輝達競爭。Decart 今年 5 月估值為 40 億美元，投資人包括紅杉資本、Benchmark 與輝達。《華爾街日報》10 月曾報導雙方以近 70 億美元洽談。（註：交易未經官方證實。）",
+          "why": "雲端巨頭持續收購 AI 軟體技術以降低對輝達晶片的依賴，可能改變 AI 晶片生態系競爭格局。",
+          "glossary": [
+            {
+              "term": "世界模型",
+              "def": "能模擬環境並預測行動結果的 AI 模型，可用於遊戲、機器人與模擬訓練。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "TradingView (Seeking Alpha): Amazon nearing $7.5B deal to buy AI start-up Decart: FT",
+              "url": "https://www.tradingview.com/news/seekingalpha:71b3d28ff094b:0-amazon-nearing-7-5b-deal-to-buy-ai-start-up-decart-ft/"
+            },
+            {
+              "title": "AskTraders: Amazon Reportedly Nears $7.5bn Deal for AI Start-Up Decart",
+              "url": "https://www.asktraders.com/analysis/amazon-reportedly-nears-7-5bn-deal-for-ai-start-up-decart/"
+            },
+            {
+              "title": "Business Upturn: Amazon in advanced talks to buy AI startup Decart for $7.5 billion, report says",
+              "url": "https://businessupturn.com/technology/amazon-in-advanced-talks-to-buy-ai-startup-decart-for-7-5-billion-report-says/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "observation": "AI 賣壓在上週五延燒到極點：費城半導體單日重挫 10.73%、單週跌約 17%，創 2001 年以來最差單週，台積電 ADR 跌近一成，台指期夜盤也重挫 1,881 點。今天是金管會全面禁空令上路首日，政策能否緩和恐慌，將是台股能否止跌的關鍵；美股本週則進入感恩節短週，消費與通膨數據將影響市場是否回穩。\n\nAI 產業方面，OpenAI 首度公開預訓練數據並提議業界設定共同上限，亞馬遜傳洽購 Decart，顯示在市場動盪下，產業仍在調整布局。地緣上，COP31 在 2009 年以來首度無協議收場；俄國貨輪在芬蘭灣遭攻擊，戰火逼近北約水域。\n\n今日可關注：台股開盤表現、禁空令效果，以及美股能否止跌。",
+  "sources": [
+    {
+      "title": "UN News: COP31 ends without climate pact as UN chief warns there is 'no ambiguity in the science'",
+      "url": "https://news.un.org/en/story/2026/11/1168855"
+    },
+    {
+      "title": "CBS News: U.N. COP31 climate conference ends with no agreement after fossil fuel debate reaches standstill",
+      "url": "https://www.cbsnews.com/news/un-cop31-climate-conference-ends-no-agreement-fossil-fuel-debate-standstill/"
+    },
+    {
+      "title": "NBC News: COP31 climate talks break down after angry dispute over fossil fuels",
+      "url": "https://www.nbcnews.com/science/climate-change/cop31-climate-talks-break-angry-dispute-fossil-fuels-rcna610656"
+    },
+    {
+      "title": "CBC: COP31 climate talks collapse after member states reject deal for not mentioning fossil fuels",
+      "url": "https://www.cbc.ca/news/world/cop31-talks-collapse-fossil-fuel-9.7431847"
+    },
+    {
+      "title": "ABC (Australia): COP31 ends without deal after climate change talks break down",
+      "url": "https://www.abc.net.au/news/2026-11-23/cop31-talks-break-down-in-longest-ever-un-climate-debate/107414772"
+    },
+    {
+      "title": "gCaptain: Russian Cargo Ship Still On Fire Off Finland After Attack",
+      "url": "https://gcaptain.com/russian-cargo-ship-still-on-fire-off-finland-after-attack/"
+    },
+    {
+      "title": "CNBC: Russian ship hit by drones in Baltic still smolders as Finland, Estonia help put out blaze",
+      "url": "https://www.cnbc.com/2026/11/22/russian-cargo-ship-still-on-fire-off-finland-after-attack.html"
+    },
+    {
+      "title": "US News (Reuters): Russian Cargo Ship Still on Fire off Finland After Attack",
+      "url": "https://www.usnews.com/news/world/articles/2026-11-22/russian-cargo-ship-still-on-fire-off-finland-after-attack"
+    },
+    {
+      "title": "Yahoo News: Russian cargo ship catches fire after drone attack in Gulf of Finland",
+      "url": "https://www.yahoo.com/news/world/articles/russian-cargo-ship-catches-fire-225308723.html"
+    },
+    {
+      "title": "US News (Reuters): At Least 14 People Missing After Russian Drone Hit Building in Kyiv Region, Zelenskiy Says",
+      "url": "https://www.usnews.com/news/world/articles/2026-11-22/at-least-14-people-missing-after-russian-drone-hit-building-in-kyiv-region-zelenskiy-says"
+    },
+    {
+      "title": "AOL (Reuters): At least 2 killed when Russian drone hit building in Kyiv region, officials say",
+      "url": "https://www.aol.com/articles/least-14-people-missing-russian-085938000.html"
+    },
+    {
+      "title": "Jerusalem Post: Over a dozen people missing after Russian drone hit building in Ukraine",
+      "url": "http://www.jpost.com/international/internationalrussia-ukraine-war/article-915689"
+    },
+    {
+      "title": "Il Sole 24 Ore: War, latest news",
+      "url": "https://en.ilsole24ore.com/art/war-latest-news-ukraine-russian-attack-kryvyi-rih-73-injured-including-9-children-AJnYj5OC"
+    },
+    {
+      "title": "Anadolu: UNIFIL begins handing over positions in southern Lebanon to Lebanese army",
+      "url": "https://aa.com.tr/en/middle-east/unifil-begins-handing-over-positions-in-southern-lebanon-to-lebanese-army/4133076"
+    },
+    {
+      "title": "Bernama: UNIFIL Begins Handing Over Positions In Southern Lebanon To Lebanese Army",
+      "url": "https://www.bernama.com/en/world/news.php?id=2637692"
+    },
+    {
+      "title": "Free Malaysia Today: Unifil begins handing over positions in Southern Lebanon to Lebanese army",
+      "url": "https://www.freemalaysiatoday.com/category/world/2026/11/22/unifil-begins-handing-over-positions-in-southern-lebanon-to-lebanese-army"
+    },
+    {
+      "title": "HNGN: Israel Strikes Test June Framework as UNIFIL Hands Over First Position to Lebanese Army",
+      "url": "https://www.hngn.com/articles/272847/20260821/israel-strikes-test-june-framework-unifil-hands-over-first-position-lebanese-army.htm"
+    },
+    {
+      "title": "今周刊：費半挫11%台積電ADR跌9.5%，台指期夜盤崩1881點見33K",
+      "url": "https://www.businesstoday.com.tw/article/category/183008/post/202611210002/"
+    },
+    {
+      "title": "Yahoo新聞：費半一週跌17% 寫2001年來最慘",
+      "url": "https://tw.news.yahoo.com/%E8%B2%BB%E5%8D%8A-%E9%80%B1%E8%B7%8C17-%E5%AF%AB2001%E5%B9%B4%E4%BE%86%E6%9C%80%E6%85%98-043000927.html"
+    },
+    {
+      "title": "Kitco (Reuters): Wall St Week Ahead: 'Black Friday' brings consumer spending into focus for AI-rocked market",
+      "url": "https://www.kitco.com/news/off-the-wire/2026-11-20/wall-st-week-ahead-black-friday-brings-consumer-spending-focus-ai"
+    },
+    {
+      "title": "CNBC: S&P 500 and Dow close in correction; Nasdaq erases 2026 gain as AI rout picks up steam",
+      "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"
+    },
+    {
+      "title": "自由財經：下週台股挫咧等！台指期夜盤大暴跌 狂殺1881點",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5648342"
+    },
+    {
+      "title": "TVBS：台股週一恐再殺？金管會「全面禁空令」上路 法人揭關鍵防線",
+      "url": "https://news.tvbs.com.tw/money/4054366"
+    },
+    {
+      "title": "聯合新聞網：台股創史上最大單周跌點…限空令不利流動性 法人：本周恐下探32,000點",
+      "url": "https://udn.com/news/story/7251/9894732"
+    },
+    {
+      "title": "台視新聞：限空令+國安基金能救市？台股週一表現受矚 專家估宣洩完反彈",
+      "url": "https://news.ttv.com.tw/news/11511220009300I"
+    },
+    {
+      "title": "Yahoo股市：費半暴跌10.7％、台積電ADR摔逾9％！台股周一開盤繼續殺？",
+      "url": "https://tw.stock.yahoo.com/news/%E8%B2%BB%E5%8D%8A%E6%9A%B4%E8%B7%8C10-7-%E5%8F%B0%E7%A9%8D%E9%9B%BBadr%E6%91%94%E9%80%BE9-%E5%8F%B0%E8%82%A1%E5%91%A8-%E9%96%8B%E7%9B%A4%E7%B9%BC%E7%BA%8C%E6%AE%BA-015353993.html"
+    },
+    {
+      "title": "MLQ.ai: OpenAI publishes its models' perplexity scores and proposes industry-wide limits on AI development",
+      "url": "https://mlq.ai/news/openai-publishes-its-models-perplexity-scores-and-proposes-industry-wide-limits-on-ai-development/"
+    },
+    {
+      "title": "Data Studios: OpenAI proposes perplexity limits on frontier AI and publishes internal scores",
+      "url": "https://www.datastudios.org/post/openai-proposes-perplexity-limits-frontier-ai-development"
+    },
+    {
+      "title": "Crypto Briefing: OpenAI's chief scientist sees major AI pretraining breakthroughs as soon as 2027",
+      "url": "https://cryptobriefing.com/openai-pachocki-pretraining-breakthroughs-2027/"
+    },
+    {
+      "title": "StartupHub.ai: OpenAI says perplexity tracks intelligence",
+      "url": "https://www.startuphub.ai/ai-news/ai-research/2026/openai-says-perplexity-tracks-intelligence"
+    },
+    {
+      "title": "TradingView (Seeking Alpha): Amazon nearing $7.5B deal to buy AI start-up Decart: FT",
+      "url": "https://www.tradingview.com/news/seekingalpha:71b3d28ff094b:0-amazon-nearing-7-5b-deal-to-buy-ai-start-up-decart-ft/"
+    },
+    {
+      "title": "AskTraders: Amazon Reportedly Nears $7.5bn Deal for AI Start-Up Decart",
+      "url": "https://www.asktraders.com/analysis/amazon-reportedly-nears-7-5bn-deal-for-ai-start-up-decart/"
+    },
+    {
+      "title": "Business Upturn: Amazon in advanced talks to buy AI startup Decart for $7.5 billion, report says",
+      "url": "https://businessupturn.com/technology/amazon-in-advanced-talks-to-buy-ai-startup-decart-for-7-5-billion-report-says/"
+    }
+  ]
+}
