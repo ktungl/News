@@ -1,0 +1,406 @@
+{
+  "date": "2026-11-24",
+  "title": "🌏 每日早報｜2026/11/24",
+  "generated_at": "2026-11-24T07:30:00+08:00",
+  "sections": [
+    {
+      "id": "world",
+      "name": "國際新聞",
+      "items": [
+        {
+          "title": "澤倫斯基證實烏克蘭以海上無人機在利比亞班加西港擊沉俄羅斯護衛艦",
+          "category": "國際政治與地緣",
+          "summary": "烏克蘭總統澤倫斯基 11/23 證實，烏克蘭特種部隊於 11/22 凌晨在利比亞東部班加西港，以 7 艘國產海上無人機擊沉俄羅斯護衛艦「水星號」（Merkury），艦上一架 Ka-27 直升機也被摧毀，俄國乾貨船「安加拉號」同時遭擊中。澤倫斯基稱這是「堪稱典範」的行動，烏克蘭安全局表示是與國防軍聯合執行。據半島電視台報導，攻擊造成 1 人死亡。克里姆林宮表示已注意到澤倫斯基的聲明，並指控烏克蘭從事「恐怖活動」。聯合國利比亞支援團呼籲獨立調查，並警告勿將利比亞捲入外國衝突；利比亞東部政府表示已與俄方展開聯合調查。",
+          "why": "俄烏戰火延伸到地中海與北非，顯示烏克蘭遠程打擊能力擴大，也可能牽動俄國在利比亞的軍事布局。",
+          "glossary": [
+            {
+              "term": "護衛艦",
+              "def": "中小型水面作戰艦艇，主要負責護航、反潛與近岸防衛。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "RFE/RL: Zelenskyy Confirms Ukraine Struck Russian Warship, Cargo Vessel Near Benghazi",
+              "url": "https://www.rferl.org/a/benghazi-libya-russian-ship-sunk-drone-ukraine/33903623.html"
+            },
+            {
+              "title": "Defense News: Ukraine confirms it sank Russian corvette in Libyan port",
+              "url": "https://www.defensenews.com/global/mideast-africa/2026/11/23/ukraine-confirms-it-sank-russian-corvette-in-libyan-port/"
+            },
+            {
+              "title": "CNBC: Zelenskyy praises 'exemplary' drone operation that sank Russian warship in a Libyan port",
+              "url": "https://www.cnbc.com/2026/11/23/ukraine-russia-warship-libya.html"
+            },
+            {
+              "title": "ABC13 (AP): Ukrainian naval drones sank Russia's Merkury warship in Libya, Zelenskyy confirms",
+              "url": "https://abc13.com/story/ukrainian-naval-drones-sank-russias-merkury-warship-libya-zelenskyy-confirms/20070891/"
+            }
+          ]
+        },
+        {
+          "title": "尚比亞反對派領袖蒙杜比勒等 14 人被控叛國，指涉圖謀推翻政府",
+          "category": "國際政治與地緣",
+          "summary": "尚比亞反對派領袖蒙杜比勒與十多名同夥 11/23 被控圖謀推翻政府，案件移送高等法院以叛國罪審理。蒙杜比勒與競選搭檔祖魯在 8/13 大選後不久就曾因涉嫌叛國遭偵訊，兩人指控選舉舞弊；連任的總統希奇萊馬否認舞弊。檢方指控 14 名被告在 4 月至 8 月間策劃，招募現役與退役軍警人員，並指蒙杜比勒與一名商人出資讓 5 人赴俄羅斯接受軍事訓練。辯方律師稱此案是「釣魚式調查」，蒙杜比勒堅稱無罪並指控案件出於政治動機。審判預計明年初開始。",
+          "why": "非洲民主國家選後以叛國罪起訴反對派領袖，引發政治打壓疑慮，也牽涉俄國在非洲的影響力。",
+          "glossary": [
+            {
+              "term": "叛國罪",
+              "def": "危害國家安全、圖謀推翻政府等重大罪行，刑度通常極重。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "US News (Reuters): Zambia Opposition Leader Charged With Attempting to Overthrow Government",
+              "url": "https://www.usnews.com/news/world/articles/2026-11-23/zambia-opposition-leader-charged-with-attempting-to-overthrow-government"
+            },
+            {
+              "title": "CNBC Africa: Zambia opposition leader charged with attempting to overthrow government",
+              "url": "https://www.cnbcafrica.com/2026/zambia-opposition-leader-charged-with-attempting-to-overthrow-government"
+            },
+            {
+              "title": "Africa Briefing: Zambia charges opposition leader with treason",
+              "url": "https://africabriefing.com/zambia-charges-opposition-leader-with-treason/"
+            },
+            {
+              "title": "Yahoo News: Zambia opposition leader charged with attempting to overthrow government",
+              "url": "https://www.yahoo.com/news/world/articles/zambia-opposition-leader-charged-attempting-122732673.html"
+            }
+          ]
+        },
+        {
+          "title": "法國生活成本抗議連續第六個週末，內政部估全國約 8.25 萬人參加",
+          "category": "國際政治與地緣",
+          "summary": "法國 11/21 迎來連續第六個週末的生活成本抗議。內政部統計全國約 8.25 萬人參加，其中巴黎約 2.15 萬人；主辦單位則稱全國約 15 萬人、巴黎約 4.5 萬人。參加人數較前一週末的 10.6 萬人減少，也低於 11/5 全國統一抗議日的 57.5 萬人。抗議者要求提高工資、處理生活成本與住房問題、改善學校條件；這波運動 9 月由學生發起，之後擴大到工會與黃背心運動。當晚巴黎有鎮暴警察衝向示威者的影片流傳，警方執法也成為爭議。葡萄牙、西班牙同日也有民眾上街抗議生活成本。（註：參加人數官方與主辦單位說法差距大。）",
+          "why": "歐洲多國民生抗議持續，可能影響明年法國總統大選與各國財政政策。",
+          "glossary": [
+            {
+              "term": "黃背心運動",
+              "def": "2018 年起源於法國的抗議運動，起因於燃油稅上漲，後擴大為反對生活成本與政府政策。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "Al Jazeera: Thousands protest across Europe over living costs and housing",
+              "url": "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing"
+            },
+            {
+              "title": "Arab News: French protesters rally for sixth weekend over living costs, public services",
+              "url": "https://www.arabnews.com/world/french-protesters-rally-for-sixth-weekend-over-living-costs-public-services-3013425"
+            },
+            {
+              "title": "Euronews: Thousands take to streets in Portugal, France and Spain over rising living costs",
+              "url": "https://www.euronews.com/2026/11/21/thousands-take-to-streets-in-portugal-france-and-spain-over-rising-living-costs"
+            },
+            {
+              "title": "France 24: Latest cost-of-living protests bring more than 140,000 onto the streets across France",
+              "url": "https://www.france24.com/en/france/20261117-new-french-pay-protests-bring-tens-of-thousands-onto-the-streets"
+            }
+          ]
+        },
+        {
+          "title": "伊朗稱願就重開荷莫茲海峽與美國進行專家級談判，但美方須先接受條件；卡達代表團訪德黑蘭",
+          "category": "國際政治與地緣",
+          "summary": "伊朗外長阿拉格齊表示，若美方願意達成協議，伊朗準備就重開荷莫茲海峽與美國進行專家級談判；依伊朗提出的方案，美方滿足其條件（尤其是取消最新限制措施）後第二天，伊朗將開放海峽並同時展開談判。伊朗 11/23 也表示將動用一切手段反制美國的海上封鎖。伊朗副外長說，卡達代表團訪問德黑蘭並進行兩小時會談，但未透露細節，卡達主導的間接談判目前停滯。川普則表示希望與伊朗達成「永久」協議，但「不急」，下一步可能等到 2027 年。（註：專家級談判提議主要見於伊朗方面說法。）",
+          "why": "荷莫茲海峽何時重開牽動全球油價與航運，美伊雙方仍各持條件，短期難有突破。",
+          "glossary": [
+            {
+              "term": "專家級談判",
+              "def": "由技術官員而非部長層級進行的談判，通常用於處理具體細節。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "Bernama: Iran Ready For Expert-level Talks With The US On Reopening Strait Of Hormuz",
+              "url": "https://www.bernama.com/en/world/news.php?id=2637493"
+            },
+            {
+              "title": "CBS News: Live Updates: Iran says it will use all means to end U.S. blockade as Trump plays down escalating attacks",
+              "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/"
+            },
+            {
+              "title": "CBS News: Trump says he wants 'permanent' deal with Iran; says next move may not come until 2027",
+              "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "name": "股市觀察（美股・台股）",
+      "items": [
+        {
+          "title": "美股創 2025 年 4 月以來最大單日漲幅：那斯達克漲 6.5%，標普 500 漲 4.7% 脫離修正；輝達大漲約 31%",
+          "category": "美股",
+          "summary": "美股 11/23 強勁反彈，主要指數創 2025 年 4 月以來最佳單日表現。據 CNBC，標普 500 指數漲 4.73% 收 7,237.17 點；道瓊工業指數漲約 3.0%（約 1,448 點）收約 49,595 點；那斯達克指數漲約 6.5% 收約 24,090 點，另有報導的收盤數字略有差異。據 Motley Fool 報導，標普 500 已脫離修正區間。帶動反彈的是輝達董事會宣布讓黃仁勳回任執行長，輝達股價據 Yahoo Finance 報導大漲約 31%，AI 類股全面回升。",
+          "why": "AI 龍頭領導權回穩引發全面空頭回補，有助台股科技權值股今日開盤。",
+          "glossary": [
+            {
+              "term": "空頭回補",
+              "def": "先前放空的投資人買回股票平倉，常在利多出現時加速股價上漲。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "CNBC: Stock market news for Nov. 23, 2026",
+              "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html"
+            },
+            {
+              "title": "Yahoo Finance: Dow, S&P 500, Nasdaq post best day since April 2025 as Nvidia stock soars 31% on Jensen Huang's return",
+              "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-surge-after-nvidia-reinstates-jensen-huang-182039397.html"
+            },
+            {
+              "title": "The Motley Fool: Stock Market Today, Nov. 23: Markets Rebound From Correction on AI Relief Rally",
+              "url": "https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-markets-rebound-from-correction-on-ai-relief-rally/"
+            },
+            {
+              "title": "24/7 Wall St.: Stock Market Today: Dow, S&P 500, and Nasdaq Surge as Nvidia Leads a Major AI Rebound",
+              "url": "https://247wallst.com/investing/2026/11/23/stock-market-today-dow-sp-500-and-nasdaq-surge-as-nvidia-leads-a-major-ai-rebound/"
+            }
+          ]
+        },
+        {
+          "title": "台股禁空令首日先跌後漲，收漲 778 點至 36,811 點；台積電漲 30 元守住 2,000 元",
+          "category": "台股",
+          "summary": "金管會全面禁止平盤以下放空等措施 11/23 上路首日，台股早盤一度重挫近 591 點，台積電盤中跌至 1,970 元、失守 2,000 元，隨後買盤湧入、指數翻紅。終場加權指數上漲 778.6 點、漲幅 2.16%，收 36,811.89 點，成交金額約 1.08 兆元，盤中高低震盪約 1,578 點。台積電收 2,030 元，漲 30 元。據報導，有三檔權值股亮燈漲停。各報導的盤中高點數字略有不同。黃仁勳回任消息在台股收盤後才宣布。",
+          "why": "禁空令與國安基金護盤初步發揮止跌效果，加上黃仁勳回任與美股大漲，台股今日可望延續反彈。",
+          "glossary": [
+            {
+              "term": "翻紅",
+              "def": "股價或指數由下跌轉為上漲。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "ETtoday：台股翻紅收漲779點 台積電漲30元至2030",
+              "url": "https://finance.ettoday.net/news/3276976"
+            },
+            {
+              "title": "ETtoday：台股暴力震盪1578點！台積電翻紅漲2% 3大權值股亮燈漲停",
+              "url": "https://finance.ettoday.net/news/3276897"
+            },
+            {
+              "title": "NOWnews：台股強彈778點！限空令上路、國安基金護盤 終場收復3萬6800點",
+              "url": "https://www.nownews.com/news/6894765"
+            },
+            {
+              "title": "Yahoo新聞：台股漲778點收36811點 台積電漲30元",
+              "url": "https://tw.news.yahoo.com/live/%E5%8F%B0%E8%82%A1%E6%BC%B2778%E9%BB%9E%E6%94%B636811%E9%BB%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%BC%B230%E5%85%83-054926195.html"
+            },
+            {
+              "title": "四季線上：限空令3.0奏效！台股盤中翻紅急拉逾千點 終場大漲778點",
+              "url": "https://www.4gtv.tv/article/2026112301000023"
+            }
+          ]
+        }
+      ],
+      "mood": "偏多、反彈",
+      "outlook": "偏多因素：輝達董事會讓黃仁勳回任，輝達大漲約 31%，美股創 2025 年 4 月以來最大單日漲幅，標普 500 脫離修正；台股禁空令首日收漲 778 點、台積電守住 2,000 元；國安基金持續護盤。偏空因素：輝達內部調查與政府調查仍在進行；聯準會 12 月升息預期仍在；美伊談判停滯、荷莫茲海峽未開放；本週美國 PCE 通膨數據待公布。今日關鍵：台股能否延續反彈、外資是否回補。整體情緒由恐慌轉為反彈，但波動仍大。以上僅整理市場資訊與各方觀點，不構成投資建議。"
+    },
+    {
+      "id": "ai",
+      "name": "AI 科技發展",
+      "items": [
+        {
+          "title": "輝達董事會一致決議讓黃仁勳回任執行長，稱無國安風險；川普稱有功",
+          "category": "晶片與算力",
+          "summary": "延續前幾天報導。輝達 11/23 宣布，董事會一致決議讓黃仁勳回任總裁、執行長與董事，即日生效。董事會表示，經過一連串討論與會議後，對黃仁勳的坦誠與領導能力感到滿意，並認為他回任不構成國家安全風險。這距離黃仁勳辭職約十天，董事會 11/17 才表示無意讓他回任。川普此前多次敦促董事會讓黃仁勳回鍋，事後也聲稱有功。代理執行長克雷斯將回任原職。輝達表示，對黃仁勳的獨立調查將繼續進行，公司也會配合政府相關調查；黃仁勳預計 12/1 接受眾院三個委員會閉門約談。",
+          "why": "黃仁勳回任消除輝達領導真空，但政府調查未結束，後續國會約談與證管會調查仍是風險。",
+          "glossary": [
+            {
+              "term": "董事會",
+              "def": "代表股東監督公司經營、任免執行長的最高決策機構。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "NVIDIA: NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
+              "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Board-Reinstates-Jensen-Huang-as-President-CEO-and-Board-Director/default.aspx"
+            },
+            {
+              "title": "Axios: Nvidia board reinstates Jensen Huang as CEO",
+              "url": "https://www.axios.com/2026/11/23/nvidia-board-jensen-huang-as-ceo"
+            },
+            {
+              "title": "Al Jazeera: Nvidia board reinstates Jensen Huang as CEO",
+              "url": "https://www.aljazeera.com/economy/2026/11/23/nvidia-board-reinstates-jensen-huang-as-ceo"
+            },
+            {
+              "title": "NPR: Nvidia brings Jensen Huang back, and Trump claims credit",
+              "url": "https://www.npr.org/2026/11/23/nx-s1-6050910/nvidias-jensen-huang-trump"
+            },
+            {
+              "title": "PBS NewsHour: Nvidia board unanimously reinstates Jensen Huang as CEO and chairman",
+              "url": "https://www.pbs.org/newshour/nation/nvidia-board-unanimously-reinstates-jensen-huang-as-ceo-and-chairman"
+            }
+          ]
+        },
+        {
+          "title": "亞馬遜宣布收購 Decart 的 AI 優化技術與團隊，據報價格約 75 億美元，強化自研 Trainium 晶片",
+          "category": "產業與投資",
+          "summary": "延續昨日報導。亞馬遜 11/23 宣布，已簽約收購 AI 新創 Decart 的優化軟體技術，並延攬其創辦人與研究團隊，交易尚待監管機關核准。亞馬遜未公布金額，據彭博引述知情人士報導約 75 億美元。Decart 的軟體不限硬體，可支援輝達 GPU、亞馬遜 Trainium 與 Google TPU。亞馬遜表示目的是提升 Trainium 晶片表現，這可能強化其挑戰輝達的能力；TechCrunch 報導指出，亞馬遜正準備對外銷售 Trainium 晶片。",
+          "why": "雲端巨頭加速自研晶片與軟體生態系，將逐步改變 AI 晶片市場由輝達主導的格局，也牽動台灣代工與供應鏈訂單分布。",
+          "glossary": [
+            {
+              "term": "Trainium",
+              "def": "亞馬遜自行設計的 AI 訓練晶片，用於 AWS 雲端服務。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "TechCrunch: Amazon snaps up Decart's AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+              "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips"
+            },
+            {
+              "title": "GeekWire: Amazon is buying Decart's AI chip software for a reported $7.5B and bringing its founders aboard",
+              "url": "https://www.geekwire.com/2026/amazon-is-buying-decarts-ai-chip-software-for-a-reported-7-5b-and-bringing-its-founders-aboard/"
+            },
+            {
+              "title": "Unite.AI: Amazon Signs Deal for Decart's AI Optimization Technology and Team",
+              "url": "https://www.unite.ai/amazon-signs-deal-for-decarts-ai-optimization-technology-and-team/"
+            },
+            {
+              "title": "AI Magazine: Inside Amazon's US$7.5bn Decart Deal to Rival NVIDIA",
+              "url": "https://aimagazine.com/news/inside-amazons-us-7-5bn-decart-deal-to-rival-nvidia"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "observation": "AI 市場出現戲劇性反轉：輝達董事會讓黃仁勳回任，輝達單日大漲約 31%，帶動美股創 2025 年 4 月以來最大漲幅，標普 500 脫離修正；台股在禁空令上路首日也先跌後漲 778 點，台積電守住 2,000 元。不過輝達仍面對證管會、加州檢察長與國會調查，聯準會 12 月升息預期也還在，反彈能否延續仍待觀察。亞馬遜收購 Decart 技術強化自研晶片，顯示雲端巨頭降低對輝達依賴的趨勢不變。\n\n地緣上，烏克蘭在利比亞擊沉俄國軍艦，戰火延伸至地中海；美伊談判仍停滯。\n\n今日可關注：台股能否延續反彈、外資動向與美國經濟數據。",
+  "sources": [
+    {
+      "title": "RFE/RL: Zelenskyy Confirms Ukraine Struck Russian Warship, Cargo Vessel Near Benghazi",
+      "url": "https://www.rferl.org/a/benghazi-libya-russian-ship-sunk-drone-ukraine/33903623.html"
+    },
+    {
+      "title": "Defense News: Ukraine confirms it sank Russian corvette in Libyan port",
+      "url": "https://www.defensenews.com/global/mideast-africa/2026/11/23/ukraine-confirms-it-sank-russian-corvette-in-libyan-port/"
+    },
+    {
+      "title": "CNBC: Zelenskyy praises 'exemplary' drone operation that sank Russian warship in a Libyan port",
+      "url": "https://www.cnbc.com/2026/11/23/ukraine-russia-warship-libya.html"
+    },
+    {
+      "title": "ABC13 (AP): Ukrainian naval drones sank Russia's Merkury warship in Libya, Zelenskyy confirms",
+      "url": "https://abc13.com/story/ukrainian-naval-drones-sank-russias-merkury-warship-libya-zelenskyy-confirms/20070891/"
+    },
+    {
+      "title": "US News (Reuters): Zambia Opposition Leader Charged With Attempting to Overthrow Government",
+      "url": "https://www.usnews.com/news/world/articles/2026-11-23/zambia-opposition-leader-charged-with-attempting-to-overthrow-government"
+    },
+    {
+      "title": "CNBC Africa: Zambia opposition leader charged with attempting to overthrow government",
+      "url": "https://www.cnbcafrica.com/2026/zambia-opposition-leader-charged-with-attempting-to-overthrow-government"
+    },
+    {
+      "title": "Africa Briefing: Zambia charges opposition leader with treason",
+      "url": "https://africabriefing.com/zambia-charges-opposition-leader-with-treason/"
+    },
+    {
+      "title": "Yahoo News: Zambia opposition leader charged with attempting to overthrow government",
+      "url": "https://www.yahoo.com/news/world/articles/zambia-opposition-leader-charged-attempting-122732673.html"
+    },
+    {
+      "title": "Al Jazeera: Thousands protest across Europe over living costs and housing",
+      "url": "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing"
+    },
+    {
+      "title": "Arab News: French protesters rally for sixth weekend over living costs, public services",
+      "url": "https://www.arabnews.com/world/french-protesters-rally-for-sixth-weekend-over-living-costs-public-services-3013425"
+    },
+    {
+      "title": "Euronews: Thousands take to streets in Portugal, France and Spain over rising living costs",
+      "url": "https://www.euronews.com/2026/11/21/thousands-take-to-streets-in-portugal-france-and-spain-over-rising-living-costs"
+    },
+    {
+      "title": "France 24: Latest cost-of-living protests bring more than 140,000 onto the streets across France",
+      "url": "https://www.france24.com/en/france/20261117-new-french-pay-protests-bring-tens-of-thousands-onto-the-streets"
+    },
+    {
+      "title": "Bernama: Iran Ready For Expert-level Talks With The US On Reopening Strait Of Hormuz",
+      "url": "https://www.bernama.com/en/world/news.php?id=2637493"
+    },
+    {
+      "title": "CBS News: Live Updates: Iran says it will use all means to end U.S. blockade as Trump plays down escalating attacks",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/"
+    },
+    {
+      "title": "CBS News: Trump says he wants 'permanent' deal with Iran; says next move may not come until 2027",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/"
+    },
+    {
+      "title": "CNBC: Stock market news for Nov. 23, 2026",
+      "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html"
+    },
+    {
+      "title": "Yahoo Finance: Dow, S&P 500, Nasdaq post best day since April 2025 as Nvidia stock soars 31% on Jensen Huang's return",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-surge-after-nvidia-reinstates-jensen-huang-182039397.html"
+    },
+    {
+      "title": "The Motley Fool: Stock Market Today, Nov. 23: Markets Rebound From Correction on AI Relief Rally",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-markets-rebound-from-correction-on-ai-relief-rally/"
+    },
+    {
+      "title": "24/7 Wall St.: Stock Market Today: Dow, S&P 500, and Nasdaq Surge as Nvidia Leads a Major AI Rebound",
+      "url": "https://247wallst.com/investing/2026/11/23/stock-market-today-dow-sp-500-and-nasdaq-surge-as-nvidia-leads-a-major-ai-rebound/"
+    },
+    {
+      "title": "ETtoday：台股翻紅收漲779點 台積電漲30元至2030",
+      "url": "https://finance.ettoday.net/news/3276976"
+    },
+    {
+      "title": "ETtoday：台股暴力震盪1578點！台積電翻紅漲2% 3大權值股亮燈漲停",
+      "url": "https://finance.ettoday.net/news/3276897"
+    },
+    {
+      "title": "NOWnews：台股強彈778點！限空令上路、國安基金護盤 終場收復3萬6800點",
+      "url": "https://www.nownews.com/news/6894765"
+    },
+    {
+      "title": "Yahoo新聞：台股漲778點收36811點 台積電漲30元",
+      "url": "https://tw.news.yahoo.com/live/%E5%8F%B0%E8%82%A1%E6%BC%B2778%E9%BB%9E%E6%94%B636811%E9%BB%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%BC%B230%E5%85%83-054926195.html"
+    },
+    {
+      "title": "四季線上：限空令3.0奏效！台股盤中翻紅急拉逾千點 終場大漲778點",
+      "url": "https://www.4gtv.tv/article/2026112301000023"
+    },
+    {
+      "title": "NVIDIA: NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
+      "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Board-Reinstates-Jensen-Huang-as-President-CEO-and-Board-Director/default.aspx"
+    },
+    {
+      "title": "Axios: Nvidia board reinstates Jensen Huang as CEO",
+      "url": "https://www.axios.com/2026/11/23/nvidia-board-jensen-huang-as-ceo"
+    },
+    {
+      "title": "Al Jazeera: Nvidia board reinstates Jensen Huang as CEO",
+      "url": "https://www.aljazeera.com/economy/2026/11/23/nvidia-board-reinstates-jensen-huang-as-ceo"
+    },
+    {
+      "title": "NPR: Nvidia brings Jensen Huang back, and Trump claims credit",
+      "url": "https://www.npr.org/2026/11/23/nx-s1-6050910/nvidias-jensen-huang-trump"
+    },
+    {
+      "title": "PBS NewsHour: Nvidia board unanimously reinstates Jensen Huang as CEO and chairman",
+      "url": "https://www.pbs.org/newshour/nation/nvidia-board-unanimously-reinstates-jensen-huang-as-ceo-and-chairman"
+    },
+    {
+      "title": "TechCrunch: Amazon snaps up Decart's AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips"
+    },
+    {
+      "title": "GeekWire: Amazon is buying Decart's AI chip software for a reported $7.5B and bringing its founders aboard",
+      "url": "https://www.geekwire.com/2026/amazon-is-buying-decarts-ai-chip-software-for-a-reported-7-5b-and-bringing-its-founders-aboard/"
+    },
+    {
+      "title": "Unite.AI: Amazon Signs Deal for Decart's AI Optimization Technology and Team",
+      "url": "https://www.unite.ai/amazon-signs-deal-for-decarts-ai-optimization-technology-and-team/"
+    },
+    {
+      "title": "AI Magazine: Inside Amazon's US$7.5bn Decart Deal to Rival NVIDIA",
+      "url": "https://aimagazine.com/news/inside-amazons-us-7-5bn-decart-deal-to-rival-nvidia"
+    }
+  ]
+}

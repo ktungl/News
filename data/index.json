@@ -22,6 +22,60 @@
  },
  "days": [
   {
+   "date": "2026-11-24",
+   "title": "🌏 每日早報｜2026/11/24",
+   "items": [
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "澤倫斯基證實烏克蘭以海上無人機在利比亞班加西港擊沉俄羅斯護衛艦",
+     "anchor": "world-1"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "尚比亞反對派領袖蒙杜比勒等 14 人被控叛國，指涉圖謀推翻政府",
+     "anchor": "world-2"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "法國生活成本抗議連續第六個週末，內政部估全國約 8.25 萬人參加",
+     "anchor": "world-3"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "伊朗稱願就重開荷莫茲海峽與美國進行專家級談判，但美方須先接受條件；卡達代表團訪德黑蘭",
+     "anchor": "world-4"
+    },
+    {
+     "section": "markets",
+     "category": "美股",
+     "title": "美股創 2025 年 4 月以來最大單日漲幅：那斯達克漲 6.5%，標普 500 漲 4.7% 脫離修正；輝達大漲約 31%",
+     "anchor": "markets-1"
+    },
+    {
+     "section": "markets",
+     "category": "台股",
+     "title": "台股禁空令首日先跌後漲，收漲 778 點至 36,811 點；台積電漲 30 元守住 2,000 元",
+     "anchor": "markets-2"
+    },
+    {
+     "section": "ai",
+     "category": "晶片與算力",
+     "title": "輝達董事會一致決議讓黃仁勳回任執行長，稱無國安風險；川普稱有功",
+     "anchor": "ai-1"
+    },
+    {
+     "section": "ai",
+     "category": "產業與投資",
+     "title": "亞馬遜宣布收購 Decart 的 AI 優化技術與團隊，據報價格約 75 億美元，強化自研 Trainium 晶片",
+     "anchor": "ai-2"
+    }
+   ]
+  },
+  {
    "date": "2026-11-23",
    "title": "🌏 每日早報｜2026/11/23",
    "items": [
