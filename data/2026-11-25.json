@@ -1,0 +1,448 @@
+{
+  "date": "2026-11-25",
+  "title": "🌏 每日早報｜2026/11/25",
+  "generated_at": "2026-11-25T07:30:00+08:00",
+  "sections": [
+    {
+      "id": "world",
+      "name": "國際新聞",
+      "items": [
+        {
+          "title": "俄羅斯外交部警告愛沙尼亞關閉邊境「瀕臨引發公開戰爭」，愛沙尼亞斥為無稽",
+          "category": "國際政治與地緣",
+          "summary": "延續前幾天報導。俄羅斯外交部 11/23 召見愛沙尼亞駐莫斯科代辦，抗議愛沙尼亞計畫自 12/1 起關閉納爾瓦、盧哈馬與科伊杜拉三個陸路口岸至少六個月，聲明稱愛沙尼亞的行動「瀕臨引發與俄羅斯的公開戰爭」，並警告關閉邊境「必將反噬塔林及其歐盟、北約盟友」。俄方另指控愛沙尼亞默許烏克蘭無人機借道其領空攻擊俄國西北部、阻撓俄國貨船與俄白兩國的穀物運輸。愛沙尼亞外交部斷然否認，表示「從未也絕不會」允許他國利用其領土進行軍事行動，外長察赫納稱指控「毫無根據」。報導指出，目前未見軍事調動或實地變化。",
+          "why": "俄羅斯對北約成員國使用「戰爭」字眼升高言詞，波羅的海成為歐俄對立前線，任何誤判都可能牽動北約集體防衛。",
+          "glossary": [
+            {
+              "term": "代辦",
+              "def": "在大使缺席或未派任時，代理使館事務的外交官。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "RTÉ: Estonia action on 'verge of triggering open war' - Russia",
+              "url": "https://www.rte.ie/news/world/2026/1123/1600353-russia-estonia-finland/"
+            },
+            {
+              "title": "Yahoo News UK: Moscow accuses Estonia of hostile actions on 'verge of triggering open war'",
+              "url": "https://uk.news.yahoo.com/moscow-accuses-estonia-hostile-actions-153840927.html"
+            },
+            {
+              "title": "The Epoch Times: Russia Accuses NATO Member Estonia of Hostile Actions",
+              "url": "https://www.theepochtimes.com/world/russia-accuses-nato-member-estonia-of-hostile-actions-6128799"
+            },
+            {
+              "title": "Democracy Now!: Russia Threatens 'Open War' with Estonia",
+              "url": "https://democracynow.org/2026/11/24/headlines/russia_threatens_open_war_with_estonia_a_former_soviet_republic_turned_nato_member"
+            }
+          ]
+        },
+        {
+          "title": "比利時總理德韋弗警告：若年底前無法達成預算協議，政府將倒台；布魯塞爾約 5 萬人反撙節遊行",
+          "category": "國際政治與地緣",
+          "summary": "比利時總理德韋弗辦公室 11/23 表示，他與副總理們的會議未能就預算達成協議，原因是一個聯合執政夥伴（當地媒體指為法蘭德斯社會黨 Vooruit）拒絕提議的預算平衡方案；若在「臨時十二分之一」預算規則生效前仍無協議，政府「實際上將無法執政，任期也將結束」。德韋弗 11/2 曾因預算談判破裂請辭，國王 11/6 拒絕並要求他重啟協商；王室表示他目前仍希望繼續談判、未提出辭呈，並將每週向國王報告。同日約 5 萬人在布魯塞爾遊行反對撙節，部分航管人員罷工導致比利時兩大機場幾乎取消所有航班。（註：「年底前」期限出自單一來源。）",
+          "why": "歐盟總部所在國政局動盪，反映歐洲多國在財政緊縮與民生壓力間的兩難。",
+          "glossary": [
+            {
+              "term": "臨時十二分之一",
+              "def": "比利時在預算未通過時，政府每月只能動用前一年度預算的十二分之一，以維持基本運作。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "Xinhua: Belgian PM warns gov't could fall without budget deal as tens of thousands protest austerity",
+              "url": "https://english.news.cn/20261124/68216273fa8a4aab9ccddf411eda1bb5/c.html"
+            },
+            {
+              "title": "MENAFN: Belgian PM Warns Gov't Could Fall Without Budget Deal As Tens Of Thousands Protest Austerity",
+              "url": "https://menafn.com/1112009522/Belgian-PM-Warns-Govt-Could-Fall-Without-Budget-Deal-As-Tens-Of-Thousands-Protest-Austerity"
+            },
+            {
+              "title": "Archyde: De Wever Faces Government Collapse Before New Year as Vooruit Rejects Budget",
+              "url": "https://www.archyde.com/de-wever-faces-government-collapse-before-new-year-as-vooruit-rejects-budget/"
+            },
+            {
+              "title": "The Hans India: Belgian PM warns gov't could fall without budget deal",
+              "url": "https://www.thehansindia.com/news/international/belgian-pm-warns-govt-could-fall-without-budget-deal-as-tens-of-thousands-protest-austerity-1145063"
+            }
+          ]
+        },
+        {
+          "title": "澳洲維多利亞州 11/28 選舉在即，民調顯示執政工黨恐慘敗",
+          "category": "台灣與亞太",
+          "summary": "澳洲維多利亞州將於 11/28 舉行州選舉。多份民調顯示，執政 12 年的工黨處境艱困，《The Nightly》報導新一份民調顯示州長卡羅爾領導的工黨恐遭「全面潰敗」；一名 YouGov 分析師指出，若工黨初選得票率僅 20%，將是 1902 年以來最低。反對黨聯盟需再拿下 16 席才能在 88 席的州議會取得過半。10 月的 Newspoll 顯示，聯盟在兩黨偏好票上領先工黨 10 個百分點，反對黨領袖威爾森在最適合擔任州長的民調中也大幅領先卡羅爾。今年多份民調中，民粹政黨「一國黨」支持度也明顯上升。（註：選前民調僅供參考。）",
+          "why": "澳洲第二大州政權可能輪替，反映選民對生活成本與執政表現的不滿，也牽動澳洲聯邦政局。",
+          "glossary": [
+            {
+              "term": "兩黨偏好票",
+              "def": "澳洲選制下，將選票依偏好順序重新分配後，兩大陣營最終得票的比例。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "The Nightly: Carroll Labor government is set for a wipeout at Saturday's Victorian state election, another poll shows",
+              "url": "https://thenightly.com.au/politics/vic-election-2026/carroll-labor-government-is-set-for-a-wipeout-at-saturdays-victorian-state-election-another-poll-shows-c-23203815"
+            },
+            {
+              "title": "Yahoo News Australia: 'Not in our lifetime': Labor vote collapses",
+              "url": "https://au.news.yahoo.com/not-lifetime-labor-vote-collapses-200949623.html"
+            },
+            {
+              "title": "The Nightly: Poll shows Victorian Opposition leader Jess Wilson favoured to become State's Premier",
+              "url": "https://thenightly.com.au/politics/poll-shows-victorian-opposition-leader-jess-wilson-favoured-to-become-states-premier-at-november-election-c-23069499"
+            },
+            {
+              "title": "Wikipedia: 2026 Victorian state election",
+              "url": "https://www.wikipedia.org/wiki/2026_Victorian_state_election"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "name": "股市觀察（美股・台股）",
+      "items": [
+        {
+          "title": "美股分歧：道瓊首度收在 50,000 點之上，那斯達克跌 1.48%；科技股回吐、資金轉向價值股",
+          "category": "美股",
+          "summary": "美股 11/24 漲跌互見。道瓊工業指數漲約 0.85% 收約 50,019 點，收在 50,000 點之上；標普 500 指數跌 0.50% 收 7,201.09 點，為近九個交易日中第八度下跌；那斯達克指數跌 1.48% 收 23,733.54 點，那斯達克 100 指數跌約 2%。另有報導的道瓊收盤數字略有差異。前一天大漲的晶片與 AI 類股回吐漲幅，資金轉向價值股與傳統產業，羅素 2000 小型股指數上漲約 0.6%。報導指出，消費者信心數據強於預期，市場等待 11/25 公布的 PCE 通膨數據。",
+          "why": "AI 股反彈未能延續，資金在科技與價值股間快速輪動，顯示市場對 AI 前景仍分歧。",
+          "glossary": [
+            {
+              "term": "價值股",
+              "def": "股價相對於獲利或資產偏低、通常成長較穩定的股票，與高成長的科技股相對。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "The Motley Fool: Stock Market Today, Nov. 24: Tech Sell-Off Drags Nasdaq as Dow Gains on Value Rotation",
+              "url": "https://www.fool.com/coverage/stock-market-today/2026/11/24/stock-market-today-nov-24-tech-sell-off-drags-nasdaq-as-dow-gains-on-value-rotation/"
+            },
+            {
+              "title": "24/7 Wall St.: S&P 500 Drops 0.53% While the Dow Closes Above 50,000",
+              "url": "https://247wallst.com/cards/the-dow-closed-above-50-000-for-the-first-time-while-the-nas-gspc-market-bell-01m87nyn7mshvn15b2vdser41w"
+            },
+            {
+              "title": "Capp Notes: Closing Look — Tuesday, November 24, 2026",
+              "url": "https://cappnotes.substack.com/p/closing-look-tuesday-november-24"
+            },
+            {
+              "title": "Vista Global: Stock Market Today, November 24, 2026: Dow Tops 50,000 as Nasdaq Slides",
+              "url": "https://vistapglobal.com/stock-market-today-november-24-2026-dow-tops-50000-as-nasdaq-slides-consumer-confidence-surges-with-pce-due-on-thanksgiving-eve-ant-bby-dell-dks-dltr-eprx-gld-insm-kymr-modd-msft-n/"
+            }
+          ]
+        },
+        {
+          "title": "台股狂漲 3,310 點創史上最大單日漲點，收 40,122 點重返 4 萬點；台積電漲停收 2,230 元，三大法人仍賣超逾 1,230 億元",
+          "category": "台股",
+          "summary": "受輝達黃仁勳回任激勵，台股 11/24 大漲 3,310.46 點、漲幅 8.99%，收 40,122.35 點，創史上最大單日漲點，重返 4 萬點並收復年線。台積電跳空漲停、一價到底，收 2,230 元，漲 200 元、漲幅 9.85%；據鉅亨網報導，逾 600 檔個股漲停。由於大量個股漲停鎖住、賣方惜售，成交金額僅約 4,194 億元，為今年以來最低。不過三大法人合計仍賣超 1,230.11 億元，其中外資賣超 503.89 億元、自營商賣超 810.25 億元，投信則買超 84.04 億元。（註：成交金額各報導略有出入。）",
+          "why": "指數大漲但量縮且法人持續賣超，反彈能否延續仍取決於外資態度。",
+          "glossary": [
+            {
+              "term": "一價到底",
+              "def": "股價開盤即漲停或跌停，且整天維持在同一價位直到收盤。"
+            },
+            {
+              "term": "量縮",
+              "def": "成交量明顯減少，在大漲時出現常代表賣方惜售、但買盤未必充足。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "聯合新聞網：台股量凍勁揚3,310點刷新收盤漲點紀錄 台積電一盤到底收高200元",
+              "url": "https://udn.com/news/story/7251/9898603"
+            },
+            {
+              "title": "鉅亨網：不管台股狂飆！外資續賣503億、自營商暴砍810億 三大法人賣超1230.11億元",
+              "url": "https://news.cnyes.com/news/id/6670956"
+            },
+            {
+              "title": "Yahoo股市：台股飆3,310點創紀錄！3大法人反手大賣1,230億",
+              "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E9%A3%863-310%E9%BB%9E%E5%89%B5%E7%B4%80%E9%8C%84-3%E5%A4%A7%E6%B3%95%E4%BA%BA%E5%8F%8D%E6%89%8B%E5%A4%A7%E8%B3%A31-230%E5%84%84-%E5%A4%96%E8%B3%87%E8%A2%AB%E8%BF%AB%E6%8E%83%E8%B2%A8%E4%B8%BB%E5%8B%95%E5%BC%8Fetf-100303166.html"
+            },
+            {
+              "title": "鉅亨網：黃仁勳回歸！台股狂飆逾600檔漲停",
+              "url": "https://news.cnyes.com/news/id/6670986"
+            }
+          ]
+        },
+        {
+          "title": "今日看點：美國 10 月 PCE 通膨數據今晚出爐，為聯準會 12/9 決策前最後一份重要通膨數據",
+          "category": "美股",
+          "summary": "美國將於 11/25 美東時間上午 8:30（台灣時間今晚 9:30）公布 10 月 PCE 物價指數，這是聯準會 12/9 利率決策前最後一份重要通膨數據。9 月 PCE 年增 3.6%、核心 PCE 年增 3.1%。市場普遍預期 10 月整體與核心 PCE 月增約 0.3%；克里夫蘭聯邦準備銀行 11/23 的即時預測顯示，整體 PCE 年增約 3.8%、核心約 3.2%。由於 2025 年政府停擺期間未能蒐集 10 月物價，10 月 CPI 缺少年增率，使這次 PCE 成為聯準會當月唯一的年增率參考。美股 11/26 感恩節休市。",
+          "why": "若通膨高於預期，將強化 12 月升息甚至大幅升息的預期，對科技股與台股形成壓力。",
+          "glossary": [
+            {
+              "term": "核心 PCE",
+              "def": "排除食品與能源價格後的 PCE 物價指數，被聯準會視為衡量基本通膨趨勢的主要指標。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "Investing.com: US Inflation Remains Under Pressure Ahead of Key November 25 PCE Report",
+              "url": "https://www.investing.com/analysis/us-inflation-remains-under-pressure-ahead-of-key-november-25-pce-report-200692237"
+            },
+            {
+              "title": "StockTitan: PCE Inflation Report Wednesday Is the Last Major Inflation Release Before the Fed's December 9 Decision",
+              "url": "https://www.stocktitan.net/articles/october-2026-pce-inflation-preview"
+            },
+            {
+              "title": "Admiral Markets: PCE Report 25 November 2026: Time, Forecast, What to Watch",
+              "url": "https://admiralmarkets.com/analytics/traders-blog/pce-inflation-october-2026-preview"
+            },
+            {
+              "title": "Cleveland Fed: Inflation Nowcasting",
+              "url": "https://www.clevelandfed.org/indicators-and-data/inflation-nowcasting"
+            }
+          ]
+        }
+      ],
+      "mood": "震盪、偏多但分歧",
+      "outlook": "偏多因素：台股創史上最大單日漲點、重返 4 萬點並收復年線，台積電漲停；道瓊首度收在 50,000 點之上；美國消費者信心強於預期；禁空令與國安基金持續支撐。偏空因素：台股量縮、三大法人仍大賣逾 1,230 億元；那斯達克回跌、AI 股反彈未能延續；輝達面臨國會批評與聽證；今晚 PCE 若偏熱將強化 12 月升息預期；俄羅斯對愛沙尼亞言詞升級。今日關鍵：台股能否守住 4 萬點、PCE 數據。整體震盪，偏多但分歧。以上僅整理市場資訊與各方觀點，不構成投資建議。"
+    },
+    {
+      "id": "ai",
+      "name": "AI 科技發展",
+      "items": [
+        {
+          "title": "黃仁勳回任引發美國國會兩黨批評，參院銀行委員會定 12/3 公開聽證",
+          "category": "政策與監管",
+          "summary": "延續昨日報導。輝達讓黃仁勳回任執行長，引發美國國會兩黨批評。參議院民主黨領袖舒默表示，這顯示必須立法收緊對中晶片出口；參議員華倫稱此舉「魯莽」；共和黨眾議員培根說黃仁勳「被中國間諜利用而遭滲透」。共和黨參議員柯蒂斯要求說明董事會為何改變決定，參議員里基茨則表示回任不能免除他到國會作證。參院銀行委員會主席提姆・史考特宣布，黃仁勳將於 12/3 出席公開聽證；眾議員海姆斯表示，他仍預計 12/1 接受眾院三個委員會閉門約談。眾議員尼爾指出，董事會的決定曾參考「美國政府高層的意見」。舒默也表示，民主黨明年接掌國會後將全力調查此事。",
+          "why": "國會調查與立法壓力可能導致更嚴格的晶片出口管制，直接影響輝達與台灣 AI 供應鏈的對中業務。",
+          "glossary": [
+            {
+              "term": "公開聽證",
+              "def": "國會委員會公開舉行、可供媒體與大眾觀看的作證程序，相對於閉門約談。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "Investing.com (Reuters): US lawmakers criticize Nvidia decision to reinstate Huang as CEO",
+              "url": "https://www.investing.com/news/stock-market-news/lawmakers-criticize-nvidia-decision-to-reinstate-huang-as-ceo-5045977"
+            },
+            {
+              "title": "Axios: Jensen Huang's return to Nvidia sparks bipartisan backlash on Capitol Hill",
+              "url": "https://www.axios.com/2026/11/23/jensen-huang-nvidia-congress-dc-reaction"
+            },
+            {
+              "title": "The Korea Times: US lawmakers criticize Nvidia decision to reinstate Huang as CEO",
+              "url": "https://www.koreatimes.co.kr/world/20261124/us-lawmakers-criticize-nvidia-decision-to-reinstate-huang-as-ceo"
+            },
+            {
+              "title": "Detroit News: US lawmakers criticize Nvidia decision to reinstate Huang as CEO",
+              "url": "https://www.detroitnews.com/story/news/politics/2026/11/23/lawmakers-criticize-nvidia-decision-to-reinstate-huang-as-ceo/92927560007/"
+            }
+          ]
+        },
+        {
+          "title": "美國將阿里巴巴新加坡子公司 Apex 與輝達合作夥伴 Megaspeed 列入實體清單，指有轉運晶片風險",
+          "category": "晶片與算力",
+          "summary": "美國商務部將新加坡、馬來西亞與泰國共七家公司列入出口管制「實體清單」，包括阿里巴巴新加坡子公司 Apex Enterprise Solutions 與輝達合作夥伴 Megaspeed 的相關實體，理由是這些實體有將先進運算產品轉運給未經授權使用者的「重大風險」。列入後，Apex 未經許可不得購買 AI 晶片等美國先進技術；這項措施不涵蓋阿里巴巴集團本身。據報導，此舉與 Apex 向 Megaspeed 等公司預付約 42 億美元、在東南亞租用運算能力有關。阿里巴巴表示列入是「錯誤的」，Apex 從未轉運受管制晶片，將尋求一切法律途徑維護權益。新加坡總理黃循財表示將繼續調查 Megaspeed。（註：各報導對列入實體數量說法略有不同。）",
+          "why": "美國擴大打擊經東南亞轉運 AI 晶片的管道，將影響區域資料中心業務與輝達、伺服器供應鏈的出貨。",
+          "glossary": [
+            {
+              "term": "實體清單",
+              "def": "美國商務部的出口管制名單，列入者須取得許可才能購買美國受管制技術。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "Quartz: Megaspeed added to U.S. trade blacklist over chip diversion risk",
+              "url": "https://qz.com/megaspeed-international-trade-blacklist-ai-chip-diversion-112426"
+            },
+            {
+              "title": "StockAnalysis: US blacklists an Alibaba unit and Nvidia partner Megaspeed, seven companies in all",
+              "url": "https://stockanalysis.com/news/us-blacklists-alibaba-unit-megaspeed/"
+            },
+            {
+              "title": "ChinaTechNews: U.S. Adds Alibaba-Linked Firm and Megaspeed Entities to Export Blacklist",
+              "url": "https://www.chinatechnews.com/2026/11/24/133624-u-s-adds-alibaba-linked-firm-and-megaspeed-entities-to-export-blacklist-over-china-chip-diversion"
+            },
+            {
+              "title": "InsideAI News: US Blacklists Nvidia Partner Megaspeed Over China Chip Diversion Fears",
+              "url": "https://insideai.news/news/ai-policy-and-regulation/megaspeed-nvidia-blacklist/15983/"
+            }
+          ]
+        },
+        {
+          "title": "Anthropic 推出 Claude Ship，讓 AI 代理審查、修正並核准程式碼變更",
+          "category": "模型與產品",
+          "summary": "Anthropic 11/23 推出 Claude Ship，一組協助軟體開發流程的 AI 代理，包括已正式上線的程式碼審查（Code Review），以及測試版的 PR Steward 與 Claude Approvals：PR Steward 處理持續整合測試失敗、合併衝突與審查意見，Claude Approvals 可核准程式碼變更。團隊可選擇審查深度，並設定哪些變更須交由人類決定。服務提供給程式碼放在 GitHub 上的 Claude Team 與 Enterprise 組織，依用量另計費，管理者可設定支出上限；Anthropic 建議先以僅觀察模式試行核准功能。Anthropic 表示，旗下 Claude Code 團隊導入後，6 月至 9 月合併的拉取請求數量翻倍、被還原的變更比例下降逾四成。（註：成效數據為公司自行公布。）",
+          "why": "AI 從輔助寫程式進一步走向自動審查與核准，可能改變軟體開發流程與工程團隊分工。",
+          "glossary": [
+            {
+              "term": "拉取請求",
+              "def": "Pull Request，開發者提交程式碼變更、請求合併進主要程式庫的流程。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "TechCrunch: Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+              "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
+            },
+            {
+              "title": "The New Stack: Anthropic launches a multi-agent code review tool for Claude Code",
+              "url": "https://thenewstack.io/anthropic-launches-a-multi-agent-code-review-tool-for-claude-code/"
+            },
+            {
+              "title": "Technology.org: Anthropic Launches Claude Ship to Review, Fix and Approve Pull Requests",
+              "url": "https://www.technology.org/2026/11/24/anthropic-claude-ship-code-review-pr-steward-claude-approvals/"
+            },
+            {
+              "title": "ITdaily: Anthropic launches Claude Ship for AI agents in code review",
+              "url": "https://itdaily.com/news/software/claude-ship-ai-agents-code-review/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "observation": "台股在黃仁勳回任的激勵下狂漲 3,310 點，創史上最大單日漲點並重返 4 萬點，但成交量創今年新低、三大法人仍賣超逾 1,230 億元，顯示這波反彈主要由政策與情緒推動，外資尚未回頭。美股則出現分歧：道瓊站上 50,000 點，那斯達克卻回跌，AI 股反彈未能延續。今晚 PCE 通膨數據將左右聯準會 12 月升息幅度，是短線關鍵。\n\n黃仁勳回任引發國會兩黨批評，美國同時將阿里巴巴子公司與 Megaspeed 列入實體清單，晶片出口管制可能進一步收緊。地緣上，俄羅斯警告愛沙尼亞「瀕臨公開戰爭」，比利時政府面臨預算危機。\n\n今日可關注：PCE 數據、台股能否守住 4 萬點。",
+  "sources": [
+    {
+      "title": "RTÉ: Estonia action on 'verge of triggering open war' - Russia",
+      "url": "https://www.rte.ie/news/world/2026/1123/1600353-russia-estonia-finland/"
+    },
+    {
+      "title": "Yahoo News UK: Moscow accuses Estonia of hostile actions on 'verge of triggering open war'",
+      "url": "https://uk.news.yahoo.com/moscow-accuses-estonia-hostile-actions-153840927.html"
+    },
+    {
+      "title": "The Epoch Times: Russia Accuses NATO Member Estonia of Hostile Actions",
+      "url": "https://www.theepochtimes.com/world/russia-accuses-nato-member-estonia-of-hostile-actions-6128799"
+    },
+    {
+      "title": "Democracy Now!: Russia Threatens 'Open War' with Estonia",
+      "url": "https://democracynow.org/2026/11/24/headlines/russia_threatens_open_war_with_estonia_a_former_soviet_republic_turned_nato_member"
+    },
+    {
+      "title": "Xinhua: Belgian PM warns gov't could fall without budget deal as tens of thousands protest austerity",
+      "url": "https://english.news.cn/20261124/68216273fa8a4aab9ccddf411eda1bb5/c.html"
+    },
+    {
+      "title": "MENAFN: Belgian PM Warns Gov't Could Fall Without Budget Deal As Tens Of Thousands Protest Austerity",
+      "url": "https://menafn.com/1112009522/Belgian-PM-Warns-Govt-Could-Fall-Without-Budget-Deal-As-Tens-Of-Thousands-Protest-Austerity"
+    },
+    {
+      "title": "Archyde: De Wever Faces Government Collapse Before New Year as Vooruit Rejects Budget",
+      "url": "https://www.archyde.com/de-wever-faces-government-collapse-before-new-year-as-vooruit-rejects-budget/"
+    },
+    {
+      "title": "The Hans India: Belgian PM warns gov't could fall without budget deal",
+      "url": "https://www.thehansindia.com/news/international/belgian-pm-warns-govt-could-fall-without-budget-deal-as-tens-of-thousands-protest-austerity-1145063"
+    },
+    {
+      "title": "The Nightly: Carroll Labor government is set for a wipeout at Saturday's Victorian state election, another poll shows",
+      "url": "https://thenightly.com.au/politics/vic-election-2026/carroll-labor-government-is-set-for-a-wipeout-at-saturdays-victorian-state-election-another-poll-shows-c-23203815"
+    },
+    {
+      "title": "Yahoo News Australia: 'Not in our lifetime': Labor vote collapses",
+      "url": "https://au.news.yahoo.com/not-lifetime-labor-vote-collapses-200949623.html"
+    },
+    {
+      "title": "The Nightly: Poll shows Victorian Opposition leader Jess Wilson favoured to become State's Premier",
+      "url": "https://thenightly.com.au/politics/poll-shows-victorian-opposition-leader-jess-wilson-favoured-to-become-states-premier-at-november-election-c-23069499"
+    },
+    {
+      "title": "Wikipedia: 2026 Victorian state election",
+      "url": "https://www.wikipedia.org/wiki/2026_Victorian_state_election"
+    },
+    {
+      "title": "The Motley Fool: Stock Market Today, Nov. 24: Tech Sell-Off Drags Nasdaq as Dow Gains on Value Rotation",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/24/stock-market-today-nov-24-tech-sell-off-drags-nasdaq-as-dow-gains-on-value-rotation/"
+    },
+    {
+      "title": "24/7 Wall St.: S&P 500 Drops 0.53% While the Dow Closes Above 50,000",
+      "url": "https://247wallst.com/cards/the-dow-closed-above-50-000-for-the-first-time-while-the-nas-gspc-market-bell-01m87nyn7mshvn15b2vdser41w"
+    },
+    {
+      "title": "Capp Notes: Closing Look — Tuesday, November 24, 2026",
+      "url": "https://cappnotes.substack.com/p/closing-look-tuesday-november-24"
+    },
+    {
+      "title": "Vista Global: Stock Market Today, November 24, 2026: Dow Tops 50,000 as Nasdaq Slides",
+      "url": "https://vistapglobal.com/stock-market-today-november-24-2026-dow-tops-50000-as-nasdaq-slides-consumer-confidence-surges-with-pce-due-on-thanksgiving-eve-ant-bby-dell-dks-dltr-eprx-gld-insm-kymr-modd-msft-n/"
+    },
+    {
+      "title": "聯合新聞網：台股量凍勁揚3,310點刷新收盤漲點紀錄 台積電一盤到底收高200元",
+      "url": "https://udn.com/news/story/7251/9898603"
+    },
+    {
+      "title": "鉅亨網：不管台股狂飆！外資續賣503億、自營商暴砍810億 三大法人賣超1230.11億元",
+      "url": "https://news.cnyes.com/news/id/6670956"
+    },
+    {
+      "title": "Yahoo股市：台股飆3,310點創紀錄！3大法人反手大賣1,230億",
+      "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E9%A3%863-310%E9%BB%9E%E5%89%B5%E7%B4%80%E9%8C%84-3%E5%A4%A7%E6%B3%95%E4%BA%BA%E5%8F%8D%E6%89%8B%E5%A4%A7%E8%B3%A31-230%E5%84%84-%E5%A4%96%E8%B3%87%E8%A2%AB%E8%BF%AB%E6%8E%83%E8%B2%A8%E4%B8%BB%E5%8B%95%E5%BC%8Fetf-100303166.html"
+    },
+    {
+      "title": "鉅亨網：黃仁勳回歸！台股狂飆逾600檔漲停",
+      "url": "https://news.cnyes.com/news/id/6670986"
+    },
+    {
+      "title": "Investing.com: US Inflation Remains Under Pressure Ahead of Key November 25 PCE Report",
+      "url": "https://www.investing.com/analysis/us-inflation-remains-under-pressure-ahead-of-key-november-25-pce-report-200692237"
+    },
+    {
+      "title": "StockTitan: PCE Inflation Report Wednesday Is the Last Major Inflation Release Before the Fed's December 9 Decision",
+      "url": "https://www.stocktitan.net/articles/october-2026-pce-inflation-preview"
+    },
+    {
+      "title": "Admiral Markets: PCE Report 25 November 2026: Time, Forecast, What to Watch",
+      "url": "https://admiralmarkets.com/analytics/traders-blog/pce-inflation-october-2026-preview"
+    },
+    {
+      "title": "Cleveland Fed: Inflation Nowcasting",
+      "url": "https://www.clevelandfed.org/indicators-and-data/inflation-nowcasting"
+    },
+    {
+      "title": "Investing.com (Reuters): US lawmakers criticize Nvidia decision to reinstate Huang as CEO",
+      "url": "https://www.investing.com/news/stock-market-news/lawmakers-criticize-nvidia-decision-to-reinstate-huang-as-ceo-5045977"
+    },
+    {
+      "title": "Axios: Jensen Huang's return to Nvidia sparks bipartisan backlash on Capitol Hill",
+      "url": "https://www.axios.com/2026/11/23/jensen-huang-nvidia-congress-dc-reaction"
+    },
+    {
+      "title": "The Korea Times: US lawmakers criticize Nvidia decision to reinstate Huang as CEO",
+      "url": "https://www.koreatimes.co.kr/world/20261124/us-lawmakers-criticize-nvidia-decision-to-reinstate-huang-as-ceo"
+    },
+    {
+      "title": "Detroit News: US lawmakers criticize Nvidia decision to reinstate Huang as CEO",
+      "url": "https://www.detroitnews.com/story/news/politics/2026/11/23/lawmakers-criticize-nvidia-decision-to-reinstate-huang-as-ceo/92927560007/"
+    },
+    {
+      "title": "Quartz: Megaspeed added to U.S. trade blacklist over chip diversion risk",
+      "url": "https://qz.com/megaspeed-international-trade-blacklist-ai-chip-diversion-112426"
+    },
+    {
+      "title": "StockAnalysis: US blacklists an Alibaba unit and Nvidia partner Megaspeed, seven companies in all",
+      "url": "https://stockanalysis.com/news/us-blacklists-alibaba-unit-megaspeed/"
+    },
+    {
+      "title": "ChinaTechNews: U.S. Adds Alibaba-Linked Firm and Megaspeed Entities to Export Blacklist",
+      "url": "https://www.chinatechnews.com/2026/11/24/133624-u-s-adds-alibaba-linked-firm-and-megaspeed-entities-to-export-blacklist-over-china-chip-diversion"
+    },
+    {
+      "title": "InsideAI News: US Blacklists Nvidia Partner Megaspeed Over China Chip Diversion Fears",
+      "url": "https://insideai.news/news/ai-policy-and-regulation/megaspeed-nvidia-blacklist/15983/"
+    },
+    {
+      "title": "TechCrunch: Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
+    },
+    {
+      "title": "The New Stack: Anthropic launches a multi-agent code review tool for Claude Code",
+      "url": "https://thenewstack.io/anthropic-launches-a-multi-agent-code-review-tool-for-claude-code/"
+    },
+    {
+      "title": "Technology.org: Anthropic Launches Claude Ship to Review, Fix and Approve Pull Requests",
+      "url": "https://www.technology.org/2026/11/24/anthropic-claude-ship-code-review-pr-steward-claude-approvals/"
+    },
+    {
+      "title": "ITdaily: Anthropic launches Claude Ship for AI agents in code review",
+      "url": "https://itdaily.com/news/software/claude-ship-ai-agents-code-review/"
+    }
+  ]
+}

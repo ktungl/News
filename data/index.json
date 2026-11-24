@@ -22,6 +22,66 @@
  },
  "days": [
   {
+   "date": "2026-11-25",
+   "title": "🌏 每日早報｜2026/11/25",
+   "items": [
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "俄羅斯外交部警告愛沙尼亞關閉邊境「瀕臨引發公開戰爭」，愛沙尼亞斥為無稽",
+     "anchor": "world-1"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "比利時總理德韋弗警告：若年底前無法達成預算協議，政府將倒台；布魯塞爾約 5 萬人反撙節遊行",
+     "anchor": "world-2"
+    },
+    {
+     "section": "world",
+     "category": "台灣與亞太",
+     "title": "澳洲維多利亞州 11/28 選舉在即，民調顯示執政工黨恐慘敗",
+     "anchor": "world-3"
+    },
+    {
+     "section": "markets",
+     "category": "美股",
+     "title": "美股分歧：道瓊首度收在 50,000 點之上，那斯達克跌 1.48%；科技股回吐、資金轉向價值股",
+     "anchor": "markets-1"
+    },
+    {
+     "section": "markets",
+     "category": "台股",
+     "title": "台股狂漲 3,310 點創史上最大單日漲點，收 40,122 點重返 4 萬點；台積電漲停收 2,230 元，三大法人仍賣超逾 1,230 億元",
+     "anchor": "markets-2"
+    },
+    {
+     "section": "markets",
+     "category": "美股",
+     "title": "今日看點：美國 10 月 PCE 通膨數據今晚出爐，為聯準會 12/9 決策前最後一份重要通膨數據",
+     "anchor": "markets-3"
+    },
+    {
+     "section": "ai",
+     "category": "政策與監管",
+     "title": "黃仁勳回任引發美國國會兩黨批評，參院銀行委員會定 12/3 公開聽證",
+     "anchor": "ai-1"
+    },
+    {
+     "section": "ai",
+     "category": "晶片與算力",
+     "title": "美國將阿里巴巴新加坡子公司 Apex 與輝達合作夥伴 Megaspeed 列入實體清單，指有轉運晶片風險",
+     "anchor": "ai-2"
+    },
+    {
+     "section": "ai",
+     "category": "模型與產品",
+     "title": "Anthropic 推出 Claude Ship，讓 AI 代理審查、修正並核准程式碼變更",
+     "anchor": "ai-3"
+    }
+   ]
+  },
+  {
    "date": "2026-11-24",
    "title": "🌏 每日早報｜2026/11/24",
    "items": [
