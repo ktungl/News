@@ -1,0 +1,380 @@
+{
+  "date": "2026-11-26",
+  "title": "🌏 每日早報｜2026/11/26",
+  "generated_at": "2026-11-26T07:30:00+08:00",
+  "sections": [
+    {
+      "id": "world",
+      "name": "國際新聞",
+      "items": [
+        {
+          "title": "美國貿易代表署擬對中國、歐盟、台灣等 14 個貿易夥伴加徵「產能過剩」關稅，半導體除外",
+          "category": "貿易、關稅與供應鏈",
+          "summary": "美國貿易代表署 11/25 公布「產能過剩」301 調查結果，擬對 16 個受調查經濟體中的 14 個加徵關稅，包括中國、歐盟與台灣。中國多數商品擬加徵 20%（若貿易休戰破局將升至 40%），其他夥伴稅率普遍較低；台灣擬議稅率上限為 15%。半導體、汽車、鋼鋁因另有 232 條款關稅而排除，報導指出也擬豁免台灣、南韓的半導體等高科技產品。新關稅須經聽證與公眾意見徵詢，最快明年 1 月才會生效。台灣政府表示，有信心最終結果會反映過去雙邊談判成果；知情人士稱台灣最終稅率預計回到已協議的 15% 不疊加上限。中國外交部批評「產能過剩」是假議題，但未揚言報復。（註：台灣稅率各報導說法不一，有報導稱最高 18%。）",
+          "why": "新一波關稅直接涵蓋台灣，雖然半導體豁免，但其他出口產業可能受衝擊，也是 11/25 台股重挫的主因之一。",
+          "glossary": [
+            {
+              "term": "301 條款",
+              "def": "美國《1974 年貿易法》第 301 條，授權美國貿易代表署對不公平貿易行為採取關稅等報復措施。"
+            },
+            {
+              "term": "232 條款",
+              "def": "美國以國家安全為由對進口商品課徵關稅的法源。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "CNBC: U.S. proposes new tariffs on 14 trading partners, including China and the EU",
+              "url": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html"
+            },
+            {
+              "title": "CNN: Trump targets China, EU in new round of tariffs",
+              "url": "https://www.cnn.com/2026/11/25/economy/trump-new-tariffs"
+            },
+            {
+              "title": "Taipei Times: US proposed new tariffs on 14 trading partners, including Taiwan, China",
+              "url": "https://www.taipeitimes.com/News/front/archives/2026/11/26/2003868405"
+            },
+            {
+              "title": "Yahoo Finance: US announces new tariffs of up to 20% on China, the EU, and 12 other nations",
+              "url": "https://finance.yahoo.com/markets/article/us-announces-new-tariffs-of-up-to-20-on-china-the-eu-and-12-other-nations-131802359.html"
+            },
+            {
+              "title": "The Next Web: US proposes new tariffs on 14 trading partners, including China and the EU",
+              "url": "https://thenextweb.com/news/new-tariffs-14-trading-partners-china-eu-section-301-excess-capacity"
+            }
+          ]
+        },
+        {
+          "title": "葉門青年運動稱攻擊沙烏地最大煉油廠拉斯坦努拉與利雅德金融區，沙國稱攔截無人機",
+          "category": "國際政治與地緣",
+          "summary": "葉門青年運動（胡塞武裝）11/25 宣稱攻擊沙烏地阿拉伯東部的拉斯坦努拉煉油廠並引發火災，以及利雅德金融區。沙國領導的聯軍表示，在拉斯坦努拉攔截並摧毀四架無人機；但知情人士證實煉油廠遭攻擊，衛星影像也顯示該處冒出濃濃黑煙。沙國民防單位表示，11/24 利雅德金融區一棟大樓遭擊中，11 人受傷，這是不到一週內同一棟大樓第二度遭襲。拉斯坦努拉是全球最大的煉油與石油出口設施之一。（註：煉油廠受損程度未獲官方證實。）",
+          "why": "中東衝突擴及沙烏地能源設施，將加劇全球石油供應與油價風險。",
+          "glossary": [
+            {
+              "term": "拉斯坦努拉",
+              "def": "沙烏地阿拉伯東部的大型煉油廠與石油出口港，由沙烏地阿美經營。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "US News (Reuters): Yemen's Houthis Claim Attack on Saudi Arabia's Largest Refinery",
+              "url": "https://www.usnews.com/news/world/articles/2026-11-25/yemens-houthis-say-they-attacked-saudi-oil-refinery-and-riyadh-financial-district"
+            },
+            {
+              "title": "The National: Saudi defences destroy drones in Ras Tanura as footage shows smoke from refinery",
+              "url": "https://www.thenationalnews.com/news/gulf/2026/11/25/yemens-houthis-say-they-attacked-saudi-arabias-ras-tanura-refinery/"
+            },
+            {
+              "title": "Al-Monitor: Yemen's Houthis say they attacked Saudi Arabia's Ras Tanura refinery",
+              "url": "https://www.al-monitor.com/originals/2026/11/yemens-houthis-say-they-attacked-saudi-arabias-ras-tanura-refinery"
+            },
+            {
+              "title": "Cyprus Mail: Yemen's Houthis say they attacked Saudi Arabia's Ras Tanura refinery",
+              "url": "https://cyprus-mail.com/2026/11/25/yemens-houthis-say-they-attacked-saudi-arabias-ras-tanura-refinery"
+            }
+          ]
+        },
+        {
+          "title": "俄羅斯莫曼斯克州長奇比斯涉貪遭逮捕，為全面入侵烏克蘭以來首位被捕的在任州長",
+          "category": "國際政治與地緣",
+          "summary": "俄羅斯莫曼斯克州長奇比斯 11/23 抵達莫斯科謝列梅捷沃機場時被捕，11/25 莫斯科法院裁定羈押兩個月，罪名包括特大規模貪汙與受賄。檢方指控，原本用於阿帕季特—基洛夫斯克公路的約 10 億盧布遭挪用，另有 3,900 萬盧布來自州建設部預算；報導也指他收受一艘氣墊船作為賄賂。這是俄羅斯 2022 年全面入侵烏克蘭以來，首位在任州長被捕。普丁當晚解除他的職務，由副州長代理。奇比斯透過律師表示不認同指控。",
+          "why": "俄國罕見逮捕在任州長，反映克里姆林宮內部權力整肅與戰時財政壓力。",
+          "glossary": [
+            {
+              "term": "羈押",
+              "def": "法院裁定在審判前將嫌犯拘禁，以防逃亡或干擾調查。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "The Moscow Times: Murmansk Governor Arrested in Corruption Probe",
+              "url": "https://www.themoscowtimes.com/2026/11/23/murmansk-governor-arrested-in-corruption-probe-a94354"
+            },
+            {
+              "title": "The Moscow Times: Murmansk Governor Placed in Pre-Trial Detention Until Late January",
+              "url": "https://www.themoscowtimes.com/2026/11/25/murmansk-governor-placed-in-pre-trial-detention-until-late-january-a812367"
+            },
+            {
+              "title": "Meduza: Russian governor arrested on charges of embezzling a billion rubles and accepting an airboat as a bribe",
+              "url": "https://meduza.io/en/news/2026/11/25/russian-governor-arrested-on-charges-of-embezzling-a-billion-rubles-and-accepting-an-airboat-as-a-bribe"
+            },
+            {
+              "title": "Yahoo News: Russian governor detained in rare criminal case against regional leader",
+              "url": "https://www.yahoo.com/news/world/articles/russian-governor-detained-rare-criminal-125033900.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "name": "股市觀察（美股・台股）",
+      "items": [
+        {
+          "title": "美股尾盤大逆轉：道瓊收復盤中逾 1,100 點跌幅、收高 0.33%；標普 500 與那斯達克小跌",
+          "category": "美股",
+          "summary": "美股 11/25 劇烈震盪，受 PCE 通膨偏熱、新關稅計畫與 AI 股賣壓影響，盤中一度重挫：道瓊跌逾 1,100 點、那斯達克一度跌 4.7%、標普 500 一度跌約 3.2%，尾盤大幅回升。終場道瓊工業指數漲約 0.33% 收約 50,183 點；標普 500 指數跌約 0.25% 收約 7,183 點；那斯達克指數跌約 0.62% 收約 23,586 點，各報導數字略有差異。輝達下跌約 3.9%。美股 11/26 感恩節休市，11/27 提前於下午 1 點收盤。",
+          "why": "美股盤中重挫後能收復大半，顯示逢低承接力道仍在，但通膨與關稅疑慮使波動持續擴大。",
+          "glossary": [
+            {
+              "term": "盤中",
+              "def": "交易時段中的即時走勢，與最終收盤價可能有很大差距。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "The Motley Fool: Stock Market Today, Nov. 25: Dow Erases 1,100-Point Loss as Wall Street Stages Dramatic Late-Day Comeback",
+              "url": "https://www.fool.com/coverage/stock-market-today/2026/11/25/stock-market-today-nov-25-dow-erases-1-100-point-loss-as-wall-street-stages-dramatic-late-day-comeback/"
+            },
+            {
+              "title": "CNBC: Stock market news for Nov. 25, 2026",
+              "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html"
+            },
+            {
+              "title": "Yahoo Finance: Dow erases losses to end positive, S&P 500 and Nasdaq recover ground amid AI sell-off",
+              "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
+            },
+            {
+              "title": "Swingfolio: US Close Nov 25, 2026: S&P 500 -0.25%, NVDA -3.91%",
+              "url": "https://swingfolio.com/daily/us/2026-11-25/afternoon"
+            }
+          ]
+        },
+        {
+          "title": "美國 10 月核心 PCE 年增 3.3%、高於預期，創 2023 年以來新高；12 月升息預期升溫",
+          "category": "美股",
+          "summary": "美國 11/25 公布 10 月 PCE 物價指數：核心 PCE 年增 3.3%，高於 9 月的 3.1%與市場預期的 3.2%，為 2023 年 11 月以來最高；月增約 0.3%，符合預期。整體 PCE 年增 3.8%、月增 0.3%，均符合預期。經通膨調整後的消費支出 10 月持平，儲蓄率由 3.6% 升至 4.1%。這是聯準會 12/8–9 會議前最後一份重要通膨數據，報導指出市場對 12 月升息的預期因此升溫。",
+          "why": "核心通膨走高強化升息預期，美元與利率可能續強，壓抑科技股評價，也牽動台幣與外資動向。",
+          "glossary": [
+            {
+              "term": "核心 PCE",
+              "def": "排除食品與能源價格後的 PCE 物價指數，被聯準會視為衡量基本通膨趨勢的主要指標。"
+            },
+            {
+              "term": "儲蓄率",
+              "def": "家庭可支配所得中未用於消費的比例，上升可能代表消費轉趨保守。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "Fox Business: October PCE: Inflation gauge moves higher ahead of Fed meeting",
+              "url": "https://www.foxbusiness.com/economy/october-2026-pce-inflation"
+            },
+            {
+              "title": "Morningstar: October PCE Report: PCE Inflation Index Up 3.8%, In Line With Expectations",
+              "url": "https://www.morningstar.com/economy/october-pce-report-pce-inflation-index-up-38-line-with-expectations"
+            },
+            {
+              "title": "FXStreet: US core PCE inflation rises to 3.3% YoY in October",
+              "url": "https://www.fxstreet.com/news/us-core-pce-inflation-set-to-heat-up-in-october-prompting-federal-reserve-rate-hikes-in-2027-202611250930"
+            },
+            {
+              "title": "Advisor Perspectives: Core PCE Inflation at 3.3% in October",
+              "url": "https://www.advisorperspectives.com/dshort/updates/2026/11/25/inflation-pce-price-index-october-2026"
+            },
+            {
+              "title": "TheStreet Pro: Core PCE Inflation Climbs to Highest Since 2023 as Real Spending Slips",
+              "url": "https://pro.thestreet.com/market-commentary/core-pce-inflation-climbs-to-highest-since-2023-as-real-spending-slips"
+            }
+          ]
+        },
+        {
+          "title": "台股重挫 1,927 點、跌 4.8%，收 38,195 點失守 39,000 點；台積電盤中一度大跌逾 9%",
+          "category": "台股",
+          "summary": "台股 11/25 收盤下跌 1,926.92 點、跌幅 4.80%，收 38,195.43 點，成交金額約 1 兆 1,882 億元，盤中一度下探 36,681.90 點，報導稱為史上第六大收盤跌點、盤中第二大跌點。台積電收 2,150 元，跌 80 元、跌幅 3.59%，盤中一度重挫逾 9%。報導指出，川普政府釋出新一波關稅訊息是主要賣壓來源；前一天台股才大漲 3,310 點創紀錄。",
+          "why": "台股單日大起大落，顯示市場對關稅與 AI 消息極度敏感，短線波動仍將劇烈。",
+          "glossary": [
+            {
+              "term": "失守",
+              "def": "指數或股價跌破某個重要價位或整數關卡。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "聯合新聞網：豬羊變色！台股收跌1,926點、盤中寫歷史第二大跌點 台積電收低80元",
+              "url": "https://udn.com/news/story/7251/9901049"
+            },
+            {
+              "title": "ETtoday：台股史上第6慘！全日跌1926點失守39K 台積電跌80元至2150",
+              "url": "https://finance.ettoday.net/news/3278250"
+            },
+            {
+              "title": "NOWnews：台股收盤失守39K！一日暴跌1926點史上第6慘 台積電跌80元",
+              "url": "https://www.nownews.com/news/6895401"
+            },
+            {
+              "title": "vocus：昨天漲 3,310 點，今天吐回近六成？台股重挫 1,927 點",
+              "url": "https://vocus.cc/article/6b06a36bfd897800019a21bc"
+            }
+          ]
+        }
+      ],
+      "mood": "劇烈震盪、偏空",
+      "outlook": "偏空因素：美國核心 PCE 年增 3.3% 高於預期，12 月升息預期升溫；美國擬對含台灣在內 14 個貿易夥伴加徵關稅；台股單日重挫 1,927 點、台積電盤中一度大跌逾 9%；胡塞武裝攻擊沙烏地煉油廠，油價風險升高。偏多因素：美股尾盤大幅收復跌幅，道瓊收紅；半導體排除在新關稅之外，台灣政府預期最終稅率維持 15% 上限；禁空令與國安基金仍在。今日關鍵：美股感恩節休市，台股能否止跌、外資動向。整體劇烈震盪、偏空。以上僅整理市場資訊與各方觀點，不構成投資建議。"
+    },
+    {
+      "id": "ai",
+      "name": "AI 科技發展",
+      "items": [
+        {
+          "title": "OpenAI 發表預印本：GPT-6 系列模型可憑推理與程式碼設計蛋白質，實驗室驗證 322 個中有 35 個能與目標結合",
+          "category": "研究與安全",
+          "summary": "OpenAI 發表預印本，表示 GPT-6 系列模型能僅靠推理與撰寫程式碼，設計新的蛋白質結構與胺基酸序列，不需呼叫專門的生物模型。與研究夥伴 Onava 合作的實驗室測試中，由 GPT-6.2 設計蛋白質結構、其他專門模型完成其餘流程，測試的 322 個蛋白質中有 35 個顯示能與目標結合，且五個目標都有結合者。另一項實驗中，GPT-6.2 為三種結構寫出新序列，107 個蛋白質中有 14 個結合目標。OpenAI 稱這是概念驗證，下一步要測試這些蛋白質結合後能否發揮作用、挑戰更難的目標，目標是讓科學家未來能以提示詞設計藥物。（註：結果出自 OpenAI 自家預印本，尚未經外部獨立驗證。）",
+          "why": "通用大型語言模型跨足藥物研發與生物設計，可能加速新藥開發，但也引發生物安全與雙重用途的討論。",
+          "glossary": [
+            {
+              "term": "預印本",
+              "def": "尚未經同儕審查、先行公開的研究論文。"
+            },
+            {
+              "term": "結合",
+              "def": "蛋白質附著在目標分子上，是藥物發揮作用的第一步。"
+            }
+          ],
+          "sources": [
+            {
+              "title": "OpenAI on X: preprint on wet lab validation of GPT-6 protein design",
+              "url": "https://x.com/OpenAI/status/2125334383490105601"
+            },
+            {
+              "title": "OpenAI on X: GPT-6.2 designed protein shapes; 35 of 322 showed binding",
+              "url": "https://x.com/OpenAI/status/2125334391195070471"
+            },
+            {
+              "title": "MadRobot: OpenAI's GPT-6 designed proteins from scratch, and 35 stuck to their targets in the lab",
+              "url": "https://madrobot.blog/2026/11/25/openai-gpt-6-protein-design-lab-binding/"
+            },
+            {
+              "title": "CellCog: OpenAI: GPT-6 Models Design Proteins That Bind",
+              "url": "https://cellcog.ai/blog/openai-gpt-6-protein-design/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "observation": "通膨與關稅讓市場再度劇烈擺盪。美國核心 PCE 年增 3.3%、創 2023 年以來新高，12 月升息幾成市場共識；美國貿易代表署同日擬對含台灣在內的 14 個貿易夥伴加徵關稅，雖然排除半導體，台股仍在前一天大漲 3,310 點後重挫 1,927 點。美股盤中一度重挫，尾盤大幅收復，顯示市場在通膨、關稅與 AI 疑慮之間反覆拉鋸。\n\n台灣方面，政府預期最終稅率維持 15% 上限，後續公眾意見與談判進度值得關注。地緣上，胡塞武裝攻擊沙烏地最大煉油廠，油價風險升高；俄羅斯則罕見逮捕在任州長。\n\n今日可關注：美股休市下台股能否止跌、外資動向，以及關稅後續發展。",
+  "sources": [
+    {
+      "title": "CNBC: U.S. proposes new tariffs on 14 trading partners, including China and the EU",
+      "url": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html"
+    },
+    {
+      "title": "CNN: Trump targets China, EU in new round of tariffs",
+      "url": "https://www.cnn.com/2026/11/25/economy/trump-new-tariffs"
+    },
+    {
+      "title": "Taipei Times: US proposed new tariffs on 14 trading partners, including Taiwan, China",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/11/26/2003868405"
+    },
+    {
+      "title": "Yahoo Finance: US announces new tariffs of up to 20% on China, the EU, and 12 other nations",
+      "url": "https://finance.yahoo.com/markets/article/us-announces-new-tariffs-of-up-to-20-on-china-the-eu-and-12-other-nations-131802359.html"
+    },
+    {
+      "title": "The Next Web: US proposes new tariffs on 14 trading partners, including China and the EU",
+      "url": "https://thenextweb.com/news/new-tariffs-14-trading-partners-china-eu-section-301-excess-capacity"
+    },
+    {
+      "title": "US News (Reuters): Yemen's Houthis Claim Attack on Saudi Arabia's Largest Refinery",
+      "url": "https://www.usnews.com/news/world/articles/2026-11-25/yemens-houthis-say-they-attacked-saudi-oil-refinery-and-riyadh-financial-district"
+    },
+    {
+      "title": "The National: Saudi defences destroy drones in Ras Tanura as footage shows smoke from refinery",
+      "url": "https://www.thenationalnews.com/news/gulf/2026/11/25/yemens-houthis-say-they-attacked-saudi-arabias-ras-tanura-refinery/"
+    },
+    {
+      "title": "Al-Monitor: Yemen's Houthis say they attacked Saudi Arabia's Ras Tanura refinery",
+      "url": "https://www.al-monitor.com/originals/2026/11/yemens-houthis-say-they-attacked-saudi-arabias-ras-tanura-refinery"
+    },
+    {
+      "title": "Cyprus Mail: Yemen's Houthis say they attacked Saudi Arabia's Ras Tanura refinery",
+      "url": "https://cyprus-mail.com/2026/11/25/yemens-houthis-say-they-attacked-saudi-arabias-ras-tanura-refinery"
+    },
+    {
+      "title": "The Moscow Times: Murmansk Governor Arrested in Corruption Probe",
+      "url": "https://www.themoscowtimes.com/2026/11/23/murmansk-governor-arrested-in-corruption-probe-a94354"
+    },
+    {
+      "title": "The Moscow Times: Murmansk Governor Placed in Pre-Trial Detention Until Late January",
+      "url": "https://www.themoscowtimes.com/2026/11/25/murmansk-governor-placed-in-pre-trial-detention-until-late-january-a812367"
+    },
+    {
+      "title": "Meduza: Russian governor arrested on charges of embezzling a billion rubles and accepting an airboat as a bribe",
+      "url": "https://meduza.io/en/news/2026/11/25/russian-governor-arrested-on-charges-of-embezzling-a-billion-rubles-and-accepting-an-airboat-as-a-bribe"
+    },
+    {
+      "title": "Yahoo News: Russian governor detained in rare criminal case against regional leader",
+      "url": "https://www.yahoo.com/news/world/articles/russian-governor-detained-rare-criminal-125033900.html"
+    },
+    {
+      "title": "The Motley Fool: Stock Market Today, Nov. 25: Dow Erases 1,100-Point Loss as Wall Street Stages Dramatic Late-Day Comeback",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/25/stock-market-today-nov-25-dow-erases-1-100-point-loss-as-wall-street-stages-dramatic-late-day-comeback/"
+    },
+    {
+      "title": "CNBC: Stock market news for Nov. 25, 2026",
+      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html"
+    },
+    {
+      "title": "Yahoo Finance: Dow erases losses to end positive, S&P 500 and Nasdaq recover ground amid AI sell-off",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
+    },
+    {
+      "title": "Swingfolio: US Close Nov 25, 2026: S&P 500 -0.25%, NVDA -3.91%",
+      "url": "https://swingfolio.com/daily/us/2026-11-25/afternoon"
+    },
+    {
+      "title": "Fox Business: October PCE: Inflation gauge moves higher ahead of Fed meeting",
+      "url": "https://www.foxbusiness.com/economy/october-2026-pce-inflation"
+    },
+    {
+      "title": "Morningstar: October PCE Report: PCE Inflation Index Up 3.8%, In Line With Expectations",
+      "url": "https://www.morningstar.com/economy/october-pce-report-pce-inflation-index-up-38-line-with-expectations"
+    },
+    {
+      "title": "FXStreet: US core PCE inflation rises to 3.3% YoY in October",
+      "url": "https://www.fxstreet.com/news/us-core-pce-inflation-set-to-heat-up-in-october-prompting-federal-reserve-rate-hikes-in-2027-202611250930"
+    },
+    {
+      "title": "Advisor Perspectives: Core PCE Inflation at 3.3% in October",
+      "url": "https://www.advisorperspectives.com/dshort/updates/2026/11/25/inflation-pce-price-index-october-2026"
+    },
+    {
+      "title": "TheStreet Pro: Core PCE Inflation Climbs to Highest Since 2023 as Real Spending Slips",
+      "url": "https://pro.thestreet.com/market-commentary/core-pce-inflation-climbs-to-highest-since-2023-as-real-spending-slips"
+    },
+    {
+      "title": "聯合新聞網：豬羊變色！台股收跌1,926點、盤中寫歷史第二大跌點 台積電收低80元",
+      "url": "https://udn.com/news/story/7251/9901049"
+    },
+    {
+      "title": "ETtoday：台股史上第6慘！全日跌1926點失守39K 台積電跌80元至2150",
+      "url": "https://finance.ettoday.net/news/3278250"
+    },
+    {
+      "title": "NOWnews：台股收盤失守39K！一日暴跌1926點史上第6慘 台積電跌80元",
+      "url": "https://www.nownews.com/news/6895401"
+    },
+    {
+      "title": "vocus：昨天漲 3,310 點，今天吐回近六成？台股重挫 1,927 點",
+      "url": "https://vocus.cc/article/6b06a36bfd897800019a21bc"
+    },
+    {
+      "title": "OpenAI on X: preprint on wet lab validation of GPT-6 protein design",
+      "url": "https://x.com/OpenAI/status/2125334383490105601"
+    },
+    {
+      "title": "OpenAI on X: GPT-6.2 designed protein shapes; 35 of 322 showed binding",
+      "url": "https://x.com/OpenAI/status/2125334391195070471"
+    },
+    {
+      "title": "MadRobot: OpenAI's GPT-6 designed proteins from scratch, and 35 stuck to their targets in the lab",
+      "url": "https://madrobot.blog/2026/11/25/openai-gpt-6-protein-design-lab-binding/"
+    },
+    {
+      "title": "CellCog: OpenAI: GPT-6 Models Design Proteins That Bind",
+      "url": "https://cellcog.ai/blog/openai-gpt-6-protein-design/"
+    }
+  ]
+}

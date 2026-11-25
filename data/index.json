@@ -22,6 +22,54 @@
  },
  "days": [
   {
+   "date": "2026-11-26",
+   "title": "🌏 每日早報｜2026/11/26",
+   "items": [
+    {
+     "section": "world",
+     "category": "貿易、關稅與供應鏈",
+     "title": "美國貿易代表署擬對中國、歐盟、台灣等 14 個貿易夥伴加徵「產能過剩」關稅，半導體除外",
+     "anchor": "world-1"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "葉門青年運動稱攻擊沙烏地最大煉油廠拉斯坦努拉與利雅德金融區，沙國稱攔截無人機",
+     "anchor": "world-2"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "俄羅斯莫曼斯克州長奇比斯涉貪遭逮捕，為全面入侵烏克蘭以來首位被捕的在任州長",
+     "anchor": "world-3"
+    },
+    {
+     "section": "markets",
+     "category": "美股",
+     "title": "美股尾盤大逆轉：道瓊收復盤中逾 1,100 點跌幅、收高 0.33%；標普 500 與那斯達克小跌",
+     "anchor": "markets-1"
+    },
+    {
+     "section": "markets",
+     "category": "美股",
+     "title": "美國 10 月核心 PCE 年增 3.3%、高於預期，創 2023 年以來新高；12 月升息預期升溫",
+     "anchor": "markets-2"
+    },
+    {
+     "section": "markets",
+     "category": "台股",
+     "title": "台股重挫 1,927 點、跌 4.8%，收 38,195 點失守 39,000 點；台積電盤中一度大跌逾 9%",
+     "anchor": "markets-3"
+    },
+    {
+     "section": "ai",
+     "category": "研究與安全",
+     "title": "OpenAI 發表預印本：GPT-6 系列模型可憑推理與程式碼設計蛋白質，實驗室驗證 322 個中有 35 個能與目標結合",
+     "anchor": "ai-1"
+    }
+   ]
+  },
+  {
    "date": "2026-11-25",
    "title": "🌏 每日早報｜2026/11/25",
    "items": [
