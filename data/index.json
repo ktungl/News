@@ -22,6 +22,66 @@
  },
  "days": [
   {
+   "date": "2026-11-27",
+   "title": "🌏 每日早報｜2026/11/27",
+   "items": [
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "科威特防空監視站遭無人機攻擊，兩名義大利籍技術人員喪生；義大利指為伊朗所為，伊朗否認",
+     "anchor": "world-1"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "歐盟峰會為 2028–2034 年長期預算與援烏資金激烈角力，德國總理梅爾茨揚言否決",
+     "anchor": "world-2"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "印度憲法日多地抗議選舉名冊「特別密集修訂」，在野黨與民團要求撤換首席選舉委員",
+     "anchor": "world-3"
+    },
+    {
+     "section": "markets",
+     "category": "台股",
+     "title": "台股反彈 956 點收 39,151 點，關稅稅率維持 15% 不疊加；但外資連九賣、台積電小跌",
+     "anchor": "markets-1"
+    },
+    {
+     "section": "markets",
+     "category": "美股",
+     "title": "美股感恩節休市；亞股普遍反彈，市場解讀美國新關稅較預期溫和",
+     "anchor": "markets-2"
+    },
+    {
+     "section": "markets",
+     "category": "美股",
+     "title": "今日看點：黑色星期五登場，Adobe 預估線上消費 129 億美元、年增 9.2%",
+     "anchor": "markets-3"
+    },
+    {
+     "section": "ai",
+     "category": "晶片與算力",
+     "title": "《金融時報》：輝達要求合作夥伴暫停出貨 AI 伺服器至馬來西亞、新加坡、泰國與印尼",
+     "anchor": "ai-1"
+    },
+    {
+     "section": "ai",
+     "category": "產業與投資",
+     "title": "美國聯邦通訊委員會批准 SpaceX 發射最多 100 萬顆衛星，打造太空 AI 資料中心「Starmind」",
+     "anchor": "ai-2"
+    },
+    {
+     "section": "ai",
+     "category": "政策與監管",
+     "title": "紐約州長簽署法案，禁止內建 AI 聊天機器人的玩具五年",
+     "anchor": "ai-3"
+    }
+   ]
+  },
+  {
    "date": "2026-11-26",
    "title": "🌏 每日早報｜2026/11/26",
    "items": [
