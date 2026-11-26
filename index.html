@@ -86,6 +86,16 @@ details.allsrc ul { padding-left: 18px; }
 .list-row { display: block; padding: 12px 0; border-bottom: 1px solid var(--line); text-decoration: none; }
 .list-row .d { color: var(--muted); font-size: 13px; margin-right: 8px; }
 .empty { color: var(--muted); padding: 40px 0; }
+:root { --snow: #a9bccf; --tree-o: .22; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --snow: #ffffff; --tree-o: .28; } }
+:root[data-theme="dark"] { --snow: #ffffff; --tree-o: .28; }
+#snow { position: fixed; inset: 0; width: 100%; height: 100%; pointer-events: none; z-index: 0; }
+.xmas-tree { position: fixed; left: 1vw; bottom: 0; height: min(62vh, 560px); width: auto; pointer-events: none; z-index: 0; opacity: var(--tree-o); }
+.layout { position: relative; z-index: 1; }
+html:not(.xmas) #snow, html:not(.xmas) .xmas-tree { display: none; }
+.snowbtn { border: 1px solid var(--line); background: none; color: var(--muted); border-radius: 8px; width: 36px; height: 34px; cursor: pointer; display: grid; place-items: center; flex: none; font-size: 16px; }
+html.xmas .snowbtn { color: var(--ai); border-color: var(--ai); }
+@media (max-width: 760px) { .xmas-tree { height: 34vh; left: auto; right: -6vw; } }
 .totop { position: fixed; right: 20px; bottom: 20px; z-index: 6; width: 44px; height: 44px; border-radius: 50%; border: 1px solid var(--line); background: var(--surface); color: var(--ink); box-shadow: 0 2px 10px rgba(0,0,0,.12); cursor: pointer; display: grid; place-items: center; opacity: 0; visibility: hidden; transform: translateY(8px); transition: opacity .2s, transform .2s, visibility .2s; }
 .totop.show { opacity: 1; visibility: visible; transform: none; }
 .totop:hover { color: var(--accent); border-color: var(--accent); }
@@ -103,8 +113,20 @@ details.allsrc ul { padding-left: 18px; }
 <header class="top"><div class="wrap">
   <a class="brand" href="#/">每日<span>早報</span></a>
   <div class="search"><input id="q" type="search" placeholder="搜尋所有日期的標題…" aria-label="搜尋"></div>
+  <button class="snowbtn" id="snowbtn" aria-label="開關聖誕雪花" title="開關聖誕雪花">❄</button>
   <button class="theme" id="theme" aria-label="切換深淺色"><svg width="16" height="16" viewBox="0 0 16 16" aria-hidden="true"><circle cx="8" cy="8" r="6.5" fill="none" stroke="currentColor" stroke-width="1.5"/><path d="M8 1.5a6.5 6.5 0 0 1 0 13z" fill="currentColor"/></svg></button>
 </div></header>
+<canvas id="snow" aria-hidden="true"></canvas>
+<svg class="xmas-tree" viewBox="0 0 200 300" aria-hidden="true">
+  <polygon points="100,8 106,24 123,24 109,34 114,50 100,40 86,50 91,34 77,24 94,24" fill="#e8b830"/>
+  <polygon points="100,40 150,110 128,110 172,180 142,180 192,262 8,262 58,180 28,180 72,110 50,110" fill="#2f7a4f"/>
+  <polygon points="100,40 150,110 128,110 172,180 142,180 192,262 100,262" fill="#256640"/>
+  <path d="M62 108 Q100 128 138 104 M44 178 Q100 204 156 176 M30 256 Q100 280 170 252" fill="none" stroke="#e8b830" stroke-width="3" stroke-linecap="round"/>
+  <g fill="#c8402c"><circle cx="82" cy="92" r="6"/><circle cx="124" cy="148" r="7"/><circle cx="66" cy="160" r="6"/><circle cx="140" cy="226" r="8"/><circle cx="56" cy="232" r="7"/></g>
+  <g fill="#3b7fd0"><circle cx="112" cy="80" r="5"/><circle cx="96" cy="150" r="6"/><circle cx="104" cy="230" r="7"/></g>
+  <g fill="#e8b830"><circle cx="122" cy="200" r="5"/><circle cx="78" cy="206" r="5"/><circle cx="150" cy="168" r="4"/></g>
+  <rect x="86" y="262" width="28" height="34" rx="3" fill="#7a4a2a"/>
+</svg>
 <div class="wrap layout">
   <aside id="side"></aside>
   <main id="main"><p class="empty">載入中…</p></main>
@@ -241,6 +263,49 @@ $("#q").addEventListener("input", (e) => {
   const v = e.target.value.trim();
   t = setTimeout(() => { location.hash = v ? `#/search/${encodeURIComponent(v)}` : "#/"; }, 250);
 });
+// 聖誕雪花：預設 11/15–12/31 開啟，可用 ❄ 按鈕切換（記在瀏覽器）
+(() => {
+  const root = document.documentElement, cv = $("#snow"), ctx = cv.getContext("2d");
+  const now = new Date(), m = now.getMonth() + 1, d = now.getDate();
+  const season = (m === 11 && d >= 15) || m === 12;
+  let pref = null;
+  try { pref = localStorage.getItem("xmas"); } catch (e) {}
+  let on = pref ? pref === "on" : season;
+  const still = matchMedia("(prefers-reduced-motion: reduce)").matches;
+  let flakes = [], raf = 0, W = 0, H = 0, dpr = 1;
+  const resize = () => {
+    dpr = Math.min(devicePixelRatio || 1, 2); W = innerWidth; H = innerHeight;
+    cv.width = W * dpr; cv.height = H * dpr; ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+    const n = Math.round(Math.min(120, W * H / 9000));
+    flakes = Array.from({ length: n }, () => ({ x: Math.random() * W, y: Math.random() * H, r: 1 + Math.random() * 2.6,
+      vy: .4 + Math.random() * 1.1, vx: -.3 + Math.random() * .6, ph: Math.random() * 6.28 }));
+  };
+  const draw = (t) => {
+    ctx.clearRect(0, 0, W, H);
+    ctx.fillStyle = getComputedStyle(root).getPropertyValue("--snow").trim() || "#fff";
+    ctx.globalAlpha = .85;
+    for (const f of flakes) {
+      if (!still) {
+        f.y += f.vy; f.x += f.vx + Math.sin(t / 1400 + f.ph) * .35;
+        if (f.y > H + 5) { f.y = -5; f.x = Math.random() * W; }
+        if (f.x > W + 5) f.x = -5; else if (f.x < -5) f.x = W + 5;
+      }
+      ctx.beginPath(); ctx.arc(f.x, f.y, f.r, 0, 6.283); ctx.fill();
+    }
+    if (!still && on) raf = requestAnimationFrame(draw);
+  };
+  const apply = () => {
+    root.classList.toggle("xmas", on);
+    cancelAnimationFrame(raf);
+    if (on) { resize(); raf = requestAnimationFrame(draw); } else ctx.clearRect(0, 0, W, H);
+  };
+  addEventListener("resize", () => on && (resize(), still && draw(0)));
+  document.addEventListener("visibilitychange", () => { if (!on || still) return; cancelAnimationFrame(raf); if (!document.hidden) raf = requestAnimationFrame(draw); });
+  $("#snowbtn").onclick = () => { on = !on; try { localStorage.setItem("xmas", on ? "on" : "off"); } catch (e) {} apply(); };
+  $("#theme").addEventListener("click", () => on && still && draw(0));
+  apply();
+})();
+
 const totop = $("#totop");
 const syncTop = () => totop.classList.toggle("show", scrollY > 400);
 addEventListener("scroll", syncTop, { passive: true });
