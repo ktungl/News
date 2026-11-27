@@ -22,6 +22,60 @@
  },
  "days": [
   {
+   "date": "2026-11-28",
+   "title": "🌏 每日早報｜2026/11/28",
+   "items": [
+    {
+     "section": "world",
+     "category": "台灣與亞太",
+     "title": "台灣九合一地方選舉今日投票，22 縣市首長改選，六都至少誕生四位新市長",
+     "anchor": "world-1"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "歐盟峰會不歡而散，長期預算與 450 億歐元援烏貸款都未能達成協議，延至 12 月再議",
+     "anchor": "world-2"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "澳洲維多利亞州今日州選舉，工黨恐失 12 年政權；西班牙週日提前大選，右派可望過半",
+     "anchor": "world-3"
+    },
+    {
+     "section": "world",
+     "category": "國際政治與地緣",
+     "title": "開羅環城公路油罐車翻覆起火，至少 31 人死亡，肇事司機遭拘留",
+     "anchor": "world-4"
+    },
+    {
+     "section": "markets",
+     "category": "美股",
+     "title": "美股黑色星期五全面上漲：道瓊漲 592 點、那斯達克漲 2.31%；道瓊創 2022 年以來最佳單週",
+     "anchor": "markets-1"
+    },
+    {
+     "section": "markets",
+     "category": "台股",
+     "title": "台股選前最後交易日小漲 156 點收 39,308 點，台積電漲 35 元撐盤；外資連十賣、本週三大法人提款逾 2,900 億元",
+     "anchor": "markets-2"
+    },
+    {
+     "section": "ai",
+     "category": "晶片與算力",
+     "title": "彭博：輝達 Blackwell 伺服器被追查到上海一處與 Alice Huang 有關的資料中心，序號指向技嘉",
+     "anchor": "ai-1"
+    },
+    {
+     "section": "ai",
+     "category": "政策與監管",
+     "title": "蘋果全球下架 MiniMax 旗下 AI 聊天應用 Talkie，因被揭露向未成年人傳送性暗示訊息",
+     "anchor": "ai-2"
+    }
+   ]
+  },
+  {
    "date": "2026-11-27",
    "title": "🌏 每日早報｜2026/11/27",
    "items": [
